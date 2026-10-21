@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash /mnt/project-files/scrap-noticias/publica_pdfs.sh:*)",
+      "Bash(bash /mnt/project-files/scrap-noticias/publica_alertas.sh:*)"
+    ]
+  }
+}
