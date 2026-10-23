@@ -23,6 +23,9 @@ Uso: python enviar.py            fica rodando (Ctrl+C para parar)
                                   em vez do QR, um código de 8 letras para digitar no celular
                                   (Conectar aparelho > Conectar com número de telefone)
      python enviar.py --sair      desconecta a sessão da instância (para conectar do zero)
+     python enviar.py --recriar 551153220181
+                                  apaga e cria de novo a instância já com o número, e mostra o
+                                  código de pareamento (e salva o QR em qrcode.png)
 """
 import base64
 import json
@@ -166,6 +169,39 @@ def pairing_code(number: str) -> None:
           " Conectar com número de telefone, e digite o código (vale poucos minutos).")
 
 
+def recreate(number: str) -> None:
+    """Apaga a instância e cria de novo com o número: a Evolution só devolve o código de
+    pareamento quando a instância nasce com ele."""
+    name = env("EVOLUTION_INSTANCE")
+    instance = urllib.parse.quote(name)
+    for path in (f"/instance/logout/{instance}", f"/instance/delete/{instance}"):
+        try:
+            evolution(path, method="DELETE")
+        except urllib.error.HTTPError as e:
+            print(f"{path}: a Evolution respondeu {e.code} (segue)")
+    time.sleep(3)
+    reply = evolution("/instance/create", {"instanceName": name, "qrcode": True, "number": number,
+                                           "integration": "WHATSAPP-BAILEYS"})
+    qr = reply.get("qrcode") or {}
+    code = qr.get("pairingCode") or reply.get("pairingCode")
+    b64 = (qr.get("base64") or "").split(",")[-1]
+    if b64:
+        out = Path(os.environ.get("QRCODE") or Path(__file__).with_name("qrcode.png"))
+        out.write_bytes(base64.b64decode(b64))
+        print(f"QR Code salvo em {out}.")
+    if code:
+        print(f"Código de pareamento: {code}\nNo celular do Spotline: WhatsApp > Aparelhos conectados >"
+              " Conectar aparelho > Conectar com número de telefone, e digite o código.")
+    else:
+        print("A Evolution não devolveu código de pareamento; use o QR Code. Se o celular recusar,"
+              " a Evolution precisa ser atualizada.")
+    try:
+        version = evolution("/").get("version")
+        print(f"Versão da Evolution: {version}")
+    except Exception:
+        pass
+
+
 def logout() -> None:
     instance = urllib.parse.quote(env("EVOLUTION_INSTANCE"))
     try:
@@ -188,6 +224,13 @@ def main() -> int:
         return 0
     if "--sair" in sys.argv[1:]:
         logout()
+        return 0
+    if "--recriar" in sys.argv[1:]:
+        args = sys.argv[1:]
+        i = args.index("--recriar")
+        if i + 1 >= len(args):
+            sys.exit("Use: python enviar.py --recriar 5511XXXXXXXX (DDI + DDD + número, só dígitos)")
+        recreate(args[i + 1])
         return 0
     if "--codigo" in sys.argv[1:]:
         args = sys.argv[1:]
