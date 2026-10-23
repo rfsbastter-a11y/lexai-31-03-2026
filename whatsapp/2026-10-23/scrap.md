@@ -7,7 +7,7 @@ Pauta de publicação de hoje (sexta): **Mineração**. Fontes em inglês já tr
 
 **Primeiro leilão de gás da União vende 100% dos lotes à indústria** (Agência iNFRA / Cenário Energia / Brasil Energia / Valor Econômico / O Globo / MegaWhat)
 
-A PPSA vendeu todo o volume ofertado no primeiro leilão do gás natural da União: 1,1 milhão de m³/dia em 110 lotes, arrematados por 23 das 36 empresas habilitadas, para entrega de março a dezembro de 2027 a partir da UTG de Itaboraí. O preço médio ficou em US$ 5,83/MMBtu, ágio médio de US$ 0,64 (35%) sobre o preço de referência de US$ 2,80 somado às tarifas, e a arrecadação estimada é de R$ 377 milhões. Segundo o MME, a indústria pagará até 57% menos do que nos contratos atuais (vidro 38%, cerâmica 56%, siderurgia e mineração 46%, química 56%, fertilizantes 57%). A PPSA já prevê 1,8 milhão de m³/dia para o leilão de 2027.
+A PPSA vendeu todo o volume ofertado no primeiro leilão do gás natural da União: 1,1 milhão de m³/dia em 110 lotes, arrematados por 23 das 36 empresas habilitadas, para entrega de março a dezembro de 2027 a partir da UTG de Itaboraí. O preço médio ficou em US$ 5,83/MMBtu, com ágio médio de 35% sobre o preço inicial, segundo a PPSA, e arrecadação estimada de R$ 376 a 377 milhões. Segundo o MME, a indústria pagará até 57% menos do que nos contratos atuais (vidro 38%, cerâmica 56%, siderurgia e mineração 46%, química 56%, fertilizantes 57%). A PPSA já prevê 1,8 milhão de m³/dia para o leilão de 2027.
 
 [Link](https://agenciainfra.com/blog/ppsa-celebra-agio-de-35-e-preve-gas-a-us-583-mmbtu-em-leilao/?utm_source=rss&utm_medium=rss&utm_campaign=ppsa-celebra-agio-de-35-e-preve-gas-a-us-583-mmbtu-em-leilao)
 
