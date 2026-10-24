@@ -28,6 +28,7 @@ Uso: python enviar.py            fica rodando (Ctrl+C para parar)
                                   código de pareamento (e salva o QR em qrcode.png)
 """
 import base64
+import fcntl
 import json
 import os
 import sys
@@ -114,9 +115,9 @@ def run_once(state_path: Path) -> None:
                               encoding="utf-8")
         log(f"primeira rodada: {len(queue)} item(ns) de hoje marcados como já enviados")
         return
-    sent = load_state(state_path)
     for item in queue:
         key = f"{day}/{item['id']}"
+        sent = load_state(state_path)  # relido a cada item: o que outro envio já mandou não sai de novo
         if key in sent:
             continue
         content = get(f"{RAW}/{day}/{urllib.parse.quote(item['arquivo'])}")
@@ -245,6 +246,13 @@ def main() -> int:
     for name in ("EVOLUTION_API_URL", "EVOLUTION_API_KEY", "EVOLUTION_INSTANCE", "SPOTLINE_GRUPO"):
         env(name)
     state_path = Path(os.environ.get("ESTADO") or Path(__file__).with_name("enviados.json"))
+    # Um envio só por vez: dois rodando juntos (o do container e um "docker exec" esquecido)
+    # mandavam cada notícia duas vezes ao grupo.
+    lock = open(state_path.with_suffix(".lock"), "w")
+    try:
+        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        sys.exit("Já há um envio rodando (o do container). Este não vai mandar nada.")
     log(f"enviando ao grupo {os.environ['SPOTLINE_GRUPO']}; anotações em {state_path}")
     while True:
         try:
