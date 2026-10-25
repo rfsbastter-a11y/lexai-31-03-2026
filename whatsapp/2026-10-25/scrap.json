@@ -1,0 +1,447 @@
+{
+ "data": "2026-10-25",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 15,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 77,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 32,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 5,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 5,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 37,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 14,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "O que o leilão de gás da União revela para o mercado em dez pontos",
+   "link": "https://eixos.com.br/newsletters/newsletter-gas-week/o-que-o-leilao-de-gas-da-uniao-revela-para-o-mercado-em-dez-pontos/",
+   "resumo_original": "Leilão de gás da PPSA revela apetite da indústria por gás mais barato, revela preços e reforça tese do gas release O post O que o leilão de gás da União revela para o mercado em dez pontos apareceu primeiro em eixos .",
+   "data": "2026-10-24T09:01:23-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "PETRONAS, TOTALENERGIES E MITSUI FIRMAM JOINT VENTURE PARA DESENVOLVER ÁREA DE ARMAZENAMENTO DE CO₂ NA MALÁSIA",
+   "link": "https://petronoticias.com.br/petronas-totalenergies-e-mitsui-firmam-joint-venture-para-desenvolver-area-de-armazenamento-de-co%e2%82%82-na-malasia/",
+   "resumo_original": "A Petronas, a TotalEnergies e a Mitsui & Co. assinaram um acordo de joint venture para desenvolver uma área de armazenamento de CO₂ em águas offshore da Malásia. As empresas já haviam firmado um acordo de captura e armazenamento de carbono (CCS, na sigla em inglês) em 2023, por meio do qual realizaram estudos de desenvolvimento […]",
+   "data": "2026-10-25T04:00:18-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "FILIPINAS PLANEJAM ATINGIR 1,2 GW DE CAPACIDADE NUCLEAR ATÉ 2032",
+   "link": "https://petronoticias.com.br/filipinas-planejam-atingir-12-gw-de-capacidade-nuclear-ate-2032/",
+   "resumo_original": "As Filipinas estão trabalhando para estabelecer as bases políticas, regulatórias e comerciais de seu primeiro projeto de energia nuclear, com a meta de alcançar 1,2 GW de capacidade instalada até 2032 e ampliar esse volume para 4,8 GW até 2050. Os planos foram apresentados durante a conferência World Nuclear Supply Chain, realizada em Manila. O governo […]",
+   "data": "2026-10-24T13:00:32-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "O FIM DE SEMANA COMEÇA COM MUITAS OPORTUNIDADES PARA EMPREGOS, ESTÁGIOS, CURSOS, PROFISSIONALIZAÇÃO. PROCURE E ACHE AQUI MESMO",
+   "link": "https://petronoticias.com.br/o-fim-de-semana-comeca-com-muitas-oportunidades-para-empregos-estagios-cursos-profissionalizacao-procure-e-ache-aqui-mesmo/",
+   "resumo_original": "Quem está em busca de uma oportunidade no mercado de trabalho pode encontrar novas possibilidades na lista de empregos, estágios, cursos e oportunidades. Vamos à elas então, sem perder tempo, escolha aqui: Em Macaé, no norte do Rio de Janeiro, São 1.073 vagas destinadas a profissionais com diferentes níveis de escolaridade e perfis de experiência. […]",
+   "data": "2026-10-24T04:00:47-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "ONS fará operação especial para garantir energia no segundo turno",
+   "link": "https://valor.globo.com/brasil/noticia/2026/10/24/ons-fara-operacao-especial-para-garantir-energia-no-segundo-turno.ghtml",
+   "resumo_original": "O regime especial de operação ficará em vigor da meia-noite de sábado (24) até as 7h de segunda-feira (26)",
+   "data": "2026-10-24T15:21:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Azul contrata financiamento de até R$ 2 bi para pagar combustível de operação doméstica",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUXRsWUJsU3ViZ3hMc3F2YUZqck03ZHRZUnhuQUJDOFlPanh2MVFHNnR5cVBMWmpMZDU0WTV3cGJyYU0zc2czc0I1Yzd4TzlBSm96b1RxTXJaeVVLRUhEVGFURzVPeGR2cnZ3N01xNTA1c3JzUmI0RXJFV0VmZVZwUEo2amxma3ZIZWZtaXdXT1BvNEdzczhfSmhSSU1mZ3dyODlPcHg1ejRSMjZVZ2RrOHFhenlfVUxfY2VpY3R1cHFTd1liSmI1dmp1NENuVmw3cmRmTDMxSHFvRF9UOHhHcTU2NDTSAeQBQVVfeXFMUFF0bFlCbFN1Ymd4THNxdmFGanJNN2R0WVJ4bkFCQzhZT2p4djFRRzZ0eXFQTFpqTGQ1NFk1d3BicmFNM3NnM3NCNWM3eE85QUpvem9UcU1yWnlVS0VIRFRhVEc1T3hkdnJ2dzdNcTUwNXNyc1JiNEVyRVdFZmVWcFBKNmpsZmt2SGVmbWl3V09QbzRHc3M4X0poUklNZmd3cjg5T3B4NXo0UjI2VWdkazhxYXp5X1VMX2NlaWN0dXBxU3dZYkpiNXZqdTRDblZsN3JkZkwzMUhxb0RfVDh4R3E1NjQ0?oc=5",
+   "resumo_original": "Azul contrata financiamento de até R$ 2 bi para pagar combustível de operação doméstica Valor Econômico",
+   "data": "2026-10-24T07:51:35-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Como uma megafusão transatlântica desmoronou por causa de uma disputa sobre liderança",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUlFIRUpHcmxxRzgzbXVTendiNW9BRnVKYWozNzFIdy1OcHZjalpWbEJhSzBseWhWQms4OUplOXhaWFZlclo3YXE4cmhkMC1ZQy1KMnBCdlp0UjZzblFZWTA4Z2gwc1M5OXpjb3YtME1JNHFMZWVpaE1VNFhzdVZGNjNENXVCS2RyM1d5QUVvZmNlMUpyNXZ4ZzlkckxWdF84Tlp0MGRLMjg2TFFIb3BjZ3NmNUZBVUt2eEZlQ0dhWlhvNjhHbzc2a1ZJMjdqTGtKcW5tZUM3Q0h0OHFiUk1NZlVfOUVJYjhac2fSAeoBQVVfeXFMTVJRSEVKR3JscUc4M211U3p3YjVvQUZ1SmFqMzcxSHctTnB2Y2paVmxCYUswbHloVkJrODlKZTl4WlhWZXJaN2FxOHJoZDAtWUMtSjJwQnZadFI2c25RWVkwOGdoMHNTOTl6Y292LTBNSTRxTGVlaWhNVTRYc3VWRjYzRDV1QktkcjNXeUFFb2ZjZTFKcjV2eGc5ZHJMVnRfOE5adDBkSzI4NkxRSG9wY2dzZjVGQVVLdnhGZUNHYVpYbzY4R283NmtWSTI3akxrSnFubWVDN0NIdDhxYlJNTWZVXzlFSWI4WnNn?oc=5",
+   "resumo_original": "Como uma megafusão transatlântica desmoronou por causa de uma disputa sobre liderança Valor Econômico",
+   "data": "2026-10-24T08:00:00-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Executivos brasileiros trocam o Vale do Silício pela China atrás de inovação",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/executivos-brasileiros-trocam-o-vale-do-silicio-pela-china-atras-de-inovacao.shtml",
+   "resumo_original": "A foto que antes era feita na frente da fachada do Google agora mostra o logo da Tencent, da ByteDance ou do Alibaba . O vídeo gravado dentro de um carro autônomo da Waymo rodando por São Francisco já impacta menos do que os dos robôs chineses que prometem fazer tudo. Publicações em perfis do LinkedIn de empresários e executivos brasileiros expõem uma mudança no eixo das viagens atrás de inovação: textos e imagens que antes citavam e mostravam o Vale do Silício, na Califórnia, foram substituídos por registros em Shenzhen, Xangai e Hangzhou, na China . É crescente o número de missões organizada",
+   "data": "2026-10-24T23:00:00-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Votar no 2º turno das eleições vale como prova de vida do INSS; entenda",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/votar-no-2o-turno-das-eleicoes-vale-como-prova-de-vida-do-inss-entenda.shtml",
+   "resumo_original": "Votar no segundo turno das eleições de 2026, realizado neste domingo (25), vale como prova de vida do INSS (Instituto Nacional do Seguro Social), conforme regra criada por portaria de 2022 , editada pelo governo do então presidente Jair Bolsonaro (PL). Leia mais (10/24/2026 - 15h09)",
+   "data": "2026-10-24T15:09:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Flávio descarta privatizar Petrobras, mas mercado espera venda de ativos",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-descarta-privatizar-petrobras-mas-mercado-espera-venda-de-ativos.shtml",
+   "resumo_original": "A campanha do candidato à Presidência da República Flávio Bolsonaro ( PL ) garantiu que a privatização da Petrobras não está nos planos de um eventual governo, mas o mercado espera a retomada do processo de venda de ativos e enxugamento da estatal que ocorreu no governo Jair Bolsonaro. Leia mais (10/24/2026 - 15h00)",
+   "data": "2026-10-24T15:00:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Alta do petróleo pressiona governo a manter subsídio ao diesel",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alta-do-petroleo-pressiona-governo-a-manter-subsidio-ao-diesel.shtml",
+   "resumo_original": "A escalada recente do preço do petróleo em meio aos combates na Arábia Saudita pressiona o governo a renovar o subsídio de R$ 2,12 por litro ao diesel que vence nesta segunda-feira (26), dia seguinte ao segundo turno da eleição presidencial. Leia mais (10/24/2026 - 04h00)",
+   "data": "2026-10-24T04:00:00-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Índia cruza o oceano atrás dos minerais críticos do Brasil",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/india-cruza-o-oceano-atras-dos-minerais-criticos-do-brasil.shtml",
+   "resumo_original": "Os olhos indianos estão voltados para a América do Sul. Na busca pelos minerais de que precisam para alimentar a corrida industrial, gerar emprego aos borbotões e reduzir a dependência da China , Nova Déli se concentra, agora, em como transformar compromissos diplomáticos em negócios concretos. Leia mais (10/23/2026 - 23h00)",
+   "data": "2026-10-23T23:00:00-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Próximo governo terá 41 cargos a preencher em agências reguladoras, BC, CVM e Cade",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/10/25/proximo-governo-tera-41-cargos-a-preencher-em-agencias-reguladoras-bc-cvm-e-cade.ghtml",
+   "resumo_original": "Montagem fotográfica O GLOBO: energia, saúde e mineração são setores acompanhados por agências",
+   "data": "2026-10-25T04:00:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "'Ninguém previu o petróleo neste patamar', diz presidente da Petrobras",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/10/24/ninguem-previu-o-petroleo-neste-patamar-diz-presidente-da-petrobras.ghtml",
+   "resumo_original": "“Os grandes fundos globais que investem na Petrobras querem previsibilidade. É o contrário do que ocorre com investidores de curto prazo no Brasil, que estão, muitas vezes, preocupados com a especulação”, afirma a presidente da Petrobras",
+   "data": "2026-10-24T07:01:44-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Weg: expectativa é de que fábrica de baterias inicie a operação no 2º semestre de 2027",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdBRUxaM25TaGFaOXpsMlpNS2ZhWEJteWdtaFR2dGtycXFHejNiM3dycDRFTFlEemY4cU1HSUl6dFJlWmM4UGlsRXdncEY4STFId2RuT296Q1hna2c1WnMyeVY3YlJpSFNKTmwxV1JBU3gzZXBGMUJVdElkUVdyc2lONmU1Nkx3Yk9HWDRNY084SG1pdUJBbjJDQjE1MktfcnFMdmtoaG5JMWNGQ2c?oc=5",
+   "resumo_original": "Weg: expectativa é de que fábrica de baterias inicie a operação no 2º semestre de 2027 Estadão RI",
+   "data": "2026-10-24T05:30:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas da Ásia fecham em baixa com alta do petróleo e temor sobre IA",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX3JiRHpMaF9zRnFmMkwxdDdoLWc1X21ydHFGdUdBb0tsWXY3WGs5N21tWnRjR3g0NmV2aE93aTJSRWNaUzctSFVLUk9LNU84d1hnQkxreVYzZUpFOWU0SVgyZ3RHbWVFeHFsQU5ZWllrRXk1YmZtUno0VkRkUHI0RGdUd2p0U3c3MDJOamk0TUlGaGFLRUpzbDBDOWZQdHh5dGRRWWgzRDNRR1JfZm5oRlVDZGp4Z0ZWWDZhOV90S19SWmkwd2hnc1BxRUwxX0wtaDI1ZGNR?oc=5",
+   "resumo_original": "Bolsas da Ásia fecham em baixa com alta do petróleo e temor sobre IA Estadão",
+   "data": "2026-10-24T06:05:22-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [
+    "Mineração"
+   ],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 113; Vale recua 4%",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1VDaXNqZ2FiZmlJZnRzTEFBZnUwdkRHVDJKbU9seE1hQno0aXQ0UlFDYWdMTVNMc1ZQWnh5NXN6emVFVVMyaS10Ql93QUUzSHlSMDR2QXBDMFpGYWsyTlU4bVY3OEUwSEFVdTBVUHRoV2QxV3V4dnVpaGNOTFpaQlpCR3ZrSngyQkREb0JqRTllVFNNSHdWV3RBbzBwZVpuZ1BXS2o2SlhyMFpmY1lnMGg0TTRJamhNSTlxMnNVSzRaM05ZTDE5ajVxcGVIXzViUFlVc0JfeDVoNmtNNnFnLWQ2a3JTdXB1VW9GLQ?oc=5",
+   "resumo_original": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 113; Vale recua 4% Estadão",
+   "data": "2026-10-24T04:47:32-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petrobras (PETR4) bate recordes com petróleo em alta e cenário eleitoral; o que fazer com as ações?",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPczBxY2ZjbGJMb2NWMzlUMHpydEYzUFM4bFQ1Wms0cW9tbUhZWjdlV21McjBkSUQzV1ZhbUtrVHh5R250d3cwQUhhbW1SUkNrZFNUamZPVGJGZ2hCZnh5bWdMX0RMTXRiY1QzUlpmZ24yN1pnMDZSWW9kd1ZaNnpuRkJhdXpKUkxjY1ItYkhmX0p3UmRrZXFMajdEU2FqU1hud2p1aHFGbVh3UFBsSHdQbVd6WDd2RUxQTFFRazdpMGdLam8ybVlvT2g1QUFxUU1iSF9MRFhxNVo5S2pWMmhXUV9XME83TklLWTA5a0RQRnYxNDBr?oc=5",
+   "resumo_original": "Petrobras (PETR4) bate recordes com petróleo em alta e cenário eleitoral; o que fazer com as ações? Estadão",
+   "data": "2026-10-25T01:38:51-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Eleições agitam a Bolsa, Petrobras dispara e risco nos EUA preocupa; veja as mais lidas da semana",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb2tVaEoxbnJodHI0cGpfU2lJb3RXSVJud0tMUEV5MGxNRmgxR0Q1MGtkR2ROUFAtR0FqYW5RY0Itd2wwSFJaeU0tR3lJUW90aTd6RW5XTThxUndwYXo4RTN2bzE1UjhaQVZQdUM2V3daYVNKdWpBbEhnc1BkNjcxXzEwS1FweHRhUng2WW1vVERyZDdvR21SaTAzR2pic0JDLVVFd0xCZ3pmelVpMkNrMFU2TVpkRURqb3FNR0FsT2ktTnliNTZJNnZDaV9jb3V0dHBlTVFoSkdncVNGeWhUMnE5X19LbE1zZ1HSAe8BQVVfeXFMT18weGlxM3E5STViMXJqUmVTRk9MeW01TUlsLW56aDQyMzFaN2plV0R5a2xrQ0pNT0g3OW05eHBkWnFoQS1sSnRsbHl5ODVSZ3U5cEtVN19aMExPMHhRS1lUSm9GY0ZNSHZ5aldFUFgyZzMyamVPUHAxcjRBODZ4UUlwcHE2UlNQUGR4TnNySEw5OTREYzRJY0NRNzB2c1hna2RfRnI4VmxkcFJoMnR2R0RRSXoxYzJfUVZxZDJoa3B0eXNFU2k2ZFR3TEl1SmVaNjZuaG9DZktJUTh6Q0V6eEtHanRPQTFGWmdrLTMtRXc?oc=5",
+   "resumo_original": "Eleições agitam a Bolsa, Petrobras dispara e risco nos EUA preocupa; veja as mais lidas da semana Estadão",
+   "data": "2026-10-24T05:30:00-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Movimento Econômico",
+   "idioma": "pt",
+   "titulo": "UFRN patenteia método que usa chia em material para hidrogênio verde e baterias",
+   "link": "https://movimentoeconomico.com.br/ciencia/2026/10/24/ufrn-patenteia-metodo-que-usa-chia-em-material-para-hidrogenio-verde-e-baterias/",
+   "resumo_original": "Semente reduz o uso de reagentes tóxicos na fabricação de peças para baterias e eletrólise. Invenção ainda está no laboratório, e a Universidade Federal do Rio Grande do Norte (UFRN) soma 113 cartas-patentes",
+   "data": "2026-10-24T05:16:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Azul toma financiamento de até R$ 2 bilhões para pagar combustível",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXdUeFhDalRHX0xqY2xoWVZwWEFLbTdzUFBvY1pKa0hVTHJBSDdsN0NNMlhQZEhGUVlvZ0RVZnVNREJoeG5iZFNOVmFsMFdodkJKU1hIYUtwYXhET2EzdkN5Y0xmLVZBcjdkeGhXeHowcDltUi1oSHhXNlp3OGpGRGhGWXFzR19QREdzNmVJOUhlMC1hWl90Q21YY285VjZQY18xZ1RfdmI1VzhXaTQ1RW1fUVNkVGtDM1ln?oc=5",
+   "resumo_original": "Azul toma financiamento de até R$ 2 bilhões para pagar combustível CNN Brasil",
+   "data": "2026-10-24T07:48:35-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Para onde vão as baterias de elétricos após o fim da vida útil?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSHM3blFYMmo5bHZMV2FiMnVXSnk0a2tUZ1U0UFRzUGlFbGVZNXlObTVEU2c4NkxJRV9yem1tOEUyd2dQWFJmeko0akVSeVBmaFRNREV5WUp2dGhUZVBEcE9ScHNiRnRqUUNaU1Jrbm1FdkN6TVcxenJwT1NSQ0J3N1lEVGxOS3JETmYxTDJHdmJkQ2ozQTNzT2NmMmJldw?oc=5",
+   "resumo_original": "Para onde vão as baterias de elétricos após o fim da vida útil? CNN Brasil",
+   "data": "2026-10-24T15:00:42-03:00"
+  }
+ ]
+}
