@@ -244,5 +244,11 @@
   "tipo": "documento",
   "arquivo": "spotline-apuracao-ao-vivo.mp4",
   "legenda": "📢 *SPOTLINE NEWS*\n🗳 *Apuração ao vivo hoje, a partir das 17h*\n\nDá para saber para onde a eleição caminha com poucas urnas apuradas? No painel do Spotline News você acompanha o placar oficial do TSE, a projeção estatística com a margem de erro e o mapa de quem lidera em cada estado.\n\n📊 Painel ao vivo: https://claude.ai/artifact/KtSsAjCK2HZRv3xXuZMQPZ\n\n⚠️ A projeção é um cálculo estatístico. O resultado oficial é sempre o do TSE.\n\n━━━━━━━━━━━━\n📲 Siga o *Spotline News* | Eleição 2026 no seu WhatsApp\n👉 Compartilhe com quem quer acompanhar a apuração em tempo real:\nhttps://chat.whatsapp.com/CHcnSUaAkQ0Fb2b7yyuFLY"
+ },
+ {
+  "id": "capa-video-apuracao.jpg",
+  "tipo": "imagem",
+  "arquivo": "capa-video-apuracao.jpg",
+  "legenda": "▶️ *Vídeo: como o Spotline acompanha a apuração*\nToque no arquivo MP4 logo acima para assistir (55 segundos).\n\n📊 Apuração ao vivo a partir das 17h: https://claude.ai/artifact/KtSsAjCK2HZRv3xXuZMQPZ"
  }
 ]
