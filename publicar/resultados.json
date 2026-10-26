@@ -59,8 +59,8 @@
     "tipo": "reel",
     "status": "erro",
     "link": "",
-    "erro": "The account is missing some permissions to perform this action, please re-add the account and allow all permissions",
-    "quando": "2026-10-26T08:46:41.000Z"
+    "erro": "cancelado: substituído pelo reel-2 (legenda com Lula reeleito)",
+    "quando": ""
   },
   {
     "id": "2026-10-26-linkedin-ronald-texto-1",
@@ -75,8 +75,8 @@
     "id": "2026-10-26-instagram-escritorio-reel-2",
     "rede": "instagram-escritorio",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/De9zLq4AbU5/",
     "erro": "",
     "quando": "2026-10-26T17:17:11.000Z"
   }
