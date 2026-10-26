@@ -1,0 +1,498 @@
+{
+ "data": "2026-10-26",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 27,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 100,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 98,
+   "no_periodo": 9,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 93,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 4,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 14,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "CanalEnergia",
+   "idioma": "pt",
+   "titulo": "Novo mandato de Lula indica continuidade de políticas públicas",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGRpYVBoN2tWQ3BXVndORW1uclloQzhfaHF6NTBZZzV5UzdDQ2ZNWndybGJsbzVFbndrQkV0VWdGbnJRM2VIYjNvQnZnQWRkM0FyY3N2N0thSE82aFBjVVYzN1FuQXcwM2g1Z0pKX2Q5TTlfSjZ0dWRDM1JXRnFZcGRVdTFWN1J5ZDRVNEI1Y2ZsbVNHMHVwclBzOVBiRFpMcmVtc2o3VS1TM2RmNGp0NVB3?oc=5",
+   "resumo_original": "Novo mandato de Lula indica continuidade de políticas públicas CanalEnergia",
+   "data": "2026-10-25T22:17:17-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "Lula é reeleito em virada inédita; veja como temas de energia foram tratados na campanha",
+   "link": "https://eixos.com.br/politica/eleicoes/eleicoes-2026/lula-e-reeleito-em-virada-inedita-veja-como-temas-de-energia-foram-tratados-na-campanha/",
+   "resumo_original": "Presidente perdeu o 1º turno para Flávio Bolsonaro e venceu o 2º com 51,8%. Os dois prometeram manter a Petrobras estatal e se enfrentaram sobre subsídios aos combustíveis, etanol e terras raras O post Lula é reeleito em virada inédita; veja como temas de energia foram tratados na campanha apareceu primeiro em eixos .",
+   "data": "2026-10-26T03:55:37-03:00",
+   "texto": "O presidente Luiz Inácio Lula da Silva (PT) foi reeleito no domingo (25/10) com 51,8% dos votos válidos, contra 48,2% de Flávio Bolsonaro (PL), segundo o Tribunal Superior Eleitoral (TSE) . É a primeira vez, desde a adoção do 2º turno para presidente, em 1989, que o segundo colocado no 1º turno vence a eleição.\nNa energia, os dois candidatos terminaram a campanha dizendo que não privatizariam a Petrobras , e ambos querem atrair data centers , investimentos em renováveis e terras raras. A diferença apareceu na relação com os Estados Unidos e no controle sobre setores estratégicos, o que levou a soberania para o centro da disputa.\nFlávio é alinhado ao governo de Donald Trump. Em março, na conferência conservadora CPAC, no Texas, disse que o Brasil seria a solução para os EUA reduzirem a dependência da China em minerais críticos . Em setembro, prometeu levar o país ao Escudo das Américas , aliança militar e de segurança lançada por Trump em março com países do continente para combater cartéis do narcotráfico, e defendeu a adesão no debate da Band.\nLula e o PT defenderam o controle do Estado, por meio de regulação, nesses setores. A lei de minerais críticos sancionada em setembro dá ao governo o poder de aprovar a entrada de estrangeiros no setor, a lei do Redata reserva parte da capacidade dos data centers ao mercado interno. Agora, Lula promete regular as plataformas digitais.\nNo discurso da vitória, na noite de domingo, ao lado do vice Geraldo Alckmin, Lula disse que a eleição teve “intromissão vinda de fora para dentro através de plataformas digitais” e que o governo vai regulá-las.\n“Nós não podemos ter empresas monstruosas de grande, ganhando milhões e bilhões, não pagando nenhum imposto para esse país e tentando direcionar o resultado eleitoral desse país”, afirmou.\nLula ligou os temas: soberania digital e energia. Também disse que não quer depender de modelos de inteligência artificial chineses ou norte-americanos e que o país deve usar a geração renovável para atrair data centers e desenvolver tecnologias localmente.\n“Temos que aproveitar o potencial energético de um país que talvez seja o que tem mais capacidade de energia renovável para trazer para cá os data centers necessários para acumular também o nosso dado para o Brasil”, afirmou.\n“E essa gente vai ter que deixar uma parte do data center para informações brasileiras.” A lei do Redata , sancionada em setembro, já exige que as empresas beneficiadas reservem ao menos 10% da capacidade ao mercado interno.\nO presidente prometeu investimento em “economia digital, na economia verde e na economia criativa” e citou a queda do desmatamento por quatro anos seguidos.\nSobre a relação com o Legislativo, onde passam as pautas de regulação, disse que vai negociar com o Congresso eleito. “Eu não escolhi o Congresso, foi o povo que escolheu. E é com ele que eu vou votar, vou trabalhar e vou aprovar as coisas.” Lula não citou Petrobras, petróleo nem políticas de preços dos combustíveis .\nO Congresso que toma posse em fevereiro de 2027 terá o PL como maior bancada na Câmara e no Senado. O partido elegeu 121 deputados, contra 88 da federação PT-PCdoB-PV. No Senado, o PL terá 28 das 81 cadeiras e o PT, nove.\nFlávio terminou o 1º turno, em 4/10, com 2,2 milhões de votos a mais que Lula. Em três semanas, Lula ganhou 10,4 milhões de votos, mais do que os 9,3 milhões dados aos dez candidatos eliminados, e terminou 4,4 milhões à frente. Flávio ganhou 3,7 milhões, e o número de eleitores que não foram votar caiu de 33,5 milhões para 30,5 milhões.\nLula cresceu nas 27 unidades da federação. São Paulo respondeu sozinho por 21% da mudança na margem entre os dois, e todo o Sudeste, por 43%. Minas Gerais foi o único estado a trocar de lado. Nas capitais, Lula venceu em 13 das 27, duas a mais que no 1º turno (Rio de Janeiro e Macapá). Flávio ficou com 14; as maiores delas são Brasília, Belo Horizonte e Manaus.\nOs números consideram 99,97% das seções totalizadas pelo TSE às 21h58 de 25/10, no fechamento deste texto.\nO mapa quase não mudou de cor. Lula venceu em 13 unidades da federação, uma a mais que no 1º turno, e virou ampliando a vantagem onde já era forte e encolhendo a desvantagem onde perdia.\nNo Nordeste, a margem dele subiu de 11,1 milhões para 13,7 milhões de votos , o suficiente para compensar Sul, Sudeste e Centro-Oeste, onde Flávio terminou 9,3 milhões à frente.\nNo Sul, Flávio manteve 4,6 milhões de votos de vantagem (eram 5,0 milhões no 1º turno). No Norte, onde Flávio liderava por 459 mil votos no 1º turno, os dois terminaram praticamente empatados.\nO programa do PT prevê a volta da Petrobras à distribuição de combustíveis e mais refino. Em sabatina no estúdio eixos , durante a ROG.e, em 21/9, o coordenador do programa e ex-presidente da estatal, José Sérgio Gabrielli, disse que a forma dessa volta será definida pela empresa.\n“Quem decide quando, como, é a Petrobras, não é a campanha, nem é o governo que vai decidir a forma, é a Petrobras”, afirmou. Em 30/9, Lula disse que vai comprar uma distribuidora .\nNo debate da Band, em 18/10, Lula disse que o adversário quer privatizar a Petrobras . Flávio negou no debate da TV Globo, na sexta (23/10). “Eu não vou privatizar Caixa, Banco do Brasil e Petrobras”, disse Flávio.\nEm dezembro de 2025, em entrevista à Reuters, Flávio se disse favorável à venda de ativos dos Correios e, possivelmente, da Petrobras, como mostrou a eixos . O plano de governo do PL não cita a Petrobras no capítulo de energia e prevê retomar o programa de desestatização avaliando “caso a caso”.\nOs assessores de Flávio para energia não falaram a mesma coisa. Alexandre Chequer, advogado especializado em energia que assessorou a campanha como voluntário, descartou a venda em entrevista à Bloomberg Línea , em 22/10. “O que foi discutido da Petrobras é que ela não será privatizada. Ponto”, disse Chequer.\nNa mesma entrevista, Chequer defendeu mais autonomia para a Petrobras. Segundo ele, as decisões sobre operações e portfólio, como onde investir e que ativos comprar ou vender, devem ficar com a direção da empresa.\nEle elogiou os desinvestimentos, classificou como “puramente ideológica” a decisão de manter o polo Bahia Terra e criticou a volta da estatal aos fertilizantes, área em que, para ele, a empresa não tem experiência. Disse ainda que a campanha não discutia a política de preços dos combustíveis.\nAdriano Pires , coordenador da área de energia do plano de governo, defendeu em agosto discutir uma capitalização da Petrobras nos moldes da que foi feita na Eletrobras . “Eu não vejo nenhum problema, eu não vejo nenhum fantasma em discutir isso”, disse ao SBT News , em 25/8. Segundo o SBT News, a medida não estava prevista no plano de governo.\nPires é defensor histórico da paridade de importação (PPI), que guiou os preços da Petrobras de 2016 a 2023, como a eixos mostrou quando ele foi indicado para presidir a estatal, em 2022. Em artigo publicado no Poder360 em abril de 2025 , escreveu que o Brasil, por importar derivados, “deveria seguir a lógica do mercado internacional”.\nNo pregão seguinte ao 1º turno (5/10), em que Flávio terminou à frente, as ações preferenciais da Petrobras fecharam em alta de 8,2% , depois de chegar a subir cerca de 10%.\nO preço dos combustíveis entrou na campanha mais por atos do governo do que por propostas. Em 9/10, cinco dias depois do 1º turno, o governo zerou os tributos federais da gasolina por 30 dias , e a desoneração passou de R$ 0,63 para R$ 0,89 por litro.\nTambém anunciou mais R$ 1,40 por litro ao diesel importado , em vigor desde 13/10, somados aos R$ 2,12 que já vigoravam. Na coletiva, o ministro da Fazenda, Dario Durigan, negou relação com a eleição, e o governo disse que o decreto anterior da gasolina vencia naquele dia.\nO que o leilão de gás da União revela para o mercado em dez pontos\nLeilão de gás da PPSA revela apetite da indústria por gás mais barato, revela preços e reforça tese do gas release\nData centers e nuclear no Paraguai; etanol no Porto de Santos\nEUA anunciam investimentos em data centers e urânio no Paraguai; no Brasil, Porto de Santos inicia abastecimento de navios com etanol\nNo plano de governo, o PT critica a gestão de Jair Bolsonaro por ter deixado “uma bomba fiscal para estados e municípios com a desoneração artificial de combustíveis”. O governo Lula diz que a desoneração atual é compensada com receitas extraordinárias do petróleo ( Ministério da Fazenda ).\nLula levou a medida aos comícios. “Ao contrário do mundo inteiro, no Brasil hoje a gasolina diminuiu”, disse em Natal, em 10/10. Flávio acusou o governo de fazer uso eleitoreiro da Petrobras e disse que o preço do diesel poderia subir depois da eleição.\nFlávio prometeu acabar com o imposto de 12% sobre a exportação de petróleo , criado em março junto com o corte de tributos do diesel, diante da alta do petróleo com a guerra no Oriente Médio.\n“Vamos acabar com essa alíquota de exportação de petróleo de 12% que inventaram por causa da guerra”, disse em 6/8. O plano dele prevê “redução de impostos sobre energia e combustíveis” e deixa o detalhamento para o documento “Brasil Mais Barato”.\nO Conselho Nacional de Política Energética (CNPE) aprovou em 14/7 a mistura de 32% de etanol na gasolina (E32) , em vigor desde 1/8 por 180 dias. O programa do PT apresenta o E32 e a mistura de 15% de biodiesel no diesel (B15) como conquistas do governo. A mistura maior foi aberta pela Lei do Combustível do Futuro ( Lei 14.993 ), sancionada por Lula em outubro de 2024.\nEm live em 20/8 , Flávio disse que a quantidade de etanol na gasolina é “uma coisa que a gente vai ter que discutir” e comparou a mistura à reduflação . “A gasolina também: uma parte virou etanol. Nem o combustível esse governo está poupando”, afirmou. Seis entidades do setor sucroenergético reagiram lembrando que o candidato participou da aprovação da Lei do Combustível do Futuro.\nEm 24/8, o coordenador-geral da campanha, senador Rogério Marinho (PL-RN), divulgou nota em que chama Flávio de “defensor do setor sucroenergético e dos biocombustíveis” e diz que a mistura “deve ser tratada como política de Estado”.\nA nota acusou o governo Lula de transformar a política de mistura em “instrumento episódico para tentar conter a alta dos preços às vésperas de uma eleição”.\nLula fez das terras raras tema de ataque. Disse em abril que Flávio e Ronaldo Caiado iriam “vender o Brasil”. Em 16/9, sancionou a lei de minerais críticos , que dá a um conselho ligado à Presidência e à Agência Nacional de Mineração (ANM) o poder de aprovar a troca de controle de empresas do setor e a entrada de estrangeiros. “Como sempre, os traidores da pátria, mais uma vez, caíram de joelhos diante dos Estados Unidos”, disse na cerimônia .\nEm abril, um mês depois da fala de Flávio na CPAC, a norte-americana USA Rare Earth anunciou a compra da Serra Verde , em Minaçu (GO), por cerca de US$ 2,8 bilhões. A operação, concluída em setembro, inclui a única mina de terras raras em produção comercial no país, segundo o Centro de Tecnologia Mineral (Cetem).\nNo debate da Band, Lula perguntou se Flávio entregaria as terras raras aos EUA. “Mais uma fake news que eu pude desmentir aqui, olhando nos seus olhos”, respondeu Flávio, sem dizer se permitiria a exploração por empresas norte-americanas. Para o setor, o plano do PL diz que “o Estado atuará como regulador e coordenador, não como empresário”.\nOs dois candidatos querem atrair data centers. O governo sancionou em 15/9 o regime especial de tributação para o setor, o Redata. Lula defendeu contrapartidas. “Não vamos deixar que a energia produzida vá somente para o data center”, disse em ato de campanha em Santa Catarina, em 19/9. Flávio prometeu levar data centers à Zona Franca de Manaus e o plano do PL fala em um “polo global de data centers sustentáveis”.\nNas renováveis e na conta de luz, os dois lados defenderam cortar subsídios. O ministro de Minas e Energia, Alexandre Silveira (PSD), que desistiu de concorrer ao Senado em março e disse que faria campanha pela continuidade do governo , disse em 30/7 que quer “subsídio zero nos próximos quatro anos” para geradores.\nO plano do PL prevê a “redução gradual da CDE e das fontes incentivadas, mantida a tarifa social”.\nA agenda de energia tem prazos que começam a vencer nesta semana:\nFlávio não reconheceu o resultado e anunciou, em pronunciamento na noite de domingo, que vai pedir a anulação da eleição. “É impossível reconhecer o resultado dessa eleição no contexto em que essas coisas aconteceram”, afirmou.\nO argumento é a decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), que, a pedido da coligação de Lula, prorrogou a votação até as 19h em todo o país. O pedido alegava falta de ônibus, inicialmente em Salvador, Feira de Santana e Lauro de Freitas (BA).\nDepois, Zanin esclareceu que seções já encerradas não precisavam reabrir. Flávio diz que a regra mudou com parte das urnas já fechada e lembrou que Zanin foi advogado de Lula.\nContudo, a própria campanha de Flávio havia pedido ao TSE , durante a votação, a prorrogação em municípios de São Paulo, Paraná, Minas Gerais, Rio Grande do Sul e Santa Catarina, por causa de chuvas e alagamentos.\nOs presidentes da Câmara, Hugo Motta, e do Senado, Davi Alcolumbre, reconheceram a vitória de Lula na noite de domingo. “Não há o que se contestar”, disse Alcolumbre, que disse que Lula terá a missão de pacificar o país. Motta pediu conciliação. “Nós temos um Brasil dividido, um Brasil que passou, infelizmente, os últimos quatro anos radicalizado”, afirmou.\nO presidente do TSE, ministro Kassio Nunes Marques, afirmou, em pronunciamento após a confirmação do resultado, que a liminar “gerou dificuldades ao processo eleitoral” e criou a maior fila de boletins de urna já registrada pelo tribunal, que a equipe técnica conseguiu contornar . “Volto a dizer: não houve nenhuma alteração advinda da decisão judicial”, disse.\nNunes Marques chegou ao STF em 2020 indicado por Jair Bolsonaro, com o apoio de Flávio. A revista piauí revelou, em série de reportagens, mensagens de Daniel Vorcaro, ex-dono do Banco Master, com interlocutores tratando da relação com o ministro e ao menos uma votação de interesse da empresa em que Nunes Marques votou a favor dos interesses de Vorcaro, em um caso envolvendo precatórios. Nunes Marques nega ter trocado mensagens com Vorcaro ou feito pedidos a ele.\nEsta matéria foi produzida com auxílio de inteligência artificial e revisada por um editor da eixos. Conheça nossos princípios editoriais e nossa política de correções ."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "ALDAK IMPLEMENTA SISTEMA DE MONITORAMENTO DE TRABALHADORES EM PLATAFORMAS OFFSHORE DA PETROBRAS",
+   "link": "https://petronoticias.com.br/aldak-implementa-sistema-de-monitoramento-de-trabalhadores-em-plataformas-offshore-da-petrobras/",
+   "resumo_original": "A Aldak está em fase de entrega de um projeto de monitoramento de força de trabalho em plataformas offshore da Petrobras, baseado na plataforma NTOPUS. A solução permite acompanhar o posicionamento das equipes e centralizar informações que podem contribuir para a segurança dos trabalhadores e a gestão das operações. Em entrevista ao Petronotícias, o diretor […]",
+   "data": "2026-10-26T04:00:28-03:00",
+   "texto": "A Aldak está em fase de entrega de um projeto de monitoramento de força de trabalho em plataformas offshore da Petrobras, baseado na plataforma NTOPUS. A solução permite acompanhar o posicionamento das equipes e centralizar informações que podem contribuir para a segurança dos trabalhadores e a gestão das operações. Em entrevista ao Petronotícias, o diretor de operações da Aldak, Matheus Silva (o primeiro à direita na foto), detalha o projeto e os contratos mantidos com a petroleira, que também incluem o fornecimento e o suporte de dispositivos robustecidos e intrinsecamente seguros, como smartphones e tablets. Com mais de 35 anos de atuação no mercado de óleo e gás, a empresa também aposta em redes privativas de 4G e 5G e na integração de diferentes tecnologias de comunicação para ampliar a eficiência operacional e atender às novas demandas do setor.\nPoderia explicar um pouco sobre a atuação da empresa no mercado, especificamente de óleo e gás, e dar uma visão geral de como vocês têm atuado em outros setores?\nNós somos integradores de tecnologia para conectividade e comunicação em operações de missão crítica. Temos uma presença muito forte em portos, aeroportos, mineração, siderurgia e papel e celulose. No mercado de óleo e gás, eu diria que somos o player dominante para esse tipo de tecnologia. Atendemos desde a Petrobras, com dispositivos de broadband, tablets e PDAs, até todas as empresas que surgiram a partir dos desinvestimentos no setor — as junior oils.\nFalando especificamente sobre óleo e gás, qual é o panorama atual de vocês nesse mercado e quais são os planos futuros para o setor?\nTemos uma atuação de mais de 35 anos nesse setor. Fomos os primeiros prestadores de serviço a instalar os sistemas de radiocomunicação troncalizados. Desde então, viemos acompanhando e desenvolvendo, junto aos nossos clientes, a adoção de novas tecnologias em redes de banda larga (broadband), muito parecidas com as comerciais, respeitadas as devidas diferenças.\nEssas tecnologias são habilitadoras de ganhos operacionais relevantes para os clientes. Em óleo e gás, nossas soluções permitem uma operação mais segura: conseguimos monitorar onde cada trabalhador está e onde ele se encontrava antes de uma eventual perda de sinal, por exemplo. Nosso trabalho com a base de clientes é justamente apresentar essas novas soluções para gerar mais resultados de negócios, tornando a operação mais eficiente e segura.\nAproveitando esse gancho das novas tecnologias, você pode destacar uma ou duas que sejam os principais destaques da empresa para o mercado de óleo e gás?\nCom certeza. A primeira delas são as redes de broadband — redes privativas de 4G e 5G. Já temos algumas redes dessa nova tecnologia rodando em clientes do setor de óleo e gás. Elas permitem trazer todo o sistema de videomonitoramento e o processamento de controles de automação para cima dessa rede.\nA outra solução é o NTOPUS, uma tecnologia proprietária de software para gestão de força de trabalho. Ela permite entender exatamente como as equipes estão posicionadas dentro de uma planta em uma operação supercrítica. Trazemos todas essas informações para um centro de controle, conectando esses dados com a operação do cliente, tanto sob a perspectiva operacional quanto do ponto de vista de saúde e segurança.\nOlhando para o futuro, quais são as perspectivas e planos para o setor nos próximos anos?\nÉ um setor que nos deixa muito animados, com perspectivas altamente positivas. À medida que o mercado reconhece o papel da tecnologia, ele tem nos buscado mais para melhorar a produtividade, elevar a segurança e trazer temas como governança de tecnologia e gestão de ativos. Os clientes estão cada vez mais atentos a essas pautas e procuram parceiros como nós para resolver seus problemas.\nSob a perspectiva da tecnologia, diria que nos próximos cinco anos viveremos uma fase de integração. Tivemos um momento em que os protocolos de segurança de uma planta rodavam majoritariamente em cima de redes de rádio. Hoje, temos diversos tipos de protocolos coexistindo: narrowband e broadband. O grande desafio tecnológico é integrar tudo isso. Como integradores, nosso negócio é conectar esses diversos protocolos aos diferentes casos de uso, desenhando o escopo para resolver o problema, entregando a solução e indo até o descomissionamento ao fim do ciclo da tecnologia.\nPara encerrar, a empresa fechou um contrato importante com a Petrobras recentemente. Você poderia detalhar um pouco mais esse projeto?\nTemos hoje dois contratos relevantes com a Petrobras. O primeiro é para o fornecimento e suporte de dispositivos de banda larga, o que inclui smartphones robustecidos e intrinsecamente seguros, além de tablets na mesma linha.\nO segundo contrato é voltado para o monitoramento da força de trabalho em plataformas offshore, que é um dos casos de uso da plataforma NTOPUS . É um cliente de extrema importância. Estamos em fase de entrega do projeto e acreditamos que este é um passo fundamental: ver uma empresa nacional adaptando tecnologia brasileira para um escopo tão sensível prova que a Aldak, como integradora e desenvolvedora de tecnologia, tem capacidade total para se inserir em uma operação do porte da Petrobras. É um movimento estratégico ao qual temos dedicado máxima atenção.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "ENCONTRO EM SÃO PAULO VAI DEBATER EXPANSÃO DAS USINAS EÓLICAS NO BRASIL DURANTE TRÊS DIAS",
+   "link": "https://petronoticias.com.br/encontro-em-sao-paulo-vai-debater-expansao-das-usinas-eolicas-no-brasil-durante-tres-dias/",
+   "resumo_original": "O Brasil vai debater nesta semana a expansão das usinas eólicas no país, com a realização da Windpower 2026, que será realizada de terça-feira (27) a quinta-feira (29), na São Paulo Expo. Para os organizadores, o Brasil reúne condições naturais para desenvolver a geração de energia eólica offshore, com ventos favoráveis ao longo de sua […]",
+   "data": "2026-10-25T13:00:07-03:00",
+   "texto": "O Brasil vai debater nesta semana a expansão das usinas eólicas no país, com a realização da Windpower 2026, que será realizada de terça-feira (27) a quinta-feira (29), na São Paulo Expo. Para os organizadores, o Brasil reúne condições naturais para desenvolver a geração de energia eólica offshore, com ventos favoráveis ao longo de sua costa e potencial para ampliar a oferta de eletricidade renovável. Transformar essa vantagem em uma indústria capaz de atrair investimentos, movimentar fornecedores e gerar empregos, no entanto, depende de avanços regulatórios, planejamento territorial, infraestrutura e modelos de negócio que deem previsibilidade aos empreendimentos.  O evento reunirá representantes do setor energético, especialistas e empresas para discutir as condições necessárias à consolidação da eólica offshore no país, desde a definição de áreas para os projetos até os impactos econômicos e industriais dessa nova fronteira de geração.\nO Brasil já conta com um marco legal para a atividade que já disciplina o aproveitamento do potencial energético offshore. Em 2026, também avançaram as discussões sobre a regulamentação do setor e o planejamento das áreas marítimas. A metodologia elaborada pela Empresa de Pesquisa Energética (EPE), publicada em julho, estabelece critérios técnicos, ambientais, sociais e econômicos para orientar a seleção de áreas destinadas a futuros projetos.  “ Apesar desses avanços, a consolidação do mercado exige transformar as diretrizes em condições concretas para o desenvolvimento dos empreendimentos. A previsibilidade regulatória, a clareza dos processos de autorização e licenciamento e a definição de áreas viáveis são fatores importantes para que investidores possam avaliar riscos, custos e prazos de implantação “, acredita Gustavo Ponte, Superintendente de Geração de Energia da EPE – Empresa de Pesquisa Energética.   Outro desafio é fazer com que o desenvolvimento dos parques eólicos no mar impulsione uma cadeia industrial no Brasil. A implantação desses empreendimentos envolve equipamentos, estruturas, serviços de engenharia, logística portuária, instalação e manutenção especializada. A capacidade de atender a essa demanda localmente dependerá de investimentos, qualificação profissional, articulação entre fornecedores e previsibilidade de mercado para sustentar a expansão da atividade.\nA escolha das áreas para os empreendimentos é outro ponto estratégico. O planejamento precisa considerar o potencial de geração, as condições de conexão à rede elétrica, a infraestrutura disponível e a convivência com outros usos do espaço marinho. A avaliação dos aspectos ambientais e sociais e o diálogo com comunidades e setores que utilizam o litoral também são fundamentais para o desenvolvimento responsável dos projetos.  A infraestrutura elétrica, por sua vez, será decisiva para conectar a futura geração offshore ao sistema nacional. O planejamento da transmissão e a coordenação entre a expansão da oferta e a demanda por energia precisam acompanhar o desenvolvimento dos projetos, de modo que a capacidade instalada possa ser efetivamente aproveitada.  No Brazil Windpower 2026, esses temas serão discutidos em painéis dedicados ao marco regulatório da eólica offshore, às diretrizes para seleção de áreas prioritárias para os primeiros projetos e ao valor econômico do desenvolvimento da indústria offshore no Brasil. A programação busca ampliar a discussão sobre os caminhos para transformar o potencial brasileiro em projetos viáveis e oportunidades concretas para o setor energético e a economia nacional.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "PETRONAS, TOTALENERGIES E MITSUI FIRMAM JOINT VENTURE PARA DESENVOLVER ÁREA DE ARMAZENAMENTO DE CO₂ NA MALÁSIA",
+   "link": "https://petronoticias.com.br/petronas-totalenergies-e-mitsui-firmam-joint-venture-para-desenvolver-area-de-armazenamento-de-co%e2%82%82-na-malasia/",
+   "resumo_original": "A Petronas, a TotalEnergies e a Mitsui & Co. assinaram um acordo de joint venture para desenvolver uma área de armazenamento de CO₂ em águas offshore da Malásia. As empresas já haviam firmado um acordo de captura e armazenamento de carbono (CCS, na sigla em inglês) em 2023, por meio do qual realizaram estudos de desenvolvimento […]",
+   "data": "2026-10-25T04:00:18-03:00",
+   "texto": "A Petronas, a TotalEnergies e a Mitsui & Co. assinaram um acordo de joint venture para desenvolver uma área de armazenamento de CO₂ em águas offshore da Malásia. As empresas já haviam firmado um acordo de captura e armazenamento de carbono (CCS, na sigla em inglês) em 2023, por meio do qual realizaram estudos de desenvolvimento e avaliações técnicas de áreas com potencial para armazenamento de CO₂ na região.\nCom o novo acordo, as companhias poderão constituir uma empresa específica para conduzir o desenvolvimento, a comercialização e a operação da área de armazenamento de carbono offshore, considerada um componente estratégico do Southern CCS Hub, na Malásia.\nO polo está sendo desenvolvido para receber CO₂ de fontes nacionais e regionais, incluindo possíveis remessas internacionais do gás para armazenamento. A primeira fase do projeto tem como foco principal um campo de gás esgotado, com capacidade de injeção prevista de até 5 milhões de toneladas por ano. O início da injeção está previsto para ocorrer já em 2031, de acordo com o estágio de preparação da indústria.\nAgora, Petronas, TotalEnergies e Mitsui concentrarão esforços no avanço da maturidade técnica e comercial do projeto inicial de armazenamento de carbono, antes da decisão final de investimento (FID, na sigla em inglês).\n“ O acordo de joint venture reflete a sólida parceria que construímos ao longo dos anos com nossos parceiros estratégicos. Desde os primeiros estudos de desenvolvimento até as atividades de FEED, trabalhamos em estreita colaboração para amadurecer essa oportunidade e estabelecer uma visão compartilhada para o Southern CCS Hub ”, afirmou o CEO da PETRONAS CCS Ventures, Emry Hisham Yusoff .\n“ Ao reunir a experiência da PETRONAS em subsuperfície com a experiência global de nossos parceiros em CCS, suas capacidades comerciais e logísticas, estamos confiantes de que poderemos manter esse ritmo para alcançar a decisão final de investimento em um futuro próximo, ao mesmo tempo que contribuímos para a ambição da Malásia de se tornar um polo regional de referência em CCS ”, acrescentou.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Minera Brasil",
+   "idioma": "pt",
+   "titulo": "Sigma Lithium produz 7 mil toneladas de concentrado de óxido de lítio após retomada da produção industrial em Minas Gerais",
+   "link": "https://minerabrasil.com.br/sigma-lithium-produz-7-mil-toneladas-de-concentrado-de-oxido-de-litio-apos-retomada-da-producao-industrial-em-minas-gerais/2026/10/25/",
+   "resumo_original": "Por Redação A Sigma Lithium anunciou produção de 7.090 toneladas de concentrado de óxido de lítio desde a retomada de suas operações industriais, em 5 de outubro, no Vale do Jequitinhonha, em Minas Gerais. O volume, registrado até 22 de outubro, marca o avanço da recuperação produtiva da companhia, que busca consolidar sua capacidade industrial […]",
+   "data": "2026-10-25T17:00:33-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "'Confusão' e 'consequências amplas': imprensa mundial repercute atraso e problemas de transporte na eleição no Brasil",
+   "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/maiores-jornais-do-mundo-repercutem-atraso-da-eleicao-e-problemas-de-transporte-no-brasil.ghtml",
+   "resumo_original": "Uma mesária senta-se ao lado de uma urna em uma seção eleitoral durante o segundo turno das eleições presidenciais, no bairro do Catete, no Rio de Janeiro, Brasil, em 25 de outubro de 2026. REUTERS/Raquel Cunha",
+   "data": "2026-10-25T18:35:15-03:00",
+   "texto": "Os problemas no transporte público e a prorrogação do horário de votação no Brasil ganharam destaque na cobertura da imprensa internacional neste domingo (25), em meio à disputa presidencial entre Luiz Inácio Lula da Silva e Flávio Bolsonaro.\nO The New York Times (NYT) destacou que condições climáticas adversas e atrasos no transporte dificultaram o comparecimento de eleitores às urnas em algumas regiões, levando à extensão da votação por duas horas em todo o país. \"Votação prorrogada no Brasil, onde a corrida presidencial terá consequências abrangentes\", publicou o jornal.\n\"Embora a votação tenha sido estendida por todo o país, ainda não está claro se quem chegou à sua seção eleitoral depois das 16h poderá votar\", destacou o NYT. \"Algumas seções eleitorais já haviam fechado quando a decisão foi anunciada, o que causou a confusão. Uma vez que uma urna eletrônica contabiliza os votos, as autoridades eleitorais afirmam que pode não ser possível reabri-la para mais votações.\"\nO Financial Times, por sua vez, destacou em sua manchete do site a decisão do Supremo Tribunal Federal (STF) de manter as seções eleitorais abertas por mais duas horas, após reclamações sobre problemas no transporte público em diferentes Estados. O jornal britânico destacou os relatos da campanha de Lula de ônibus retidos nas garagens, redução da frota e restrições à circulação de balsas.\nJá o britânico The Guardian relacionou a decisão a denúncias de possível supressão de votos em pelo menos dez Estados, onde, segundo o jornal, o transporte público teria sido \"severamente limitado\". \"Alguns suspeitam ter sido uma manobra deliberada para impedir que os eleitores de Lula chegassem aos locais de votação\", escreveu o Guardian.\nNa Argentina, jornais como La Nación, Clarín e El Cronista acompanharam de perto a votação no Brasil. O La Nación destacou a “confusão e controvérsia” em torno da prorrogação do horário de votação, anunciada quando muitas seções eleitorais já haviam fechado, às 17h. Segundo o jornal, eleitores relataram ter chegado às escolas após esse horário e encontrado os locais fechados, pois a ordem para estender a votação não havia chegado a tempo.\nO jornal argentino também afirmou que a polêmica aumentou após a manifestação do presidente do PT, Edinho Silva, que afirmou que a suspensão do transporte gratuito contrariava a lei e representava uma interferência direta no processo eleitoral.\nApós a prorrogação do horário de votação, o La Nación destacou as críticas de Rogério Marinho, coordenador da campanha de Flávio Bolsonaro, à decisão do ministro Cristiano Zanin de prorrogar a votação. Em publicação nas redes sociais, Marinho classificou a medida como “vergonhosa e intempestiva” e acusou o ministro, que foi advogado de Lula, de tumultuar o processo eleitoral.\nOs veículos destacaram o peso internacional da disputa, que poderá influenciar a relação do Brasil com o governo do presidente americano, Donald Trump, e os rumos da política latino-americana."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Decisão de Zanin determina que prorrogação vale apenas para urnas que não foram fechadas",
+   "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/decisao-de-zanin-determina-que-prorrogacao-vale-apenas-para-urnas-que-nao-foram-fechadas.ghtml",
+   "resumo_original": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), determinou que a votação seja prorrogada somente nos locais onde as urnas ainda não foram completamente encerradas. O esclarecimento foi divulgado na noite deste domingo (25), após o ministro ser comunicado pelo Tribunal Superior Eleitoral (TSE) sobre o encerramento de diversas sessões eleitorais pelo país. Após este esclarecimento, o presidente do TSE, ministro Kassio Nunes Marques, encaminhou um ofício com a mesma orientação aos Tribunais Regionais Eleitorais de todo o país. A medida, inédita, é mais um capítulo deste segundo tur",
+   "data": "2026-10-25T18:26:15-03:00",
+   "texto": "O ministro Cristiano Zanin , do Supremo Tribunal Federal ( STF ), determinou que a votação seja prorrogada somente nos locais onde as urnas ainda não foram completamente encerradas. O esclarecimento foi divulgado na noite deste domingo (25), após o ministro ser comunicado pelo Tribunal Superior Eleitoral (TSE) sobre o encerramento de diversas sessões eleitorais pelo país.\nApós este esclarecimento, o presidente do TSE, ministro Kassio Nunes Marques , encaminhou um ofício com a mesma orientação aos Tribunais Regionais Eleitorais de todo o país.\nA medida, inédita , é mais um capítulo deste segundo turno. O TSE já mandou paralisar a totalização dos votos , mesmo parte da apuração tendo entrado no site de divulgação da corte eleitoral, com apenas 0,25% das urnas apuradas.\n\"Sem prejuízo das apurações necessárias oportunamente e suas consequências jurídicas, determino que a decisão seja cumprida nos locais onde as urnas não foram fechadas, com a posterior totalização dos votos nas condições enunciadas, sendo que, nas urnas que já foram fechadas os votos serão computados e totalizados, nos termos anteriormente mencionados\", afirmou Zanin em decisão divulgada na noite de hoje.\n\"Senhores(as) Presidentes, Comunico a Vossas Excelências que, nos autos da Reclamação nº 101.673/BA, o Ministro Cristiano Zanin, do Supremo Tribunal Federal, proferiu decisão determinando a prorrogação, até as 19h (horário de Brasília), do encerramento do recebimento dos votos em todas as seções eleitorais do país, incumbindo ao Tribunal Superior Eleitoral assegurar seu cumprimento. Nesse sentido, orienta-se que as seções eleitorais que ainda estiverem abertas permaneçam em funcionamento até as 19h (horário de Brasília), em estrito cumprimento à determinação judicial. Solicita-se a imediata adoção das providências necessárias ao cumprimento da decisão, com a devida orientação aos juízos eleitorais e às mesas receptoras de votos\", afirma o ofício repassado por Nunes Marques aos presidentes dos TREs."
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Adiamento de horário de votação causa confusão entre mesários no país",
+   "link": "https://valor.globo.com/politica/eleicoes-2026/especial/adiamento-de-horario-de-votacao-causa-confusao-entre-mesarios-no-pais.ghtml",
+   "resumo_original": "Urna eletrônica",
+   "data": "2026-10-25T17:32:15-03:00",
+   "texto": "A determinação do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de prorrogar o fechamento das urnas para as 19h em todo o Brasil provocou confusão em seções eleitorais em diversas cidades do país, segundo relatos de mesários ouvidos pelo Valor.\nA decisão foi comunicada pouco antes do encerramento previsto para a votação, às 17h. Segundo relatos, há casos em que o boletim de urna com a totalização de votos no equipamento chegou a ser emitida.\nNa maioria dos locais, a dúvida é sobre a abertura ou não da votação. O Valor ouviu relatos sobre orientações divergentes nas seguintes cidades: Rio de Janeiro, São Paulo, Belo Horizonte, Salvador, Ibipeba e Barra dos Mendes.\nZanin determinou a prorrogação atendendo a um pedido feito pela campanha do presidente Luiz Inácio Lula da Silva (PT).\n“Considerando a gravidade dos fatos narrados, que chegaram ao conhecimento do Supremo Tribunal Federal, e diante da urgência evidente na medida, determino prorrogação por duas horas, até as 19h, horário de Brasília, do encerramento do recebimento dos votos em todas as seções de todo o Brasil, cabendo ao TSE dar cumprimento”, escreveu o ministro.\nSegundo o pedido da campanha petista, o horário de encerramento às 17h “pressupõe que o eleitor tenha tido, durante todo o período de votação, as condições de deslocamento que essa Corte determinou assegurar.”"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Os custos profissionais das cláusulas de não concorrência",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFRCMXcwNUVHbnZMcS1leDBvOUF3bVNFYm5ZUEpxQ0ZnbUlkZ3l4dEJ1UzdlS19VRFpOck02eFJYUGp1bktwTmR0eFVSNmM1ekQzX2xVaU9CQTdaSEVET1ROSzBFUnVablRUVTUwS3YzN29KS1JqbU94ZFNoeGNacjVzblZkcTNVNWxENzNYYXNhdTY3S3B4V0U0cnc2VGs0VE9WQkN5TXZHVVFEMUNvZlgweThMQdIBxAFBVV95cUxNTi1qZkN5VGFSZThXaFVOQU1aRm4yR2VGZU42c2dMN0hQOXZodTJybWlUc3FmN3FiYTVrTlNRUkwyQjZxNDFSN0JlM3NIX1RSU1JPWW5RTlRBZDNBWHIwS1kzX2FOV0oyWGVnbVk1Rl9oSTh1dlJ4cTI0M2pjblI4RXI2UDhzdHEyTTFfMExGSU9HRWdFMms2LW5sRG1xZkI3YXE1ekJYTHJhUDBtaDZjY3JEZTlndUIzYndBRFZWcV9ZZWdk?oc=5",
+   "resumo_original": "Os custos profissionais das cláusulas de não concorrência Valor Econômico",
+   "data": "2026-10-25T07:15:00-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Executivos brasileiros trocam o Vale do Silício pela China atrás de inovação",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/executivos-brasileiros-trocam-o-vale-do-silicio-pela-china-atras-de-inovacao.shtml",
+   "resumo_original": "A foto que antes era feita na frente da fachada do Google agora mostra o logo da Tencent, da ByteDance ou do Alibaba . O vídeo gravado dentro de um carro autônomo da Waymo rodando por São Francisco já impacta menos do que os dos robôs chineses que prometem fazer tudo. Publicações em perfis do LinkedIn de empresários e executivos brasileiros expõem uma mudança no eixo das viagens atrás de inovação: textos e imagens que antes citavam e mostravam o Vale do Silício, na Califórnia, foram substituídos por registros em Shenzhen, Xangai e Hangzhou, na China . É crescente o número de missões organizada",
+   "data": "2026-10-24T23:00:00-03:00",
+   "texto": "São Paulo A foto que antes era feita na frente da fachada do Google agora mostra o logo da Tencent, da ByteDance ou do Alibaba . O vídeo gravado dentro de um carro autônomo da Waymo rodando por São Francisco já impacta menos do que os dos robôs chineses que prometem fazer tudo. Publicações em perfis do LinkedIn de empresários e executivos brasileiros expõem uma mudança no eixo das viagens atrás de inovação: textos e imagens que antes citavam e mostravam o Vale do Silício, na Califórnia, foram substituídos por registros em Shenzhen, Xangai e Hangzhou, na China . É crescente o número de missões organizadas para o país asiático, principalmente, desde o ano passado, quando caiu a necessidade de visto para viagens de curta duração. Nelas, executivos e empresários visitam empresas, incubadoras de startups, centros de pesquisa e universidades. E, claro, também vão a pontos turísticos, como a Muralha da China, e tiram muitas fotos.\n\"O novo está no Oriente\", afirma In Hsieh, empresário de origem chinesa pioneiro na organização de missões para o país asiático. Ele cita uma \"mudança no deslocamento de inspiração\". Um motivo, segundo ele, seria que tudo o que acontece nos EUA chega mais rápido aqui do que o que é novo no outro lado do mundo. \"O modelo de ir ao Vale (do Silício, na Califórnia) ficou enlatado e sem muita novidade\", diz In Hsieh.\nA avaliação no mercado de agências que organizam viagens de executivos é de que há um movimento de manada de procura pela China.\n\"O brasileiro está assustado. Viu muita coisa nova chegar para competir. Agora quer entender o que acontece na Ásia antes de chegar no Brasil\", afirma Fabio Neto, sócio da StartSe.\nA empresa de educação executiva organizou mais de 20 missões para a China em 2026, o dobro do total realizado para o Vale do Silício. A alta na demanda foi um dos motivos que levaram Neto a se transferir para Xangai, em setembro.\nAs viagens de imersão custam a partir de R$ 36 mil, com, no mínimo, seis dias. Os pacotes incluem passagem, estadia, deslocamento e roteiro de visitas. No caso da StartSe, a maioria das missões é customizada, organizada para empresas levarem executivos e clientes, mas há opções para quem quiser entrar em grupos abertos, com vagas avulsas.\nNa lista de empresas que embarcaram executivos brasileiros estão gigantes como Ambev, Bradesco, McDonald's, iFood, Volkswagen e General Motors. Muitas são de setores atingidos pela concorrência de grupos chineses no mercado local.\n\"Precisamos aprender com eles\", admite Fábio Rua, vice-presidente da GM para a América Latina, que esteve em missão na China este ano com outros executivos da empresa.\nO setor automotivo foi um dos mais impactados pela competição com os chineses nos últimos anos. Com mais de cem anos de presença no país, a GM viu a BYD ficar bem próxima do total de emplacamentos nos últimos meses, num mercado que já tem mais de uma dezena de montadoras da China .\n\"Não precisamos ir lá para conhecer a concorrência, ela está aqui\", diz Rua. O objetivo principal, segundo ele, foi colocar os profissionais da montadora em contato com o \"ecossistema de inovação\" do gigante asiático.\nPara isso, visitaram empresas de tecnologia para saber como usam IA generativa, robótica e como evoluíram nos meios de pagamento.\nEntre os destinos obrigatórios das missões brasileiras estão Alibaba, ByteDance, Tencent, Xiaomi, Baidu. Em comum, elas fogem de uma lógica setorial, aponta Fabio Neto. \"A Alibaba, por exemplo, é varejo? Sim, mas é tecnologia, é logística, é financeira, com meio de pagamento, é tudo\", afirma.\nO fato de grande parte dessas gigantes já estar no Brasil teria impulsionado o movimento de ida para a Ásia. \"Quase todo mundo será concorrente ou parceiro de uma empresa chinesa no Brasil\", diz In Hsieh. O interesse prático de quem faz negócios também flerta com outro elemento mais abstrato, batizado de Chinamaxxing. O termo virou hashtag e foi definido pela Economist como a \"fascinação das redes sociais ocidentais por tudo o que é chinês\".\nO fenômeno ganhou força nos últimos anos com postagens de turistas que mostram hábitos típicos locais, aspectos culturais e avanços tecnológicos.\n\"As referências que antes eram dos EUA começam a migrar para as chinesas\", afirma Mônica Magalhães, da agência Moovers, que estreou este ano no mercado de missões para o país asiático.\nCuriosamente, o Chinamaxxing virou algo popular nos Estados Unidos, que disputam uma corrida tecnológica com o rival asiático. Nessa maratona, o domínio da inteligência artificial seria a linha de chegada. A velocidade chinesa na IA foi o que levou a Zup, empresa de tecnologia comprada pelo Itaú em 2019, a enviar 16 funcionários ao país este ano. \"Tem algo diferente sendo feito lá e precisávamos ver de perto\", afirma o vice-presidente Marco Bonas.\nEle cita os exemplos que viu de times híbridos em empresas, com funcionários digitais e humanos trabalhando juntos. \"Eles têm um nível de celeridade absurdo para implementar as coisas\", diz.\nFoi a primeira imersão de executivos da empresa no país asiático. Bonas conta que eles já viajavam todos os anos para feiras e missões nos EUA e na Europa. \"A China agora virou nosso destino obrigatório\", diz."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão",
+   "idioma": "pt",
+   "titulo": "Negociação entre Petrobras e Mubadala sobre refinaria de Mataripe aguarda eleição",
+   "link": "https://www.estadao.com.br/economia/coluna-da-broad/negociacao-entre-petrobras-e-mubadala-sobre-refinaria-de-mataripe-aguarda-eleicao/",
+   "resumo_original": "",
+   "data": "2026-10-25T04:59:00-03:00",
+   "texto": "A negociação para a recompra da Refinaria de Mataripe pela Petrobras está parada há três meses, segundo fontes próximas ao assunto. A estatal apresentou uma nova proposta financeira ao fundo Mubadala, de Abu Dhabi, mas ainda não recebeu resposta. A incerteza em relação ao resultado das eleições presidenciais e a escalada dos preços do diesel levaram o fundo árabe a postergar uma decisão para depois do pleito, apurou a Coluna .\nO preço de Mataripe, segunda maior refinaria do País, com capacidade para processar até 323 mil barris de petróleo por dia, ou 14% do mercado, foi calculado em US$ 1,65 bilhão na época da venda (novembro de 2021), ou R$ 8,250 bilhões com o câmbio atual (R$ 5,03). Segundo a Controladoria-Geral da União (CGU), a refinaria foi subavaliada e vendida em uma época em que o mundo ainda se recuperava da pandemia da Covid-19, e o preço do petróleo estava em torno dos US$ 70 o barril. Hoje opera acima dos US$ 100 o barril.\nA proposta da Petrobras supera um pouco o valor da venda, já que a estatal incluiu as melhorias que a Acelen, braço do Mubadala no Brasil, investiu na unidade de hidrotratamento de diesel (HDT), cerca de R$ 80 milhões, para aumentar a produção do combustível em 25%, o que já foi autorizado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).\nMesmo assim, ainda existe uma grande resistência do Mubadala à venda da unidade pelo preço proposto pela estatal, principalmente depois que o candidato do Partido Liberal, Flávio Bolsonaro, passou a liderar as pesquisas eleitorais. Em uma eventual vitória, a expectativa é de que a Petrobras volte a praticar preços de mercado, pondo fim ao que as refinarias privadas avaliam como concorrência desleal.\nMesmo antes da guerra entre Estados Unidos e Irã, que elevou o preço do petróleo e dos combustíveis, principalmente do diesel, a estatal abandonou o preço de paridade de importação (PPI), adotando, em 2023, uma nova estratégia para os preços dos seus produtos.\nOutro ponto para a demora da venda de Mataripe, de acordo com fontes próximas ao processo, seria o momento do preço do diesel. O combustível subiu quase 70% este ano, impulsionado pelos ataques a navios no Estreito de Ormuz e a refinarias, que restringiram a oferta. “Eles estão ganhando muito dinheiro com diesel, isso também atrapalha o desfecho”, explicou uma fonte.\nSegundo estudo do Instituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis (Ineep), no final de setembro, o PPI do diesel, calculado pela ANP, registrou aumento acumulado de 12,8% em relação à última semana de agosto, chegando ao valor de R$ 6,71.\nA Petrobras não realizou reajustes no preço de suas refinarias, mantendo o valor de R$ 3,33, o que resultou, ao final do período, em um diesel 50,4% mais barato do que a referência internacional. Já a Acelen (Refinaria de Mataripe) encerrou o mês com o preço de R$ 4,88, um aumento de 1,5% e uma diferença de 27,3% abaixo do PPI. A Ream (Refinaria de Manaus, do Grupo Atem) apresentou um aumento significativo, de 14%, registrando o valor de R$ 7,34 ao final do mês - um recorde histórico -, e a única a se manter em patamar superior em relação ao PPI, com uma diferença de 9,3%.\nOficialmente, a presidente da Petrobras, Magda Chambriard, informou em agosto que a companhia continuava negociando a recompra com o Mubadala, mas que a expansão do parque de refino da estatal vai acontecer “com ou sem Mataripe”. A Petrobras pretende tornar o Brasil autossuficiente em diesel nos próximos cinco anos, frente a um déficit atual entre 20% a 30%, dependendo da época do ano. O Brasil ficou 34 anos sem construir uma nova refinaria, jejum quebrado pela Refinaria Abreu e Lima (Rnest), em Pernambuco, que começou a operar em 2014, no governo de Dilma Rousseff.\nEsta notícia foi publicada na Broadcast+ no dia 21/10/2026, às 11:17\nA Broadcast+ é uma plataforma líder no mercado financeiro com notícias e cotações em tempo real, além de análises e outras funcionalidades para auxiliar na tomada de decisão.\nPara saber mais sobre a Broadcast+ e solicitar uma demonstração, acesse .\nMercado financeiro já precificou a eleição? Veja o que esperar de ações, dólar e Tesouro hoje\nEm tempo real: projeção da apuração mostra resultado do 2º turno para presidente\nMobilização nas ruas, Janones e debate; especialistas analisam o que levou à virada de Lula\n‘Dramática reviravolta’ e ‘surpreendente’: imprensa internacional repercute vitória de Lula"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Com petróleo acima de US$ 110, manutenção de subsídios e preço do diesel da Petrobras preocupam",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/10/25/com-petroleo-acima-de-us-110-manutencao-de-subsidios-e-preco-do-diesel-da-petrobras-preocupam.ghtml",
+   "resumo_original": "Plataforma Petrobras 18, no campo gigante de Marlim, na Bacia de Campos",
+   "data": "2026-10-25T21:52:21-03:00",
+   "texto": "O governo que sai das urnas terá que enfrentar um grave problema que não estava no radar quando teve início o calendário eleitoral, em janeiro. A guerra no Oriente Médio, que o presidente dos Estados Unidos, Donald Trump, disse que terminaria em questão de semanas, agora parece destinada a se intensificar ao entrar em seu nono mês, pressionando as cotações do petróleo, os preços dos combustíveis e a estabilidade econômica em vários países. Na última sexta-feira, o óleo tipo Brent chegou a US$ 117, o maior nível desde maio. No acumulado do ano, a disparada é de cerca de 80%.\nOs efeitos do conflito no Oriente Médio não devem terminar no curto prazo, e o governo brasileiro tem que enfrentar o dilema de manter os subsídios para conter uma alta acentuada do diesel e da gasolina nas bombas em meio a pressões fiscais. A subvenção ao diesel, prorrogada em setembro até a data de hoje, deve se estender por pelo menos mais 30 dias. A política de preços da Petrobras também está em xeque. Em entrevista ao GLOBO, a presidente da estatal, Magda Chambriard, afirmou que “ninguém imaginou que nós íamos ter um final de outubro com o barril a US$ 116”.\nDesde o início da guerra no Oriente Médio e da disparada do petróleo e dos combustíveis, o custo do óleo diesel da Petrobras para as distribuidoras permaneceu praticamente inalterado, e a gasolina subiu menos do que os preços internacionais, por causa das subvenções e das desonerações tributárias adotados pelo governo.\nA Associação Brasileira dos Importadores de Combustíveis (Abicom) calcula que a defasagem no preço do diesel praticado pela Petrobras em relação às cotações internacionais já gira e torno de 100%. Em relatório, analistas do Goldman Sachs avaliam que essa diferença poderia resultar em um forte reajuste do combustível após o segundo turno. Os economistas do banco apontam em relatório que o preço realizado do diesel pela Petrobras (incluindo subsídios do governo) esteja 21% abaixo da paridade internacional do diesel, mas sob uma assimetria de subsídios que atualmente favorece o óleo importado em relação ao refinados internamente.\nNa avaliação de Marcos Praça, diretor de Análise da Zero Markets, a nova alta do petróleo pode colocar os preços dos combustíveis no centro das preocupações dos formuladores de política econômica após as eleições. Segundo ele, o governo terá que tomar “uma difícil decisão”: manter o subsídio e absorver grande parte do impacto dos conflitos no Oriente Médio, mesmo que seja necessário algum tipo de “malabarismo econômico”, ou enfrentar o “descontentamento da população” com um salto nos preços dos combustíveis.\nEm relatório publicado na sexta-feira, economistas da XP avaliam que o governo esteja gastando cerca de R$ 9 bilhões por mês com subvenções ao diesel e à gasolina, mas ponderam: “Como o Brasil é um importante produtor de petróleo, parte do custo dessa política é compensada pelo aumento das receitas governamentais decorrente dos preços mais elevados do petróleo. Com preços acima de US$ 105 por barril, o impacto fiscal líquido torna-se positivo, criando espaço para ampliar os gastos com subvenções a fim de mitigar o impacto inflacionário”.\nO ministro da Fazenda, Dario Durigan, afirmou que, se o petróleo continuar com preço alto e as receitas extraordinárias ligadas à commodity seguirem crescendo, o governo pode continuar a política de subsídios aos combustíveis para atenuar o impacto da guerra no Oriente Médio sobre os preços na bomba.\nAtualmente, está em vigor um entendimento que permite uma flexibilização temporária da Lei de Responsabilidade Fiscal (LRF) para permitir a compensação de renúncia de receita com a arrecadação extra relativa ao petróleo, devido ao conflito no Oriente Médio. Mas só vale para 2026.\n— Se o Brent continuar em patamar muito elevado e a gente seguir percebendo que vai ter recurso adicional, é sim possível, e acho que essa deve ser a proposta do presidente, manter essa ajuda para suavizar. Não é para tabelar preço, congelar preço, mas para evitar que a inflação estoure e prejudicar o prato de comida — disse Durigan em entrevista ao UOL.\nDurigan afirmou ainda que a manutenção do imposto de exportação sobre óleo cru, criado também no âmbito da guerra, terá de ser avaliado a partir do cenário sobre o abastecimento. Segundo ele, o tributo é regulatório, para direcionar a produção para as refinarias domésticas, mas tem um efeito fiscal secundário.\nA alta do petróleo favorece as contas externas do Brasil e aa ações da Petrobras. Os papéis preferenciais da estatal subiram nada menos que 110% este ano, e o superávit comercial da balança de petróleo e derivados do país atingiu US$ 31,22 bilhões de janeiro a setembro, 40% a mais que em 2025 e recorde de toda a série para o período.\nCom a guerra no Golfo Pérsico e as dificuldades de passagem pelo Estreito de Ormuz, o Brasil ultrapassou a Arábia Saudita como o segundo maior fornecedor de petróleo bruto para a China nos primeiros nove meses de 2026, segundo dados alfandegários chineses divulgados na semana passada. A China importou 44,29 milhões de toneladas de petróleo bruto do Brasil durante o período, em comparação com 43,12 milhões de toneladas da Arábia Saudita. As importações de petróleo da Rússia, que é a principal fornecedora do produto à China, totalizaram 9,94 milhões de toneladas em setembro, ou 2,42 milhões de bpd, um aumento de 20% na comparação anual, mas uma queda de 11% em relação ao mês anterior.\nTrump disse ontem à Fox News que “está chegando a hora de decidir” se fará um acordo com Teerã ou “acabará com tudo”. Enquanto isso, o ministro das Relações Exteriores do Irã, Abbas Araghchi, afirmou que, se houvesse racionalidade, “eles não tentariam” um ataque.\nOs investidores se preparam para um período crítico de negociações, com as eleições israelenses marcadas para amanhã, seguidas pelas eleições de meio de mandato nos EUA, em 3 de novembro. Entre os dois eventos, o Federal Reserve (Fed, o banco central dos EUA) se reúne para decidir de sobe ou mantém a taxa básica de juros no país.\nNos últimos dias, Washington ordenou uma evacuação mais ampla de pessoal diplomático de todo o Oriente Médio, enquanto o presidente Trump insinuou repetidamente que suas forças poderiam retomar os ataques após as eleições de meio de mandato. Por sua vez, o Irã está se preparando para retaliar, inclusive contra Israel e os Emirados Árabes Unidos.\n“O aumento dos conflitos na região, aliado à preocupação de que uma escalada esteja próxima, significa que os mercados de petróleo precisam precificar o risco de esgotamento dos estoques de petróleo e derivados — afirmou Vivek Dhar, analista do Commonwealth Bank of Australia”, em nota."
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Próximo governo terá 41 cargos a preencher em agências reguladoras, BC, CVM e Cade",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/10/25/proximo-governo-tera-41-cargos-a-preencher-em-agencias-reguladoras-bc-cvm-e-cade.ghtml",
+   "resumo_original": "Montagem fotográfica O GLOBO: energia, saúde e mineração são setores acompanhados por agências",
+   "data": "2026-10-25T04:00:00-03:00",
+   "texto": "O próximo governo federal, quem quer que vença as eleições, terá 37 cargos, ou 66% do total, para preencher nas diretorias colegiadas dos 12 principais órgãos reguladores da economia — dez agências que regulam setores e mais o Banco Central (BC) e a Comissão de Valores Mobiliários ( CVM ), que regulam o mercado financeiro. O número sobe a 41 se forem considerados os conselheiros do Conselho Administrativo de Defesa Econômica ( Cade ), que monitora a concorrência.\nFlávio x Lula: Compare os programas econômicos, do fiscal aos programas sociais Entrevista exclusiva: Presidente da Petrobras fala sobre preço de combustível e investimentos\nAtualmente, as dez agências reguladoras estão com 15 vagas em aberto em suas diretorias colegiadas. Somando BC e CVM, o número sobe a 18. No Cade, são três cargos de conselheiro vagos.\nAté o fim do ano, mais sete posições ficarão abertas em todos esses órgãos, por término de mandato dos dirigentes. Em 2027, serão mais 12 postos disponíveis, incluindo o Cade, segundo dados públicos das instituições, compilados pela Associação Brasileira de Agências Reguladoras (Abar) e pelo Centro de Regulação em Infraestrutura da Fundação Getulio Vargas (FGV Ceri).\nA ANM, que regula o setor de mineração, tem dois cargos de diretoria vagos hoje. Até dezembro, terminam mais dois mandatos e a agência chegará ao fim deste ano sem quatro titulares. A ANS , que supervisiona os planos privados de saúde, tem hoje três das cinco vagas da diretoria colegiada sem titulares. O BC, com duas diretorias não preenchidas hoje, terá mais quatro mandatos terminando em 2027.\nNas mãos do Estado: Debate sobre estatais vai além das privatizações: próximo governo terá de analisar venda de ativos e investimentos Novas medidas: BC proíbe ofertas de crédito para clientes em vulnerabilidade financeira sem autorização prévia\nAté o fim do próximo mandato presidencial, em 2030, praticamente todos os cargos de diretorias colegiadas poderão ser trocados. A lei de 2019 que definiu regras gerais para as agências harmonizou os mandatos dos dirigentes para cinco anos e mesmo quem foi nomeado há pouco terá a gestão encerrada até lá.\nOs diretores de alto escalão desses órgãos tomam decisões que envolvem bilhões de reais, tanto em lucro de grandes empresas quanto em investimentos que geram empregos e movimentam a economia. Combinada a restrições orçamentárias e falta de pessoal técnico, a vacância acaba atrasando fiscalizações, condução de processos administrativos e decisões regulatórias.\nDo salário mínimo ao Bolsa Família: Lula e Flávio apresentam divergências sobre benefícios sociais e trabalho\nNo setor de petróleo e gás, alguns dos temas centrais que poderão sair prejudicados são a abertura do mercado de gás natural, a autorização para a exploração por fraturamento hidráulico — conhecido pelo termo em inglês fracking, método que impulsionou a produção nos EUA — e a exploração de bacias pouco conhecidas em regiões sensíveis do ponto de vista ambiental, segundo Claudio Pinho, professor do curso de pós-graduação em Transição Energética Justa da Mackenzie Rio. E a composição do colegiado da ANP tem poder para impulsionar ou não os temas em discussão.\n— O ideal é indicar nomes que conheçam políticas públicas e regulação — diz Pinho.\nNo setor elétrico, a Aneel tem temas urgentes de regulação, como o fim de concessões de hidrelétricas e o papel dos subsídios, que custeiam o incentivo às fontes renováveis e o desconto na conta de luz dos consumidores de baixa renda.\n— Os subsídios, sobretudo os destinados às fontes renováveis, já não fazem o menor sentido. O setor já está maduro e tem custos decrescentes. Como a tarifa é uma das mais caras do mundo, não há como cortar os subsídios destinados à população de baixa renda, mas seria um erro grave aumentá-los — diz Edvaldo Santana, ex-diretor da agência.\nEleições: Incerteza sobre propostas de candidatos freia euforia do mercado\nNo setor de telecomunicações, os processos para licitar frequências, a revisão do regulamento de segurança cibernética e o compartilhamento de infraestrutura, como postes e cabos submarinos, são temas que precisam ser tratados pela Anatel , diz Andre Gildin, da consultoria RKKG:\n— O Conselho atual tem DNA técnico, mas a porta de entrada para as indicações muitas vezes é política.\nA agenda regulatória tornada pública pela ANS, que supervisiona os planos de saúde, prevê discussões como a criação de regras para a definição do reajuste, o aprimoramento da portabilidade entre operadoras e a regulamentação dos cartões de desconto. Para o advogado Rafael Robba, especialista em Direito à Saúde do escritório Vilhena Silva, vagas em aberto prejudicam a resolução de questões estruturais do setor. Com diretores interinos, “a agência acaba resolvendo apenas questões pontuais”.\nNo caso da CVM, que regula a atuação de empresas de capital aberto e fiscaliza a conduta de executivos e investidores, a ação afetada “é o julgamento de processos administrativos sancionadores”, diz o órgão, “em razão do menor número de relatores de processos”.\nEleições: MP do Trabalho recebeu 782 denúncias de assédio eleitoral desde o 1º turno\nNo caso do BC, além da fiscalização da atuação dos bancos, atividades relacionadas à condução da política de juros e avanços tecnológicos no Pix podem ser prejudicadas. Uma das vagas em aberto no órgão é a Diretoria de Política Econômica, diz Guilherme Solino, vice-presidente da Associação Nacional dos Auditores do Banco Central do Brasil:\n— O modelo de inflação do banco está abaixo dessa diretoria. A política monetária depende de projeções de atividade econômica."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Fim da escala 6x1 deve dificultar contratações no setor de petróleo e gás, sobretudo em plataformas",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEhHd2hvV0VLQV9tdnl6c0Vjb3o1SVBZaWozVXJmcTZTeGlJRmt4a244RXIxb2xGbVJ2WDFGdWxIOWhWeXduLWtKTG1KV3FkemhLY2FjdTM5TGFwVXU1clVfV01XTzV5RE12MWRfYW9CZk1LUlhCOXFnTjU2WkVhZ2paa0VkWm82QXJZWm93dy1zUkk1bm45VnNWdDg3QkQtdGFhSDhPMVlncU81Z3Q3R3ZhNzVjQ0NqS2JwMUQ2ZW5IY3I0Nlg4amZkV1huTnBUUjNWYW04R1o1RDA?oc=5",
+   "resumo_original": "Fim da escala 6x1 deve dificultar contratações no setor de petróleo e gás, sobretudo em plataformas Estadão",
+   "data": "2026-10-25T21:40:26-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas de NY caem com novo salto do petróleo e temor com IA; Treasuries também sobem",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOODlrb0NaRU1xX0xfWnIwVC1zb1lNX0hFejRWZFFNaURBMkxLdVRHa1JuSFhoVmVhTnBFcWNHWXFTVjJ1eG9oWlNoWmtRRS02LTVNVDdYTnZsZDVWZUZrdXRmM094NGxqaGlIbGxFQzlEZ0VHRktqZ2pWSUZJZjNUNnR3bW5sS2RScXhXdHpOSUpfV3dIVUdOUy1ycjZHeGtjR0ZGSGxYQlJIZlUxYnk0VklhUXA5c2UxcU5DRnd6UjFmUU9fZFQtSUlmb29SNW9SekxaeGt3SkdVZXV2TkdV?oc=5",
+   "resumo_original": "Bolsas de NY caem com novo salto do petróleo e temor com IA; Treasuries também sobem Estadão",
+   "data": "2026-10-25T17:35:49-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas da Ásia sobem na maioria, mas petróleo e temores com IA limitam ganhos",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3M2U2xuUUF4MFBWZHlncEFsUlVpeFJURjZkVkN3bEZVMFFVWmdhZTM1VEFDbGlWeENYR1hQTGVOQ1BuZFZXVEtQV0tSYXRMcU94aWJKa2pua09GZXZ3MURYNEc1dVkwUGRQNnJsM2V3akxkc1Qxa2ctRmN0dlZuYVo0akkxZ1djME43cHMtUklFM2tTeUVvTVFEbHhYNHVrOGJEdnltQUtXYWpTVGhqYmd1aTlEd1JiemUyaktjdkdjN2FyRGc2eGF3?oc=5",
+   "resumo_original": "Bolsas da Ásia sobem na maioria, mas petróleo e temores com IA limitam ganhos Estadão",
+   "data": "2026-10-25T19:34:01-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Venezuela afirma ter maiores reservas de petróleo do mundo, mas especialistas contestam números",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmZpal8tU0tyckRrNEZKMHJqclVTRXhDRjllVm9ENS03NnR0U2dTbHBIdU51eXVxOWhhVVlhX1VOSGRrekJoVGlPS2wteTBvdUE0Y29BY2ZWTG05SjdxSWJQMXhDWWtod29kUWdydWdUeUlZVHhNSE44NTZLWC1IM3FoS0gtc0V5NThQUXRHREs0ajZHQUVSRWVqblp1NWtadmxxeWY3clo3NXlvaU44?oc=5",
+   "resumo_original": "Venezuela afirma ter maiores reservas de petróleo do mundo, mas especialistas contestam números Estadão",
+   "data": "2026-10-26T00:55:48-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas de NY têm queda forte com dúvidas sobre IA; petróleo salta 4% após ataques do Irã",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdmJFb3ZNNzAyLW9TdXlLbld2YWNYX1VHZW1DbS0walBrR20zbllkc1V4NGJGLUxJSV95dlltV1JMczBDNVNZTkhGZWFUR0ltT3RIbFQtcmlkbWxYN05Ca3AwcmJCX3JjVjBYbHl5VkhlQkNJaUtXTW03TV8td3EzMlJRNTFOaExORTR1dFFPY3hWbVRHRVR2VWYzdUZtUzJHWnpsMU14RVdDWXlLVUM4WUpWU2NIbHNKWDk4NDd2MXhKT21mZWs2ZkFEWlNsaWpFNkRrMXY3YW5TR01tanc?oc=5",
+   "resumo_original": "Bolsas de NY têm queda forte com dúvidas sobre IA; petróleo salta 4% após ataques do Irã Estadão",
+   "data": "2026-10-25T03:49:29-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas da Ásia fecham em baixa com alta do petróleo e temor sobre IA",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX3JiRHpMaF9zRnFmMkwxdDdoLWc1X21ydHFGdUdBb0tsWXY3WGs5N21tWnRjR3g0NmV2aE93aTJSRWNaUzctSFVLUk9LNU84d1hnQkxreVYzZUpFOWU0SVgyZ3RHbWVFeHFsQU5ZWllrRXk1YmZtUno0VkRkUHI0RGdUd2p0U3c3MDJOamk0TUlGaGFLRUpzbDBDOWZQdHh5dGRRWWgzRDNRR1JfZm5oRlVDZGp4Z0ZWWDZhOV90S19SWmkwd2hnc1BxRUwxX0wtaDI1ZGNR?oc=5",
+   "resumo_original": "Bolsas da Ásia fecham em baixa com alta do petróleo e temor sobre IA Estadão",
+   "data": "2026-10-26T01:40:52-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [
+    "Mineração"
+   ],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 113; Vale recua 4%",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1VDaXNqZ2FiZmlJZnRzTEFBZnUwdkRHVDJKbU9seE1hQno0aXQ0UlFDYWdMTVNMc1ZQWnh5NXN6emVFVVMyaS10Ql93QUUzSHlSMDR2QXBDMFpGYWsyTlU4bVY3OEUwSEFVdTBVUHRoV2QxV3V4dnVpaGNOTFpaQlpCR3ZrSngyQkREb0JqRTllVFNNSHdWV3RBbzBwZVpuZ1BXS2o2SlhyMFpmY1lnMGg0TTRJamhNSTlxMnNVSzRaM05ZTDE5ajVxcGVIXzViUFlVc0JfeDVoNmtNNnFnLWQ2a3JTdXB1VW9GLQ?oc=5",
+   "resumo_original": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 113; Vale recua 4% Estadão",
+   "data": "2026-10-25T23:48:05-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petrobras (PETR4) bate recordes com petróleo em alta e cenário eleitoral; o que fazer com as ações?",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPczBxY2ZjbGJMb2NWMzlUMHpydEYzUFM4bFQ1Wms0cW9tbUhZWjdlV21McjBkSUQzV1ZhbUtrVHh5R250d3cwQUhhbW1SUkNrZFNUamZPVGJGZ2hCZnh5bWdMX0RMTXRiY1QzUlpmZ24yN1pnMDZSWW9kd1ZaNnpuRkJhdXpKUkxjY1ItYkhmX0p3UmRrZXFMajdEU2FqU1hud2p1aHFGbVh3UFBsSHdQbVd6WDd2RUxQTFFRazdpMGdLam8ybVlvT2g1QUFxUU1iSF9MRFhxNVo5S2pWMmhXUV9XME83TklLWTA5a0RQRnYxNDBr?oc=5",
+   "resumo_original": "Petrobras (PETR4) bate recordes com petróleo em alta e cenário eleitoral; o que fazer com as ações? Estadão",
+   "data": "2026-10-25T01:38:51-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Agência de Comunicação - Sigma Lithium produz 7 mil toneladas de concentrado de óxido de lítio após retomada da produção industrial em Minas Gerais",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWjBoNXZZa2hhcjZEMkhFM3BMRmp2UWl1TWQ3MXlPaEtENExLSnZxcFRvQlYtOFQ5SU1lZ0w3RjNzVERFUFVLNnpDcGFPeTdkN3dVQjR6SldyWEdwSVU3Nmt5MkRJQWFRcURwTzlISjBWMDRNTEVrMHBBNmhYNmJsZFRDaEJQQmJjTVhwUjFucTZiSWYxQ0hndC1EdGlkM2J4aVczRXI1MTJGNTR5U085LWdsWGpqOWNUQWRnc3oyd2FieEt3T3dQdGx6bW0wRkRlQUZja1RwWlBDNDI2S1AxTXNWdUxqaVFsNzhqa28yX2U5SlZEeXNycV9pWk9Ydk16c0p4N2twT1dOQzJBX240cW13OFdYRHYtQnJSaVVNMnpPMEhsWllGay1B?oc=5",
+   "resumo_original": "Agência de Comunicação - Sigma Lithium produz 7 mil toneladas de concentrado de óxido de lítio após retomada da produção industrial em Minas Gerais Estadão Blue Studio",
+   "data": "2026-10-25T17:49:54-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Tudo sobre Energia elétrica",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95UjhQNEdneERNNTFYcDlHZmpLTEgzQWN0RjZsUmpXS0VoTWpVVFdabXRKc2R0TC1aUm55czN2ZXFqR1JTZEFXQWRYTmxQNkh0NXZmd2lkblFZRkdrZnM5OXpJczE5LVozWl8ydGdXekotQXZfTEE?oc=5",
+   "resumo_original": "Tudo sobre Energia elétrica CNN Brasil",
+   "data": "2026-10-25T14:21:34-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "De terras raras ao tarifaço: os desafios de Lula na política externa",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3dtc2pHNGxmX3pONnZuQzdQVF9nWmNlWDVPeElxX1lBcGJlTVllY01LYjVvejNOU1NWZm9qbDdJTXVRdnhkV1FxQ0s1MXgyWDViQ0xVV0xlTEs5UDNxUnFOTTNqODZ0NV9nR0JMb1JTTG1YY2Q3R0JLR1JRbmVEejJXRnd6ZkhXdXl3RnpWZ3l4VGtYOTNrcFZzdlhiRWVBMm9aSU5EazRmdw?oc=5",
+   "resumo_original": "De terras raras ao tarifaço: os desafios de Lula na política externa CNN Brasil",
+   "data": "2026-10-26T04:00:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Rússia se diz pronta para fornecer mais diesel aos EUA",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmFKRUlPdWpEQjF5eXJSYUxHSXZVU0llTmNQZVVEQ0NGbUhNMF9ZZVpweDNrb2J5ZV9Rd0RIUGpmTV9jRzZrcVVqUEIwd3lPcVdDbERpRDNtdC1KRnhibXVHOGxlZVI4ME9YNm1VX1hQcy1kU1MybHJDekl4Ni1Qa21VWmdGREM3U2NEaUhROEYwTk9TcVhpNGliXzBVbTQ?oc=5",
+   "resumo_original": "Rússia se diz pronta para fornecer mais diesel aos EUA CNN Brasil",
+   "data": "2026-10-25T09:45:59-03:00"
+  }
+ ]
+}
