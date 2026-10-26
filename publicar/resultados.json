@@ -57,9 +57,9 @@
     "id": "2026-10-26-instagram-escritorio-reel-1",
     "rede": "instagram-escritorio",
     "tipo": "reel",
-    "status": "enviado",
+    "status": "erro",
     "link": "",
-    "erro": "",
+    "erro": "The account is missing some permissions to perform this action, please re-add the account and allow all permissions",
     "quando": "2026-10-26T08:46:41.000Z"
   }
 ]
