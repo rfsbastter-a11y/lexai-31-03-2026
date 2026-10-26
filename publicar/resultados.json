@@ -61,5 +61,14 @@
     "link": "",
     "erro": "The account is missing some permissions to perform this action, please re-add the account and allow all permissions",
     "quando": "2026-10-26T08:46:41.000Z"
+  },
+  {
+    "id": "2026-10-26-linkedin-ronald-texto-1",
+    "rede": "linkedin-ronald",
+    "tipo": "texto",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-10-26T11:51:54.000Z"
   }
 ]
