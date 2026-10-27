@@ -2101,5 +2101,180 @@
    "resumo_original": "Melbana vê oportunidades com abertura do petróleo cubano a mais investimento BNamericas",
    "data": "2026-10-26T13:07:45-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 27/10, 04h50 (Brasília). Dados brutos em `raw/2026-10-27.json`. Ficaram de fora a repercussão eleitoral e de mercado (bolsas, ações de estatais, discursos), processos nos EUA sem relação com o Brasil e notícias de empresas sem ato regulatório.",
+  "destaque": {
+   "ids": [
+    "https://megawhat.uol.com.br/armazenamento/aneel-deve-reduzir-garantias-e-flexibilizar-regras-dos-leiloes-de-baterias/",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTJsekM2eTVjR0hyS1JicUtrUDBpcUxFYV9felJIZFI3UjJ6QjVIcG1jWnVkRFBTUVM3Q0VWRW5YdWI3SS1mbVBHY1dtUmRBRGt0QlNfcnNfQ0RzVFRILXh2Qm9adDdjR2E5andFQkY0V3Q0UXJjWlExY000cmtIbVZ2Zmh1VS1xcGtGdi1mNGxsM1QxRHdkVDdWZGpaMkI1dGgweDBB?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRG5VZ0FNS0RvR0hKdTYtbV9QalJoWFBqMGpwVTMwUk81VkNIOFZLa1FOTUM1VnljZjkxTjJpbURhbXR6Skd6UE05Wmw4ZlZrQXgwMng1X3BqbTZLQ2tURmd4cTVWRl9ickRzWDItVTZFczRCRDdvRWpOdHI0Q0FuZVV6SUg1UzNiUGp6TDZvQ21FY0kyZjJXVkVfT19penhVVHlhVE1STWJPUTVNTzZvaWdYSEZXM2xTZ2lQV3FFRVdnUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDAxSEhsZnlnOHF1XzBaNmJLZE5VUmN6X2ZkdXNmZ1VHWnpkZy1kZFRBNjI3ZFNJMnRnS0lZY3BpQS0weHBnSU1pUnNpUVpXZk5SNXA5dF9oNjFRVWgtUUJZdmJCRVl5R1ROQ0VHQ3U0VnZVUV95bnRnZ19FNXFhdlRtR2M1SXB6WndjdE9lSFRYcFhRd0UxWnhvYjR5VVE1NjEyT01XM0tWai15REc1QUc3dnpLb0xC?oc=5"
+   ],
+   "titulo": "Aneel vota hoje os editais dos primeiros leilões de baterias, com regras mais flexíveis",
+   "texto": "A diretoria da Aneel se reúne nesta terça (27/10), às 16h, em sessão extraordinária, para aprovar os editais dos leilões de reserva de capacidade com armazenamento em baterias, marcados para 2 de dezembro (com conteúdo nacional mínimo) e 4 de dezembro (geral). Segundo a MegaWhat, as áreas técnicas acolheram parte dos pedidos das consultas públicas e propõem flexibilizar regras, incluindo redução de 39% nas garantias financeiras. Podem participar sistemas a partir de 30 MW com quatro horas de autonomia, e a entrega de potência começa em 2028. O ONS revisou as margens de conexão para as baterias, e associações pedem mudança no rateio dos custos e a aprovação do projeto de lei do encargo de contratação. A publicação dos editais está prevista para 29/10."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-julga-41-processos-e-aplica-mais-de-r-164-milhoes-em-multa-durante-defeso-eleitoral"
+    ],
+    "titulo": "Cade julgou 41 processos e aplicou R$ 164,8 milhões em multas durante o defeso eleitoral",
+    "resumo": "De 4/7 a 25/10, o Cade também firmou 12 acordos, abriu duas consultas públicas e analisou 255 atos de concentração."
+   },
+   {
+    "ids": [
+     "https://www.poder360.com.br/poder-economia/itau-anuncia-compra-da-neospace-por-quase-r-3-bilhoes/",
+     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVRoVjhfak5pa1haWkxYRzZITU9FS3RmME05a2U3WFJoN3NTWHljVTJLdHpEVjFBU2FLT0NBalB2U2hDNXBwRHhmNFROTXRSY1B5a25yV3VKeHh4QjFhN3lRb0poN2dicEM5YUtaUUJKRTMxVWRkQXlZcndWTTVLOGkxUHJ5NS04V0JFODVZY01VSnN4SUE4cTdBMTVKcndzc0RTMUhaeURBbUxNZ3JzUjd5ZDRJNkotZmlQczVmRktjYlNqWDlta3Fsc1BnX21UU0tUNTdTRkZ4UURWT2VwMUxZck1DRDTSAewBQVVfeXFMUDZOQzZQTXRBWXZsOHlOOTlaMUZmeXhFdnFCSHlBcTA3enFVX2FCdDZRSG54dW81cWZsc0N3Z3M1UDcwSXg4WDNRLWJVREdIaEk3TnhtVEdjVDAzaGtwZmFrMDVteE9rX0RlcGRSVVJFd1ZIX2dCdEhmOVQwT3RyazlGYUgxdzIyWFdKcG5OZ185Vkc0UFotMTJMXy1GMjFIdllZT3V3LTdkTUEzSF9aaE1uNkFSbnFTRnBvR2lXd25oOXh0X05RZnlzSXNSdEdLY29lQ2pJdHNXZGNFTXBBZzFkbW9nYmFpVXpPYXM?oc=5"
+    ],
+    "titulo": "Itaú anuncia compra da NeoSpace, de inteligência artificial, por quase R$ 3 bilhões",
+    "resumo": "A startup desenvolve grandes modelos fundacionais de dados; a operação deve passar pelo controle de concentrações."
+   },
+   {
+    "ids": [
+     "https://valor.globo.com/empresas/noticia/2026/10/26/uniao-europeia-adia-decisao-sobre-compra-de-ativos-de-niquel-da-anglo-american-no-brasil-pela-mmg.ghtml"
+    ],
+    "titulo": "União Europeia fixa 21/12 para decidir sobre a compra dos ativos de níquel da Anglo American no Brasil pela MMG",
+    "resumo": "A Comissão Europeia estendeu a investigação antitruste depois que a compradora chinesa apresentou concessões.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2542257?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "CMA investiga compra da Ramsdens pela FirstCash por £ 232 milhões",
+    "resumo": "O regulador britânico abriu análise da aquisição da empresa de serviços financeiros pela rede americana de penhores (traduzido)."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2542367?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Google diz que remédios propostos pelo DOJ vão além da decisão no caso de monopólio",
+    "resumo": "A empresa contesta na Justiça de Washington as medidas sugeridas pelo Departamento de Justiça e pelos estados (traduzido)."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdm1VYlFsU3JTblNBb2hKenljZjdSSE9TVDRBTHY0UHRQWVhfcUJqQ0xhb04zbG00eFRQOHFsWVh2aDlEMC1RWjZ2VXpEQWRXbFY2YmtUTUxWV2RLMmY1U0tiQzVEUElIZC01YlpTTmVhOTJ0Sng0M2ZQR3kyMmRuaXlYbGFxeG9ydFZDQWc1ZHFMR2h1?oc=5"
+    ],
+    "titulo": "Leilão de Transmissão 4/2026 será na sexta (30/10), na B3, com R$ 8,9 bilhões em investimentos",
+    "resumo": "Oito lotes com cerca de 1.866 km de linhas em BA, GO, MS, PB, PR, RO e SP; prazos de 42 a 60 meses."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/geracao/ons-atualiza-dados-usados-para-calcular-geracao-e-precos-de-energia/"
+    ],
+    "titulo": "ONS atualiza vazões e dados de reservatórios usados no cálculo da geração e dos preços",
+    "resumo": "As novas séries entram no PMO de novembro, que começa em 29/10, e podem alterar despacho e preços; a revisão atende plano do MME de 2018 sobre garantias físicas."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUzdCaUlJcHhYaERVSFRQb1JQMW9tdFFzbEdqYjhLY2pBMkdQb19Dc054RlNpRmtubUR2N0VnQlF6eGxEQUpsZU9Cd3J5Yl9FNGRnaE5PVHR6bDZfNF9JMHJTMnVjdEEweDczcG5vaWFqX3VFUUtzMEtEWjg3UDh4emE0RmZhZGhjMFBMemhIOExUUFNpWm91UVlTb1J4XzREU2tOdS1oME1Ia2RnU1NIcW5NQ2o?oc=5"
+    ],
+    "titulo": "Aneel quer avançar na contabilização e liquidação do mercado de curto prazo em 2027",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd09sXzVvRDUwLXRFazlKU2wwVFh3NVljMWQxQmJQeUtXb29qd0U1TDhTRnYzV0UzQzhyaWFCV1B4QUF3S3RWVHIzYTlEOEQxTE9GYXZweUN1NUp0dG1PcEc0TkJxU25wWXpTZ01KQktWamNlSkhMbmYtSVlQQnRBQ2tkdWhydWxudUtrTTV4YXBiTnVNWUF3TTJPNmxzeEEtVWk5bElaSHpGNEpCamp3SnM2S1dCT0dOYjEyNXZWUmFPVW5nNEswNmRpNA?oc=5"
+    ],
+    "titulo": "Aneel projeta alta média de 9,4% nas tarifas de energia em 2026",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVhwaWxvRUo1UmdvU2RxbUVTdHpURjJZb2plbDlzeEh0Rm9ITW5VdEtUT09JeVRsbllNTHBTSWRXeDFwbVlaQm9EMUJBT2g3Y2dGZ3lpZmdhbl9iMm1wQ1dPN01UT1B0UjUyNGRnWVlLRmtZZmVHcnhpUTRHOXBidWVNQnBrQlJadkhjWWc5MGV6T0ZFTkpwRUQybGZXTWQzZUVMeU81QXczZzA0dmFNLUIxclM?oc=5",
+     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajZROUZKVHNjcVUzeVNiek45d0dwVjVYc0t5czBZNW5yM042dEZBYzFqazJwNkVVeFFJTUUzWTBrOXN2VC1PTmtuTHREMHQ0RXk2N3JEelZ1b0lrYnBsVWZaelBrRmIyYXIyaThsZ0stMnV4X0NpUm5sdTZQZnItbVhEcVduVXZmZ0RQSTB3b09MZTFTWWN2ZF9qWGpXYzFlVUU0LTdsSVE5VFpZSW1iNWxFYmozZHE4S3c?oc=5"
+    ],
+    "titulo": "EPE recomenda R$ 689 milhões em reforços na transmissão da Grande Vitória",
+    "resumo": "A proposta inclui nova subestação para reforçar o atendimento à região metropolitana capixaba."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWklObzJyRE9fcWFtQTR6SGYtWUVKWFJQbGZQVWwwWUxNNHd3eTlmaGNrR1V0cXkxWlR6bkdQVGducENOSGU5dmJaclJoVEN5U3ZrRXh6TEdYVkUzRWZhSVZwSEsxRWlLMFJ3NUhYMnVIZmdhVTN6SjdKX1RfQUJOZlh0dDZsemo4U2dxTlp6eVdVM0dSdm02STE1M2Z3c1Q3N0hOVVE4d212bWo3blRIenNmNW92cTlWMTB6NFFobw?oc=5",
+     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUW1ESmRVTm1sU2t6SjJMV1Q3d1U0aE5mSTlrU0hsQlV1Yk1Id2VHQTk1blBqMVdJaGlPbW9xSVY3STBuNThmanEtcTNQOEJIei1kZnVuUWVGRHMzSVRZNmlXZnpEaVdZT0pyTjdob1l0TEF5Q0dib3dnOFNVQUI2RS1pbWhOQlkzTUZpR0FXNi1ReEg2Yl9Kdnoxd2N3ZG52TEdHQTQyLUZFV3RfOG9MeGM5SmFzclc2?oc=5"
+    ],
+    "titulo": "MME abre consulta sobre metas do programa Energias da Amazônia para 2030 e 2035",
+    "resumo": "A proposta prevê reduzir em 75,9% as emissões dos sistemas isolados até 2035, com base em 2022."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/megaexpresso/transmissoras-querem-reconhecimento-de-prejuizos-por-eventos-climaticos-edicao-do-dia/"
+    ],
+    "titulo": "Transmissoras pedem que eventos climáticos extremos não reduzam a receita",
+    "resumo": "As empresas querem critérios objetivos para queda de torres e outras ocorrências na aplicação da parcela variável."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/axia-viabiliza-ofertas-agregadas-no-programa-de-resposta-da-demanda/?utm_source=rss&utm_medium=rss&utm_campaign=axia-viabiliza-ofertas-agregadas-no-programa-de-resposta-da-demanda"
+    ],
+    "titulo": "Primeiras ofertas agregadas no programa de resposta da demanda somam 15 MW",
+    "resumo": "Cargas de consumidores do mercado livre foram consolidadas em ofertas de até R$ 991/MWh."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPczlSdDBlVEhldWZOaHFPSDMwM0E4OTg2YWU3dklzdGIwcWZRZDlKT2hOZ2ZBdVEzMmx2alRMamQ3NER3SlZMZUdNd1JNamZXOTl5bEpCdWdDWEUzeGplcXFDZThubTBBR2xqblVLN3RRajdVclltaUZmYlp1VFBKLVFrMGRCLTE3OFFIb1RzMFU3Q3hYRm5hREk2UVZYODFjTUllcld3?oc=5"
+    ],
+    "titulo": "Data centers podem chegar a 5 GW no Brasil até 2031, estima associação do setor",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/petroleo-e-gas/ppsa-anuncia-10o-leilao-spot-com-45-mi-de-barris-de-petroleo-do-campo-de-buzios/",
+     "https://agenciainfra.com/blog/ppsa-ofertara-45-milhoes-de-barris-de-petroleo-de-buzios-em-leilao-spot/?utm_source=rss&utm_medium=rss&utm_campaign=ppsa-ofertara-45-milhoes-de-barris-de-petroleo-de-buzios-em-leilao-spot",
+     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSnBMYUJDR1hLQmszYlFlLTdNc2U3TW1KaUlxSWFIWm5INkNvZXhhcmhramRleF9aWHVzS3pzWEFhTGpwT2xOUjlxN3NQbkpoV3hzMVpZS1VnWnI2TzgtR0lvaXFzeElYVUVFOXJoSEJnTFFGTWxPMS1VcFlQdkFEemtJT1dYakd2ZEY2Z1RxUHBUWUY5M3VDaWk0Q2ZNZUxNSGJrSHNteWFrajU0Qy1RYg?oc=5"
+    ],
+    "titulo": "PPSA faz na quarta (28/10) o 10º leilão spot, com 4,5 milhões de barris de Búzios",
+    "resumo": "Cinco lotes de cinco plataformas, com carregamento entre 9 e 30 de dezembro; preços referenciados no Brent datado."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/gas-natural/mercado-de-gas/anp-analisa-pedido-da-atgas-para-reaver-corte-de-r-11-bi-da-base-de-calculo-das-tarifas-de-gasodutos/"
+    ],
+    "titulo": "ANP analisa pedido para rever corte de R$ 11 bilhões na base de ativos das transportadoras de gás",
+    "resumo": "A associação das transportadoras pede intervenção do MME se a agência não reconsiderar a decisão sobre a base tarifária."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/gas-natural/mercado-de-gas/eneva-fecha-acordo-com-novo-supridor-para-aproveitar-oportunidades-de-importacao-de-gas-da-argentina/"
+    ],
+    "titulo": "Novo contrato de importação de gás da Argentina prevê até 400 mil m³/dia",
+    "resumo": "Fornecimento na modalidade interruptível, com nova comercializadora."
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/anp-reavalia-manter-bomba-branca-em-postos-bandeirados.shtml"
+    ],
+    "titulo": "ANP reavalia a liberação da bomba branca em postos bandeirados",
+    "resumo": "A diretoria pediu às áreas técnicas que reestudem a permissão."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzlrb1hub0dNVmtzekNBaFFfMkFySlNCODNKc1BVOGxBX0M3bHVsS2hRaWh1a2o3ZWoxM25pVmFEdUcwdlJOUnVvVXpqLVdhU2RHNjZsVTN2Zk5XRC1GVHZpa1lRcEM5cFo3dzNVMkZDOERkZWJMZVdQT1VWTjZCeGhxbTdIdnlXN24xd1dzSHJOckJUZEtMeHBXVjlyb2UyQ3c?oc=5"
+    ],
+    "titulo": "ANP registra 71 autos de infração e 24 interdições em fiscalização de combustíveis",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://revistamineracao.com.br/2026/10/26/decreto-sobre-minerais-criticos-e-aguardado-por-investidores/"
+    ],
+    "titulo": "Investidores aguardam o decreto que regulamenta a política de minerais críticos",
+    "resumo": "Em evento do setor, o governo reconheceu que a falta do decreto mantém dúvidas entre investidores e mineradoras."
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/anm-recebera-r-1038-milhoes-para-modernizar-fiscalizacao-de-barragens/2026/10/26/"
+    ],
+    "titulo": "ANM receberá R$ 10,38 milhões para modernizar a fiscalização de barragens",
+    "resumo": "Acordo de 24 meses com a Ufes e a Fest, dentro das ações de reparação do rompimento em Mariana."
+   },
+   {
+    "ids": [
+     "https://revistaminerios.com.br/energyx-contrato-litio-10-anos-trafigura/"
+    ],
+    "titulo": "Contrato de 10 anos para venda de lítio é assinado com trading internacional",
+    "resumo": "Acordo vinculante de fornecimento de longo prazo (traduzido)."
+   }
+  ]
+ }
 }
