@@ -2484,5 +2484,248 @@
    "resumo_original": "Mineração, infraestrutura e TIC: os últimos compromissos de 2026 BNamericas",
    "data": "2026-10-27T18:06:52-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 28/10, 04h50 (Brasília). Dados brutos em `raw/2026-10-28.json`. Ficaram de fora a repercussão eleitoral e de mercado (bolsas, ações, discursos), processos nos EUA sem relação com o Brasil e notícias de empresas sem ato regulatório.",
+  "destaque": {
+   "ids": [
+    "https://megawhat.uol.com.br/leiloes/aneel-aprova-editais-de-leiloes-de-baterias-mas-preve-reavaliar-contratos-se-lei-mudar/",
+    "https://agenciainfra.com/blog/aneel-aprova-editais-dos-leiloes-de-baterias-marcados-para-dezembro/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-aprova-editais-dos-leiloes-de-baterias-marcados-para-dezembro",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW1VOHRlcGpPME53T01aYmpaaUdIcDNuOTB1NjVIZE9jWTNYUDh3OTM1bEV4MEtSd1NZa3J1X0prZDFRV2NNTW1keGE3bjIydFRoT24tUmF4TURFNUFHS24zaXAwLUNyaU40MTlqMjRMM0wxQUp0MXJiUEJxbnBGTE9MZ1ZkWkRQejEwaGtSbmhUMWhZckNicFpNSzVvSmhVX2xNVlF5RmFsVVBoU3Q4bG0xT1c5UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPai1FRVo4ajFfYk1YTFNaUFhfcm9wNnBzQmpHSm0xTlUxdWxkUzY4SFZPS0laa01mVmtFMDJGNmNfNjJvMXQtM2RGaFFjZWctY2o3U3FHR1E4V19HXzhJRTl0RzVXTEVES2xZQ1pqTmY4QUU1RTI5N0tmRTloZ1NYWTdLR0xKQUFXeWNMZlJQOVF1X3R2VmYyVG1hRUVfTFBk?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0pGR1d4WFJEbnptTVFtQW5RSU1Mem96MVNjbVNGOWtPS1puY3U3clRCOHJqRVBNSmU0ZHd4dHFwQkwtUkppMVk2R3N6Yk1NYXZRUGRzWmNJOTE2cm0wcmg4Z1M4b0tfVThKYUZKbWpadHFVMmFqOWFPV1FrOWwzRlFnSFc3bC00RU1kWFBQbkhtT3lIdmR4cUczZlhKU2FyN1VoV3FiMjR1VXlUQWlr?oc=5",
+    "https://agenciainfra.com/blog/aneel-abre-espaco-para-incluir-consumidores-no-custeio-das-baterias/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-abre-espaco-para-incluir-consumidores-no-custeio-das-baterias",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2xLV0FzX21STlBqM0tFWDRPbXZ2YVg0aUpNdXRVemRIS0RfWk05cDROOE43UnNORlBHeHYwbkRqSExBc3NoWmhYRm1OMFpOMzFuWkM4c1lZWFZJMXBUSGFsN3prbFJuRmVvU2ZzTzg2T21MYUQ3N1dwa29aVV9tM0k3anAwY3dtSjNHYnNMRHZTNmVtLTE0LVkyUm1xNHRLM3pv?oc=5"
+   ],
+   "titulo": "Aneel aprova editais dos leilões de baterias de 2 e 4 de dezembro, com garantias 39% menores",
+   "texto": "A diretoria da Aneel aprovou por unanimidade, na terça (27/10), os editais dos dois leilões de reserva de capacidade em baterias. Os preços-teto, definidos pelo MME, são de R$ 1,76 milhão por MW/ano no leilão de 2/12 (com exigência de conteúdo nacional) e de R$ 1,58 milhão por MW/ano no de 4/12. Os contratos terão 15 anos, com suprimento a partir de 1º/8/2028. O investimento de referência caiu de R$ 9,8 milhões para R$ 6 milhões por MW, e as garantias de proposta (R$ 60 mil/MW) e de fiel cumprimento (R$ 600 mil/MW) foram reduzidas na mesma proporção. Passam a ser admitidos consórcios entre empresas do mesmo grupo, com comprovação patrimonial só pela controladora. O edital usa termo genérico para o pagador, e a diretoria indicou que reavaliará os contratos se a lei que atribui o custeio aos geradores mudar."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/wicade-2026-comeca-na-proxima-quarta-feira-04-11"
+    ],
+    "titulo": "Cade abre a 6ª WiCade, competição de direito concorrencial, em 4/11",
+    "resumo": "16 equipes de universidades participam do julgamento simulado, promovido com a rede Women in Antitrust."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/mercado-livre/distribuidoras-poderao-manter-marcas-na-abertura-do-mercado-livre/",
+     "https://agenciainfra.com/blog/aneel-libera-distribuidoras-para-utilizar-a-mesma-marca-no-mercado-livre/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-libera-distribuidoras-para-utilizar-a-mesma-marca-no-mercado-livre"
+    ],
+    "titulo": "Aneel permite que distribuidora e comercializadora do mesmo grupo usem a mesma marca",
+    "resumo": "Por 4 a 1, a agência rejeitou a proibição proposta pela área técnica e adotou salvaguardas e monitoramento; o Cade havia recomendado cautela com restrições sem evidência de dano.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2542756?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "CMA abre consulta sobre a compra da Segro pela Prologis por £ 14 bilhões",
+    "resumo": "A autoridade britânica quer saber se a operação pode prejudicar a concorrência no mercado de galpões logísticos do Reino Unido."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2542690?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Fabricantes de playgrounds desistem de fusão após ação da FTC e de 12 estados",
+    "resumo": "A PlayPower abandonou a compra da BCI Burke depois que as autoridades foram à Justiça para barrar o negócio."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2543094?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "FCC aprova a compra da Globalstar pela Amazon por US$ 11,6 bilhões",
+    "resumo": "A operação amplia o negócio de internet por satélite da Amazon."
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/gcr-usa/article/farmers-demand-enforcement-in-ftc-fertiliser-probe"
+    ],
+    "titulo": "Produtores rurais pedem à FTC ação contra a alta dos fertilizantes",
+    "resumo": "Associações de produtores de milho de Iowa, Texas e Ohio cobram medidas na investigação em curso."
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/skyitv-still-in-cma-pre-notification-amid-potential-public-interest-review"
+    ],
+    "titulo": "Compra de ativos da ITV pela Sky segue em pré-notificação na CMA",
+    "resumo": "As partes aguardam possível análise de interesse público pelo governo britânico; o negócio é de £ 1,6 bilhão."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/newsletters/comece-seu-dia/eua-terao-gigante-de-gas-com-fusao-entre-eqt-e-range/",
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVlZZDM3cFNmMG1EUERoMWh5ay1KVHo0cVVIRm95UmFxVS1TV1ZyLTVjSFJBQ3NfTUFPUTFQVTczckN2T2piSjBEQnlUZnVwSDVHZWNnQzJ1WkVGSGNqek5Lbm9pbTBxb1k5czlUQWtfbFJYdnc0NHY5cF9hYUh3bmQxZmt4U0ROOEU3NG5nd09uNHZjNHZjOGNMX2FlN2U4RjZXRFBB0gG0AUFVX3lxTE5tbkZoMExPOGxYLVNocHllcUNWdUVaSF9ETk5fSkNWYzBOMTBxOGVYSm9JNlFKVjhkNUJXNzFwZkxLYldoZEZDQnBqdGpILWxxX2JaZnBHNGRveEt5RXgtRm9CVmIwLWp0N1VnQ1ROZWVrQkNiYmxhMEw1c3N3TWtwQnJyY2JKaVVNZWt5UlRrdEdHZzVIbEtZcG5RTElYTWdhUXNQVHk1cHByM2xwTXpha2Z2YQ?oc=5"
+    ],
+    "titulo": "Fusão entre EQT e Range cria gigante de gás de US$ 50 bilhões nos EUA",
+    "resumo": "A troca de ações cria a maior produtora integrada de gás natural do país, com cerca de 255 milhões de m³ equivalentes por dia."
+   },
+   {
+    "ids": [
+     "https://www.pv-magazine-brasil.com/2026/10/27/aneel-propoe-consulta-sobre-fim-de-descontos-de-tust-e-tusd-para-consumidores/",
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODRWYnQ4WmczOG5sT1VmNjB2YWVJay1FT29UeFBMRjdBM1owR2VqeDZ4dGlXRzVLQTY1aHJkYlE0TVRtaEJwa1lfc0lxVGlDclZsbjFHM3BDY1BqVkNlZ0lELXRQeFhjdHNqbFo0T1dES1k0WVNqQUE2c0JYUlRGRUFoWUNDR2N5RkhIUHgyTkloeTk1NjNOa1BVMXZ2MFYxejhsVUp3?oc=5"
+    ],
+    "titulo": "Aneel abre consulta sobre o fim dos descontos na TUSD e na TUST",
+    "resumo": "Contribuições de 29/10 a 14/12; a proposta mantém o desconto só sobre o montante contratado até 25/11/2025 e limita o benefício da autoprodução, ponto em que a Abiape diverge."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/aneel-aprova-orcamento-de-r-5266-bi-para-a-cde-em-2026/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-aprova-orcamento-de-r-5266-bi-para-a-cde-em-2026",
+     "https://news.google.com/rss/articles/CBMingFBVV95cUxObkNzMFM5WDQ2Rk5xQnRWWGhOY3YtY193Njc2d2Zfd2FSU2Vka0U0M0s0N1lxSjR6SXluVjlRUW41aFRScHlkTzBEQjdHYmFMM0NRX1FEbFpsTW5IUGQzTXVUbGFFLXZJLWdydUJ1TXNZaUJubFQxLTNZWkhHSXNZZXFiN01KX3BkVnRzLUFsM2QwNjVQa3EyQnpLNE8ydw?oc=5",
+     "https://www.pv-magazine-brasil.com/2026/10/27/aneel-aprova-orcamento-de-r-5266-bilhoes-para-a-cde-em-2026/"
+    ],
+    "titulo": "Aneel aprova orçamento de R$ 52,66 bilhões para a CDE de 2026",
+    "resumo": "Alta de 7% sobre os R$ 49,2 bilhões de 2025; o valor confirma a proposta da consulta pública."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/transmissao/mme-vai-exigir-confirmacao-de-carga-para-licitar-obras-de-transmissao/",
+     "https://agenciainfra.com/blog/governo-preve-7-leiloes-de-transmissao-com-novas-regras-sobre-demanda/?utm_source=rss&utm_medium=rss&utm_campaign=governo-preve-7-leiloes-de-transmissao-com-novas-regras-sobre-demanda",
+     "https://eixos.com.br/energia-eletrica/mme-marca-sete-leiloes-de-transmissao-e-inclui-sessao-adicional-em-dezembro-de-2027/",
+     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjB6azhtZ191aUZUOHpqd0NBTWxwZ2hMZzc5YXY2QnRRSkt3bExmRFg1YV9ON19OaGFlT0c0N2VQMk9YTEhpS2lVNVFuSjZyNDBpclVsUFN5OW5rNURqTVllUkV5QVNFdFVDWG95LXljNUtrczNGLWlnR1VRaDRtVnlSSTZzeUxCQ3VmSE53anVoVm9GSVY4OUV4dnNybkVBQm1uc0RqTmI4U2FRaHhpMVo5Y3pZQQ?oc=5",
+     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdHNYTm4tSllEbGExOXBVWHlDWkNrbjhkbXJFTl9kOXR0R2tRd0pwVldTamx2YXc4R0tEbWNiaTJ6Q09qN1JNRGRFSEI4N0VDWlFsY2lKVEVNa1hlLUVuUGMyb0ZXVmszSF9icm02WlY1TXBkODNVbjk1S0cwU0pCMDE0d1dGNGE0Y0p5Y19mV0N1WF95eWdNa3MwbUM?oc=5",
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3pvMThuZ1h6dTZYblV5MlhIRjJ5Ri1YWGNzdTFCZmNQYk1SMjNXUGZTYjgxbWh6YmJTSGswNFhVNWRmZE5DVzlQTUdLVE42enhramRkY0tBdUdBOFNZdVF0Q1VjVUdMelRhRVkxR1M4QzZGLXZOaXlvR3NwdTF0LTZKal9vTml0UFA0VHFSQjVfYVVPV18zNHVpcU15X2lKWERGTk9acw?oc=5",
+     "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWgzTGxURmJ0Q2JidjhvTC1HSF9aRGZLNF9KS2dncVdyUkhrTFR0Zi1IVEwxYmxjY1MxNXpmclNhWEtjVV82MFF6YV9VdjZ4aVR5bGhFbnl3RUgxaXFfeWQyVmRTUHJLdTdFZ2k5QzRVRHdDaXpRbEFDUFVWZXotaUtYTDlDOTBLY3lJUzZoWXR3TmVKd0JGZkxISmFvUQ?oc=5"
+    ],
+    "titulo": "MME fixa sete leilões de transmissão entre 2027 e 2029 e exige contrato de uso antes de licitar",
+    "resumo": "Três leilões em 2027 (abril, outubro e dezembro); obras que dependem de nova carga só entram no edital após o consumidor livre assinar o Cust com o ONS."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEliRFZaamE0cG81ZHo2d0dZVDdoczBLTUlRQjZPSG51OWlqZV96NmJHMElRalhqSlN4VDIwOWNBeVl1M1FZZlpRWGUzM1NiRDA0bkRHempuU3ZqYVpleFZPeFlrQlJzNnpoSlphVHNCYkRPbVBoTWJMQ29pTnBqV0ZEMTBLOE9CRllaUm5BWWd0aXpTaXBzUWlpMHowQTdnLXQtejFnRmZHYndFQVNKUQ?oc=5"
+    ],
+    "titulo": "Aneel aprova regras do Open Energy no mercado livre",
+    "resumo": "O compartilhamento de dados de consumo, nos moldes do open banking, foi aprovado com apoio de todos os diretores."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/armazenamento/ons-amplia-margem-para-conexao-de-baterias-em-subestacao-no-ce/"
+    ],
+    "titulo": "ONS libera até 50 MW para baterias na subestação Milagres (CE)",
+    "resumo": "A margem era zero; a transmissora corrigiu as informações de disponibilidade física enviadas à EPE."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/mme-enviara-decreto-da-eolica-offshore-a-casa-civil-nas-proximas-semanas/",
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0VhbDFkNVlwQlFfbG5EMWRZVlBEeEpNWVVUREpBOWVpNEoxNW1hRWI3QXFFTmoyWGp1TjFqTlcxYy1zb0J3N2dwNHZwQ2xLMGRrdlljUk9yZnJ3b1dMTkM5WXJfUEtUUG1QUUw4NDY3R05PT2NHM0J4RFRvUUNPcElTeGd3UFFlWEJjU2U4NzRHZjZWWUtKUU9naWd4TWdaWmhUczFn?oc=5"
+    ],
+    "titulo": "MME deve enviar o decreto da eólica offshore à Casa Civil nas próximas semanas",
+    "resumo": "O decreto regulamenta a lei das eólicas no mar; a Abeeólica cobra a regulamentação e solução para os cortes de geração."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/abraceel-lanca-programa-de-autorregulacao-para-comercializacao-de-energia/?utm_source=rss&utm_medium=rss&utm_campaign=abraceel-lanca-programa-de-autorregulacao-para-comercializacao-de-energia",
+     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjNSbVNLTHBycWhYaHN4blJfUE11S1FqdjliclVEQk92UUFMRVVqWEFFSFRHcURPV1RLYmJVVEhKeWEwbzZJNVJHZ1VzR0huUnZqUG1vcHd6a2dKdU9pSHVVclpkMVEySzVibW9va21URU5ucmUydTZFSXJMZ09yYlN1ZG4zeFRLcHZjbEsyUnduelZ4TU5OaklmLW5KNDM2?oc=5",
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2VuWUkxeW1IVXZHVDJrajM1cTNDTnZRUHVDOTFsWW5oSmNGRGpDekhLdGhMTjJCcnE4dVQ2c2s3WmRjdTlNTUVvQjBzMUdXcDhJLVpUYktFaDdmSGpxMERaWGVPeG8xOUJLeWFMTVpfYnA2RVg4dVhxa1Byd01LZWxuZjMzS0s2ZnJvZ3hOWF9FR2c5ZlZPS1I2dVJaNDJiQldnUGc3OVQzeHowNXlxa0tB?oc=5"
+    ],
+    "titulo": "Abraceel lança programa de autorregulação na comercialização de energia",
+    "resumo": "O programa prevê monitoramento de condutas, multas e até desligamento de associadas."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMizAFBVV95cUxONlBZS2xOdlNGeWpDVmNBMTI2ZHZkQ3F5aEtWdjZaVnRPSXFMVkg2WFdqaXM2LW9vWTQyVlhrVDV2UmNXUFV3elBUMXNvSko2V3RiUXl6LUkzV3dHajdkemVjeWpaM0FqalBuQThMRml4cGQ1NmZqeFZMS2dHTFlmQUFfVl9EZ1UwU0hRN0JiZkpsMG0ycDc5YlphOVY3aGdfaUhpdWlSYTRDdFI4NHlodVQyY1pLU0gxbHZSVm15OFVQVnNWY3J3bEZEeTc?oc=5",
+     "https://megawhat.uol.com.br/destaques-do-diario/reidi-aprova-incentivos-para-226-mw-em-dez-projetos-solares/"
+    ],
+    "titulo": "MME enquadra 225,9 MW de usinas solares no Reidi",
+    "resumo": "São dez projetos; a estimativa é de redução de R$ 66,9 milhões no investimento."
+   },
+   {
+    "ids": [
+     "https://www.pv-magazine-brasil.com/2026/10/27/curtailment-deve-reduzir-para-14-das-horas-em-2030-projeta-ons/"
+    ],
+    "titulo": "ONS projeta cortes de geração eólica e solar em 14% das horas em 2030",
+    "resumo": "Em 2027 a previsão é de 19% das horas, segundo o Plano da Operação Energética 2026-2030."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/diretor-da-aneel-defende-debate-legislativo-sobre-autonomia-e-mandatos-de-agencias/?utm_source=rss&utm_medium=rss&utm_campaign=diretor-da-aneel-defende-debate-legislativo-sobre-autonomia-e-mandatos-de-agencias",
+     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFBQVJIVUVubmJqa2J4Z3ZQbHhscnpOVklxSEpQSDZWZ1c4ekpaNjZrMWpPaXRhZE96b1N2TUpQZlFlYTFfclNVNG9pVlZwODB5Wjc2UEVrcnpvc0lfaHMxSDk0UnpzeG5ocjdMMDZfZ3FNdVZnOXFsN2NQbkpEY2ZLZERVbnItbG4zTU15SzlpTTBVVEZDYnVqLVljZGxTeW9XUg?oc=5"
+    ],
+    "titulo": "Diretor da Aneel defende debate no Congresso sobre autonomia e mandatos das agências",
+    "resumo": "Gentil Nogueira propõe aperfeiçoar a gestão das agências reguladoras federais."
+   },
+   {
+    "ids": [
+     "https://oglobo.globo.com/economia/noticia/2026/10/27/governo-prorroga-por-um-mes-subvencao-de-r-212-por-litro-de-diesel.ghtml",
+     "https://agenciainfra.com/blog/governo-federal-renovara-subvencao-de-r-212-por-litro-do-diesel/?utm_source=rss&utm_medium=rss&utm_campaign=governo-federal-renovara-subvencao-de-r-212-por-litro-do-diesel",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-lula-vai-renovar-por-mais-30-dias-subsidio-ao-diesel.shtml",
+     "https://eixos.com.br/politica/governo-renovara-a-subvencao-de-r-212-do-diesel-por-um-mes/",
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1BkcjZ0VzVfVmJaOE4yb2hlaFR0RHRVc3piWHJ1RV9wTUNfVTAwbHlWOHNVaWtpa1YzYTAxQmkwSUowV01GRlZTVEZFa1hVY3U4NFM5c1JtTl9QTXRObThvdDVFRGkwUzRyZEJQT2NTREpWQ0tqRndFQzE1VFptMjQ5cVhuTktZeDYwX1hhc3kyVTdINEY3c0JSRjRKbkRFNHVBTzVn?oc=5"
+    ],
+    "titulo": "Governo renova por 30 dias a subvenção de R$ 2,12 por litro de diesel",
+    "resumo": "Publicada em edição extra do DOU em 27/10; custa R$ 10,5 bilhões por mês. A subvenção extra de R$ 1,40 ao diesel importado segue em vigor."
+   },
+   {
+    "ids": [
+     "https://oglobo.globo.com/economia/noticia/2026/10/28/abastecimento-de-diesel-esta-apertado-para-novembro-diz-presidente-da-associacao-de-importadores.ghtml"
+    ],
+    "titulo": "Importadores dizem que o abastecimento de diesel está apertado para novembro",
+    "resumo": "Importações respondem por 25% a 30% do consumo; com a defasagem de R$ 4,15 por litro, o diesel importado chega R$ 0,63 mais caro que o nacional."
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/petrobras-deve-aumentar-em-7-o-querosene-de-aviacao-para-novembro.shtml"
+    ],
+    "titulo": "Petrobras deve reajustar o querosene de aviação em cerca de 7% em novembro",
+    "resumo": "O anúncio está previsto para 1º/11, após alta de 11,76% em outubro."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkt1NWQ0RXJIU3pGY0RCN1JiamR3QU5PN3I3T2tDd3lHdDNvUm1HeEFJUUR1S3Z2anktQk1EWk1SWmdwZFA0Q3l1T0dXYkVXUElUYVhpdjZsUENDbE1PbEc3UnRYQXFRY3FoeDFTdjBWOGtzQmx4bEZiNlZDaTk3d0NXQlNiX1RDc0NqVy1SUVVUQkZZeXJ5VEM4VDRUVzFIekw5eHZqY1VFQQ?oc=5"
+    ],
+    "titulo": "ANP abre consulta prévia para a Agenda Regulatória 2027-2028",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/atgas-defende-recursos-na-revisao-tarifaria-citando-demanda-do-lrcap/?utm_source=rss&utm_medium=rss&utm_campaign=atgas-defende-recursos-na-revisao-tarifaria-citando-demanda-do-lrcap"
+    ],
+    "titulo": "Transportadoras de gás defendem recursos contra a revisão tarifária na ANP",
+    "resumo": "A ATGás cita a demanda do leilão de capacidade; a ANP analisa na quinta (29/10) o pedido contra o corte de R$ 11 bilhões na base de remuneração."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/governo-deve-priorizar-regulamentacao-da-pnmce"
+    ],
+    "titulo": "Mineradoras apontam a regulamentação da política de minerais críticos como prioridade",
+    "resumo": "A ABPM defende regulamentar a Lei 15.506/2026, sem nova lei nem revogação."
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/minas-gerais-atualiza-as-regras-do-licenciamento-ambiental/2026/10/27/"
+    ],
+    "titulo": "Minas Gerais adapta o licenciamento ambiental à Lei Geral do Licenciamento",
+    "resumo": "O Decreto 49.298/2026, de 23/10, muda a tramitação de processos e a validade das licenças."
+   },
+   {
+    "ids": [
+     "https://revistamineracao.com.br/2026/10/27/vale-vai-ampliar-reaproveitamento-de-rejeitos-de-minerio-de-ferro-em-mg/"
+    ],
+    "titulo": "Copam autoriza ampliar o reaproveitamento de rejeitos de minério de ferro em MG",
+    "resumo": "A capacidade autorizada na mina do Pico passa a 8.129 toneladas anuais."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/glencore-e-cngr-firmam-compra-de-niquel-do-projeto-jaguar-e-investimento-de-us-40-milhoes",
+     "https://agenciainfra.com/blog/centaurus-fecha-acordo-com-chineses-para-venda-de-producao-de-niquel-no-para/?utm_source=rss&utm_medium=rss&utm_campaign=centaurus-fecha-acordo-com-chineses-para-venda-de-producao-de-niquel-no-para"
+    ],
+    "titulo": "Projeto de níquel no Pará vende toda a produção inicial a grupos internacionais",
+    "resumo": "Os contratos somam vendas estimadas de US$ 900 milhões em cinco anos e aporte de US$ 40 milhões."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWJLTW9QSDdHZm1hNlNzQ0R1VzhDYllNWmVmTUVPeEpOMTlEYy1iMFM0NVZ1MnlSam9KMF9hT0xIUzZOVG1lVEFocm5DQVJXZXpJTG5wandBS2ZDQ0JhQ0pQZ0lOaTJoWThKZnVRTTR0MHhmNHlLU0ZaSHpTclplSE1VZDlwWTgxVzRqOXV0M0twdFlaOFpyWkF6MFM3UmZzOXRwYks2QXlDWVpHT2ptTjJoaDNfdXkxX2ZvYkRSaW9BcTl1aVlXZ09WaEVOdVXSAd4BQVVfeXFMTnY2YkFjUUU5VDRqbzd4TVI0S0I1eWVHeHJza1FJRjh2aDVOTXQxTHBfWnRIRkp4bk4xRGZzQ2ZXa3FUaGNNdkNPeWFGaFdDXzBhME13TE8yVk12Tk5hVmt5Slk5UDhmUTJTQ1I4ZmUzd3Mzd3phRWt6SEVsTnU1cm5LNnVxTDBORFVseFg3RVZwYzVYa0hYZ2ZOZ2h2MGxuWEhvSFVUa0FtYmR0WVdBQXMzR2NZRXcySmJISXI2VU9VS1RCRGduamhUamtpMDluV2RGM3RhX1U5cFJGVVJn?oc=5"
+    ],
+    "titulo": "Minério de ferro atinge a mínima em dois anos",
+    "resumo": "Preocupações com a demanda da China pressionam a cotação."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/preco-de-terras-raras-fora-da-china-chega-a-18-vezes-o-chines-e-diferenca-veio-para-ficar"
+    ],
+    "titulo": "Terras raras fora da China custam até 18 vezes o preço chinês",
+    "resumo": "Análise apresentada em Londres indica que a diferença deve persistir."
+   }
+  ]
+ }
 }
