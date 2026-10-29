@@ -2352,5 +2352,235 @@
    "resumo_original": "A reforma do setor elétrico da Argentina: situação atual e perspectivas para 2027 BNamericas",
    "data": "2026-10-28T13:01:17-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 29/10, 04h50 (Brasília). Dados brutos em `raw/2026-10-29.json`. Ficaram de fora a repercussão eleitoral e de mercado (bolsas, ações, discursos), processos nos EUA sem relação com o Brasil e notícias de empresas sem ato regulatório.",
+  "destaque": {
+   "ids": [
+    "https://valor.globo.com/brasil/noticia/2026/10/28/confaz-aprova-alta-de-icms-sobre-gasolina-diesel-e-gs-de-cozinha-a-partir-de-fevereiro-de-2027.ghtml",
+    "https://oglobo.globo.com/economia/noticia/2026/10/28/estados-aprovam-aumento-do-icms-sobre-gasolina-diesel-e-gas-de-cozinha-a-partir-de-2027.ghtml",
+    "https://eixos.com.br/newsletters/comece-seu-dia/estados-sobem-imposto-do-diesel-gasolina-e-gas-de-cozinha-a-partir-de-fevereiro/",
+    "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/estados-aprovam-alta-do-icms-sobre-combustiveis-e-pressionam-precos-em-2027.shtml",
+    "https://agenciainfra.com/blog/estados-aumentam-imposto-de-combustiveis-na-contramao-do-governo-federal/?utm_source=rss&utm_medium=rss&utm_campaign=estados-aumentam-imposto-de-combustiveis-na-contramao-do-governo-federal"
+   ],
+   "titulo": "Confaz aprova alta do ICMS sobre gasolina, diesel e gás de cozinha a partir de 1º de fevereiro de 2027",
+   "texto": "Os Convênios ICMS 127 e 128, publicados no DOU de 28/10, fazem a atualização anual do ICMS de valor fixo sobre combustíveis, com vigência a partir de 1º/2/2027. No diesel, o imposto passa de R$ 1,17 para R$ 1,30 por litro (+11,11%); na gasolina, de R$ 1,57 para R$ 1,64 por litro (+4,46%); no gás de cozinha, de R$ 1,47 para R$ 1,54 por quilo (+4,76%). O cálculo compara os preços médios da ANP de fevereiro a setembro de 2026 com o mesmo período de 2025. Em nota, os estados citaram a instabilidade dos preços dos derivados e disseram avaliar abreviar a atualização do diesel prevista na lei complementar. A decisão coincide com a renovação, por 30 dias, da subvenção federal de R$ 2,12 por litro de diesel."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/pauta-da-proxima-sessao-de-julgamento-4-11-do-cade-e-publicada"
+    ],
+    "titulo": "Cade publica a pauta da sessão de julgamento de 4/11",
+    "resumo": "A 275ª sessão ordinária ocorre na quarta (4/11), às 10h, com transmissão pelo YouTube."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2543701?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "FTC pede a empresas que expliquem como usam dados pessoais para definir preços",
+    "resumo": "A agência americana cobra de nove empresas, entre aéreas, varejistas e aplicativos, detalhes sobre preços e remunerações individualizados com base em dados."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2543436?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Autoridade canadense vê perda de concorrência em acordo entre Air Canada e United",
+    "resumo": "A ampliação da parceria eliminaria a concorrência em várias rotas e tende a elevar preços, segundo o órgão."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2542851?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Autoridade holandesa bloqueia a venda da marca Unox pela Unilever",
+    "resumo": "A operação havia sido anunciada quase dois anos atrás."
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/gcr-usa/article/doj-and-eu-diverging-merger-thresholds-official-says"
+    ],
+    "titulo": "DOJ e Comissão Europeia divergem sobre presunções estruturais em fusões",
+    "resumo": "Bruxelas mantém as presunções, enquanto o Departamento de Justiça se afasta delas, disse um dirigente do DOJ."
+   },
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/corregedoria-do-cade-avanca-e-alcanca-o-nivel-2-de-maturidade-correcional"
+    ],
+    "titulo": "Corregedoria do Cade alcança o Nível 2 de maturidade correcional",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/planejamento/demanda-de-data-centers-deve-crescer-dez-vezes-ate-2036-preve-epe/",
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEtSY1ZLTi0xZk5KOGdvVFNUOHdURXQ5TFhvLXlKVl9VZ2pqQjdOcWJsdUVLbGE5WkZGNGo2UHNHS2dDejd1bDJ6U2lnOU41cFBIalVRZ3N1dW9BQ19MYXVKamVJbGhhc0p1RUJid21JSjUwcGw5MFdhSWlleXlGZ0lENXZDTFVkcFU5ZUpOT3pkVUpibzR0N3dKUkhWQThPZ1Q5QkFfWGptRk5RakE?oc=5",
+     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjg1eHFaSkoyUjNJMXVieFBMV0VGS1dnU0liRGJBX0lRR1hVRXZycFd5cXc1c2k0aW05OFlQLVRIeVY5ZkZCaEEwTkVQYjN4ZzVZSENCWlplM1dCSGxUVUdBeUxLVWhOODNXX3Q1OWFFMGxIdmxXQnM0bUtlMlVjSkNpQ3czVHpCOXN0Nnh0UU5wdnZfcVRiaXc0TzJoR1JCQnlSN2g1TEtVOWd4NUFha2xmUWQxUQ?oc=5"
+    ],
+    "titulo": "EPE prevê que o consumo de energia dos data centers cresça dez vezes até 2036",
+    "resumo": "No PDE 2036, os data centers passam de 3 TWh para 30 TWh (3% da demanda); o consumo total de eletricidade deve crescer 3,4% ao ano."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/armazenamento/mudanca-na-lei-antes-de-leiloes-de-baterias-exigira-novas-datas-diz-sandoval/",
+     "https://agenciainfra.com/blog/aneel-aprova-leilao-de-baterias-mas-mudanca-em-lei-pode-adiar-certame/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-aprova-leilao-de-baterias-mas-mudanca-em-lei-pode-adiar-certame"
+    ],
+    "titulo": "Mudança na lei antes dos leilões de baterias exigirá novas datas, diz Aneel",
+    "resumo": "Se o Congresso alterar o custeio pelos geradores antes de 2 e 4/12, os editais terão de ser republicados."
+   },
+   {
+    "ids": [
+     "https://www.pv-magazine-brasil.com/2026/10/28/absae-ve-margem-de-conexao-de-56-gw-para-leiloes-de-baterias/",
+     "https://agenciainfra.com/blog/precos-do-leilao-de-baterias-tornam-certame-atrativo-diz-absae/?utm_source=rss&utm_medium=rss&utm_campaign=precos-do-leilao-de-baterias-tornam-certame-atrativo-diz-absae",
+     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjY5dUU3ZEptcmhNYjZIT1NIZGNPN2NPU3JUenowRTBHNWpVZ1dsbFFvTm1JMGVnY2VQblNwNEdrS1JWLTYzNkI5M0gtQTIwOVhmQUZEUll6RGR0MGwxYl85YjdrOUZhNjNvSG14SWctenFjOURQZ3htYjFxVGhKVmEtaFBZUU5NcFNqNzRfbjR6SHBybFAxa2tRY0VhWk1hb0JEQ05qTGt5QQ?oc=5"
+    ],
+    "titulo": "Associação de armazenamento vê 56 GW de margem de conexão para as baterias",
+    "resumo": "A margem equivale a 5 a 12 vezes a necessidade estimada de potência para 2028 a 2030."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/energia-eletrica/novo-encargo-em-2027-cria-incertezas-para-consumidores-e-pode-levar-a-judicializacao-diz-anace/",
+     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMS1jUkRyYklqQlRTQ01JTFFhdGJFalBucFFTLUZ5RXlpR2haa1BNU0dSWjVETXpXVERuZXVSQzBvNmJoWGRRdlpueXAzNzQtVTdlMUM0MUFQemhJTU53Tl9rWGtwdERUSlh0MlNQZG1HZTNYU09kUUFjTFI3N3l3Z0pLS1RjU1lqRFZvV1A5TE0yV2s1S2RPdzJDRUQ?oc=5"
+    ],
+    "titulo": "Novo encargo da CDE em 2027 gera incerteza para grandes consumidores, diz Anace",
+    "resumo": "O Encargo de Complemento de Recursos cobrirá a parte da CDE acima do teto; despesas brutas estimadas em R$ 55,1 bilhões em 2027."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/regulacao/eolicas-contratadas-em-leilao-tem-multas-mantidas-apos-atrasos/"
+    ],
+    "titulo": "Aneel mantém multas de R$ 2,1 milhões por atraso de cinco eólicas na Bahia",
+    "resumo": "A descontratação da energia no MCSD não afasta o dever de cumprir o cronograma da outorga, decidiu a diretoria."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/mercado-livre/aneel-revoga-autorizacao-da-electra-para-comercializar-energia/"
+    ],
+    "titulo": "Aneel revoga autorização de comercializadora que não aportou R$ 150,56 milhões em garantias",
+    "resumo": "A decisão unânime seguiu fiscalização que apontou descumprimento de obrigações na CCEE."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/aneel-ve-espaco-para-acordo-com-anatel-sobre-compartilhamento-de-postes/",
+     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjhHNG51VDA5NjFaQTJOSzNRVzJ1ZWhlRzM4dzc3eWZtMFpiRUljdlljTmllS1kwNjJYeDV2TjlVZkNvcVd5T3lRbGloenJjZVFFaGkyR18yaTFWQS1ieXpoTmVTdVRQb2FXYll4ZzVoX1BCNDlOR01FMEhiR0JNZWlZX3JhTm0tcnY1VDBfSDFYVkp5MFZsRmJ5dktrNUtDWEFHcFY0Q0ZoSmctSTRfUzJZM3RSdF96Y0kwVnlOeWZpWEE?oc=5"
+    ],
+    "titulo": "Aneel e Anatel buscam acordo sobre a exploração comercial dos postes",
+    "resumo": "A divergência sobre a participação de empresas ligadas às distribuidoras deve voltar à pauta em uma ou duas semanas."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/destaques-do-diario/autoproducao/autoprodutores-podem-ficar-sem-desconto-de-fonte-incentivada-sobre-aumento-de-carga/",
+     "https://agenciainfra.com/blog/aneel-abre-consulta-sobre-fim-de-descontos-no-mercado-livre/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-abre-consulta-sobre-fim-de-descontos-no-mercado-livre",
+     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGlhckVOUlA0N2ZNMEM0ZjNJNUVpR2RLc0FBUktEVGZFeVhvTmdaX0hmOEYxRHNfTFhrQmQ1bGs4NGtLOWVTazFCSWhFU1VlVXBsRnhEZTdCYzRlemNIdkQtdkRISnlPQUE2RzctTzBpOEdxN1htUGxyYVdkaUVHZlQ2cWdnZnU4ZlA5OVl0eUVvR3ZHOHo0RmVSRDBZQXAxVXY5UlBKWjBHUVdOd25jM1FoSHIybEVkMHZiMw?oc=5"
+    ],
+    "titulo": "Consulta da Aneel pode tirar o desconto de fonte incentivada sobre aumento de carga de autoprodutores",
+    "resumo": "A proposta mantém o benefício só sobre o consumo atendido pela própria geração."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTlIWEkwSnZMN05VUEU2YVFJNl8xa0I4UE1KUnVzdDBxVHE4d2FIVl93TFZQR2hiZUVFT00xc1IxSkVBLVl2akhXMVRIcnJPVW1XOXhmQ2laRXhQVGs0ZlFqNUROOUl2REFnbFRMUzhzblNBOHZpZXFBanRLUDNBV1ZlZlNoZm0xM25MdldmcGVtZTl4MXBnQkhnVQ?oc=5"
+    ],
+    "titulo": "TCU define alíquota de 11,3% para a CBS em 2027",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUG5PeklBa1NnU1VoOW91WTloVXF4X1BfMDJoWTYwSmFHMlZEa1FGZVRMQ0pVRXhfbFZSUW1jX1MzSzRUWkZpN1NYYjdLMGxuSmNHQTltYVU3VG9rTjdNSkFJU2k4TDB2dGQ2SWduc2tkQzVONHdjdGFHTS1IWlpKRG5NSEN3R3phQ3k2ZThzUEh3SmpKS0ZvNWcyLUJIZzVEeUJDMFN5cDJvZTRFM0pKcHZGbkdmalBpV2NLbWlyOA?oc=5",
+     "https://agenciainfra.com/blog/governo-aponta-necessidade-de-investimentos-e-regulacao-para-eolicas-offshore/?utm_source=rss&utm_medium=rss&utm_campaign=governo-aponta-necessidade-de-investimentos-e-regulacao-para-eolicas-offshore"
+    ],
+    "titulo": "Decreto das eólicas offshore deve chegar à Casa Civil nas próximas semanas",
+    "resumo": "O governo defende investimentos e regulação para viabilizar os projetos no mar."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0RUU3l1OVl2MzM3MmdGVmJHdUlBaEtRdC13b25GRnd2d19UZk9xM0haRndJdjdYY2REZE5ES1lRZEc5eUstT3Z6eHhSd1l6MHAwbnRvSjhvV2ZmZTdpbmQ0WXdUQWlPSmNLQ0xWUG10Y2lxSnA5NnJRY2tCTm5YM0FSRU9RY2wzQ1cxLTR6TjZNVjJGNFk2UFljX09zbkRuSWVELW1R?oc=5"
+    ],
+    "titulo": "Setor eólico estima perdas de R$ 6 bilhões com cortes de geração",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRV9SNGo4QnRYV1dJZTdwWEwxbUFBWmJUX3ktTm5SOExHZmFmRkhhcklIQWUyTmRmTHdqdWttclRUZkVDYjI4SV82ejA4aS1ZV0JVVlBITE8xSmxjSHVYWmNnb0RLQkI1djlpaUNRUU1kZjZfVmpJWjUyR1hDbW5kOU9IMklDM0ptbzU4ZjlzVVdES0R5ekF0eXJTVTFjYlhpWVc0X20yOWlKUnlfOUNta0dPRWFMa0V6eXo1S0FXRmZacFpwVDVNUlViMA?oc=5"
+    ],
+    "titulo": "El Niño muito forte deve persistir até o início do outono de 2027, segundo a Climatempo",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORl96X3l2WHJiUjV1WG5pZFVsVnMxN3VLUnItZjJISXZrSkJOeDJZQ1Z3d2dwNUZMYVBZR2JndFpYTXNIRmpiS1JuN0c2Qm1HNjVhQ1VfemtTam1yelU2bkFHNnl1dGJIcjBya0RGN2FSUjFIWDFSTzVuZ0taQlY1NmI1cmhuNXUxMVRfRDVNbVpUbktzcVdjbTNlR2YyT29jd3dEWGRBcm1kaWd6QVozdmlOS1RQbkxkeWYtZGZUZU1ZajYtZFBIbNIByAFBVV95cUxORl96X3l2WHJiUjV1WG5pZFVsVnMxN3VLUnItZjJISXZrSkJOeDJZQ1Z3d2dwNUZMYVBZR2JndFpYTXNIRmpiS1JuN0c2Qm1HNjVhQ1VfemtTam1yelU2bkFHNnl1dGJIcjBya0RGN2FSUjFIWDFSTzVuZ0taQlY1NmI1cmhuNXUxMVRfRDVNbVpUbktzcVdjbTNlR2YyT29jd3dEWGRBcm1kaWd6QVozdmlOS1RQbkxkeWYtZGZUZU1ZajYtZFBIbA?oc=5",
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcG96RGJJUy1kNjRQeG9mN1lKaGV1S3FCZ0dLOVRUR0diTGNva2FCcHVBa1VSZ293QjVFTG1fMWNCYVc4LUlHNkhEX2hMSHl5VEFZdHZRMGFEY201aXVvdmZNV1hIOF9lbE04QUY3ZndBN1ZyZmRhSXRkSDBSUWxoUWZ4ekZPRzh0OFc2aUJGWl9rVzdJUVpMNDhZRDF6akVWRklhMjE4aw?oc=5"
+    ],
+    "titulo": "Subvenção do diesel renovada custará R$ 10,5 bilhões em 30 dias",
+    "resumo": "A medida vale por mais um mês."
+   },
+   {
+    "ids": [
+     "https://oglobo.globo.com/economia/noticia/2026/10/29/mesmo-com-subsidios-do-governo-diesel-sobe-ate-8percent-desde-setembro-e-pode-ficar-mais-caro-com-alta-do-icms-em-2027.ghtml"
+    ],
+    "titulo": "Diesel sobe até 8% desde setembro mesmo com subsídios",
+    "resumo": "A alta do ICMS em 2027 pode encarecer ainda mais o combustível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmlPVmFFYTFCN3dNc2NFUzF2eFNUVlFTYmcwUk1lc2NSdlc1MnJGMFNuYnVtbTRFTkV6SjZNMHBYN1doaHg5V1BxMy1hQnJmSThtZTdmVmpUZl9pa2Rxa0FmWUpVQkdfaWxFZ2U5M05MdGlsMExTOTl6VkpERXlvVEpuZmQ4RXNteUY3U3ZaNUFDckluOGN3V2R4eWVZc0NWVUEyeWRZRk9IczFtUmV6NFY3X0xIZlhraGVj?oc=5"
+    ],
+    "titulo": "ANP propõe acesso diário a notas fiscais para fiscalizar a mistura de biodiesel",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDNzSHFMSmYxbmRTcjQyM25KdGJFVldmRjZvUloySVUyelh1azc1bGFqYmwtd0VLLVlIMjl0X21XX2JKTVNjanJuaEo2bmx5YjU0czJjak9WUWV2MmZXX3laY3llN0p2UU03LUxPZUxBcXhLYnhpLTNHV1R6NUlGQjhoVzRWRzlLb2hfT2s2aEVVV28ycmRNckJEcjBkNUNFS2g4QjM3LW4wX0dVeHg3VlVyLVB2T2lrNVRwRnVWQ3FkMzVmSXd2dQ?oc=5",
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW5kSkVackFObHlEWmJaaVlzVW5zUERhdmpnZ19Dakx1bGtqUWd4RnMyMjd0OFIzbXN4SFJkcUt2ZFVma2t2Z29SeUpTVTlTZlZzdzcwUUMyUHdrSmxzT2tGdGN1TjNlQWd2RnFtQ09pZGlWUnNaQlR0MU9TSFdiZnVrNkx0RVZxM3o5aS1BVHJtQ3FKMVA1QzVNTVlSbVdRS0lWTE4zY0w?oc=5",
+     "https://petronoticias.com.br/atgas-questiona-decisao-da-anp-sobre-valoracao-de-ativos-da-nts-e-da-tag/"
+    ],
+    "titulo": "Transportadoras de gás recorrem da decisão da ANP que zerou parte da base de ativos",
+    "resumo": "A ATGás alerta para maiores riscos ao setor; o recurso trata da valoração dos ativos de duas transportadoras."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0JVSWpkeE15b0s3UTFhQUlqNkdaNHJ1NnRYTVJjVUtSRWlwR3VHbUpOY05aTjNqbm5Ic2VDVnVBNVhLYlNLejFFcmdpLXJ2U1I5V2ZBREpXSjcyWWFNdWN4QTgwWGMzai10QVh4b1BVN3dTMXQwVFdQdFkzRkozaTNEUERYNGFoLTFGTG1iS09naUNBalZyMWs5SXFFR0RaQ3A1dVotZnpvcFNkOWJR?oc=5"
+    ],
+    "titulo": "ANP multa a Petrobras em R$ 994,5 mil por infração na P-71",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktwa3AyYm9aSm1TQ1d0VWtIOXduSzNhQVhtVDJTZ1B4TWd2V3VpVUw0MEdTSGVQempzcWtocXJtOFdNbzlTRVJ4YVVxQlVHcmZqc3JzYWdWQzNqUkdRNENTeUlpWFJaSDlDMGh6Z0JDc1FFQ2FvbVM2MVhMOGJEVUxhTEpVNm9Qa1haU1ZtNFdlaW4xQ3g3RUp2Q1Z5VzV6bU9paQ?oc=5"
+    ],
+    "titulo": "ANP distribui R$ 7,32 bilhões em royalties da produção de agosto",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/petrobras-bate-recorde-e-produz-35-milhoes-de-boed-no-3t26/?utm_source=rss&utm_medium=rss&utm_campaign=petrobras-bate-recorde-e-produz-35-milhoes-de-boed-no-3t26",
+     "https://valor.globo.com/empresas/noticia/2026/10/28/petrobras-tem-producao-media-de-oleo-lgn-e-gas-recorde-no-terceiro-trimestre.ghtml",
+     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkhhWTFTM3hEa0poZzl2SUxnU05QdjlCbFFxaTVsSGdRd0RtMndsVnc5VW1uUzVqVWp5WTNoYXFQM1JYTEZ1SVkyRWpFS1BkelFXMHRicTM1Z3k5eW9Lb3N0cmdJS19jLXJQSUhJT29sSXBqZnJvWkMxdERhbXBVdERHd2xEYWlib0I1Sm13LU1CdEdvTDNoODJIY2hZWENtUWhEV2tvVlU1ZXFFZnhUQUFveWdlbHlZa0thLTdTT0ltMXRY?oc=5"
+    ],
+    "titulo": "Produção de petróleo e gás bate recorde no terceiro trimestre",
+    "resumo": "A Petrobras produziu 3,5 milhões de barris de óleo equivalente por dia; a reposição de reservas preocupa o setor."
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/centaurus-fecha-acordos-com-glencore-e-cngr-e-garante-us-40-milhoes-para-projeto-de-niquel-no-brasil/2026/10/28/",
+     "https://revistamineracao.com.br/2026/10/28/glencore-e-cngr-compram-cinco-anos-da-producao-de-niquel-do-projeto-jaguar/",
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjhmdFJyTDl5TEs5UDQ2dFhhZFFXeGMxZlBjUjREa2NWd0hTeXY2U0xSR0NpcTBoaTBtOVRhVUlGTWUxS185TU9sZm9pNWtjWHZxQTFEZGNDOFVha0lXRkZQbVM1WFI1M1JtekUya3FiNklvQUF4bnFvTnlHY2tiSFVROHFmQkotQ2tHV1NweTFHdVRiTmd2bXNlQUJSUTFpcVE0dkdsZHlieUFIakoyUEZEQUtKTmFDYzdfVXdNNWxEUnFQN0hCUw?oc=5"
+    ],
+    "titulo": "Glencore e CNGR compram cinco anos da produção de níquel de projeto no Pará",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/mrn-recebe-equipamentos-da-china-para-conectar-operacao-no-para-a-rede-nacional-de-energia/2026/10/28/",
+     "https://revistaminerios.com.br/mrn-linha-transmissao-quase-100-km-operacao-pa/"
+    ],
+    "titulo": "Mineradora conecta operação no Pará à rede nacional com linha de quase 100 km",
+    "resumo": "A obra deve reduzir as emissões da operação."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXVBd3F4bi11VlpJVmo3ZTd1NkF4RzhKZjlqTUZEbkkyckpuN09GeHFReS1WVXM0NnRVOWY3UXhnbzFXbWcxMW15blQwSlA5aERQSElrX21xQXR1ZHNqT1g0QWNNTTRoYk04d3NIS2ZoYWZiMTJVUUliZlc0WmcyM2MxVlROTVFFWnZNQ3J5RUFLWWVhN2Jna29QaUJLSnJIWnZMR2tTZFp3ZV9LTUF0YlFXUm5tRHI0U0ZRRGNWN3RXdWRuRlhGQQ?oc=5"
+    ],
+    "titulo": "Chile aprova reforma que reduz taxas de concessões da pequena mineração",
+    "resumo": "Só a manchete está disponível."
+   }
+  ]
+ }
 }
