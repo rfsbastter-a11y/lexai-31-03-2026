@@ -79,5 +79,59 @@
     "link": "https://www.instagram.com/reel/De9zLq4AbU5/",
     "erro": "",
     "quando": "2026-10-26T17:17:11.000Z"
+  },
+  {
+    "id": "2026-10-26-linkedin-escritorio-documento-gas",
+    "rede": "linkedin-escritorio",
+    "tipo": "documento",
+    "status": "erro",
+    "link": "",
+    "erro": "cancelado pelo Ronald em 26/10 antes de publicar",
+    "quando": "2026-10-26T17:25:59.000Z"
+  },
+  {
+    "id": "2026-10-26-instagram-escritorio-carrossel-gas",
+    "rede": "instagram-escritorio",
+    "tipo": "documento",
+    "status": "erro",
+    "link": "",
+    "erro": "cancelado pelo Ronald em 26/10 antes de publicar",
+    "quando": "2026-10-26T17:27:01.000Z"
+  },
+  {
+    "id": "2026-10-26-linkedin-escritorio-texto-offshore",
+    "rede": "linkedin-escritorio",
+    "tipo": "texto",
+    "status": "erro",
+    "link": "",
+    "erro": "cancelado pelo Ronald em 26/10 antes de publicar",
+    "quando": "2026-10-26T17:27:09.000Z"
+  },
+  {
+    "id": "2026-10-29-instagram-escritorio-documento-1",
+    "rede": "instagram-escritorio",
+    "tipo": "documento",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-10-29T12:10:53.000Z"
+  },
+  {
+    "id": "2026-10-29-linkedin-escritorio-imagem-1",
+    "rede": "linkedin-escritorio",
+    "tipo": "imagem",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-10-29T12:10:58.000Z"
+  },
+  {
+    "id": "2026-10-29-linkedin-ronald-imagem-1",
+    "rede": "linkedin-ronald",
+    "tipo": "imagem",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-10-29T12:11:06.000Z"
   }
 ]
