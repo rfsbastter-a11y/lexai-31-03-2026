@@ -169,5 +169,23 @@
     "link": "https://www.linkedin.com/feed/update/urn:li:share:7521905584951156736",
     "erro": "",
     "quando": "2026-10-30T12:06:49.000Z"
+  },
+  {
+    "id": "2026-10-30-instagram-escritorio-reel-1",
+    "rede": "instagram-escritorio",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-10-30T12:16:42.000Z"
+  },
+  {
+    "id": "2026-10-30-linkedin-escritorio-reel-1",
+    "rede": "linkedin-escritorio",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-10-30T12:16:47.000Z"
   }
 ]
