@@ -147,8 +147,8 @@
     "id": "2026-10-30-linkedin-escritorio-documento-dominium",
     "rede": "linkedin-escritorio",
     "tipo": "documento",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521905669319421952",
     "erro": "",
     "quando": "2026-10-30T12:06:24.000Z"
   },
@@ -156,8 +156,8 @@
     "id": "2026-10-30-instagram-ronald-reel-1",
     "rede": "instagram-ronald",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/DfHi1qgjEOZ/",
     "erro": "",
     "quando": "2026-10-30T12:06:44.000Z"
   },
@@ -165,8 +165,8 @@
     "id": "2026-10-30-linkedin-ronald-texto-1",
     "rede": "linkedin-ronald",
     "tipo": "texto",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:share:7521905584951156736",
     "erro": "",
     "quando": "2026-10-30T12:06:49.000Z"
   }
