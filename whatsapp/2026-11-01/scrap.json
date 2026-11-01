@@ -432,5 +432,88 @@
    "resumo_original": "Tudo sobre Minerais críticos CNN Brasil",
    "data": "2026-10-31T11:24:48-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 1º/11, 04h50 (Brasília). Dados brutos em `raw/2026-11-01.json`. Domingo, com poucas publicações nas fontes. Ficaram de fora repercussão eleitoral e de mercado (bolsas, ações), denúncias criminais e notícias sem relação com os setores.",
+  "destaque": {
+   "ids": [
+    "https://brasilmineral.com.br/noticias/amig-ve-com-bons-olhos-cruzamento-de-dados-feito-pela-anm"
+   ],
+   "titulo": "ANM passa a cruzar as declarações da CFEM com as notas fiscais eletrônicas a partir de hoje",
+   "texto": "A partir de 1º de novembro de 2026, a Agência Nacional de Mineração começa a comparar, de forma automatizada, as informações da Declaração de Informações Econômico-Fiscais (DIEF-CFEM) com os dados das Notas Fiscais Eletrônicas (NF-e). A análise abrange as operações realizadas desde janeiro de 2025. A CFEM é a compensação financeira paga pela exploração de recursos minerais, repartida entre União, estados e municípios. A Associação Brasileira dos Municípios Mineradores (AMIG Brasil) considera o cruzamento um avanço para identificar inconsistências nas declarações e proteger receitas devidas aos municípios."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://oglobo.globo.com/economia/noticia/2026/11/01/governo-corre-para-aprovar-no-cogresso-regras-para-uso-de-ia-e-concorrencia-de-big-techs.ghtml"
+    ],
+    "titulo": "Governo quer aprovar ainda este ano regras de IA e de concorrência para as big techs",
+    "resumo": "A estratégia é avançar com projetos que já tramitam no Congresso, com agenda legislativa cheia até dezembro."
+   },
+   {
+    "ids": [
+     "https://valor.globo.com/empresas/noticia/2026/10/31/analise-leilao-de-transmissao-passa-ao-largo-de-turbulencia-de-curto-prazo-e-renova-desagio-elevado.ghtml",
+     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkVUUmRzUzhVdXZReEJ4Y0kxU21SNDlmN0tyamtoMnA0R1ZuZUJHUHZ5TFdwUWk4STFZbzhVeUU5aVBveE5CVEJDQThTeVpMWXVqYVExOWdmdXhoNnFFakluQVVabFJsTkZTay14LUpIQXU5b09WMm15Z2pxejVvZEs1bEppeHdQalFSckgwWnpJeXVjbzdCd0MyVVF1bmFvRE8td2NQdWNNUC1xSy1JOVVBSjZKSk5wd1plcU4xWWlEendkbE5xU0ZwUUNhcXJoQ0Vr?oc=5"
+    ],
+    "titulo": "Leilão de transmissão renova deságio elevado apesar da turbulência de curto prazo",
+    "resumo": "Os oito lotes saíram com deságio médio de 50,1%, pouco abaixo dos 53,2% do certame de julho."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/newsletters/newsletter-gas-week/a-nova-e-tambem-a-velha-agenda-regulatoria-da-anp-para-o-gas-natural/"
+    ],
+    "titulo": "ANP propõe três novas regulamentações para o gás natural na agenda regulatória 2027-2028",
+    "resumo": "A agência também retoma quatro temas antes retirados das prioridades e adiou a análise de recurso da ATGás sobre a revisão tarifária."
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/petroleo-segue-perto-de-niveis-recordes-apesar-da-retomada-das-exportacoes-do-golfo.shtml"
+    ],
+    "titulo": "Petróleo segue perto de níveis recordes apesar da retomada das exportações do Golfo",
+    "resumo": "O Brent subiu 20% desde setembro, para US$ 115 por barril, mesmo com exportações do Oriente Médio acima de 17 milhões de barris por dia."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGVGM3FoZ0NPMV91WnI0SVNqbUl5dmhDeXM1Sk5hVzJrRV9PU0RTXzhFelo5TFRnQ0kxUk1SRngwVEFtTWNRTHRZLTh0TVZLLVhOTGxCY1FWTDZmUXFWb2xUV1VoVmZuek9uUXA2RFFuWFpBc21uYUFyVlNNZ3dVV3RSbDZlQXFoZUJuYkpLQjhUNnpBX0xxRVUxWUtNWUFiZVFoSnZXejFCSkdGdEh2SUVFRDBKM0I3dDYwNW1mczJUeG9vYXVZTGl0TS15dEY3M3c?oc=5"
+    ],
+    "titulo": "Petrobras confirma a terceira descoberta de petróleo na costa do Amapá",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0hDNGF4VUpkNjJOQWpPVHJtaGRWMmtrN25oNHZzOFBiOVRUMnp3QjJLcm0yekdpLXctLXpKQjNNbjVrcWJlemgzcXNEd1pEUHdYMTBkc3BZUXR5MG54eHVaQ0hfdDYwZEpDbmVmdjYwRmtqZWdfczhValFsRV84UXRrWEhNZFRKSHJyUU1RRGs3dGRvdzRVeWpLemNtcHdxTmhPZGd1ZWhaUG54clktZXZoZVlkU0Z6eV9GTF9JX2cwYlBsMkZva3JKRHR4QUpMdnZUX1FkWQ?oc=5"
+    ],
+    "titulo": "EUA planejam flexibilizar restrições às emissões de metano na perfuração",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/amig-ve-com-bons-olhos-cruzamento-de-dados-feito-pela-anm"
+    ],
+    "titulo": "ANM começa a cruzar declarações da CFEM com notas fiscais eletrônicas a partir de 1º/11",
+    "resumo": "A comparação alcança operações desde janeiro de 2025; a AMIG, associação dos municípios mineradores, apoia a medida."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/sgb-lancara-plataforma-de-busca-para-dados-e-pesquisas-geocientificas"
+    ],
+    "titulo": "Serviço Geológico do Brasil lança plataforma de busca em linguagem natural para dados geocientíficos",
+    "resumo": "Versão beta, com acervo de mais de 57 anos, lançada no 52º Congresso Brasileiro de Geologia, em Fortaleza."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JUGZ4a1BjYVJiTXZ4dTVtUURBcmZaWTc5UU52Y1ZrSmhsVWtrZ2EwbkhfRnBHVE5SZTZQMjJTUUdLM19XRXZWVGIzY1lfdWFld3ZXTS1BMEYxXzNySW0zQU5RbU5wVjk0MlhZNGNLVDBzS1lnNEdZ?oc=5"
+    ],
+    "titulo": "Minerais críticos: o que são e por que importam",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/lucro-da-usiminas-cai-43-no-trimestre-para-r-243-milhoes"
+    ],
+    "titulo": "Lucro de siderúrgica cai 43% no trimestre",
+    "resumo": "Só a manchete está disponível."
+   }
+  ]
+ }
 }
