@@ -1,0 +1,436 @@
+{
+ "data": "2026-11-01",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 18,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 61,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 36,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 4,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 8,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 53,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 8,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "A nova (e a velha) agenda regulatória da ANP para o gás natural",
+   "link": "https://eixos.com.br/newsletters/newsletter-gas-week/a-nova-e-tambem-a-velha-agenda-regulatoria-da-anp-para-o-gas-natural/",
+   "resumo_original": "ANP propõe três novas regulamentações para o mercado de gás natural em nova agenda regulatória 2027-2028 O post A nova (e a velha) agenda regulatória da ANP para o gás natural apareceu primeiro em eixos .",
+   "data": "2026-10-31T09:00:00-03:00",
+   "texto": "PIPELINE. ANP propõe três novas regulamentações para o mercado de gás natural em nova agenda regulatória , além de retomar outros quatro itens que foram retirados da fila de prioridades no passado.\nANP adia análise de recurso da ATGás sobre revisão tarifária. Bolívia abre caminho para importação excepcional de gás pelo setor privado. Guerra encarece GNL no mercado spot em US$ 39 bilhões em 2026 . M&A no shale dos EUA e mais. Confira:\nA Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP) propôs a inclusão de três novas regulamentações para o mercado de gás natural na nova agenda regulatória para o biênio 2027-2028 ( na íntegra, em .pdf ) Além disso, a agência retoma outros quatro itens que já constaram da agenda no passado, mas que haviam sido retirados da fila de prioridades e entrado no repositório da agenda 2025-2026. A ANP abriu, até 26 de novembro, consulta prévia sobre a proposta de ações regulatórias que poderão compor a nova agenda. Dentre as novidades , estão discussões sobre:\nAs ações da agenda atual que estiverem em andamento e não forem concluídas até o fim de 2026 serão automaticamente incorporadas à próxima. Depois de anos travada, a agenda regulatória do gás começou a ganhar tração a partir de 2025 – e a ANP, que era criticada pelos atrasos, passou a ser questionada por colocar diferentes assuntos em discussão paralelamente. Dentre as entregas, a agência montou todo o esqueleto de regulações do mandato do biometano, além de ter publicado as resoluções:\nMas ainda existem pendências para este fim de ano e que podem, eventualmente, escorregar para a próxima agenda. São processos controversos como a definição dos critérios para classificação de gasodutos de transporte, judicializado pela Abegás no Supremo Tribunal Federal (STF) . E as discussões sobre as condições de acesso às infraestruturas de escoamento e processamento e sobre a criação do programa de desconcentração do mercado (o gas release ), que enfrentam forte oposição da Petrobras – e, no caso do acesso, de seus sócios nos gasodutos do pré-sal. Falando nisso… Num momento em que a agenda do gás da ANP é posta à prova pela escalada das pressões políticas da Petrobras no Planalto, o Congresso volta a puxar para si do debate sobre o gas release.\nA seguir, a gas week resume a nova agenda da ANP para o mercado de gás.\nOs novos itens da agenda se tratam de discussões que, em alguma medida, já começaram dentro da agência, em resposta às demandas do mercado.\nNo fim de 2025, a ANP aprovou a minuta de autorização para o projeto , mas o início das operações ainda está pendente da autorização definitiva. A atividade ainda não possui regulamentação específica no Brasil e a ANP vem tratando o case da Origem com uma solução individual. A expectativa, porém, é que o projeto em Alagoas ajude a desenhar a nova regulação. Além da Origem, o consórcio que opera o campo de Manati (BA) pediu à ANP a postergação da concessão, que vence em 2029, de olho numa possível conversão dos reservatórios num projeto de estocagem de gás. Manati é operado pela Petrobras (35%), em sociedade com Brava (45%) e GBS (20%). “A regulamentação é relevante por abarcar uma categoria de infraestrutura capaz de trazer benefícios para o setor do gás, tais como ser importante instrumento de flexibilidade entre a oferta e o consumo e de balanceamento de redes. Além disso, é demandada pela sociedade, em especial por interessados em desenvolver a atividade no Brasil”, justifica a ANP.\nA Virtu GNL desenvolve, hoje, um projeto piloto de postos de GNL para frota própria de caminhões em Santo Antônio dos Lopes e Balsas (MA) e Parauapebas (PA). Mas não é só a companhia que mira esse mercado. Este ano, o Grupo Nimofast (operação e gestão logística), Green Cargo (fornecedora de caminhões) e a Edge (fornecedora do gás) se associaram num projeto que visa escalar o transporte rodoviário de longa distância movido a GNL no Brasil.\nO tema ganhou destaque com o impasse, em 2025, em torno da construção da Estação de Compressão (Ecomp) Japeri (RJ) – projeto da Nova Transportadora do Sudeste (NTS) que visa compensar o declínio da importação da Bolívia com gás do pré-sal. A NTS recebeu autorização da ANP para construção do empreendimento em janeiro do ano passado, mas travou com a agência um longo impasse sobre as condições de remuneração do ativo – a transportadora buscava blindar a taxa de retorno e pedia um valor superior ao calculado pelos técnicos do regulador. O atraso na implementação do projeto despertou preocupações sobre a segurança do abastecimento do mercado de gás e seus impactos sobre o setor elétrico. Foi aí que a ANP, em novembro de 2025, deu um ultimato para que a NTS iniciasse a construção da Ecomp, sob o risco de abrir processo seletivo público para que outro agente assumisse o investimento. A NTS aprovou internamente o projeto no início deste ano . A ANP recorreu, na ocasião, de forma inédita, ao dispositivo de contestação introduzido pela Lei do Gás de 2021 .\nO instrumento da contestação, no entanto, nunca foi regulamentado.\nOutras quatro ações regulatórias podem voltar à prancheta. São itens da agenda regulatória anterior que saíram do radar e entraram no repositório de ações regulatórias da agência. São as regulamentações sobre:\nElaboração de ato normativo que regulamenta os critérios de autonomia e de independência dos transportadores no mercado de gás e que visa, segundo a agência, a “promoção da livre concorrência, da transparência das informações, do acesso não discriminatório aos gasodutos e do uso eficiente das infraestruturas”.\nRevisão das resoluções existentes para unificação das resoluções 52/2011 e 51/2013 e adequação à Lei do Gás de 2021.\nResolução nova e que dialoga com a discussão sobre Códigos de Rede. O tema guarda relação com o empilhamento de tarifas, no caso de troca de gás da malha de uma transportadora para outra, por exemplo.\nRevisão da Resolução 11/2016 que regulamenta a oferta de serviços de transporte; a cessão de capacidade firme; a troca operacional de gás; a aprovação e o registro dos contratos de transporte; e a promoção dos processos de chamada pública para contratação de capacidade nos gasodutos.\nExistem, ainda, outros quatro processos que estão dentro da atual agenda 2025-2026, mas que estão em estágios de maturidade inicial. São temas que foram colocados no fim da fila, para dar prioridade às discussões sobre gas release, acesso às infraestruturas e revisão tarifária, por exemplo.\nRegulamentação de critérios para definição de tarifas setoriais diferenciadas e tipologia de investimentos. De acordo com a ANP, a documentação técnica e minuta estão em revisão final para submissão a aprovação de abertura de consulta pública. Inicialmente, estava prevista para 2026, mas escorregou para a agenda 2027-2028. É um desdobramento da revisão da Resolução 15/2014, que levou à publicação, no início do ano, da Resolução 991/2026. As tarifas diferenciadas ficaram para um segundo momento da discussão. Será o espaço para tratar de propostas como o short haul e tarifas wheeling , além da tipologia de investimentos – que atende a um pleito do Conselho de Usuários (CdU) pela criação de um rito regulatório mais claro para a aprovação de novos investimentos e incorporação desses projetos nas tarifas.\nRevisão da Resolução 37/2013, que estabelece os critérios para a caracterização da ampliação da capacidade de transporte de gasodutos de transporte. Segundo a ANP, os estudos preliminares estão em andamento e a previsão é de conclusão do processo em 2027.\nElaboração de ato normativo que estabelece as diretrizes para a elaboração conjunta de códigos de rede do sistema de transporte de gás e para os mecanismos de repasse de receita entre os transportadores interconectados. Ação regulatória com estudos preliminares iniciados e cronograma original com previsão de término em 2027. A discussão encontrou pouco espaço para florescer, em meio à revisão tarifária das transportadoras, mas a expectativa é que a pauta comece a destravar. Uma das reivindicações dos usuários é uma harmonização maior na gestão das operações de balanceamento da malha. E um dos códigos deve tratar, justamente, desse aspecto do balanceamento.\nRegulamentação ANP para autorização do exercício das atividades de importação e exportação de gás natural. Ação regulatória com estudos preliminares iniciados, mas que depende de diretrizes do Conselho Nacional de Política Energética (CNPE). Está no fim da fila de prioridades, com conclusão prevista somente em 2028. Fique de olho também. Fora da agenda regulatória do gás, existem outras ações propostas pela ANP que tratam do mercado de gás de forma correlata.\nRevisão tarifária. A diretoria da ANP adiou a análise do pedido de reconsideração da ATGás contra a decisão que cortou em R$ 11 bilhões a base de remuneração pleiteada pela TAG e NTS. Assim, a revisão tarifária das transportadoras entra em seu mês derradeiro, em novembro, ainda sem uma definição sobre os recursos. Gás argentino . A Eneva fechou acordo com a comercializadora Cinergia , para importar até 400 mil m³/dia, em base interruptível, via Bolívia.\nGás mais caro . Com a guerra no Oriente Médio, os países importadores de GNL vão gastar US$ 39 bilhões a mais do que o previsto no mercado spot em 2026, para comprar 60,7 milhões de toneladas a menos, estima a Rystad Energy .\nM&A no shale. Uma fusão entre a EQT e a Range Resources, por meio de uma troca de ações, vai criar a maior produtora de gás natural verticalmente integrada dos Estados Unidos , com valor de mercado de mais de US$ 50 bilhões. Menos gás para a Europa no inverno. A União Europeia entra no inverno com estoques de gás em 75%, abaixo da média de nove anos , segundo a agência de cooperação dos reguladores de energia do bloco (Acer)."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "POR INICIATIVA PRÓPRIA UM FUNCIONÁRIO DA PETROBRÁS ESCREVE UM LIVRO INÉDITO ENSINANDO O PASSO A PASSO DE TRABALHAR EM UMA PLATAFORMA EM SEGURANÇA",
+   "link": "https://petronoticias.com.br/por-iniciativa-propria-um-funcionario-da-petrobras-escreve-um-livro-inedito-ensinando-o-passo-a-passo-de-trabalhar-em-uma-plataforma-em-seguranca/",
+   "resumo_original": "Um trabalho que merece destaque e até mesmo um reconhecimento especial da Petrobrás. O Petronotícias abre um espaço para noticiar hoje (31) o envolvimento com o trabalho que Alexandre Linhares, técnico concursado da Petrobrás, embora seja engenheiro mecânico e atuando atualmente na coordenação de operações offshore. Recentemente ele publicou um livro desenvolvido de forma independente, […]",
+   "data": "2026-10-31T13:00:36-03:00",
+   "texto": "Um trabalho que merece destaque e até mesmo um reconhecimento especial da Petrobrás. O Petronotícias abre um espaço para noticiar hoje (31) o envolvimento com o trabalho que Alexandre Linhares, técnico concursado da Petrobrás, embora seja engenheiro mecânico e atuando atualmente na coordenação de operações offshore. Recentemente ele publicou um livro desenvolvido de forma independente, sem patrocínio, que ele está disponibilizando para os estudantes e profissionais da indústria de óleo e gás. Alexandre agradeceu a referência e disse que “ O projeto nasceu de uma apostila criada para auxiliar novos profissionais e acabou se transformando em uma obra técnica, reunindo conhecimentos e experiências práticas da indústria offshore.” A publicação Delineamento Offshore — Equipamentos Estáticos , – lembra Alexandre – foi lançada  na segunda quinzena de outubro pela Editora Nova Aurora, surgiu de uma necessidade profissional. Ao perceber que novos integrantes das equipes precisavam conhecer melhor as intervenções realizadas em equipamentos de plataformas, ele preparou uma apostila para facilitar a integração dos colegas. O material cresceu com pesquisas, referências e exemplos práticos, incluindo conteúdos utilizados em aulas como professor convidado do Programa Desenvolver. A iniciativa deu origem a uma obra voltada a estudantes, técnicos, engenheiros, inspetores, planejadores e outros profissionais do setor.\nO livro aborda temas como processamento primário de petróleo, vasos de pressão, permutadores de calor, inspeção, manutenção e planejamento de intervenções offshore, aproximando conceitos técnicos das situações encontradas na indústria. Mesmo após investir recursos próprios na produção, Alexandre decidiu disponibilizar gratuitamente a versão digital. Também produziu exemplares impressos para profissionais e instituições ligados à sua trajetória e à formação de novos talentos. Entre os destinatários estão a biblioteca da Universidade Federal do Rio de Janeiro (UFRJ), campus Macaé, e o SENAI Macaé . Nos primeiros dias após o lançamento, a publicação ultrapassou 200 downloads, segundo os dados informados pelo autor, com registros de acesso no Brasil, em Portugal e nos Estados Unidos. Para Alexandre, compartilhar conhecimento é uma forma de retribuir as oportunidades de aprendizado que recebeu ao longo da carreira e incentivar outros estudantes da região a investirem na educação. Como acessar: O livro Delineamento Offshore — Equipamentos Estáticos pode ser baixado gratuitamente pelo Google Play Livros: https://play.google.com/store/books/details?id=S7sJEgAAQBAJ\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "FIM DE SEMANA DE OPORTUNIDADES PARA TRAINEES, ESTAGIÁRIOS E VAGAS DE EMPREGOS. APROVEITE.",
+   "link": "https://petronoticias.com.br/fim-de-semana-de-oportunidadeses-para-trainees-estagiarios-e-vagas-de-empregos-aproveite/",
+   "resumo_original": "A ACCIONA abriu inscrições para o Programa iXPA 2027, iniciativa global de trainees destinada a profissionais que concluíram o ensino superior entre dezembro de 2022 e dezembro de 2026 em Engenharia Civil, Engenharia Elétrica, Engenharia Mecânica, Arquitetura ou outras áreas correlatas de STEM (Ciência, Tecnologia, Engenharia e Matemática). As oportunidades estão distribuídas entre projetos de […]",
+   "data": "2026-10-31T04:00:27-03:00",
+   "texto": "A ACCIONA abriu inscrições para o Programa iXPA 2027, iniciativa global de trainees destinada a profissionais que concluíram o ensino superior entre dezembro de 2022 e dezembro de 2026 em Engenharia Civil, Engenharia Elétrica, Engenharia Mecânica, Arquitetura ou outras áreas correlatas de STEM (Ciência, Tecnologia, Engenharia e Matemática). As oportunidades estão distribuídas entre projetos de água, saneamento e infraestrutura nos estados de São Paulo, Pernambuco, Paraná e Espírito Santo. Em sua 5ª edição, o programa já formou mais de 160 trainees no Brasil, com formação acadêmica e experiência prática em grandes projetos de infraestrutura da companhia no Brasil, incluindo iniciativas de mobilidade, água e saneamento, oferecendo aos participantes a oportunidade de ampliar seus conhecimentos e construir uma carreira com alcance internacional.\nDurante o trainee, os participantes terão acesso a uma pós-graduação em Gestão de Projetos e com dupla titulação pela Universidade de São Paulo (USP) e pela Universidad Politécnica de Madrid (UPM), na Espanha. Embora a pós- graduação conte com conteúdos em inglês e português, o domínio do inglês é essencial para o programa, especialmente considerando o ambiente global da empresa.  “ A ACCIONA está comprometida com o desenvolvimento da infraestrutura no Brasil, e isso também passa pelo apoio à formação de profissionais, combinando excelência acadêmica e experiência prática em projetos reais. Um dos diferenciais do programa iXPA é a pós-graduação com dupla titulação, que amplia perspectivas de carreira e contribui para preparar talentos para os desafios de um setor cada vez mais complexo e internacionalizado “, afirma María Castroviejo , diretora de Organização, Talento e Saúde da ACCIONA no Brasil. As inscrições para o Programa iXPA 2027 estão previstas para até 18 de janeiro de 2027. Para consultar os requisitos e realizar a inscrição, acesse o link\nLíder de mercado no setor de perfuração offshore, a Foresea oferece 25 vagas em regime CLT para atuação offshore e onshore no município de Macaé (RJ). As vagas são destinadas a profissionais de nível médio, técnico e superior, abrangendo diferentes áreas de atuação. Dentre elas duas para Sondador Cyber, duas para Operador de Posicionamento Dinâmico (DPO), uma para Especialista de perfuração e uma para Técnico em Eletrônica, além de outras carreiras. Interessados nos cargos de Auxiliar de Plataforma também podem realizar inscrição no banco de talentos da empresa para participar de oportunidades futuras.\nPara todas as posições, a Foresea oferece um pacote de benefícios que inclui plano de saúde e odontológico, vale-alimentação ou vale-refeição, incentivo à prática de atividade física (Wellhub), plano de previdência privada, participação nos lucros, seguro de vida, dentre outros. As inscrições podem ser feitas pelo site da Foresea ( Link ), pelo LinkedIn da empresa ou diretamente na página de carreiras ( Link ), onde estão disponíveis mais informações das vagas e seus respectivos processos seletivos.\nA Secretaria de Desenvolvimento Econômico do Estado de São Paulo (SDE) está com inscrições abertas para 4.580 vagas em cursos profissionalizantes gratuitos do programa Qualifica SP, disponíveis na plataforma Trampolim. São oportunidades presenciais em 84 municípios voltadas tanto para quem busca o primeiro emprego quanto para trabalhadores que desejam se recolocar ou se qualificar para novas oportunidades no mercado. As inscrições podem ser feitas pelo site www.trampolim.sp.gov.br até o dia 2 de novembro. As aulas são promovidas pelo SEST SENAT e têm início previsto entre os dias 9 e 16 de novembro e ocorrem no período da manhã, tarde ou noite.  As formações contemplam áreas com alta demanda por mão de obra como logística, gestão, informática e administração. Ao todo, são 62 cursos disponíveis, entre os que mais têm vagas estão:\nOs cursos são ofertados nas modalidades Meu Primeiro Emprego, com 840 vagas direcionadas a jovens de 16 a 24 anos que buscam a primeira oportunidade no mercado de trabalho, também Novo Emprego, com 3.635 vagas voltadas a jovens e adultos entre 25 e 59 anos que desejam se qualificar em uma outra área ou iniciar uma nova carreira, e o 60+, com 105 vagas para o público acima de 60 anos que procura requalificação.  A definição dos cursos considera as demandas regionais por qualificação profissional, com foco na conexão entre formação e empregabilidade.  Para participar, basta acessar o site www.trampolim.sp.gov.br , fazer login com a conta gov.br e escolher o curso desejado. Podem se inscrever candidatos alfabetizados, domiciliados no estado de São Paulo e com idade compatível com a modalidade escolhida.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Brasil Mineral",
+   "idioma": "pt",
+   "titulo": "Lucro da Usiminas cai 43% no trimestre, para R$ 243 milhões",
+   "link": "https://brasilmineral.com.br/noticias/lucro-da-usiminas-cai-43-no-trimestre-para-r-243-milhoes",
+   "resumo_original": "Receita ficou em R$ 6,2 bilhões; a siderurgia vendeu 5% mais, e a mineração pesou com menos volume, preços menores e frete mais caro",
+   "data": "2026-10-31T17:19:47-03:00",
+   "texto": "Receita ficou em R$ 6,2 bilhões; a siderurgia vendeu 5% mais, e a mineração pesou com menos volume, preços menores e frete mais caro\nA Usiminas obteve EBITDA Ajustado Consolidado de R$ 558 milhões no terceiro trimestre de 2026, 27% inferior ao registrado no segundo trimestre deste ano, mas 29% superior ao apurado no mesmo período de 2025. A margem EBITDA ajustada foi de 9%, ante 12,4% no trimestre anterior e 6,6% um ano antes. As vendas de aço alcançaram 1,034 milhão de toneladas, 5% acima do último trimestre, e as vendas de minério de ferro somaram 2,014 milhões de toneladas, queda de 18% em relação ao período anterior. A receita líquida consolidada atingiu R$ 6,2 bilhões, alta de 1% em relação ao segundo trimestre e recuo de 6% na comparação com um ano atrás.\nNos nove primeiros meses de 2026, a companhia acumulou EBITDA Ajustado de R$ 1,97 bilhão, crescimento de 25% em relação ao mesmo período do ano passado. O resultado trimestral reflete o bom desempenho comercial da siderurgia, parcialmente compensado pelo ambiente mais desafiador para a mineração. Na siderurgia, as vendas cresceram impulsionadas principalmente pela demanda dos segmentos automotivo e de distribuição. Já na mineração, o período foi marcado pela redução dos volumes comercializados, queda dos preços internacionais do minério de ferro e aumento dos custos logísticos, especialmente dos fretes marítimos.\nO lucro líquido da Usiminas foi de R$ 243 milhões no trimestre, uma redução de 43% em relação ao trimestre anterior e uma recuperação em relação ao mesmo período do ano passado, quando foi registrado prejuízo líquido de R$ 3,5 bilhões. “A persistência das tensões geopolíticas mundiais, associada à volatilidade dos mercados e aos elevados custos energéticos, continua pressionando a atividade econômica e a inflação, criando um ambiente menos favorável à estabilização da economia global e brasileira”, afirmou Marcelo Chara, presidente da Usiminas. O desempenho demonstra a capacidade da Usiminas de preservar resultados mesmo em um ambiente complexo para a indústria do aço. Chara sinaliza que para os próximos meses o cenário permanece desafiador e exige cautela.\nAs importações de aço continuam sendo um ponto de preocupação. Mas as iniciativas adotadas pelo Governo Federal contribuíram para reduzir o impacto. “As medidas de defesa comercial elaboradas a partir das análises das equipes técnicas do Ministério do Desenvolvimento, Indústria, Comércio e Serviços e adotadas pelo Governo Federal ao longo de 2026 contribuíram para reduzir a importação do aço no acumulado do ano. Precisamos continuar avançando nessa agenda”, afirma. As importações somaram 4,3 milhões de toneladas nos nove primeiros meses do ano, queda de 15,4%, segundo o Instituto Aço Brasil. A indústria nacional enfrenta, ainda, uma invasão de produtos manufaturados com elevado nível de aço contido. Segundo a Anfavea, o país importou 255 mil veículos até setembro de 2026, mais que o dobro do mesmo período de 2025. Ainda segundo o Instituto Aço Brasil, o volume de importações diretas e indiretas de aço deverá atingir 12 milhões de toneladas em 2026, valor correspondente a aproximadamente 47% do consumo aparente brasileiro.\nPara o próximo trimestre, na siderurgia, Marcelo Chara espera estabilidade dos despachos, com a sazonalidade típica do mercado interno compensada pelas maiores exportações. “Ao mesmo tempo, esperamos pressão sobre as margens a partir de maiores custos de matérias-primas, insumos e energia”, sinaliza. Na mineração, refletindo as condições atuais de preços e custos de frete marítimo, a perspectiva é de redução nos despachos, preservando reservas minerais, priorizando a disciplina financeira e redução de custos. Mesmo diante do cenário de desafios, Chara reforça que “a Usiminas segue comprometida com a indústria nacional, com a excelência de suas operações, a segurança, o desempenho ambiental e com as comunidades onde opera, apoiada na capacidade e no comprometimento de seus colaboradores para entregar produtos e serviços de qualidade a seus clientes”, conclui."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Brasil Mineral",
+   "idioma": "pt",
+   "titulo": "Anglo American mobiliza sete mil pessoas no Dia Mundial da Segurança",
+   "link": "https://brasilmineral.com.br/noticias/anglo-american-mobiliza-sete-mil-pessoas-no-dia-mundial-da-seguranca",
+   "resumo_original": "Operações globais pararam em 28 de outubro; no Brasil, foram 17 sessões sobre cultura de prevenção e integridade operacional",
+   "data": "2026-10-31T17:19:44-03:00",
+   "texto": "Operações globais pararam em 28 de outubro; no Brasil, foram 17 sessões sobre cultura de prevenção e integridade operacional\nA Anglo American paralisou temporariamente suas operações globais no dia 28 de outubro para promover uma reflexão sobre segurança com empregados próprios e contratados. No Brasil, o Dia Mundial da Segurança mobilizou cerca de sete mil participantes ao longo de 17 sessões dedicadas ao fortalecimento da cultura de prevenção e da integridade operacional. Realizado há mais de 15 anos, o encontro é o principal marco do calendário anual da companhia focado na vida e no bem-estar de suas equipes. “Na Anglo American, segurança é um valor inegociável e é a base de todas as nossas decisões. Cada profissional deixa sua casa e seus familiares com a expectativa legítima de retornar com saúde e segurança. Acreditamos genuinamente que as pessoas vêm em primeiro lugar e que nenhum resultado justifica a exposição a riscos”, afirmou a presidente da Anglo American no Brasil, Ana Sanches.\nA presidente da Anglo destacou ainda a liderança como pilar fundamental para fortalecer a cultura preventiva. “Uma liderança comprometida vai além do cumprimento de normas; ela estabelece um ambiente de diálogo contínuo e empatia. Isso significa escutar ativamente nossas equipes, mapear riscos com rigor e assegurar total autonomia para que qualquer colaborador interrompa atividades caso identifique condições inseguras”. Para o diretor de Operações Globais da Anglo American, Ruben Fernandes, que participou das atividades em Conceição do Mato Dentro, na região central de Minas Gerais, “é gratificante estar na cidade, perto das equipes que fazem a operação acontecer todos os dias. Falar de segurança aqui renova nosso compromisso com a vida e com o cuidado com as pessoas”, afirmou.\nO diretor de Saúde, Segurança e Meio Ambiente da Anglo American, Alexandre Souto, também enfatizou a importância do engajamento coletivo e da disciplina operacional na sustentação desses princípios. “A excelência em segurança é uma construção diária e colaborativa. Ela exige cuidado mútuo e total adesão aos padrões estabelecidos, independentemente de supervisão contínua”. “Alcançamos a maturidade em segurança quando combinamos o zelo com as pessoas, o respeito irrestrito aos processos e a atuação unificada em todas as nossas frentes de trabalho”, concluiu."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Brasil Mineral",
+   "idioma": "pt",
+   "titulo": "AMIG vê com bons olhos cruzamento de dados feito pela ANM",
+   "link": "https://brasilmineral.com.br/noticias/amig-ve-com-bons-olhos-cruzamento-de-dados-feito-pela-anm",
+   "resumo_original": "A partir de 1º de novembro, a agência compara as declarações da CFEM com as notas fiscais eletrônicas emitidas desde janeiro de 2025",
+   "data": "2026-10-31T17:19:41-03:00",
+   "texto": "A partir de 1º de novembro, a agência compara as declarações da CFEM com as notas fiscais eletrônicas emitidas desde janeiro de 2025\nA Associação Brasileira dos Municípios Mineradores (AMIG Brasil) considera que o cruzamento automatizado de informações anunciado pela Agência Nacional de Mineração (ANM) é um avanço importante para o setor enfrentar inconsistências nas declarações das empresas e proteger receitas devidas a esses territórios. A partir de 1º de novembro de 2026, a ANM iniciará a comparação entre as informações da Declaração de Informações Econômico-Fiscais (DIEF-CFEM) e os dados das Notas Fiscais Eletrônicas (NF-e). A análise abrangerá operações realizadas desde janeiro de 2025. Segundo a agência, a integração ampliará a capacidade de identificar divergências e dará mais precisão ao monitoramento do setor.\n“A iniciativa responde à necessidade de conferir com mais rigor os valores informados pelas mineradoras. Como o recolhimento da Compensação Financeira pela Exploração de Recursos Minerais (CFEM) se baseia nas informações prestadas pelos responsáveis pelo pagamento, a verificação sistemática desses dados é decisiva para detectar diferenças e exigir sua regularização”, comenta Waldir Salvador, consultor de Relações Institucionais e Econômicas da AMIG Brasil. Para a associação, o avanço tecnológico precisa se traduzir em agilidade na apuração e efetividade na cobrança dos valores não recolhidos. O pagamento correto da CFEM integra a responsabilidade das empresas com os territórios onde atuam e contribui para que o poder público enfrente os impactos associados à mineração."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Brasil Mineral",
+   "idioma": "pt",
+   "titulo": "SGB lançará plataforma de busca para dados e pesquisas geocientíficas",
+   "link": "https://brasilmineral.com.br/noticias/sgb-lancara-plataforma-de-busca-para-dados-e-pesquisas-geocientificas",
+   "resumo_original": "Em versão beta, a ferramenta encontra estudos de um acervo de mais de 57 anos a partir de perguntas em linguagem natural; o lançamento é no Congresso Brasileiro de Geologia",
+   "data": "2026-10-31T17:19:34-03:00",
+   "texto": "Em versão beta, a ferramenta encontra estudos de um acervo de mais de 57 anos a partir de perguntas em linguagem natural; o lançamento é no Congresso Brasileiro de Geologia\nO Serviço Geológico do Brasil (SGB) lançará uma nova plataforma de busca durante o 52º Congresso Brasileiro de Geologia, que começa neste domingo, 1º de novembro, em Fortaleza (CE). Desenvolvida para facilitar o acesso aos dados e às pesquisas geocientíficas da instituição, a plataforma (em versão beta) ajudará o público a encontrar estudos e produtos a partir de perguntas feitas em linguagem natural.\nA ferramenta engloba informações de um acervo construído ao longo de mais de 57 anos de pesquisas do SGB. A proposta é simplificar a busca por conteúdos sobre temas como recursos minerais, águas superficiais e subterrâneas, riscos geológicos e mapeamento do território brasileiro. A plataforma estará disponível, inicialmente, em versão beta, etapa destinada à avaliação do funcionamento e ao aprimoramento da ferramenta."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Análise: Leilão de transmissão passa ao largo de turbulência de curto prazo e renova deságio elevado",
+   "link": "https://valor.globo.com/empresas/noticia/2026/10/31/analise-leilao-de-transmissao-passa-ao-largo-de-turbulencia-de-curto-prazo-e-renova-desagio-elevado.ghtml",
+   "resumo_original": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+   "data": "2026-10-31T08:00:01-03:00",
+   "texto": "O último leilão de transmissão de energia elétrica do ano, realizado na sexta-feira (30) em São Paulo, apresentou resultados que praticamente ignoraram as turbulências de curto prazo no cenário macroeconômico. O certame terminou com os oito lotes arrematados e um deságio médio de 50,1%, pouco abaixo do último certame, que em julho registrou 53,2%, mas dentro do que vem sendo observado nas licitações dos últimos anos.\nO setor é consolidado e considerado um porto seguro para investidores na área de energia. Com as receitas estáveis e previsíveis, já que os empreendedores são remunerados pela Receita Anual Permitida (RAP) ofertada em leilão, ainda assim havia dúvidas sobre a manutenção de competitividade em níveis tão elevados quanto os observados diante dos solavancos do dólar após o segundo turno das eleições presidenciais, que mexeu também com a curva de juros futuros, fator que pesa para setores de capital intensivo como a infraestrutura.\nPara o secretário de leilões da Agência Nacional de Energia Elétrica (Aneel), Ivo Sechi Nazareno, o resultado do certame demonstra que os negócios do segmento são “blindados” a oscilações de curto prazo. “Os investidores continuam acreditando no setor elétrico e as questões de curto prazo não afetam essa infraestrutura de longo prazo uma vez que os contratos são longos e vão acomodar essas oscilações momentâneas que acontecem”, avaliou a jornalistas, após o certame.\nO responsável por leilões de transmissão do Santander, Marcelo Sahatdjian, reitera a consolidação do segmento. “Independente de algum cenário macro, cada interessado faz suas próprias contas e considera todos os riscos envolvidos. Os riscos de execução e operação são os mesmos e a grande variável que existe é o tema dos juros de longo prazo, mas, de certa forma, isso é precificado em cada oferta”, afirmou ao Valor .\nNo todo, pesa também a estratégia da Aneel de fixar RAPs máximas capazes de atrair mais empresas para o certame, no qual vence quem ofertar o maior desconto para tais valores. A estratégia tem sido bem sucedida pelo menos desde 2017, com deságios sempre próximos de 40%.\n“O objetivo da receita teto é permitir a competição. O que é importante é o resultado. Se você aperta demais a receita para tentar chegar próximo do resultado, o que você faz é com que os demais competidores, um por um, não consigam mais oferecer propostas”, explicou Sechi ao Valor .\nEle pondera, no entanto, que a agência considera também o impacto dessas receitas na tarifa paga pelo consumidor final que, em última instância, é quem remunera a construção e operação dos ativos levando em conta uma série de informações como o banco de preços e base de investimentos para estabelecer os montantes.\nNo todo, a estratégia parece estar funcionando e cabe agora acompanhar para que as empresas vencedoras - Celeo, Cymi, Neoenergia, EDP e Cox Brasil – entreguem os ativos arrematados nos prazos acordados. Todas já são atuantes no segmento e, portanto, já têm expertise quanto às questões ambientais, regulatórias e de execução que são características do desenvolvimento dos projetos.\n“A presença de diferentes grupos na disputa demonstra a atratividade de projetos de transmissão de grande escala e coloca agora no centro da discussão a capacidade de converter competitividade no leilão em eficiência de implantação e geração de valor durante os 30 anos da concessão”, destacou o sócio da KPMG, Thiago Oliveira, sobre o certame.\nA expectativa é que os contratos sejam assinados em fevereiro de 2027, data a partir da qual começam a correr os prazos para entrada em operação comercial, que variam de 42 a 60 meses a depender do lote."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Petróleo segue perto de níveis recordes apesar da retomada das exportações do Golfo",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/petroleo-segue-perto-de-niveis-recordes-apesar-da-retomada-das-exportacoes-do-golfo.shtml",
+   "resumo_original": "O enigma do mercado global de petróleo se aprofunda oito meses após o início da guerra com o Irã . Desde o começo de setembro, as exportações do Oriente Médio aumentaram. Leia mais (10/31/2026 - 16h00)",
+   "data": "2026-10-31T16:00:00-03:00",
+   "texto": "Você tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nO enigma do mercado global de petróleo se aprofunda oito meses após o início da guerra com o Irã . Desde o começo de setembro, as exportações do Oriente Médio aumentaram.\nNa semana encerrada em 23 de outubro, elas superaram 17 milhões de barris por dia, apenas 4 milhões de barris diários abaixo dos níveis de 2025, segundo estimativas da Vortexa, empresa de análise de dados. No mesmo período, porém, o preço dos contratos futuros do Brent, referência internacional do petróleo, subiu 20%, para US$ 115 por barril, aproximando-se do pico registrado em abril .\nTrês fatores ajudam a explicar por que o petróleo está tão caro. O primeiro é uma mudança no apetite da China pelo produto. Em março, preocupada com o abastecimento, Pequim proibiu a exportação de derivados de petróleo. As refinarias passaram a recorrer aos estoques, e os consumidores reduziram o uso de combustíveis.\nComo resultado, as importações chinesas de petróleo bruto caíram quase pela metade entre fevereiro e junho, uma redução de 6 milhões de barris por dia. Esse foi um dos principais motivos pelos quais o maior choque de oferta de petróleo da história não provocou uma alta ainda maior dos preços.\nEm junho, uma trégua nas tensões entre Irã e Estados Unidos fez os preços recuarem. Refinarias chinesas pressionaram pelo fim da proibição às exportações: com as vendas do Golfo ainda bloqueadas e as instalações russas atingidas por ataques da Ucrânia, as margens de lucro das refinarias de outras regiões alcançaram níveis recordes.\nReceba no seu email o que de mais importante acontece na economia; aberta para não assinantes.\nA partir de julho, a China retomou as exportações de derivados, e suas importações de petróleo bruto voltaram a crescer. Nas três semanas até 16 de outubro, elas ficaram mais de 3 milhões de barris por dia acima do nível de junho —volume suficiente para absorver parte do aumento das exportações do Oriente Médio, observa Neil Crosby, da consultoria FGE NexantECA.\nAs importações chinesas recuaram ligeiramente desde então. Mas um segundo fator, o aumento dos custos de transporte marítimo, continua pressionando os preços. A própria forma como a China passou a comprar petróleo contribuiu para isso.\nEm vez de adquirir o produto por meio de cronogramas previamente acertados, o país passou a buscar preços mais vantajosos no mercado à vista, criando uma demanda por petroleiros mais difícil de prever e mais cara de atender, segundo Tom Reed, da agência de informações de preços Argus Media.\nEnquanto isso, o aumento das exportações do Golfo pelo estreito de Hormuz ampliou a demanda por petroleiros.\nEssas viagens exigem frotas de navios-tanque estatais que atravessam clandestinamente o estreito, recolhem as cargas e depois as transferem, no golfo de Omã, para outras embarcações, que podem ficar esperando durante dias. Isso mantém mais navios ocupados e eleva os custos de transporte no mundo todo.\nAntes, o frete representava de 4% a 7% do custo de entrega do petróleo aos compradores chineses. Em outubro, essa participação chegou a 25% a 30%.\nO aumento dos custos também se espalhou pelo mercado global. Produtores da América Latina e da África Ocidental, mais distantes dos compradores, passaram a oferecer descontos para manter a competitividade. J\ná os produtores do Mar do Norte conseguem cobrar preços mais próximos do valor integral do petróleo. Esse \"prêmio geográfico\" ampliou a diferença entre os tipos de petróleo mais baratos e os mais caros, que recentemente se aproximou de US$ 60 por barril —e contribuiu para elevar um pouco mais o Brent.\nMas a demanda e o frete não explicam inteiramente por que o Brent está tão acima do que seria seu valor considerado justo. O JPMorgan Chase estima que esse preço estaria cerca de US$ 20 abaixo da cotação recente. A diferença reflete o terceiro fator: o temor de que novos episódios de violência voltem a reduzir as exportações do Golfo.\nEm outubro, o Irã atacou pelo menos 30 embarcações, o maior número mensal desde o início da guerra, com ampla margem. Os rebeldes houthis do Iêmen também atacaram cidades, aeroportos e refinarias da Arábia Saudita, além do oleoduto Leste-Oeste do país, que havia sido consertado recentemente.\nNo mês encerrado em 22 de outubro, em sete dos oito dias em que o Brent oscilou mais de US$ 2,50 por barril, houve notícias sobre negociações de paz ou aumento das tensões, segundo levantamento do Morgan Stanley.\nTrump deu a entender que poderia voltar a atacar o Irã depois das eleições legislativas americanas de 3 de novembro. Os mercados aguardam para ver se isso acontecerá. O baixo volume de negociações de contratos futuros do Brent faz com que cada aposta na alta tenha um peso desproporcional. Se Trump recuar, os preços provavelmente voltarão a cair em questão de dias.\nMas bombardeios em larga escala, acompanhados de grandes ataques iranianos e dos houthis, poderiam levar o barril a US$ 130 ou US$ 140, estima Jim Burkhard, da empresa de análise de dados S&P Global.\nA China dispõe de amplos estoques de petróleo, e os países ricos mantêm reservas estratégicas. Ambos provavelmente seriam utilizados caso os preços chegassem a esses patamares. Além disso, a curva de contratos futuros do Brent, as margens de refino e os preços do frete marítimo para entregas futuras indicam que os mercados temem que a interrupção do abastecimento se prolongue até 2027.\nEm abril, os operadores do mercado estavam perto do pânico. Agora, estão mais próximos da resignação.\nTexto de The Economist, traduzido por Gustavo Soares e publicado sob licença. O artigo original, em inglês, pode ser encontrado em www.economist.com\nMais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?\nDe 2ª a 6ª pela manhã, receba o boletim gratuito com notícias e análises de economia"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Governo corre para aprovar no Cogresso regras para uso de IA e concorrência de big techs",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/01/governo-corre-para-aprovar-no-cogresso-regras-para-uso-de-ia-e-concorrencia-de-big-techs.ghtml",
+   "resumo_original": "Governo tenta aprovar no Congresso este ano, antes da mudança na composição das duas Casas, regras para as plataformas que atuam no país",
+   "data": "2026-11-01T04:00:00-03:00",
+   "texto": "Após prometer colocar a regulação das big techs no centro de seu quarto mandato, o presidente Luiz Inácio Lula da Silva correrá contra o tempo para tentar aprovar este ano projetos que avancem no regramento das plataformas no país. A estratégia é buscar, ainda nesta legislatura, avanços em novas regras com projetos que já existem, antes da mudança na composição do Congresso, com maior participação de parlamentares alinhados à direita, que, para o Executivo, tendem a ser mais refratários às propostas. O objetivo esbarra, porém, em uma agenda legislativa lotada de pautas até dezembro e na própria atuação das empresas, que se movimentaram por exemplo contra o projeto de lei (PL) das fake news, em 2023.\nNovas regras: Estado de Nova York restringe uso de chatbots por menores Veja: Estudiosos da religião se reuniram com a Anthropic. O que ouviram os deixou chocados\nO governo vê uma janela de oportunidade para votar até dezembro o Marco Legal da Inteligência Artificial (IA), que cria novo regime de obrigações para as gigantes de tecnologia. O projeto traz exigências de transparência, responsabilização por danos e limites para o uso de conteúdos protegidos por direitos autorais.\nEm outra frente, o Ministério da Fazenda quer aprovar este ano projeto que fortalece a regulação concorrencial de big techs. A proposta cria obrigações prévias para empresas consideradas de relevância sistêmica em mercados digitais, ou seja, gigantes que têm o poder de criar monopólios e sujeitar às suas regras não só consumidores, mas também setores econômicos.\n— A garantia de soberania digital depende de leis claras que fortaleçam as condições para o desenvolvimento de IA no país e enfrentem a extração de valor promovida pelas grandes plataformas em relação ao que produzimos aqui —disse o secretário de Políticas Digitais da Secretaria de Comunicação, João Brant.\nPara entender o impacto que a IA vai causar no mercado de trabalho, a saída é olhar para o passado\nNenhum dos dois textos trata de regulação de conteúdo, e o governo não tem intenção de mexer nessa seara para desmobilizar o argumento de opositores, que costumam apontar risco de censura a qualquer iniciativa de regulamentação das plataformas.\nO Palácio do Planalto espera contar com o capital político após a virada histórica de Lula para acelerar os projetos. Na conta do Executivo, a própria repercussão negativa entre usuários da conduta da Meta nas eleições deve ajudar.\nA dona de Facebook , Instagram e WhatsApp reconheceu falhas técnicas e lacunas em sistemas que afetaram temporariamente as contas e a distribuição de conteúdos da campanha petista. No Instagram, o perfil oficial de Lula ficou horas sem o botão de repostar e houve problemas nos stories do presidente. A Meta nega interferência para beneficiar Flávio Bolsonaro (PL).\nNo discurso da vitória no domingo passado , Lula citou a “intromissão” das big techs, o “crime digital” e disse que empresas “monstruosas” não pagam impostos:\n— Tivemos que vencer a intromissão de fora para dentro, através de plataformas digitais que nós vamos ter que regular.\nO projeto de lei da regulamentação de IA já foi aprovado no Senado e falta ser apreciado pela Câmara, onde a relatoria é de Aguinaldo Ribeiro (PP-PB). O Planalto deve se aproximar do parlamentar nos próximos dias para incentivar que o texto ande na Casa. Um dos tópicos da proposta é a aplicação de multas de até R$ 50 milhões, além de suspensão temporária ou definitiva de sistemas e proibição de utilização de determinadas bases de dados.\nTambém está na Câmara o projeto de regulação antitruste das plataformas digitais. O projeto está pronto para ser votado no plenário da Casa, e as mudanças realizadas pelo relator, o deputado Aliel Machado (PV-PR), foram consideradas positivas pela Fazenda e pelo Conselho Administrativo de Defesa Econômica (Cade), responsável pela regulação concorrencial. De acordo com Machado, a proposta será discutida na reunião de líderes nesta semana. Nos bastidores, o presidente da Câmara, Hugo Motta (Republicanos-PB), tem dito que a sinalização sobre a votação deve ocorrer a partir da reunião desse encontro.\n— As regras concorrenciais valem para outros setores e têm que valer para esse também. O que estamos buscando é uma legislação que permita ao Cade agir com mais eficiência — disse Machado.\nPequeno dicionário do 'fim do mundo': conheça os termos usados para falar sobre os riscos da IA\nNa avaliação do governo, o Cade atua hoje quando identifica práticas anticoncorrenciais, mas o modelo tem sido insuficiente para lidar com big techs pela organização em plataformas e pela velocidade com que conseguem controlar os setores em que atuam.\nNo caso de marketplaces, que reúnem um grande contingente de clientes, elas conseguem cobrar mais vantagens dos vendedores que, sem eles, ficam sem acesso à demanda. Isso muitas vezes leva a comportamentos abusivos, como obrigatoriedade de usar outros serviços da empresa ou cobrança de taxas elevadas.\nApós queixas sobre atuação da Meta na eleição: entidades propõem agenda de regulação no ambiente digital\nA ideia é fazer uma regulação prévia para essas plataformas, considerando os setores nos quais atuam, como redes sociais, sistemas de celulares, marketplaces, entre outros. No caso de sistemas operacionais, um exemplo de exigência prévia é proibir que a empresa só habilite um aplicativo de carteira digital.\nPara definir as empresas sujeitas à regulação mais dura haverá dois critérios, segundo o projeto, que serão avaliados em processo administrativo pelo Cade, com direito a contraditório, audiência pública e tomada de subsídios. O primeiro é uma linha de corte financeira: só poderão ser designadas as plataformas com faturamento anual superior a R$ 5 bilhões no Brasil e R$ 50 bilhões em termos globais.\nSe a empresa ficar nessa faixa, depois serão analisados parâmetros qualitativos, como se ela tem posição estratégica da qual resulte a dependência de terceiros para desenvolvimento de atividades empresariais ou para acesso de usuários. Ou ainda o acesso, controle ou combinação de quantidade significativa de dados pessoais ou comerciais relevantes.\nSegundo interlocutores, o deputado incorporou demandas do setor privado, limitando o escopo do projeto e aumentando garantias processuais, inclusive com mecanismos de transparência. O relator incluiu, por exemplo, que o faturamento será atualizado pelo IPCA e que a designação como plataforma sistemicamente relevante não implica determinação automática de obrigações, que seguirão rito próprio. Ele reduziu o prazo de designação de dez para seis anos.\nFilippo Lancieri, professor associado na Universidade Georgetown (EUA) — onde pesquisa sobre política antitruste e desenho regulatório —, afirma que o projeto é baseado na necessidade de adaptar os instrumentos de defesa da concorrência para a realidade dos mercados digitais.\n— O projeto visa fechar diversas lacunas no regime concorrencial brasileiro que são exploradas pelas big techs para impedir a concorrência efetiva em mercados muito importantes. O resultado são maiores preços, margens de lucro astronômicas, menor qualidade e menor inovação, prejudicando os consumidores e empresas nacionais — disse.\nSegurança de dados: Flórida quer limitar uso de Facebook e Instagram por adolescentes\nEnquanto os textos não são aprovados, o governo vem trabalhando em implementar os instrumentos gerados pela decisão do Supremo Tribunal Federal (STF) sobre o artigo 19 do Marco Civil da Internet, que define as regras sobre a responsabilidade civil das plataformas digitais por danos causados por conteúdos publicados por terceiros.\nO Executivo chegou a preparar projeto de lei sobre o tema. Quando a proposta seria enviada ao Congresso, porém, avançou a tramitação do Estatuto Digital da Criança e do Adolescente e a avaliação passou a considerar que a decisão do STF, combinada à atualização da regulamentação do Marco Civil, contemplava parte dos objetivos do texto.\nEssas atualizações determinam que plataformas devem remover conteúdos de crimes graves expressamente listados (como terrorismo, exploração sexual infantil, incentivo à automutilação e tráfico de pessoas), após notificação extrajudicial, sem necessidade prévia de ordem judicial. E obriga as redes sociais e provedores a manterem canais de denúncia acessíveis, gratuitos, destacados e permanente."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petrobras conclui perfuração e confirma 3ª descoberta de petróleo na costa do Amapá",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGVGM3FoZ0NPMV91WnI0SVNqbUl5dmhDeXM1Sk5hVzJrRV9PU0RTXzhFelo5TFRnQ0kxUk1SRngwVEFtTWNRTHRZLTh0TVZLLVhOTGxCY1FWTDZmUXFWb2xUV1VoVmZuek9uUXA2RFFuWFpBc21uYUFyVlNNZ3dVV3RSbDZlQXFoZUJuYkpLQjhUNnpBX0xxRVUxWUtNWUFiZVFoSnZXejFCSkdGdEh2SUVFRDBKM0I3dDYwNW1mczJUeG9vYXVZTGl0TS15dEY3M3c?oc=5",
+   "resumo_original": "Petrobras conclui perfuração e confirma 3ª descoberta de petróleo na costa do Amapá Estadão",
+   "data": "2026-10-31T10:14:48-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Dow Jones hoje sobe após Fed manter juros inalterados; petróleo dispara mais de 2%",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFFnT1JEWVN4TEJ4OHY4VEJWY2V6Y3BTWUhPTXJQSFNRcnk0Mk1YaU1sZUpQdHdpTTJIR3VubDhDM21TSm5JeDlSc255M2VnQjBxMWFVNzFZOFpJcFpUMWJFSzE0dHNtOEVISjhMM1U1U3VHdHh5QTlBMk1McWtVai14X19uaEgzVkdYclhmVzhNTndkeUZ1Y01zaXNSSTUwWjVuQXlFQWpyN0hYa0RoRngxaGZLV211UXhIVDJFTF9lVXphajc1WjFqVEJ2TFlheVBv?oc=5",
+   "resumo_original": "Dow Jones hoje sobe após Fed manter juros inalterados; petróleo dispara mais de 2% Estadão",
+   "data": "2026-11-01T01:12:03-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Leilão de transmissão oferta R$ 9 bilhões em projetos e mercado prevê disputa",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkVUUmRzUzhVdXZReEJ4Y0kxU21SNDlmN0tyamtoMnA0R1ZuZUJHUHZ5TFdwUWk4STFZbzhVeUU5aVBveE5CVEJDQThTeVpMWXVqYVExOWdmdXhoNnFFakluQVVabFJsTkZTay14LUpIQXU5b09WMm15Z2pxejVvZEs1bEppeHdQalFSckgwWnpJeXVjbzdCd0MyVVF1bmFvRE8td2NQdWNNUC1xSy1JOVVBSjZKSk5wd1plcU4xWWlEendkbE5xU0ZwUUNhcXJoQ0Vr?oc=5",
+   "resumo_original": "Leilão de transmissão oferta R$ 9 bilhões em projetos e mercado prevê disputa Estadão",
+   "data": "2026-10-31T11:31:06-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petrobras terá papel central na transição energética e seguirá explorando petróleo, diz Gabrielli",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWHFOLXRKay1lVWFZSTVxV3h0ZzlkZ1V6UWNzNTB0TUlobkp5VWpLaDB3QWRYREQ2VXk2OGZaenVDOXI4b0hWX05tNmJYYWJoVzFIcElDU2lkaGdQbXFPbjFDMno5eXVQUjZiZmo2SHJNWkszVmN4OWsyVFlEWnFfbXRPSnlUUFJRemphTXJJcGh4VkxLdEw3SWhCZFNPZDR6RVpxbEhyOFRpYVAwM2dzVkw0X25Ec2puNGhPQUZST0NYX2VZckhiNEJDc0lpNTRIZUlEUXRHeUY?oc=5",
+   "resumo_original": "Petrobras terá papel central na transição energética e seguirá explorando petróleo, diz Gabrielli Estadão",
+   "data": "2026-10-31T13:26:13-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petrobras, Prio ou Brava? BTG revisa ações de petróleo após queda da Bolsa e aponta oportunidades",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQjJJWkwzdWtaSk9vaXJNYXpVSVBxZl9Ec1o5UVdrbWRIN29ONllaaHFXV0hDVmd5bURHRUJtYlhTWEx5T3NGdmhDc2t4Vkh4UmVSRFVBZ0tFUDBpWm40aVpiMWxmNE9sNERoaTU0RVk3QVlkNmZEd0ZxR3JDemxKQ05GLVg1MFg1T2hxeTJ1R1kxbzJHajdGV1hCNTVOdDRaRXI4OThZVGVIUEZIT2ZNVXFaZ1VPbG12QlA3SW00T3k3b1N6XzNEZ3FiVTZHSFNVaU5PWnRMS29aX2lFZ1k3RWZ1bERwOTcxLTBLWjBxbDNNWUdn?oc=5",
+   "resumo_original": "Petrobras, Prio ou Brava? BTG revisa ações de petróleo após queda da Bolsa e aponta oportunidades Estadão",
+   "data": "2026-10-31T10:47:11-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Como limpar placas solares? 5 dicas e cuidados importantes",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWW12VlI0ZmdSYVRoNXlqTWJmeVN2M2tZLTlDNjkwc25LeXlpNzMxcEJMUGxqazlvTlJKSkZCNjJTSTlDSEdldWV6bC1yLU11TE5HU0ZmWXRWLTBiZ0VvOV8xWWJrWTVRNWNjZFZHQmhSczNNc3IyektaZ1Bjb2FiRG9pd0g5SjBVNkxpRGIzU1o2WEFmTjVDN0Jjc9IBoAFBVV95cUxQY0J2enQtUXN0eU5KV2NXUHZ3eS1YVVJ5VnYzRVZUZDdkX0JpUTQ0UjJCOU41Sk5vMEdhVnlWd1FiLTRycjlGVlA5czhsaXpwdjZrMjhzT3R0RHVYNmFfbnRJOU5DQk13cS05eWNzOUVybmNtSUdKVjRLVWpHN3RtakJsQ3FseXhQS0NmcTAtenBmaEdGLTB1VkhtZWllNnVW?oc=5",
+   "resumo_original": "Como limpar placas solares? 5 dicas e cuidados importantes Estadão",
+   "data": "2026-10-31T19:31:16-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Trump planeja flexibilizar restrições às emissões de metano provenientes da perfuração de petróleo",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0hDNGF4VUpkNjJOQWpPVHJtaGRWMmtrN25oNHZzOFBiOVRUMnp3QjJLcm0yekdpLXctLXpKQjNNbjVrcWJlemgzcXNEd1pEUHdYMTBkc3BZUXR5MG54eHVaQ0hfdDYwZEpDbmVmdjYwRmtqZWdfczhValFsRV84UXRrWEhNZFRKSHJyUU1RRGs3dGRvdzRVeWpLemNtcHdxTmhPZGd1ZWhaUG54clktZXZoZVlkU0Z6eV9GTF9JX2cwYlBsMkZva3JKRHR4QUpMdnZUX1FkWQ?oc=5",
+   "resumo_original": "Trump planeja flexibilizar restrições às emissões de metano provenientes da perfuração de petróleo Estadão",
+   "data": "2026-11-01T00:21:46-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "‘Garimpo do Mauro Mendes’: senador eleito é denunciado por contrabando de 580 kg de mercúrio",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaXdNZnZ3Z1B5LVhZOVgtc1FscTBlcjR2WWpfVG16SGdDN0djOGtXS0Fvc094MjdrMjlucEJVU3I5X1E5VDQ4NXpwbDVqQmtEdVRDazFiSW1KWklEVjFWMHV6MUFHOUlSTVByMUhsSVZaM3NWVVU4UzhyOGtkS05LTnpDNWY1VGFhbUNEd1lZa2UwcGUwOTdaeDZvNlBvU0E5bDZKMWI3QVdzbVFpUkZjSXoyRkZ2RFl2WVNiREtLUWFhSzJFMVNHWU9mTUctMXZrTWxJaDRTTUg2cnRqMWFIYktKSjlDVnlUOGNqNg?oc=5",
+   "resumo_original": "‘Garimpo do Mauro Mendes’: senador eleito é denunciado por contrabando de 580 kg de mercúrio Estadão",
+   "data": "2026-10-31T05:06:30-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Movimento Econômico",
+   "idioma": "pt",
+   "titulo": "Empreendedora aposta no cultivo pioneiro de lúpulo no Vale do São Francisco",
+   "link": "https://movimentoeconomico.com.br/estados/bahia/2026/11/01/empreendedora-aposta-no-cultivo-pioneiro-de-lupulo-no-vale-do-sao-francisco/",
+   "resumo_original": "Mineia Otsuka, que desenvolveu protetor solar para magas, agora aposta no lúpulo para abastecer cervejarias nordestinas",
+   "data": "2026-11-01T04:23:00-03:00",
+   "texto": "O cultivo de lúpulo, matéria-prima utilizada na fabricação de cerveja, é a nova aposta da empreendedora Mineia Otsuka no Vale do São Francisco. Com uma trajetória ligada à produção de manga e ao desenvolvimento de soluções tecnológicas para a fruticultura, ela prepara um projeto agrícola que deverá ganhar impulso em 2027. A iniciativa representa uma nova etapa da diversificação dos negócios da empresária, que também atua no mercado de insumos agrícolas por meio da Otsuka Soluções.\nA decisão de investir no lúpulo amplia uma trajetória empreendedora construída a partir da experiência familiar na agricultura irrigada. Mineia pertence a uma família de imigrantes japoneses que chegou ao Vale do São Francisco em 1976 e foi pioneira no desenvolvimento da fruticultura na região. Décadas depois, ela passou a investir em tecnologias voltadas à proteção dos frutos e à melhoria das condições de produção no Semiárido.\nEntre seus negócios está o Primmax Suncare, solução desenvolvida para proteger frutas dos danos provocados pela exposição excessiva ao sol. Agora, a empreendedora busca aplicar sua experiência agrícola em um segmento diferente, com potencial de atender às cervejarias instaladas no Nordeste.\nA história da família Otsuka no Brasil começou com uma decisão que não foi motivada por dificuldades financeiras. No Japão, o avô de Mineia era proprietário de uma construtora e mantinha uma vida confortável. Um de seus filhos, porém, desejava morar no Brasil, onde acreditava que teria melhores condições para constituir uma família numerosa. O projeto acabou levando os Otsuka a deixar o país de origem na década de 1970.\nAntes de chegar ao Vale do São Francisco, a família passou por outros estados brasileiros, incluindo São Paulo, Minas Gerais e Pará e Minas. Em 1976, chegou à região e iniciou uma nova trajetória, desta vez ligada à agricultura. Em 1980, os Otsuka já estavam estabelecidos em Casa Nova, município baiano próximo a Petrolina, onde decidiram apostar no cultivo de manga.\nOs primeiros anos foram marcados por dificuldades. Durante quatro anos, a família investiu na formação do pomar sem conseguir os resultados esperados. Diante da demora, surgiu a possibilidade de abandonar o projeto. A mãe de Mineia, entretanto, insistiu na continuidade da atividade. “Já esperamos quatro anos, vamos esperar mais um ano”, recorda a empresária.\nA persistência deu resultado no quinto ano, quando as mangueiras finalmente produziram frutos. Mas havia outro desafio: a família ainda não dominava o momento adequado da colheita e acabou perdendo parte da safra. Foi nesse período, entre as primeiras dificuldades e o início da produção, que Mineia nasceu.\nCom o passar dos anos, os Otsuka conseguiram consolidar a produção de manga e diversificaram suas atividades agrícolas. Além da fruta, passaram a cultivar melão, cebola, melancia e outras culturas, acompanhando a expansão da agricultura irrigada no Vale do São Francisco.\nA experiência familiar proporcionou a Mineia um contato direto com os desafios da produção agrícola. Mais tarde, esse conhecimento serviria de base para uma nova frente de atuação: o desenvolvimento e a comercialização de soluções destinadas a melhorar a qualidade das frutas e reduzir perdas nos pomares.\nUm dos problemas enfrentados pelos produtores do Vale do São Francisco é a elevada exposição das frutas à radiação solar. No caso da manga, as queimaduras podem comprometer a aparência, reduzir seu valor comercial e provocar perdas, especialmente quando a produção se destina à exportação.\nFoi a partir dessa necessidade que Mineia participou do desenvolvimento de uma tecnologia de proteção solar à base de caulim, mineral utilizado para formar uma película protetora sobre a superfície dos frutos. Comercializada como Primmax Suncare, a solução busca reduzir os efeitos da exposição excessiva ao sol, contribuindo para a manutenção da qualidade das frutas.\nUm dos diferenciais do produto está no sistema de fixação do caulim, desenvolvido para manter a proteção sobre os frutos durante o cultivo. A formulação utiliza componentes biodegradáveis e permite a remoção da película durante o processo de lavagem de forma rápida, uma característica importante para as etapas de beneficiamento e comercialização.\nA tecnologia surgiu da observação de um problema enfrentado diretamente pelos agricultores e se transformou em uma oportunidade de negócio. Além da produção de manga, Mineia passou a atuar no mercado de soluções para o agronegócio, ampliando o alcance de suas atividades empresariais.\nA experiência com o Primmax Suncare também consolidou uma característica de sua trajetória: a busca por alternativas tecnológicas para atender a demandas específicas da produção agrícola no Semiárido.\nAgora, Mineia direciona parte de seus investimentos e esforços para um mercado diferente da fruticultura. O projeto de cultivo de lúpulo representa uma tentativa de diversificar a produção agrícola e atender à demanda da indústria cervejeira por uma matéria-prima que ainda é majoritariamente importada pelo Brasil.\nO lúpulo é utilizado na fabricação de cervejas para conferir amargor, aroma e outras características sensoriais à bebida. Seu cultivo exige condições específicas de manejo e atenção a fatores como temperatura, disponibilidade de água e duração do período de luz, o que torna a produção em regiões de clima quente um desafio técnico.\nA iniciativa de Mineia busca explorar a possibilidade de desenvolver essa cultura no Vale do São Francisco, aproveitando a experiência regional com agricultura irrigada e o conhecimento acumulado na utilização de tecnologias para produção em condições climáticas adversas.\n“Diziam que o lúpulo não dá no Brasil. O país importa praticamente tudo que consome. Eu pesquisei muito o produto e acabei encontrando um pesquisador do Cetene que também vinha fazendo a mesma pesquisa”, conta. O Cetene (Centro de Tecnologias Estratégicas do Nordeste) é uma instituição de pesquisa vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI), sediada no Recife. Desde pelo menos 2024, desenvolve pesquisas para viabilizar o cultivo de lúpulo no Nordeste, especialmente por meio da adaptação de variedades às condições climáticas da região. Minea relata que o lúpulo tem cultura rápida, com até três safras por ano. Ela pretende colher 2.700 plantas por hectare e diz que seu projeto é de cultivo em áreas pequenas.\nA expectativa é que 2027 seja um ano de avanços no projeto, com o início de uma nova experiência agrícola. Entre os mercados potenciais estão as cervejarias do Nordeste, incluindo fabricantes de cervejas artesanais, que poderão representar uma alternativa de comercialização caso a produção alcance escala e qualidade adequadas. “Há muitas cervejarias artesanais na região, é para esse mercado que estou olhando agora”, explicou.\nA viabilidade do empreendimento dependerá de fatores como produtividade, adaptação das plantas ao clima, qualidade das flores e estrutura para processamento e conservação do produto após a colheita. Essas etapas são fundamentais para atender às exigências da indústria cervejeira e competir com o lúpulo importado.\nA entrada no mercado de lúpulo acrescenta uma nova atividade aos negócios de Mineia Otsuka, que mantém sua atuação ligada à agricultura e à comercialização de tecnologias para o setor. Sob a estrutura da Otsuka Soluções, a empresária reúne diferentes iniciativas, desde a experiência com o cultivo de manga até o fornecimento de produtos destinados aos agricultores.\nSua trajetória acompanha, em diferentes momentos, a transformação econômica do Vale do São Francisco. A primeira geração da família trocou uma atividade empresarial consolidada no Japão pelos desafios da agricultura brasileira. Os anos seguintes foram dedicados ao aprendizado e à expansão da produção, até a consolidação da manga e a diversificação dos cultivos.\nMineia seguiu um caminho próprio, identificando oportunidades de negócios a partir dos problemas enfrentados pelos produtores. O desenvolvimento do Primmax Suncare e a nova aposta no lúpulo mostram uma estratégia de diversificação que combina conhecimento agrícola, tecnologia e busca por novos mercados.\nQuase cinco décadas depois da chegada da família Otsuka ao Vale do São Francisco, a história iniciada com os primeiros pomares de manga ganha outro capítulo. Desta vez, o desafio é desenvolver uma cultura ainda pouco difundida na região e encontrar espaço em uma cadeia produtiva diferente, a da indústria cervejeira.\nMasterCana Brasil & Award premia líderes do agronegócio bioenergético"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Tudo sobre Minerais críticos",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JUGZ4a1BjYVJiTXZ4dTVtUURBcmZaWTc5UU52Y1ZrSmhsVWtrZ2EwbkhfRnBHVE5SZTZQMjJTUUdLM19XRXZWVGIzY1lfdWFld3ZXTS1BMEYxXzNySW0zQU5RbU5wVjk0MlhZNGNLVDBzS1lnNEdZ?oc=5",
+   "resumo_original": "Tudo sobre Minerais críticos CNN Brasil",
+   "data": "2026-10-31T11:24:48-03:00"
+  }
+ ]
+}
