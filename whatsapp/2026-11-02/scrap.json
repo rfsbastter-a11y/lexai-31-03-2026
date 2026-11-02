@@ -1,0 +1,542 @@
+{
+ "data": "2026-11-02",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 1,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 59,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 6,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 100,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 4,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 6,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 77,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 11,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 2,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Law360 MVP Awards Go To Top Attorneys From 89 Firms",
+   "link": "https://www.law360.com/competition/articles/2536861?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "The lawyers chosen as Law360's 2026 MVPs stand out from their peers by notching significant achievements in high-stakes litigation, complex global matters and record-setting transactions.",
+   "data": "2026-11-01T17:00:07-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Agência iNFRA",
+   "idioma": "pt",
+   "titulo": "Petrobras aumenta preço do QAV em 7,2%",
+   "link": "https://agenciainfra.com/blog/petrobras-aumenta-preco-do-qav-em-72/?utm_source=rss&utm_medium=rss&utm_campaign=petrobras-aumenta-preco-do-qav-em-72",
+   "resumo_original": "da Agência iNFRA A Petrobras informou que o preço médio de venda do QAV (Querosene de Aviação) às distribuidoras terá reajuste de 7,2% a partir deste domingo (1º), equivalente a um aumento de R$ 0,45 por litro em relação a outubro. Segundo a estatal, a alta acompanha a valorização do combustível no mercado internacional, pressionada […] O post Petrobras aumenta preço do QAV em 7,2% apareceu primeiro em Agência iNFRA .",
+   "data": "2026-11-01T12:57:45-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Brasil Energia",
+   "idioma": "pt",
+   "titulo": "All Souls’ Day Holiday",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5la0I2U0lnaFB2YTBKbEJrdzlERXl5ckxkTy0tM1hUTXhwcmU5dTNVSXRoQ3JpLWozajc1eDB6dFJFcmp5S0RMMFlZUGJBRUk0TFVZTkIxTWk2bGtKQkd3Y2ZNRThSNEVxNXBpbXh1RGxycS1LVnB5eUR2dw?oc=5",
+   "resumo_original": "All Souls’ Day Holiday Editora Brasil Energia",
+   "data": "2026-11-01T13:06:06-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "QAV da Petrobras sobe 7,2% em novembro e acumula alta de 84% no ano",
+   "link": "https://eixos.com.br/combustiveis-e-bioenergia/qav-da-petrobras-sobe-72-em-novembro-e-acumula-alta-de-84-no-ano/",
+   "resumo_original": "É o quarto aumento seguido; litro vendido às distribuidoras passa a cerca de R$ 6,69, maior valor de 2026 O post QAV da Petrobras sobe 7,2% em novembro e acumula alta de 84% no ano apareceu primeiro em eixos .",
+   "data": "2026-11-01T13:39:00-03:00",
+   "texto": "A Petrobras aumenta em 7,2% o preço médio do querosene de aviação (QAV) vendido às distribuidoras a partir deste domingo (1º/11). A alta é de R$ 0,45 por litro em relação a outubro.\nCom o reajuste, o QAV acumula alta de cerca de 84% em 2026, ou R$ 3,05 por litro, na comparação com o preço de dezembro de 2025. O litro passa de R$ 6,24 para cerca de R$ 6,69, acima do pico de maio.\nO comunicado da Petrobras não informa a variação acumulada no ano, como fazia em anúncios anteriores, como o de setembro.\nA empresa atribui o aumento à alta das cotações internacionais do QAV, com a intensificação das tensões geopolíticas no Oriente Médio e a redução da capacidade de refino na Rússia e na Ucrânia por causa da guerra entre os dois países.\nA Petrobras argumenta que a fórmula paramétrica prevista em contrato amortece as oscilações de curto prazo. Em setembro, a Petrobras retomou o programa que permite às distribuidoras parcelar os reajustes do QAV em três parcelas mensais.\nSegundo a empresa, no exterior, onde o preço às companhias aéreas chega a ser revisto diariamente, a alta acumulada desde o início do conflito supera a do Brasil, o que, na avaliação da Petrobras, indica que o QAV da estatal segue competitivo.\nFazenda define calendário do mercado de carbono; aviação terá regras próprias\nFazenda publica cronograma do SBCE e deixa aviação com Anac; ANP aprova consulta do ProBioQAV e antecipa agenda regulatória do hidrogênio\nImportação de diesel programada para novembro chega a 1 bilhão de litros\nAlívio dos EUA nas sanções ao diesel russo pouco mudou a origem da importação de diesel; os norte-americanos respondem por 63% do volume de novembro\nDepois de cortes de 14,2% em junho e 14,5% em julho, a Petrobras subiu o QAV em 1,9% em agosto , 13,9% em setembro e 11,8% em outubro.\nO ano começou com cortes de 9,4% em janeiro e 0,5% em fevereiro e alta de 9,4% em março. Com a guerra no Oriente Médio , iniciada com os ataques dos Estados Unidos e de Israel ao Irã no fim de fevereiro, vieram altas de cerca de 55% em abril e de 18% em maio.\nO petróleo Brent , referência internacional, fechou 2025 a US$ 60,85 por barril. Em 27 de fevereiro, véspera dos ataques ao Irã, estava em US$ 72,48 e, no fim de abril, superou US$ 118, no pico do ano.\nO barril recuou a cerca de US$ 73 no fim de junho e voltou a subir no segundo semestre. Na sexta (30/10), fechou a US$ 113,43.\nEsta matéria foi produzida com auxílio de inteligência artificial e revisada por um editor da eixos. Conheça nossos princípios editoriais e nossa política de correções ."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "GRUPO RODONAVES COMEMORA 45 ANOS DE FUNDAÇÃO PUBLICANDO UM RELATÓRIO DE SUSTENTABILIDADE INTEGRANDO SEUS 11 MIL FUNCIONÁRIOS",
+   "link": "https://petronoticias.com.br/grupo-rodonaves-comemora-45-anos-de-fundacao-publicando-um-relatorio-de-sustentabilidade-integrando-seus-11-mil-funcionarios/",
+   "resumo_original": "O Grupo Rodonaves, um dos principais ecossistemas de transporte e logística do Brasil, publicou o seu Relatório de Sustentabilidade 2025, mostrando alinhamento da companhia ao compromisso com a transparência e as melhores práticas de mercado. O documento foi elaborado pela primeira vez com base nas normas internacionais da Global Reporting Initiative (GRI), consolidando os resultados […]",
+   "data": "2026-11-02T04:00:17-03:00",
+   "texto": "O Grupo Rodonaves, um dos principais ecossistemas de transporte e logística do Brasil, publicou  o seu Relatório de Sustentabilidade 2025, mostrando  alinhamento da companhia  ao compromisso com a transparência e as melhores práticas de mercado.  O documento foi elaborado pela primeira vez com base nas normas internacionais da Global Reporting Initiative (GRI ), consolidando os resultados de um ano em que a empresa celebrou seus 45 anos de fundação. O relatório evidencia como  as estratégias executadas ao longo do último ano fortaleceram o pilar ambiental da companhia. Como resultado direto das renovações de frota conduzidas em 2025, a Rodonaves consolidou a marca de 97% de seus veículos operando com motores Euro 5 e Euro 6, tecnologias que emitem até 55% menos óxidos de nitrogênio. O documento também detalha os passos dados rumo à transição energética, com a operação de caminhões pesados movidos a Gás Natural Veicular (GNV) e o uso de infraestrutura própria de abastecimento 100% a biodiesel na unidade de Farroupilha (RS).\nRégis Tiecher , CEO do Grupo Rodonaves, disse que   “ A evolução da Rodonaves passa obrigatoriamente pela agenda ESG, que hoje é tratada como valor e incorporada diretamente à nossa estratégia de negócios.Enfrentamos um cenário macroeconômico desafiador no último ano, mas mantivemos nosso compromisso com a entrega perfeita e a eficiência. O relatório que apresentamos agora reflete a nossa ambição de crescer com rentabilidade, tendo a sustentabilidade das nossas operações como um motor inegociável.” O pilar social detalhado no relatório traduz a essência da Rodonaves, historicamente reconhecida por sua “ cultura do abraço “. Esse cuidado contínuo com os colaboradores rendeu à empresa o 3º lugar no segmento de Transporte e Logística na premiação “Lugares Mais Incríveis para Trabalhar 2025” (FIA Business School/Estadão).\nNa frente de diversidade e inclusão, os indicadores apontam o avanço de iniciativas como o programa Mulheres em Movimento, focado em ampliar a presença feminina em funções operacionais, administrativas e de liderança. Já no campo do investimento social, a companhia destinou, em 2025, mais de R$ 1,8 milhão via leis de incentivo para projetos de cultura, educação, saúde e esporte, impactando positivamente mais de 159 mil pessoas. “ Ao longo da nossa trajetória, temos ampliado nossa responsabilidade com as pessoas e com o futuro. Esse compromisso se expressa na escuta ativa, que aproxima, e na construção de um espaço cada vez mais plural. O nosso Relatório de Sustentabilidade materializa o esforço para assegurar que as práticas ESG sejam um valor real, criando oportunidades e contribuindo para um futuro mais próspero para as mais de 11 mil famílias que hoje compõem nosso ecossistema “, destaca Vera Naves , Vice-Presidente do Grupo.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "ARTEMYN REDUZ EM 61,5% O CONSUMO DE COMBUSTÍVEL E AS EMISSÕES NO MONITORAMENTO REMOTO DE MINERODUTO NO PARÁ",
+   "link": "https://petronoticias.com.br/artemyn-reduz-em-615-o-consumo-de-combustivel-e-as-emissoes-no-monitoramento-remoto-de-mineroduto-no-para/",
+   "resumo_original": "Monitorar um mineroduto de 338 quilômetros, que transporta caulim entre Ipixuna do Pará e Barcarena, exige acompanhar equipamentos instalados em pontos distantes das bases de operação. Parte desse trabalho, antes feita com vistorias presenciais frequentes, passou a ser realizada remotamente pela mineradora Artemyn, que atua com a extração e beneficiamento de caulim no estado. Segundo […]",
+   "data": "2026-11-01T13:00:54-03:00",
+   "texto": "Monitorar um mineroduto de 338 quilômetros, que transporta caulim entre Ipixuna do Pará e Barcarena, exige acompanhar equipamentos instalados em pontos distantes das bases de operação. Parte desse trabalho, antes feita com vistorias presenciais frequentes, passou a ser realizada remotamente pela mineradora Artemyn, que atua com a extração e beneficiamento de caulim no estado. Segundo a empresa, a mudança reduziu em 61,5% o consumo de combustível e as emissões associadas aos deslocamentos das equipes.\nPara manter a proteção da tubulação contra a corrosão, a companhia recuperou e automatizou os retificadores, que são equipamentos que fornecem corrente elétrica ao sistema de proteção, e os conectou a uma plataforma de supervisão. Agora, as equipes podem acompanhar seu funcionamento em tempo real, identificar alterações e executar determinados comandos à distância para realizar as correções.\nCom menos checagens presenciais, a rodagem anual das equipes caiu de 76.960 para 29.640 quilômetros. São 47.320 quilômetros a menos por ano. A redução das viagens também diminui a exposição dos profissionais aos riscos dos deslocamentos rodoviários.\nAo mesmo tempo, a disponibilidade dos retificadores subiu de 88,3% para 95,7%. Na prática, os equipamentos passaram a permanecer em operação por mais tempo, contribuindo para a continuidade da proteção contra a corrosão e para a integridade do mineroduto.\nO projeto conquistou o terceiro lugar na categoria Descarbonização e Eficiência Energética do Prêmio Boas Práticas na Mineração do Brasil 2026, promovido pelo Instituto Brasileiro de Mineração (Ibram). A premiação ocorreu em outubro, em Belo Horizonte (MG).\n“ A automação de equipamentos remotos mostra que sustentabilidade na mineração também se constrói com soluções práticas, que unem segurança, eficiência e menor impacto ambiental “, destaca Paulo Albuquerque , supervisor do Mineroduto, que recebeu o reconhecimento nacional Instituto Brasileiro de Mineração (IBRAM), em Belo Horizonte (MG).\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "ASSOCIAÇAO DE CONSULTORES DE ENGENHARIA COMEMORA 60 ANOS E RECEBE INSCRIÇÕES PARA DEBATE NA CASA DA FIRJAN, NO RIO DE JANEIRO",
+   "link": "https://petronoticias.com.br/associacao-de-consultores-de-engenharia-comemora-60-anos-e-recebe-inscricoes-para-debate-na-casa-da-firjan-no-rio-de-janeiro/",
+   "resumo_original": "Anote aí para poder participar. A Associação Brasileira de Consultores de Engenharia (ABCE) vai realizar no dia 23 de novembro o seminário “Engenharia de Qualidade e Novas Tecnologias para o Desenvolvimento do Brasil”. O evento integra a celebração dos 60 anos da entidade e propõe um debate sobre o papel da engenharia nos projetos estratégicos […]",
+   "data": "2026-11-01T05:00:04-03:00",
+   "texto": "Anote aí para poder participar. A Associação Brasileira de Consultores de Engenharia (ABCE) vai  realizar no dia  23 de novembro  o seminário “Engenharia de Qualidade e Novas Tecnologias para o Desenvolvimento do Brasil”. O evento integra a celebração dos 60 anos da entidade e propõe um debate sobre o papel da engenharia nos projetos estratégicos para o país. A programação está organizada em três painéis: Desafios do Setor de Energia, O Futuro dos Minerais Críticos e Terras Raras e Transformação Digital na Engenharia . A sessão de abertura contará com Henrique de Aragão , presidente da ABCE, e Luiz Césio de Souza Caetano Alves , presidente da Firjan. Arnaldo Jardim participará do painel sobre minerais críticos e terras raras. O seminário também terá uma cerimônia de reconhecimento de personalidades da engenharia. “ Projetos capazes de impulsionar o desenvolvimento do Brasil começam com decisões técnicas bem fundamentadas. Ao completar 60 anos, a ABCE quer trazer para o centro do debate a qualidade da engenharia e sua capacidade de responder aos desafios que o país tem pela frente ”, disse o presidente da ABCE.\nO painel sobre energia abordará os desafios de um setor essencial à infraestrutura brasileira. A discussão sobre minerais críticos e terras raras tratará de um tema cada vez mais relevante para as cadeias produtivas e para o planejamento de novos projetos. Já o painel de transformação digital examinará como as tecnologias estão mudando a forma de desenvolver soluções de engenharia. “Novas tecnologias ampliam as possibilidades da engenharia, mas seu valor aparece quando ajudam a produzir projetos mais consistentes e melhores resultados. Celebrar os 60 anos da ABCE é também olhar para o que a engenharia consultiva precisa entregar nas próximas décadas ”, diz Ricardo Gomes , ex-presidente da ABCE. Fundada em 1966, a ABCE reúne empresas de consultoria de engenharia. Ao longo de seis décadas, a entidade tem atuado na representação do setor e na valorização da capacidade técnica necessária ao desenvolvimento de projetos no Brasil. Evento presencial: inscrição: https://forms.gle/QoPu3iPnjJbTyHvh6 Credenciamento às 13h; programação das 14h às 18h, na Casa da Firjan, em Botafogo.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Boulos e Tarcísio trocam ataques por alta prevista no preço do diesel",
+   "link": "https://valor.globo.com/politica/noticia/2026/11/01/boulos-e-tarcsio-trocam-ataques-por-alta-prevista-no-preo-do-diesel.ghtml",
+   "resumo_original": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos (PSOL), e o governador de São Paulo, Tarcísio de Freitas (Republicanos), trocaram ataques neste domingo (1º) nas redes sociais por causa do aumento previsto no preço do diesel a partir de fevereiro de 2027. Boulos criticou o governador paulista por ter apoiado o reajuste do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) sobre o combustível, enquanto Tarcísio rebateu afirmando que a decisão foi aprovada por unanimidade no âmbito do Conselho Nacional de Política Fazendária (Confaz), inclusive com o apoio de Estados govern",
+   "data": "2026-11-01T21:47:24-03:00",
+   "texto": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos (PSOL), e o governador de São Paulo, Tarcísio de Freitas (Republicanos), trocaram ataques neste domingo (1º) nas redes sociais por causa do aumento previsto no preço do diesel a partir de fevereiro de 2027. Boulos criticou o governador paulista por ter apoiado o reajuste do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) sobre o combustível, enquanto Tarcísio rebateu afirmando que a decisão foi aprovada por unanimidade no âmbito do Conselho Nacional de Política Fazendária (Confaz), inclusive com o apoio de Estados governados pelo PT.\nO aumento foi aprovado na terça-feira (27) pelo Conselho Nacional de Política Fazendária (Confaz), que reúne os secretários de Fazenda, Finanças ou Tributação dos 26 Estados e do Distrito Federal (DF). A decisão atualiza as alíquotas fixas do ICMS sobre combustíveis, com validade a partir de 1º de fevereiro de 2027. No caso do diesel, o valor por litro passará de R$ 1,17 para R$ 1,30, uma alta de 11,1%. Também haverá reajustes para a gasolina e o gás de cozinha.\nA aprovação contou com o aval dos representantes de todos os Estados. O Confaz informou que a atualização considera o cenário de instabilidade dos preços internacionais dos derivados de petróleo. Segundo o Comitê Nacional de Secretários de Fazenda, Finanças, Receita ou Tributação dos Estados e do Distrito Federal (Comsefaz), os Estados também avaliam formas de reduzir o impacto do reajuste previsto para o diesel.\nFoi nesse contexto que Boulos iniciou a troca de críticas. Em vídeo publicado nas redes sociais, o ministro afirmou que os bolsonaristas passaram a campanha eleitoral defendendo a redução de impostos, mas que Tarcísio teria adotado uma posição diferente ao apoiar o aumento do ICMS. Ele também relacionou a medida à alta internacional do petróleo, atribuída à guerra no Irã, e aos esforços do governo federal para conter o preço do combustível.\n“O governo do Lula está fazendo um esforço gigantesco, de bilhões e bilhões de reais, para segurar o preço do diesel. Sabe quem é que está aumentando imposto e prejudicando isso? O Tarcísio, gente”, declarou Boulos. O ministro afirmou que a elevação do tributo estadual pode afetar não apenas os caminhoneiros, mas também o custo do transporte de mercadorias e, consequentemente, os preços pagos pelos consumidores.\nBoulos também mencionou a subvenção federal de R$ 2,12 por litro de diesel rodoviário, prorrogada pelo governo Lula por mais 30 dias na terça-feira. A medida busca conter os efeitos da alta do petróleo sobre os preços internos. Ao final do vídeo, o ministro pediu que o governador paulista “faça sua parte” e “ajude o povo brasileiro”.\nEm nota à imprensa, Tarcísio rebateu as declarações e afirmou que Boulos usou “informações distorcidas para fazer ataques políticos”. O governador ressaltou que o reajuste foi definido no âmbito do Confaz e aprovado por unanimidade pelos Estados, inclusive aqueles administrados pelo PT. Citou, nesse sentido, que a mesma regra nacional vale para São Paulo, Piauí, Ceará e Bahia.\nTarcísio também comparou a política tributária paulista à de Estados governados pelo PT. Segundo o governador, São Paulo manteve a alíquota modal do ICMS em 18% nos últimos quatro anos, enquanto o Piauí elevou a sua para 22,5%, a Bahia para 20,5% e o Ceará para 20%. Ele acrescentou que o governo paulista ampliou isenções de ICMS sobre produtos alimentícios e zerou o Imposto sobre a Propriedade de Veículos Automotores (IPVA) para motos de até 180 cilindradas.\n“O debate político exige responsabilidade e respeito à verdade. Divergências não justificam distorcer os fatos para atacar adversários”, afirmou Tarcísio na nota.\nÀ noite, Boulos voltou a se manifestar no X. O ministro disse que o fato de o aumento ter sido aprovado pelo Confaz, com a concordância de outros governadores, “não muda nada em relação à incoerência de Tarcísio com seu discurso de campanha”. Segundo ele, o governador passou meses criticando Lula por causa dos impostos e, três dias depois da eleição, apoiou o reajuste do ICMS no colegiado.\n“Está claro quem está alimentando a desinformação. Pior do que isso, agindo com hipocrisia e oportunismo político. Assuma a responsabilidade de suas posições, Tarcísio”, escreveu Boulos."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Petrobras anuncia reajuste de preço de querosene de aviação em 7,2%",
+   "link": "https://valor.globo.com/brasil/noticia/2026/11/01/petrobras-anuncia-reajuste-de-preco-de-querosene-de-aviacao-em-72percent.ghtml",
+   "resumo_original": "De acordo com a companhia, o reajuste reflete a alta das cotações internacionais do QAV por causa da intensificação das tensões geopolíticas no Oriente Médio e de redução da capacidade de refino na Rússia e na Ucrânia em decorrência do conflito entre os dois países. A Petrobras informou um aumento de 7,2% no preço do querosene de aviação (QAV), ou R$ 0,45 por litro, para distribuidoras a partir deste domingo (1°). Diferentemente da gasolina e do diesel, que não tem periodicidade definida de mudança de preços, o QAV da Petrobras passa por revisões a cada início de mês, conforme previsão contrat",
+   "data": "2026-11-01T14:26:08-03:00",
+   "texto": "De acordo com a companhia, o reajuste reflete a alta das cotações internacionais do QAV por causa da intensificação das tensões geopolíticas no Oriente Médio e de redução da capacidade de refino na Rússia e na Ucrânia em decorrência do conflito entre os dois países.\nA Petrobras informou um aumento de 7,2% no preço do querosene de aviação (QAV), ou R$ 0,45 por litro, para distribuidoras a partir deste domingo (1°).\nDiferentemente da gasolina e do diesel, que não tem periodicidade definida de mudança de preços, o QAV da Petrobras passa por revisões a cada início de mês, conforme previsão contratual da Petrobras com as distribuidoras.\nEm nota, a Petrobras reforça este modelo de revisão dos preços do QAV e explica que a fórmula “atua como um amortecedor das oscilações de curto prazo, resultando em reajustes mais moderados do que os observados internacionalmente”:\n“Nos principais mercados internacionais, os preços do QAV destinados às companhias aéreas são ajustados com maior frequência, podendo chegar a revisões diárias, o que faz com que reflitam mais rapidamente as condições de mercado”.\nPor isso, segundo a empesa, “as variações acumuladas desde o início do conflito têm sido superiores nos mercados internacionais às observadas no Brasil, indicando que o preço do QAV da Petrobras permanece competitivo”."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Opep+ mantém inalteradas as metas de produção de petróleo para dezembro",
+   "link": "https://valor.globo.com/financas/noticia/2026/11/01/opep-mantm-inalteradas-as-metas-de-produo-de-petrleo-para-dezembro.ghtml",
+   "resumo_original": "Petróleo, Rússia",
+   "data": "2026-11-01T11:06:32-03:00",
+   "texto": "Os países produtores de petróleo da Opep+ mantiveram inalteradas as metas de produção para dezembro, confirmando as expectativas de que novos ajustes nas políticas não ocorrerão até o próximo ano, enquanto o grupo continua a enfrentar dificuldades com as interrupções nas exportações causadas pela guerra com o Irã.\nSete membros principais da Opep+ (Arábia Saudita, Rússia, Iraque, Kuwait, Argélia, Cazaquistão e Omã) tomaram a decisão em uma reunião online neste domingo, informou o cartel em um comunicado. Embora os países do Golfo tenham aumentado as exportações, que foram interrompidas durante meses pelo conflito, a maioria ainda está produzindo bem abaixo de suas metas.\nA Opep+ é composta pela Organização dos Países Exportadores de Petróleo e seus aliados, incluindo a Rússia. Apenas os sete membros — mais os Emirados Árabes Unidos, até sua saída da Opep em maio — participaram das decisões mensais de produção nos últimos anos. Todos os membros do grupo de 21 países devem se reunir em 29 de novembro, quando, segundo analistas, serão definidas as cotas para 2027.\n\"A decisão de hoje foi a mais fácil\", disse Jorge Leon, analista da Rystad. \"O teste muito mais importante virá na reunião ministerial de 29 de novembro, quando a Opep+ decidirá seu quadro de produção para 2027.\"\nOs preços do petróleo subiram mais de 2% na sexta-feira, com o Brent fechando a quase US$ 118 o barril, o maior valor desde abril, enquanto os investidores se preparavam para uma possível escalada na guerra com o Irã após as eleições de meio de mandato nos EUA.\nA Agência Internacional de Energia e outros especialistas em previsões alertaram para um possível excesso de oferta em 2027, caso o fluxo de gás no Golfo do México retorne ao normal.\n\"A Opep+ enfrenta um desafio extremamente difícil para 2027\", acrescentou Leon. \"O grupo precisa planejar levando em conta a enorme incerteza em relação à guerra entre EUA e Irã, o ritmo da recuperação no Estreito de Ormuz e o tamanho do excedente que poderá surgir quando o fornecimento de petróleo interrompido for retomado.\"\nOs sete membros têm aumentado as metas de produção para grande parte de 2026 e, em setembro, concluíram a reversão gradual do corte de produção de 1,65 milhões de barris por dia, inicialmente acordado em 2023. Em reuniões anteriores, mantiveram as metas inalteradas para outubro e novembro.\nA Opep+ ainda tem mais uma camada de cortes de produção de cerca de 2 milhões de barris por dia, que abrange a maioria dos membros até o final de 2026.\nSegundo fontes, o grupo precisa concluir uma revisão da capacidade de produção de seus membros durante o quarto trimestre antes de definir as metas para 2027, que determinarão as cotas futuras e moldarão os planos para reverter esses cortes.\nA guerra com o Irã interrompeu projetos de expansão da capacidade produtiva no Oriente Médio, gerando incertezas nas estimativas do potencial de produção futuro, informou a Reuters em outubro. Como resultado, a revisão agora deverá ser concluída até meados de novembro."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Beneficiada por liminar, Vertex planeja iniciar produção de gasolina em 2027",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/beneficiada-por-liminar-vertex-planeja-iniciar-producao-de-gasolina-em-2027.shtml",
+   "resumo_original": "Amparada por uma decisão judicial e sob questionamentos do mercado, a Vertex Formuladora planeja começar a produzir gasolina em Sorocaba (SP) no início de 2027 por meio de processo conhecido como formulação. Leia mais (11/02/2026 - 04h00)",
+   "data": "2026-11-02T04:00:00-03:00",
+   "texto": "Rio de Janeiro Amparada por uma decisão judicial e sob questionamentos do mercado, a Vertex Formuladora planeja começar a produzir gasolina em Sorocaba (SP) no início de 2027 por meio de processo conhecido como formulação.\nEssa atividade, que consiste na mistura de correntes de hidrocarbonetos, como a nafta, está suspensa pela ANP (Agência Nacional do Petróleo , Gás Natural e Biocombustíveis) desde julho de 2025, após operações contra fraudes no setor de combustíveis.\nEm julho deste ano, a diretoria da ANP aprovou estudo que recomenda o fim da atividade. Segundo o relatório, os benefícios para o abastecimento são \"muito baixos\" e os custos fiscais, \"muito altos\", com base em casos investigados em operações como a Carbono Oculto .\nA última formuladora a operar no Brasil, a Copape, teve a autorização cassada pela ANP em 2024, após sucessivas infrações operacionais e fraudes fiscais.\nA Vertex alega que pediu autorização antes da suspensão e, por isso, recorreu à Justiça. A empresa comunicou à ANP o início das obras em dezembro de 2022 e pediu a licença de operação em julho de 2024, um ano antes da decisão da agência.\nEm 2025, conseguiu na 3ª Vara Federal de Sorocaba uma decisão que obrigou a ANP a continuar analisando o pedido. Em setembro, o desembargador Luiz Alberto de Souza Ribeiro, do TRF-3 (Tribunal Regional Federal da 3ª Região), deu cinco dias para a agência concluir o processo e mandou emitir uma autorização provisória.\nEm nota, a ANP diz que recorreu da decisão por meio da AGU (Advocacia-Geral da União). Se a Justiça mudar de entendimento, afirma a agência, a autorização será revista.\nO diretor-geral da Vertex, Daniel Kurtinaitis, diz que a suspensão de 2025 trouxe insegurança jurídica para uma empresa que já havia investido dezenas de milhões de reais. Segundo ele, o projeto foi idealizado entre o fim de 2021 e o início de 2022, e o investimento total chega a R$ 60 milhões.\nA planta fica às margens da rodovia Castelo Branco. Tem 13 tanques, com capacidade para armazenar 35 milhões de litros. A autorização permite produzir cerca de 100 milhões de litros por mês, o equivalente a cerca de 0,05% da produção nacional.\nKurtinaitis afirma que a empresa está hoje em fase de contratação de pessoal e comissionamento dos equipamentos, e estima levar até 12 meses depois da partida para atingir a produção máxima.\nO plano estratégico da companhia, acrescenta o executivo, inclui ampliar a tancagem para 65 milhões de litros e construir uma usina de energia solar. No futuro, a empresa pretende instalar uma unidade de refino no local.\nO investimento da empresa, porém, é questionado pelo mercado de combustíveis. O ICL (Instituto Combustível Legal) diz que a formulação \"representa uma vulnerabilidade regulatória que pode favorecer fraudes fiscais, dificultar a fiscalização e comprometer a concorrência leal\".\n\"Autorizações concedidas por decisões judiciais individuais, em meio a um processo de revisão regulatória, podem ampliar a insegurança jurídica e criar distorções competitivas entre os agentes do mercado\", afirmou o instituto, financiado por empresas de produção e distribuição de combustíveis.\nKurtinaitis diz que refinarias e centrais petroquímicas já utilizam essa técnica. \"O processo de formulação é comum no mercado nacional e internacional\", afirma."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Opep+ mantém metas de produção de petróleo para dezembro, antes de decisão sobre 2027",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/opep-mantem-metas-de-producao-de-petroleo-para-dezembro-antes-de-decisao-sobre-2027.shtml",
+   "resumo_original": "Os países produtores de petróleo da OPEP+ (Organização dos Países Exportadores de Petróleo e Rússia ) mantiveram neste domingo (1º) as metas de produção para dezembro, confirmando as expectativas de que não haverá novos ajustes nas políticas até o próximo ano. Leia mais (11/01/2026 - 20h52)",
+   "data": "2026-11-01T20:52:00-03:00",
+   "texto": "Você tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nOs países produtores de petróleo da OPEP+ (Organização dos Países Exportadores de Petróleo e Rússia ) mantiveram neste domingo (1º) as metas de produção para dezembro, confirmando as expectativas de que não haverá novos ajustes nas políticas até o próximo ano.\nSete membros principais da OPEP+ —Arábia Saudita, Rússia, Iraque, Kuwait, Argélia, Cazaquistão e Omã— tomaram a decisão em uma reunião online, informou a OPEP em comunicado. Embora os membros do Golfo tenham aumentado exportações, que vêm sendo prejudicadas há meses pela guerra contra o Irã , a maioria ainda está produzindo bem abaixo de suas metas.\nA OPEP+ é composta pela Organização dos Países Exportadores de Petróleo e por aliados, incluindo Rússia. Apenas esses sete membros —além dos Emirados Árabes Unidos, até que o país deixou a OPEP em maio— têm participado das decisões mensais sobre a produção nos últimos anos. Todos os membros do grupo de 21 países devem se reunir em 29 de novembro, quando analistas esperam que sejam definidas as cotas para 2027.\n\"A decisão de hoje foi fácil\", disse Jorge Leon, analista da Rystad. \"O teste muito mais importante virá na reunião ministerial de 29 de novembro, quando a OPEP+ decidirá sua estrutura de produção para 2027.\"\nOs preços do petróleo subiram mais de 2% na sexta-feira, com o petróleo Brent fechando a quase US$ 118 (R$ 639,63) o barril, o maior valor desde abril, à medida que os operadores se preparavam para uma possível escalada na guerra com o Irã após as eleições de meio de mandato nos EUA.\nA Agência Internacional de Energia e outras instituições de previsão alertaram para um excesso de oferta em 2027, caso os fluxos do Golfo voltem ao normal.\n\"A OPEP+ enfrenta uma decisão extremamente difícil para 2027\", acrescentou Leon. \"O grupo precisa planejar em meio a uma enorme incerteza sobre a guerra entre os EUA e o Irã, o ritmo da recuperação do tráfego pelo Estreito de Ormuz e o tamanho do excedente que poderia surgir assim que os barris que estavam em falta voltarem ao mercado.\"\nOs sete membros vêm aumentando as metas de produção durante grande parte de 2026 e, em setembro, concluíram a reversão gradual do corte de oferta de 1,65 milhão de barris por dia, inicialmente acordado em 2023. Em reuniões anteriores, eles mantiveram as metas estáveis para outubro e novembro.\nA OPEP+ ainda tem mais uma rodada de cortes de produção de cerca de 2 milhões de bpd, abrangendo a maioria dos membros até o final de 2026.\nO grupo precisa concluir uma revisão da capacidade de produção dos membros durante o quarto trimestre antes de definir as metas de referência para 2027, que determinarão as cotas futuras e definirão os planos para reverter esses cortes, segundo fontes.\nA guerra no Irã interrompeu projetos de expansão da capacidade em todo o Oriente Médio , gerando incerteza nas estimativas do potencial de produção futuro, informou a Reuters em outubro. Como resultado, espera-se agora que a revisão seja concluída até meados de novembro.\nMais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?\nDe 2ª a 6ª pela manhã, receba o boletim gratuito com notícias e análises de economia"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Petrolíferas resistem à pressão para investir em novas refinarias apesar da disparada dos combustíveis",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroliferas-resistem-a-pressao-para-investir-em-novas-refinarias-apesar-da-disparada-dos-combustiveis.shtml",
+   "resumo_original": "As grandes petrolíferas optaram por usar os lucros extraordinários impulsionados pela guerra no Irã para distribuir bilhões de dólares aos acionistas e reduzir dívidas, apesar dos apelos de líderes políticos por investimentos vultosos para ampliar a capacidade de refino do Ocidente . Leia mais (11/01/2026 - 14h00)",
+   "data": "2026-11-01T14:00:00-03:00",
+   "texto": "Houston | Financial Times As grandes petrolíferas optaram por usar os lucros extraordinários impulsionados pela guerra no Irã para distribuir bilhões de dólares aos acionistas e reduzir dívidas, apesar dos apelos de líderes políticos por investimentos vultosos para ampliar a capacidade de refino do Ocidente .\nExxonMobil, Chevron, BP, Shell e TotalEnergies registraram, juntas, lucro líquido superior a US$ 50 bilhões no terceiro trimestre desta semana, enquanto os preços globais da gasolina, do diesel e do combustível de aviação permaneceram próximos de máximas históricas.\nA Shell elevou seu programa de recompra de ações para US$ 5 bilhões no trimestre atual, e a Exxon se comprometeu com outro programa de US$ 20 bilhões para 2027, enquanto os lucros extraordinários da BP estão sendo destinados, em grande parte, à redução de dívidas.\nOs lucros foram impulsionados pelas divisões de refino das empresas, que operavam quase a plena capacidade na tentativa de tirar proveito dos preços elevados e compensar a escassez de oferta depois que a guerra no Irã interrompeu os embarques pelo Estreito de Hormuz.\nCerca de 10% da capacidade global de refino saiu de operação neste ano após o início da guerra e os ataques ucranianos a refinarias russas. As restrições às exportações impostas por Pequim e Moscou tornaram o mercado ainda mais apertado.\nExecutivos do setor disseram que as condições que elevaram as margens persistiriam por algum tempo, enquanto a Agência Internacional de Energia previu que a escassez de diesel duraria até 2027.\nO presidente dos Estados Unidos , Donald Trump , que tem pressionado as empresas a fortalecer as cadeias domésticas de abastecimento do setor de refino, convocou executivos petrolíferos para uma reunião na Casa Branca em setembro a fim de discutir formas de reduzir os preços dos combustíveis. Líderes do G7 e da União Europeia também pediram mais investimentos para reforçar a segurança energética após a turbulência no mercado.\nAs grandes petrolíferas fizeram pequenos investimentos em refinarias existentes para aumentar o rendimento e elevar as taxas de utilização, mas evitaram construir novas instalações dispendiosas, que levariam anos para entrar em operação.\nO analista da Morningstar Allen Good afirmou que, como a demanda por combustíveis deverá cair no futuro, \"ninguém construirá uma refinaria do zero na Europa ou nos Estados Unidos, considerando o tempo que isso levaria\". \"Não acho que alguém considere as margens atuais sustentáveis de alguma forma\", acrescentou.\nMeg O’Neill, CEO da BP, disse que, embora a empresa não pretendesse se desfazer de mais refinarias —após vender neste ano sua unidade de Gelsenkirchen, na Alemanha—, também não ampliaria a capacidade \"neste momento\".\nRefinarias menores dos Estados Unidos também evitaram novos investimentos. A Phillips 66 informou, durante sua teleconferência de resultados nesta semana, que estava concentrando a maior parte dos investimentos em ativos de midstream, usados para armazenar ou transportar produtos refinados.\nAssim como as grandes petrolíferas, a Phillips 66 fez investimentos menores em suas instalações. \"Não são investimentos [enormes] e transformadores, de vários bilhões de dólares\", disse Brian Mandell, vice-presidente executivo de marketing e operações comerciais da Phillips 66.\n\"São investimentos de dezenas ou centenas de milhões de dólares\", que permitem à empresa ampliar \"gradualmente\" a capacidade e a utilização dos ativos.\nA Valero, outra refinadora de petróleo dos Estados Unidos, comprou na sexta-feira (30) uma refinaria inativa em Houston da LyondellBasell por US$ 320,5 milhões. A empresa disse que, inicialmente, retomaria até o fim de 2027 uma capacidade de processamento de 165 mil barris diários de petróleo leve e com baixo teor de enxofre, com o objetivo de processar petróleo mais pesado posteriormente.\nEmbora a capacidade de refino tenha diminuído nos Estados Unidos e na Europa, os investimentos continuaram em outras partes do mundo.\nDesde 2019, a China e o Oriente Médio acrescentaram 4,4 milhões de barris por dia, enquanto a Europa e a América do Norte perderam 2,1 milhões, segundo o Federal Reserve Bank de Dallas. Novas refinarias entraram recentemente em operação na Nigéria, na Índia e no México.\nJoe DeLaura, estrategista sênior de energia do Rabobank, projetou que o petróleo Brent, referência internacional, seria negociado a uma média de US$ 120 por barril no primeiro semestre do próximo ano, enquanto a margem de refino do diesel, ou crack spread, permaneceria em torno de US$ 100 por barril no mesmo período.\nOs grupos petrolíferos têm se mostrado relutantes em investir em novas instalações de refino, apesar da possibilidade de uma escalada das hostilidades no Oriente Médio —cenário que, segundo DeLaura, elevaria os preços e impulsionaria a inflação global.\nTrump afirmou que seu governo \"talvez realize outra pequena Fúria Épica\", em referência ao nome dado pelo Pentágono à guerra que ele lançou contra Teerã em fevereiro.\n\"Tanto o Irã quanto os Estados Unidos provavelmente atacarão infraestruturas em uma escala muito maior do que no início desta guerra\", disse DeLaura. \"A infraestrutura energética provavelmente será atacada. Isso elevará os crack spreads do diesel e [da gasolina], bem como o preço do petróleo.\""
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Petrobras aumenta preço do querosene de aviação em 7,2% em novembro",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-em-novembro.shtml",
+   "resumo_original": "A Petrobras anunciou neste domingo (1º) aumento de 7,2% no preço médio de venda do QAV (querosene de aviação ) às distribuidoras, o equivalente a R$ 0,45 por litro em relação ao mês anterior. O reajuste entra em vigor neste domingo e ocorre após a alta de 11,76% aplicada em outubro. Leia mais (11/01/2026 - 12h42)",
+   "data": "2026-11-01T12:42:00-03:00",
+   "texto": "Você tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nA Petrobras anunciou neste domingo (1º) aumento de 7,2% no preço médio de venda do QAV (querosene de aviação ) às distribuidoras, o equivalente a R$ 0,45 por litro em relação ao mês anterior. O reajuste entra em vigor neste domingo e ocorre após a alta de 11,76% aplicada em outubro.\nSegundo a estatal, o aumento reflete a elevação das cotações internacionais do combustível, em meio à intensificação das tensões geopolíticas no Oriente Médio e à redução da capacidade de refino na Rússia e na Ucrânia em decorrência da guerra entre os dois países.\nA empresa afirma que a fórmula de preços prevista em contrato funciona como um amortecedor das oscilações de curto prazo, fazendo com que os reajustes no Brasil sejam mais moderados do que os observados no exterior.\nEm mercados internacionais, os preços destinados às companhias aéreas podem ser revistos diariamente.\nA nova alta mantém a pressão sobre os custos das empresas do setor aéreo. Segundo representantes das companhias, os reajustes recentes elevaram a participação do combustível nas despesas operacionais de 32% para 45%.\nReceba no seu email o que de mais importante acontece na economia; aberta para não assinantes.\nO encarecimento do QAV também tem sido repassado aos passageiros por meio das tarifas aéreas.\nEm outubro, as passagens subiram 9,66%, contribuindo para a alta de 0,82% do IPCA (Índice Nacional de Preços ao Consumidor Amplo) no mês, segundo o IBGE.\nA Petrobras afirma que, apesar dos aumentos, a variação acumulada dos preços do QAV no Brasil desde o início do conflito no Oriente Médio é inferior à registrada nos mercados internacionais, o que, segundo a estatal, mantém o combustível brasileiro competitivo.\nMais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?\nDe 2ª a 6ª pela manhã, receba o boletim gratuito com notícias e análises de economia"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão",
+   "idioma": "pt",
+   "titulo": "Petrobras aumenta preço do querosene de aviação em 7,2% a partir deste domingo",
+   "link": "https://www.estadao.com.br/economia/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-a-partir-deste-domingo/",
+   "resumo_original": "",
+   "data": "2026-11-01T13:31:43-03:00",
+   "texto": "'Pré-sal é único, mas Margem Equatorial será muito relevante', diz presidente da Petrobras\nMagda Chambriard diz apostar em descobertas muito importantes na região para suprir o futuro declínio da exploração no pré-sal. Crédito: Imagens: Pedro Kirilos\nA Petrobras informou que elevou o querosene de aviação em 7,2%% a partir deste domingo, 1º, resultando em um acréscimo de R$ 0,45 por litro em relação ao mês anterior. O reajuste reflete a elevação das cotações internacionais do QAV, em um cenário de intensificação das tensões geopolíticas no Oriente Médio e de redução da capacidade de refino na Rússia e na Ucrânia, em decorrência do conflito entre os dois países , explicou a estatal em nota.\nA Petrobras reajusta mensalmente o combustível por meio de uma fórmula paramétrica contratual que funciona como amortecedor de curto prazo, resultando em reajustes mais moderados que os praticados internacionalmente. Ao contrário do que fez em outubro, a empresa não mencionou se está atendendo a todos os pedidos para o mês de novembro das distribuidoras.\nAté setembro, a alta acumulada pelo QAV da Petrobras era de 53,3%. A empresa parou de informar o porcentual acumulado do combustível em outubro, quando reajustou o QAV em 11,8%.\nPolítica praticada pela Petrobras expõe falsa oposição: preços competitivos e proteção ao consumidor\nA estatal destacou ainda, que nos principais mercados internacionais, os preços do QAV para companhias aéreas são ajustados com frequência chegando até a reajustes diários, refletindo imediatamente as condições de mercado.\n“Nesse contexto, as variações acumuladas desde o início do conflito têm sido superiores nos mercados internacionais às observadas no Brasil, indicando que o preço do QAV da Petrobras permanece competitivo”, explicou a companhia em nota.\nLula 4: Empresas sob pressão enfrentam dívida elevada e expectativa de queda mais lenta dos juros\nXP lança Conta Menor e oferece soluções financeiras para crianças e adolescentes\nComo a Salesforce usa a IA para transformar o atendimento ao cliente"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Petrobras anuncia aumento de 7,2% no preço do querosene de aviação a partir deste domingo",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/01/petrobras-anuncia-aumento-de-72percent-no-preco-do-querosene-de-aviacao-a-partir-deste-domingo.ghtml",
+   "resumo_original": "Caminhões de abastecimento de querosene de aviação (QAV) no Santos Dumont, Rio de Janeiro",
+   "data": "2026-11-01T13:57:31-03:00",
+   "texto": "A Petrobras anunciou um aumento de 7,2% no preço de venda do querosene de aviação (QAV) às distribuidoras a partir deste domingo. O reajuste representa um acréscimo de R$ 0,45 por litro em relação ao mês anterior.\nSegundo a estatal, o aumento reflete a elevação das cotações internacionais do combustível, em meio à intensificação das tensões geopolíticas no Oriente Médio e à redução da capacidade de refino na Rússia e na Ucrânia em decorrência do conflito entre os dois países.\nO preço do QAV vendido pela Petrobras às distribuidoras é reajustado mensalmente, no início de cada mês. Diferentemente do que ocorre com a gasolina e o diesel, a variação acompanha as oscilações do dólar e das cotações do petróleo no mercado internacional.\nA estatal explica, em nota, que a precificação do QAV no Brasil segue uma fórmula prevista em contrato, que funciona como um mecanismo de amortecimento das oscilações de curto prazo. Com isso, os reajustes são \"mais moderados do que os observados internacionalmente\".\n\"Nos principais mercados internacionais, os preços do QAV destinados às companhias aéreas são ajustados com maior frequência, podendo chegar a revisões diárias, o que faz com que reflitam mais rapidamente as condições de mercado. Nesse contexto, as variações acumuladas desde o início do conflito têm sido superiores nos mercados internacionais às observadas no Brasil, indicando que o preço do QAV da Petrobras permanece competitivo\", explica a Petrobras."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Petrobras adia projetos em meio a disputa com ANP sobre programa de gás",
+   "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/01/petrobras-adia-projetos-em-meio-a-disputa-com-anp-sobre-programa-de-gas.ghtml",
+   "resumo_original": "Gasoduto Brasil-Bolívia. Petrobras diz que não há como saber retorno de projetos se os preços serão definidos pela ANP",
+   "data": "2026-11-01T10:00:01-03:00",
+   "texto": "O avanço das discussões sobre o Gas Release, programa que tem o objetivo de ampliar a concorrência no mercado de gás natural e que muda a sistemática de cobrança e fornecimento do insumo, tem colocado em lados opostos a Agência Nacional do Petróleo (ANP) e a Petrobras . Em meio ao impasse, a diretoria da estatal decidiu adiar a aprovação de parte do projeto em Sergipe-Alagoas, de acordo com Magda Chambriard , presidente da companhia. Na lista, estão a construção de um gasoduto e serviços relacionados à perfuração de poços.\nPetróleo: Petrobras anuncia terceira descoberta em poço na Bacia da Foz do Amazonas Entrevista: 'Ninguém previu o petróleo neste patamar', diz presidente da Petrobras\nPrevisto na Nova Lei do Gás, aprovada em 2021, o Gas Release só foi colocado sob consulta pública este ano e, pela previsão da ANP, deve passar a vigorar em 2027. O programa prevê a venda obrigatória a concorrentes. Como a Petrobras é a grande player do setor, a medida impõe acesso compulsório de outros fornecedores ao gás comercializado pela estatal, por meio de leilões, cuja periodicidade ainda será definida.\nO valor da molécula de gás será definido pela ANP a cada quatro anos. Mas a Petrobras, que se opõe ao modelo, alega que o formato de leilões recorrentes e preços previamente definidos, pode provocar descasamento de custos e prazos nos projetos de longo prazo. E que, no limite, isso pode afetar o abastecimento.\nO mercado estima que a estatal responda por entre 45% e 55% do fornecimento de gás. Durante a consulta pública da ANP, o Instituto Brasileiro de Petróleo (IBP), que representa empresas do setor, defendeu critérios objetivos para a remuneração dos volumes a serem leiloados, além da segurança do abastecimento. Já as comercializadoras (que compram o gás para revender) defenderam mecanismos que tornem o insumo efetivamente negociável após os leilões.\nPara Magda, o Gas Release vai afetar os investimentos e aumentar a insegurança jurídica. Ela argumenta que a obrigação de vender parte do gás a um preço definido pela ANP compromete projetos futuros. Foi nesse contexto que a diretoria da estatal devolveu parte do projeto de Sergipe-Alagoas para análise da área de riscos da empresa, em função da figura jurídica conhecida no direito empresarial como fato do príncipe (quando decisão do Poder Público altera as condições de um contrato).\n— Desde 2022 baixamos o preço do gás em 27%, porque ampliamos a produção. Se tenho que fazer expansão de capacidade e implantar nova rota (de escoamento), como vou saber o retorno do projeto se a ANP diz que é ela que vai definir o preço e vai variar de quatro em quatro anos? Isso gera insegurança. Sem clareza não avançamos nos projetos.\nMagda cita o projeto de Sergipe-Alagoas, que envolve a construção de duas plataformas (SEAP 1 e 2), já aprovadas com investimento de US$ 11 bilhões. Os sócios são IBV e ONGC.\nFim de uma era: Bolívia vai precisar importar gás após anos como potência exportadora\n— Não aprovamos e mandamos de volta para área de risco para considerar o impacto do gás release como fato do príncipe — afirma Magda.\nA presidente da Petrobras destaca que o programa em consulta pública prevê a criação de limite de participação de mercado da estatal no setor. Nesse contexto, ela lembra que a Petrobras terá restrição na importação de gás, apesar de ter duas estações de regaseificação de GNL (gás em estado líquido).\n— Se o mercado não crescer, não posso investir em gás. Só que quem empurra investimento e estimula a demanda é a Petrobras. Não posso importar e não posso definir o preço que vou cobrar pela operação dos ativos. Se não posso importar, isso significa expropriação do meu ativo — diz.\nGargalo: Abastecimento de diesel está ‘apertado’ para novembro, diz presidente da associação de importadores\nMagda cita que, ao limitar a atuação da Petrobras no mercado, o programa pode comprometer o fornecimento de gás às térmicas e, assim, afetar a geração de energia elétrica. O modelo, diz, pode impactar a produção de petróleo, já que as reservas petrolíferas produzem gás associado ao petróleo.\n— É diferente do gás que vem do gasoduto Brasil-Bolívia. Abriu a torneira, você consome; fechou a torneira, deixa de consumir.\nPara Rivaldo Moreira Neto, sócio-diretor da consultoria A&M Infra, é importante que haja uma decisão sobre o Gas Release. Ele ressalta, porém, que o programa não deve reduzir os preços imediatamente. Segundo ele, é natural que a Petrobras resista:\n— O Gas Release habilita novos competidores e traz liquidez para o sistema.\nBruno Armbrust afirma que o leilão deve considerar os custos de produção da Petrobras e garantir uma margem adequada para a venda do gás.\nCom novos projetos: oferta de gás natural no país saltará 50%, mas especialistas afirmam que será preciso estimular consumo\n— A ideia é que a companhia principal deixe de controlar o mercado. E se ela não investir em determinados ativos, outras empresas irão fazer isso.\nProcurada, a ANP disse que a proposta de regulamentação foi submetida a consulta pública para que todos os interessados pudessem enviar suas contribuições. “Todas as contribuições recebidas durante o período de consulta serão consideradas no processo de elaboração da proposta final a ser submetida à deliberação da Diretoria Colegiada. Elas estão sendo analisadas pela área técnica da Agência”.\nA Abrace, que representa grandes consumidores de energia, argumenta que os preços formados nos leilões precisam permitir que novos agentes disputem clientes em condições mais competitivas."
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Governo corre para aprovar no Congresso regras para uso de IA e concorrência de big techs",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/01/governo-corre-para-aprovar-no-cogresso-regras-para-uso-de-ia-e-concorrencia-de-big-techs.ghtml",
+   "resumo_original": "Governo tenta aprovar no Congresso este ano, antes da mudança na composição das duas Casas, regras para as plataformas que atuam no país",
+   "data": "2026-11-01T04:00:00-03:00",
+   "texto": "Após prometer colocar a regulação das big techs no centro de seu quarto mandato, o presidente Luiz Inácio Lula da Silva correrá contra o tempo para tentar aprovar este ano projetos que avancem no regramento das plataformas no país. A estratégia é buscar, ainda nesta legislatura, avanços em novas regras com projetos que já existem, antes da mudança na composição do Congresso, com maior participação de parlamentares alinhados à direita, que, para o Executivo, tendem a ser mais refratários às propostas. O objetivo esbarra, porém, em uma agenda legislativa lotada de pautas até dezembro e na própria atuação das empresas, que se movimentaram por exemplo contra o projeto de lei (PL) das fake news, em 2023.\nNovas regras: Estado de Nova York restringe uso de chatbots por menores Veja: Estudiosos da religião se reuniram com a Anthropic. O que ouviram os deixou chocados\nO governo vê uma janela de oportunidade para votar até dezembro o Marco Legal da Inteligência Artificial (IA), que cria novo regime de obrigações para as gigantes de tecnologia. O projeto traz exigências de transparência, responsabilização por danos e limites para o uso de conteúdos protegidos por direitos autorais.\nEm outra frente, o Ministério da Fazenda quer aprovar este ano projeto que fortalece a regulação concorrencial de big techs. A proposta cria obrigações prévias para empresas consideradas de relevância sistêmica em mercados digitais, ou seja, gigantes que têm o poder de criar monopólios e sujeitar às suas regras não só consumidores, mas também setores econômicos.\n— A garantia de soberania digital depende de leis claras que fortaleçam as condições para o desenvolvimento de IA no país e enfrentem a extração de valor promovida pelas grandes plataformas em relação ao que produzimos aqui —disse o secretário de Políticas Digitais da Secretaria de Comunicação, João Brant.\nPara entender o impacto que a IA vai causar no mercado de trabalho, a saída é olhar para o passado\nNenhum dos dois textos trata de regulação de conteúdo, e o governo não tem intenção de mexer nessa seara para desmobilizar o argumento de opositores, que costumam apontar risco de censura a qualquer iniciativa de regulamentação das plataformas.\nO Palácio do Planalto espera contar com o capital político após a virada histórica de Lula para acelerar os projetos. Na conta do Executivo, a própria repercussão negativa entre usuários da conduta da Meta nas eleições deve ajudar.\nA dona de Facebook , Instagram e WhatsApp reconheceu falhas técnicas e lacunas em sistemas que afetaram temporariamente as contas e a distribuição de conteúdos da campanha petista. No Instagram, o perfil oficial de Lula ficou horas sem o botão de repostar e houve problemas nos stories do presidente. A Meta nega interferência para beneficiar Flávio Bolsonaro (PL).\nNo discurso da vitória no domingo passado , Lula citou a “intromissão” das big techs, o “crime digital” e disse que empresas “monstruosas” não pagam impostos:\n— Tivemos que vencer a intromissão de fora para dentro, através de plataformas digitais que nós vamos ter que regular.\nO projeto de lei da regulamentação de IA já foi aprovado no Senado e falta ser apreciado pela Câmara, onde a relatoria é de Aguinaldo Ribeiro (PP-PB). O Planalto deve se aproximar do parlamentar nos próximos dias para incentivar que o texto ande na Casa. Um dos tópicos da proposta é a aplicação de multas de até R$ 50 milhões, além de suspensão temporária ou definitiva de sistemas e proibição de utilização de determinadas bases de dados.\nTambém está na Câmara o projeto de regulação antitruste das plataformas digitais. O projeto está pronto para ser votado no plenário da Casa, e as mudanças realizadas pelo relator, o deputado Aliel Machado (PV-PR), foram consideradas positivas pela Fazenda e pelo Conselho Administrativo de Defesa Econômica (Cade), responsável pela regulação concorrencial. De acordo com Machado, a proposta será discutida na reunião de líderes nesta semana. Nos bastidores, o presidente da Câmara, Hugo Motta (Republicanos-PB), tem dito que a sinalização sobre a votação deve ocorrer a partir da reunião desse encontro.\n— As regras concorrenciais valem para outros setores e têm que valer para esse também. O que estamos buscando é uma legislação que permita ao Cade agir com mais eficiência — disse Machado.\nPequeno dicionário do 'fim do mundo': conheça os termos usados para falar sobre os riscos da IA\nNa avaliação do governo, o Cade atua hoje quando identifica práticas anticoncorrenciais, mas o modelo tem sido insuficiente para lidar com big techs pela organização em plataformas e pela velocidade com que conseguem controlar os setores em que atuam.\nNo caso de marketplaces, que reúnem um grande contingente de clientes, elas conseguem cobrar mais vantagens dos vendedores que, sem eles, ficam sem acesso à demanda. Isso muitas vezes leva a comportamentos abusivos, como obrigatoriedade de usar outros serviços da empresa ou cobrança de taxas elevadas.\nApós queixas sobre atuação da Meta na eleição: entidades propõem agenda de regulação no ambiente digital\nA ideia é fazer uma regulação prévia para essas plataformas, considerando os setores nos quais atuam, como redes sociais, sistemas de celulares, marketplaces, entre outros. No caso de sistemas operacionais, um exemplo de exigência prévia é proibir que a empresa só habilite um aplicativo de carteira digital.\nPara definir as empresas sujeitas à regulação mais dura haverá dois critérios, segundo o projeto, que serão avaliados em processo administrativo pelo Cade, com direito a contraditório, audiência pública e tomada de subsídios. O primeiro é uma linha de corte financeira: só poderão ser designadas as plataformas com faturamento anual superior a R$ 5 bilhões no Brasil e R$ 50 bilhões em termos globais.\nSe a empresa ficar nessa faixa, depois serão analisados parâmetros qualitativos, como se ela tem posição estratégica da qual resulte a dependência de terceiros para desenvolvimento de atividades empresariais ou para acesso de usuários. Ou ainda o acesso, controle ou combinação de quantidade significativa de dados pessoais ou comerciais relevantes.\nSegundo interlocutores, o deputado incorporou demandas do setor privado, limitando o escopo do projeto e aumentando garantias processuais, inclusive com mecanismos de transparência. O relator incluiu, por exemplo, que o faturamento será atualizado pelo IPCA e que a designação como plataforma sistemicamente relevante não implica determinação automática de obrigações, que seguirão rito próprio. Ele reduziu o prazo de designação de dez para seis anos.\nFilippo Lancieri, professor associado na Universidade Georgetown (EUA) — onde pesquisa sobre política antitruste e desenho regulatório —, afirma que o projeto é baseado na necessidade de adaptar os instrumentos de defesa da concorrência para a realidade dos mercados digitais.\n— O projeto visa fechar diversas lacunas no regime concorrencial brasileiro que são exploradas pelas big techs para impedir a concorrência efetiva em mercados muito importantes. O resultado são maiores preços, margens de lucro astronômicas, menor qualidade e menor inovação, prejudicando os consumidores e empresas nacionais — disse.\nTulio Chiarini, analista em ciência e tecnologia do Centro de Pesquisa em Ciência, Tecnologia e Sociedade do Instituto de Pesquisa Econômica Aplicada (CTS-Ipea), afirma que a agenda de regulação das big techs passou a incorporar cada vez mais questões econômicas e estratégicas, como concorrência desleal, soberania e segurança nacional. Isso marca uma mudança importante na relação entre o Estado e as grandes empresas que controlam as plataformas digitais.\n– o que está em jogo não é apenas uma questão técnica ou econômica. É também uma questão política. Quando falamos em estabelecer regras para essas empresas, estamos discutindo quem controla os dados, quem tem poder sobre os algoritmos e quais responsabilidades essas plataformas devem ter perante a sociedade. Não se trata apenas de evitar abusos de poder econômico – disse.\nSegurança de dados: Flórida quer limitar uso de Facebook e Instagram por adolescentes\nEnquanto os textos não são aprovados, o governo vem trabalhando em implementar os instrumentos gerados pela decisão do Supremo Tribunal Federal (STF) sobre o artigo 19 do Marco Civil da Internet, que define as regras sobre a responsabilidade civil das plataformas digitais por danos causados por conteúdos publicados por terceiros.\nO Executivo chegou a preparar projeto de lei sobre o tema. Quando a proposta seria enviada ao Congresso, porém, avançou a tramitação do Estatuto Digital da Criança e do Adolescente e a avaliação passou a considerar que a decisão do STF, combinada à atualização da regulamentação do Marco Civil, contemplava parte dos objetivos do texto.\nEssas atualizações determinam que plataformas devem remover conteúdos de crimes graves expressamente listados (como terrorismo, exploração sexual infantil, incentivo à automutilação e tráfico de pessoas), após notificação extrajudicial, sem necessidade prévia de ordem judicial. E obriga as redes sociais e provedores a manterem canais de denúncia acessíveis, gratuitos, destacados e permanente."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Rússia diz que instalação industrial foi atingida; Ucrânia reivindica ataque a refinaria de petróleo",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0MwaEhtZW5vVDJ6Y2JKTlI2OTBXMUhqZVhRY2RaWl9nb280NFZIbUdXN1JsOWtSZmZqVTdnTDZQaTNGWGlzaElhak1odUh0UjhKRmV6Q3c0SWZ4cDVQOXU1UUpWY2dtUXU1VnZhUVktQVU2UFVDTGZUY29JeU5nM3FpQjlqekwwa0diZ05UeklJZkI1ck1JYkk3ZExQOHJzMmZfSWJMR0FJZEFqN1hyQlhtZlhWMVhheUNESXEtYk5XREFZMjJCNU80NDB5RG9SS0FNUU81Z2lYell40gHiAUFVX3lxTE01RTdIbUxKUHJ2dDlhUjBibERiZkNmWnpMQU1PV0htcm1MamVXNWFMUDhmYUtpTi1yQm1KLWlYQzhwUTdQMGpTWkZyZGRiNm1QQ0pNYnIzdUlXSkFaRUloT2dNOHVCS09oS2g5akk1VTEyTFZuR05LbVRmcG5oMXBYRS1UWjlES1JuU1hKaE52U3FoMFFkSkpOLTBDWEsxaDlrRl82VEpTdElhcGZDbEZxWmZWU0FtN3NlYkFId3FuZnRtNXRpUmViVzU4ZGRrS0dISkdFeHEwVnFwQi1OOHRyS3c?oc=5",
+   "resumo_original": "Rússia diz que instalação industrial foi atingida; Ucrânia reivindica ataque a refinaria de petróleo Estadão",
+   "data": "2026-11-01T07:35:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Dow Jones hoje sobe após Fed manter juros inalterados; petróleo dispara mais de 2%",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFFnT1JEWVN4TEJ4OHY4VEJWY2V6Y3BTWUhPTXJQSFNRcnk0Mk1YaU1sZUpQdHdpTTJIR3VubDhDM21TSm5JeDlSc255M2VnQjBxMWFVNzFZOFpJcFpUMWJFSzE0dHNtOEVISjhMM1U1U3VHdHh5QTlBMk1McWtVai14X19uaEgzVkdYclhmVzhNTndkeUZ1Y01zaXNSSTUwWjVuQXlFQWpyN0hYa0RoRngxaGZLV211UXhIVDJFTF9lVXphajc1WjFqVEJ2TFlheVBv?oc=5",
+   "resumo_original": "Dow Jones hoje sobe após Fed manter juros inalterados; petróleo dispara mais de 2% Estadão",
+   "data": "2026-11-02T02:16:20-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petrobras, Prio ou Brava? BTG revisa ações de petróleo após queda da Bolsa e aponta oportunidades",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQjJJWkwzdWtaSk9vaXJNYXpVSVBxZl9Ec1o5UVdrbWRIN29ONllaaHFXV0hDVmd5bURHRUJtYlhTWEx5T3NGdmhDc2t4Vkh4UmVSRFVBZ0tFUDBpWm40aVpiMWxmNE9sNERoaTU0RVk3QVlkNmZEd0ZxR3JDemxKQ05GLVg1MFg1T2hxeTJ1R1kxbzJHajdGV1hCNTVOdDRaRXI4OThZVGVIUEZIT2ZNVXFaZ1VPbG12QlA3SW00T3k3b1N6XzNEZ3FiVTZHSFNVaU5PWnRMS29aX2lFZ1k3RWZ1bERwOTcxLTBLWjBxbDNNWUdn?oc=5",
+   "resumo_original": "Petrobras, Prio ou Brava? BTG revisa ações de petróleo após queda da Bolsa e aponta oportunidades Estadão",
+   "data": "2026-11-01T04:46:39-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ações de tecnologia derrubam Bolsas de NY, com queda de 2,86% no Nasdaq; petróleo dispara mais de 2%",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUHFwLW4ybkEtcHAwcHo2TzBvMU45U2pGYkZUTE5Yd1JsR0RMaHVfanpyQVhmWWZvNmRBMDJsQmpaM0FKMmZWRlB5blU0dEFMWk5sVWJtN2pwVnppYVdON2lxelZyUmo1X2pxZlp2bjQ0NWFuVWc2Y3Zvd0tZeDBEOVNEaVk4VjByYmQ1SXptNlpNN3hZcFR6WDl0ZmgtN1ZGVmxNbDR2MW9qMnZSbVhIeFNhdk1vaTd2amV5Q2xvSktFNzVnTDJ5Ymo3SFpXX1FoeTV5eEszMHBBQkktSC1qN2NBcDNfTVZSR3YwOGQzSGtrN1Vm?oc=5",
+   "resumo_original": "Ações de tecnologia derrubam Bolsas de NY, com queda de 2,86% no Nasdaq; petróleo dispara mais de 2% Estadão",
+   "data": "2026-11-02T01:02:14-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Unidas negocia caminhões híbridos que prometem até 32% menos diesel",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY0dsc1pDWURqeVRZejFBbWRnc2V3aUtjYXVyLUNMRzd5QXUxNlVvMWZUQ18zQXlxcEpBTWMydjg5QU8xTkZ5Z1ZUUDJPSF9vdjAxZHBJd1NRYlVrUFMtUWU5M3duTUk2NmVMek5POUNFRGtYdVNpTzBlLUZkTXNhZ1c1NFlzZWxhOWZBcXYwazRqOFQ5MWR5dXlJdXo3elJfWmZyMVdBbF9aSDJRcUlud1B2RG04c1FyWEowdVNQS1BlS1dEc05Lbk00Rl94NVdQajU5aWJfY3RmcUs1LUhfUGJhUQ?oc=5",
+   "resumo_original": "Unidas negocia caminhões híbridos que prometem até 32% menos diesel Estadão",
+   "data": "2026-11-02T01:25:53-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Motiva: alta do diesel pode ensejar reequilíbrios contratuais por força maior, diz diretor financeiro",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLU5qZWhsR2FMQlktb0NfS1drYnRjeE56cC1uOVZFUzlzWlFsLV9ONWFGemxpVEZEWkhtZTlKdEMxYnFPUHZRaEJGamRxQWdFZ2M4Y1hTdzA5b1RCUjR1cGJHRWxEdjY4djJKVkFXOThPV1pXei1RVUIxalBsLTk3N0Z2R0djXzlxZGVRbXl1dDFWYmJqTUlCRXRkd1c1SnJWWnFSa0NXOFdEX1RCMmJvWms3M0NIeWRXZk1MeDg3d2dUc3BjWFVfX05BMWRBWnF4eEpHeVg0M3ZzaXVJ?oc=5",
+   "resumo_original": "Motiva: alta do diesel pode ensejar reequilíbrios contratuais por força maior, diz diretor financeiro Estadão RI",
+   "data": "2026-11-01T05:30:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Movimento Econômico",
+   "idioma": "pt",
+   "titulo": "ANP antecipa certificado exigido para R$ 18,3 bilhões em créditos ao hidrogênio",
+   "link": "https://movimentoeconomico.com.br/economia/energia/2026/11/02/anp-antecipa-certificado-exigido-para-r-183-bilhoes-em-creditos-ao-hidrogenio/",
+   "resumo_original": "Sem certificado, tributo suspenso no Rehidro tem de ser pago com multa. Decisão da ANP nesta quinta-feira (29) prevê a regra pronta para o hidrogênio em outubro de 2027, após consulta pública",
+   "data": "2026-11-02T04:36:00-03:00",
+   "texto": "Empresas que investem em hidrogênio de baixa emissão de carbono no Brasil só ficam livres dos tributos que deixaram de pagar se o combustível for certificado, e as regras dessa certificação devem sair em outubro de 2027 . A diretoria da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou nesta quinta-feira ( 29 ) a antecipação da norma, que estava prevista na proposta de Agenda Regulatória 2027-2028 e passou para a agenda de 2025-2026 , com início dos trabalhos em novembro .\nA exigência está no Decreto nº 13.096 , assinado em 12 de agosto e publicado no Diário Oficial da União em 13 de agosto de 2026 . Ele regulamenta o Regime Especial de Incentivos para a Produção de Hidrogênio de Baixa Emissão de Carbono (Rehidro) , que suspende a cobrança de duas contribuições federais sobre o faturamento, o Programa de Integração Social (PIS) , que inclui o Pasep, e a Cofins , na compra de bens e serviços para os projetos. A suspensão só vira alíquota zero quando a empresa apresenta o certificado de baixa emissão e as declarações da ANP sobre as contrapartidas. Sem isso, paga os tributos com multa e juros.\nO certificado também é condição para os créditos do Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono (PHBC) , que tem teto de R$ 18,3 bilhões em créditos fiscais entre 2030 e 2034 . Pelo decreto, o crédito só é reconhecido enquanto o hidrogênio produzido ou consumido mantiver a certificação. A ANP justificou a mudança de calendário pela importância da norma para os investidores do setor e para as políticas de incentivo à produção.\nPelo cronograma aprovado, a minuta da norma deve ser escrita entre junho e julho de 2027 . A consulta pública está prevista para julho e agosto, e a audiência pública, para agosto.\nO decreto manda calcular a intensidade de emissões do hidrogênio por análise de ciclo de vida , que soma os gases de efeito estufa liberados em cada etapa. A conta vai da extração da matéria-prima ao portão de consumo, mas até 31 de dezembro de 2030 pode parar no portão da fábrica. O marco legal, a Lei nº 14.948 , de 2 de agosto de 2024 , considera de baixa emissão o hidrogênio com até 7 quilos de gás carbônico equivalente por quilo produzido.\nEsse limite inclui o chamado hidrogênio verde , obtido da água com energia eólica ou solar, e também rotas como biomassa, energia nuclear e hidrogênio natural. As emissões ligadas à fabricação dos equipamentos de novos projetos serão informadas em separado até o fim de 2030.\nA ANP é a autoridade reguladora do sistema e vai fixar os padrões da certificação. O Inmetro credencia as empresas certificadoras, e a Câmara de Comercialização de Energia Elétrica (CCEE) registra os certificados numa base nacional, para rastrear o produto e impedir que o mesmo volume seja contado duas vezes. Enquanto o Inmetro não credenciar certificadoras para esse fim, a própria ANP pode designá-las a partir de listas de escopo parecido.\nQuem entra no Rehidro precisa aplicar ao menos 1% do valor total do investimento em projetos de transição energética no país, num prazo de cinco anos . O dinheiro pode ir para acesso à energia nas comunidades afetadas, segurança hídrica, recarga de aquíferos , reflorestamento, cidades sustentáveis, soluções baseadas na natureza e descarbonização da indústria.\nOutro 1% vai para pesquisa, desenvolvimento e inovação. O decreto também fixa conteúdo nacional mínimo de 15% nos sistemas de produção por eletrólise e nos eletrolisadores, de 40% nas demais rotas e de 60% em materiais de distribuição e transporte e em serviços, com dispensa quando não houver equivalente fabricado no país.\nA ANP analisa esses compromissos num fluxo interno e leva cada caso à diretoria colegiada. Depois, o processo segue para o Ministério de Minas e Energia (MME) , que publica as portarias de habilitação prévia. A agência criou em agosto um projeto especial com três prioridades: esse fluxo, a certificação e o manual de autorizações.\nNa reunião desta quinta, a diretoria também aprovou a atualização do Manual para Solicitação de Autorizações para a produção de hidrogênio de baixa emissão de carbono. A nova versão incorpora as regras do decreto de agosto e lista os casos em que a empresa fica dispensada de pedir autorização à ANP.\nA dispensa vale para instalações que produzam hidrogênio em projetos de pesquisa, para consumo próprio , como insumo industrial ou para usos não energéticos. Esses produtores terão de fazer um registro na agência, por meio de um formulário simplificado que ainda será publicado no site da ANP.\nO manual também atualiza os requisitos de gestão de riscos , define o tratamento das instalações que já estão em operação e orienta sobre o Rehidro. O documento tem caráter de orientação e vale enquanto a agência não conclui a regulamentação definitiva. A proposta de Agenda Regulatória 2027-2028, hoje em consulta prévia, inclui outras cinco ações sobre hidrogênio, entre elas regras de produção, movimentação e segurança operacional.\nOs créditos do PHBC serão distribuídos numa disputa conduzida pelo Ministério da Fazenda , que terá como critério mínimo de julgamento o menor crédito pedido por unidade de hidrogênio. O edital terá consulta pública antes do certame, e o valor efetivamente oferecido dependerá das metas fiscais e da lei orçamentária de cada ano.\nTêm prioridade os projetos que usam o hidrogênio no próprio processo industrial nos setores de fertilizantes , siderurgia , cimento , química, petroquímica e transporte pesado . Os vencedores terão de entregar garantias de até 10% do crédito e cronograma com decisão final de investimento, licença de instalação, obras, testes e operação comercial.\nQuem não operar no prazo ou não produzir hidrogênio certificado paga multa de até 20% do crédito que receberia. De acordo com nota do Ministério da Fazenda de 22 de setembro de 2026 , a Secretaria de Reformas Econômicas discute ao longo do ano o desenho da primeira disputa com o Banco Mundial , a Organização das Nações Unidas para o Desenvolvimento Industrial, a Fundação H2Global e a consultoria PSR Energy.\nA redução das desigualdades regionais aparece entre os objetivos da política na mesma nota da Fazenda. No Complexo do Pecém , no Ceará , a Diamante Energia já usa hidrogênio verde no sistema de resfriamento de um dos geradores de 360 megawatts da usina termelétrica, em projeto que a empresa descreveu como pioneiro no país em escala de megawatt no comunicado de 19 de outubro de 2026 .\nNo Rio Grande do Norte , o Plano de Negócios 2026-2030 da Petrobras , aprovado em 27 de novembro de 2025 , previa a primeira planta piloto de hidrogênio de baixa emissão de carbono da companhia no país, na região do Vale do Açu . A unidade teria 2 megawatts de eletrólise e início de operação previsto para 2026 .\nNo litoral norte potiguar, o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) começou em agosto de 2026 os estudos do Porto-Indústria Verde , em Caiçara do Norte . A primeira fase dura 12 meses, e das três etapas do projeto, que somam R$ 6,8 bilhões , R$ 2,1 bilhões são destinados a hidrogênio verde e amônia.\nLeia mais: Aço e alumínio do NE entram na 1ª leva de medição de emissões de carbono em 2027"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Movimento Econômico",
+   "idioma": "pt",
+   "titulo": "Empreendedora aposta no cultivo pioneiro de lúpulo no Vale do São Francisco",
+   "link": "https://movimentoeconomico.com.br/estados/bahia/2026/11/01/empreendedora-aposta-no-cultivo-pioneiro-de-lupulo-no-vale-do-sao-francisco/",
+   "resumo_original": "Mineia Otsuka, que desenvolveu protetor solar para magas, agora aposta no lúpulo para abastecer cervejarias nordestinas",
+   "data": "2026-11-01T04:23:00-03:00",
+   "texto": "O cultivo de lúpulo, matéria-prima utilizada na fabricação de cerveja, é a nova aposta da empreendedora Mineia Otsuka no Vale do São Francisco. Com uma trajetória ligada à produção de manga e ao desenvolvimento de soluções tecnológicas para a fruticultura, ela prepara um projeto agrícola que deverá ganhar impulso em 2027. A iniciativa representa uma nova etapa da diversificação dos negócios da empresária, que também atua no mercado de insumos agrícolas por meio da Otsuka Soluções.\nA decisão de investir no lúpulo amplia uma trajetória empreendedora construída a partir da experiência familiar na agricultura irrigada. Mineia pertence a uma família de imigrantes japoneses que chegou ao Vale do São Francisco em 1976 e foi pioneira no desenvolvimento da fruticultura na região. Décadas depois, ela passou a investir em tecnologias voltadas à proteção dos frutos e à melhoria das condições de produção no Semiárido.\nEntre seus negócios está o Primmax Suncare, solução desenvolvida para proteger frutas dos danos provocados pela exposição excessiva ao sol. Agora, a empreendedora busca aplicar sua experiência agrícola em um segmento diferente, com potencial de atender às cervejarias instaladas no Nordeste.\nA história da família Otsuka no Brasil começou com uma decisão que não foi motivada por dificuldades financeiras. No Japão, o avô de Mineia era proprietário de uma construtora e mantinha uma vida confortável. Um de seus filhos, porém, desejava morar no Brasil, onde acreditava que teria melhores condições para constituir uma família numerosa. O projeto acabou levando os Otsuka a deixar o país de origem na década de 1970.\nAntes de chegar ao Vale do São Francisco, a família passou por outros estados brasileiros, incluindo São Paulo, Minas Gerais e Pará e Minas. Em 1976, chegou à região e iniciou uma nova trajetória, desta vez ligada à agricultura. Em 1980, os Otsuka já estavam estabelecidos em Casa Nova, município baiano próximo a Petrolina, onde decidiram apostar no cultivo de manga.\nOs primeiros anos foram marcados por dificuldades. Durante quatro anos, a família investiu na formação do pomar sem conseguir os resultados esperados. Diante da demora, surgiu a possibilidade de abandonar o projeto. A mãe de Mineia, entretanto, insistiu na continuidade da atividade. “Já esperamos quatro anos, vamos esperar mais um ano”, recorda a empresária.\nA persistência deu resultado no quinto ano, quando as mangueiras finalmente produziram frutos. Mas havia outro desafio: a família ainda não dominava o momento adequado da colheita e acabou perdendo parte da safra. Foi nesse período, entre as primeiras dificuldades e o início da produção, que Mineia nasceu.\nCom o passar dos anos, os Otsuka conseguiram consolidar a produção de manga e diversificaram suas atividades agrícolas. Além da fruta, passaram a cultivar melão, cebola, melancia e outras culturas, acompanhando a expansão da agricultura irrigada no Vale do São Francisco.\nA experiência familiar proporcionou a Mineia um contato direto com os desafios da produção agrícola. Mais tarde, esse conhecimento serviria de base para uma nova frente de atuação: o desenvolvimento e a comercialização de soluções destinadas a melhorar a qualidade das frutas e reduzir perdas nos pomares.\nUm dos problemas enfrentados pelos produtores do Vale do São Francisco é a elevada exposição das frutas à radiação solar. No caso da manga, as queimaduras podem comprometer a aparência, reduzir seu valor comercial e provocar perdas, especialmente quando a produção se destina à exportação.\nFoi a partir dessa necessidade que Mineia participou do desenvolvimento de uma tecnologia de proteção solar à base de caulim, mineral utilizado para formar uma película protetora sobre a superfície dos frutos. Comercializada como Primmax Suncare, a solução busca reduzir os efeitos da exposição excessiva ao sol, contribuindo para a manutenção da qualidade das frutas.\nUm dos diferenciais do produto está no sistema de fixação do caulim, desenvolvido para manter a proteção sobre os frutos durante o cultivo. A formulação utiliza componentes biodegradáveis e permite a remoção da película durante o processo de lavagem de forma rápida, uma característica importante para as etapas de beneficiamento e comercialização.\nA tecnologia surgiu da observação de um problema enfrentado diretamente pelos agricultores e se transformou em uma oportunidade de negócio. Além da produção de manga, Mineia passou a atuar no mercado de soluções para o agronegócio, ampliando o alcance de suas atividades empresariais.\nA experiência com o Primmax Suncare também consolidou uma característica de sua trajetória: a busca por alternativas tecnológicas para atender a demandas específicas da produção agrícola no Semiárido.\nAgora, Mineia direciona parte de seus investimentos e esforços para um mercado diferente da fruticultura. O projeto de cultivo de lúpulo representa uma tentativa de diversificar a produção agrícola e atender à demanda da indústria cervejeira por uma matéria-prima que ainda é majoritariamente importada pelo Brasil.\nO lúpulo é utilizado na fabricação de cervejas para conferir amargor, aroma e outras características sensoriais à bebida. Seu cultivo exige condições específicas de manejo e atenção a fatores como temperatura, disponibilidade de água e duração do período de luz, o que torna a produção em regiões de clima quente um desafio técnico.\nA iniciativa de Mineia busca explorar a possibilidade de desenvolver essa cultura no Vale do São Francisco, aproveitando a experiência regional com agricultura irrigada e o conhecimento acumulado na utilização de tecnologias para produção em condições climáticas adversas.\n“Diziam que o lúpulo não dá no Brasil. O país importa praticamente tudo que consome. Eu pesquisei muito o produto e acabei encontrando um pesquisador do Cetene que também vinha fazendo a mesma pesquisa”, conta. O Cetene (Centro de Tecnologias Estratégicas do Nordeste) é uma instituição de pesquisa vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI), sediada no Recife. Desde pelo menos 2024, desenvolve pesquisas para viabilizar o cultivo de lúpulo no Nordeste, especialmente por meio da adaptação de variedades às condições climáticas da região. Minea relata que o lúpulo tem cultura rápida, com até três safras por ano. Ela pretende colher 2.700 plantas por hectare e diz que seu projeto é de cultivo em áreas pequenas.\nA expectativa é que 2027 seja um ano de avanços no projeto, com o início de uma nova experiência agrícola. Entre os mercados potenciais estão as cervejarias do Nordeste, incluindo fabricantes de cervejas artesanais, que poderão representar uma alternativa de comercialização caso a produção alcance escala e qualidade adequadas. “Há muitas cervejarias artesanais na região, é para esse mercado que estou olhando agora”, explicou.\nA viabilidade do empreendimento dependerá de fatores como produtividade, adaptação das plantas ao clima, qualidade das flores e estrutura para processamento e conservação do produto após a colheita. Essas etapas são fundamentais para atender às exigências da indústria cervejeira e competir com o lúpulo importado.\nA entrada no mercado de lúpulo acrescenta uma nova atividade aos negócios de Mineia Otsuka, que mantém sua atuação ligada à agricultura e à comercialização de tecnologias para o setor. Sob a estrutura da Otsuka Soluções, a empresária reúne diferentes iniciativas, desde a experiência com o cultivo de manga até o fornecimento de produtos destinados aos agricultores.\nSua trajetória acompanha, em diferentes momentos, a transformação econômica do Vale do São Francisco. A primeira geração da família trocou uma atividade empresarial consolidada no Japão pelos desafios da agricultura brasileira. Os anos seguintes foram dedicados ao aprendizado e à expansão da produção, até a consolidação da manga e a diversificação dos cultivos.\nMineia seguiu um caminho próprio, identificando oportunidades de negócios a partir dos problemas enfrentados pelos produtores. O desenvolvimento do Primmax Suncare e a nova aposta no lúpulo mostram uma estratégia de diversificação que combina conhecimento agrícola, tecnologia e busca por novos mercados.\nQuase cinco décadas depois da chegada da família Otsuka ao Vale do São Francisco, a história iniciada com os primeiros pomares de manga ganha outro capítulo. Desta vez, o desafio é desenvolver uma cultura ainda pouco difundida na região e encontrar espaço em uma cadeia produtiva diferente, a da indústria cervejeira.\nMasterCana Brasil & Award premia líderes do agronegócio bioenergético"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "OPEP+ mantém metas de produção de petróleo para dezembro em meio à guerra",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTR2LUt3SXhJVkpreThoRmIybDZiYUdrVllBM2ZfOGFLQ0ZSVC02TkNPYkxMeTVvSDh2NnNfQWxWQ3VpazVQakdVb1JWQ2dwbEJRUE15U3BJS2ZTYWNhbTd6WW53VWZpb0NtOV9oQ29mR1p0S01hd1lreHFmRi1Ibmh4ZlZndk5MWk43OTNTYzdmWnc2QXplTUJ2RWlLQXlkTkhsMWJjSGE5UTBZTlpZMlIxbHQzUGFnRHVFQUVISDRrV0x0bC1FcFkzYw?oc=5",
+   "resumo_original": "OPEP+ mantém metas de produção de petróleo para dezembro em meio à guerra CNN Brasil",
+   "data": "2026-11-01T10:45:19-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Como vazamentos de petróleo podem afetar água potável nos Emirados Árabes",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdllJeGVHYWllN3ZUeWxGU3V2Y09UY0gwRmNlMl95aEFyaEtwRjBCc09pbzB6d09oTlYzT0NSb1ZNNU9EbTIxeUx1UmFNMGU0MEx5R080elQySVVNLU01c21ueU4teUNCNjRnNW1nZnpIMXFqdk82YlhfdkcweUVCclVYR0ZPUHl4Zk9fa29iOVVRUUI0NV85R1JITk5NUGxEM3MwOFpDNWVOMzVkRURIOHpwR1hVWlow?oc=5",
+   "resumo_original": "Como vazamentos de petróleo podem afetar água potável nos Emirados Árabes CNN Brasil",
+   "data": "2026-11-01T09:00:36-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Petroleiras dobram lucros com guerra, enquanto gasolina dispara nos EUA",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFh6cHpHY25LYkt1bFlXNmlxSm5JcVk1QVJOZXFWNWllaWlrRHhKWjRod3d6MERHTmJaUTVqYjJHUTc0eWFhOW1MRDZWSEtZVm0xc0hVNzdFQndQZm1XV2ppQWtHbXpMd2hQeGZzM3g5WVNfYUVHMk52WERyVUJZWlBQNW11bXpqWnZhSG1nbFBuVjB4eE1qVUk3VWZGUjVCNkRPMzEzbWh6bDBkZERmMG5IX2x3bzJNbTVOM2NYZ1Y?oc=5",
+   "resumo_original": "Petroleiras dobram lucros com guerra, enquanto gasolina dispara nos EUA CNN Brasil",
+   "data": "2026-11-01T12:21:31-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Central Eólica Suni Nuna",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwSmdkZ0lnbm1EakFNdU5HQmxqc296UGNMdjdUUzROU2hUSjVSUWRrdnk3RFRWb0NrbWdDempiZXdJQ1c5dmwta01aVmhyT2tHNFZDc0tNWGlDZXQ4a0pCeUtNZlZzcnI1US1pOFcyU2x5UE85amV4NA?oc=5",
+   "resumo_original": "Central Eólica Suni Nuna BNamericas",
+   "data": "2026-11-01T19:47:52-03:00"
+  }
+ ]
+}
