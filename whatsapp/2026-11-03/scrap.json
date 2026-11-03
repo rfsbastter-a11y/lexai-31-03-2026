@@ -1,0 +1,994 @@
+{
+ "data": "2026-11-03",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 16,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 5,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 3,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 4,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 100,
+   "no_periodo": 10,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 5,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 8,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 8,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 48,
+   "no_periodo": 8,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 3,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "DirecTV Says Nexstar Hiding Behind Privilege In Antitrust Suit",
+   "link": "https://www.law360.com/competition/articles/2545207?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "DirecTV says it's time for a New York federal court to step in and force Nexstar Media Group to hand over documents it was ordered to produce in discovery, saying the massive multimedia conglomerate has been dragging its feet for months.",
+   "data": "2026-11-02T19:53:57-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "BlackRock, State Street Get State AG Coal Suit Trimmed",
+   "link": "https://www.law360.com/competition/articles/2544830?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "BlackRock and State Street have pared down a lawsuit by Republican state attorneys general accusing them of driving up coal prices, but a Texas federal judge let stand claims brought by Iowa and Nebraska on behalf of their resident electricity consumers.",
+   "data": "2026-11-02T19:50:33-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Coors, Supplier Send Colo. Contract Exit Suit To Arbitration",
+   "link": "https://www.law360.com/competition/articles/2545252?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Coors Distributing Co. LLC and one of the beer wholesaler's suppliers reached an agreement Monday to allow an arbitrator to resolve the wholesaler's bid for a Colorado state judge to block the supplier from exiting the companies' decadeslong distribution contract.",
+   "data": "2026-11-02T19:45:55-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "ATM Operators To Ask DC Circ To Revive Visa, Mastercard Suit",
+   "link": "https://www.law360.com/competition/articles/2545092?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "ATM operators gave notice that they'll ask the D.C. Circuit to revive their long-running certified class action accusing Visa and Mastercard of an anticompetitive agreement forcing them into higher network fees.",
+   "data": "2026-11-02T17:52:45-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Kirkland ITC Patent Litigator Leaves For Wolf Greenfield In DC",
+   "link": "https://www.law360.com/competition/articles/2545307?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Wolf Greenfield & Sacks PC has expanded its litigation team in Washington, D.C., with a U.S. International Trade Commission-focused intellectual property specialist from Kirkland & Ellis LLP, the firm announced Monday.",
+   "data": "2026-11-02T15:56:39-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Monthly Merger Review Snapshot",
+   "link": "https://www.law360.com/competition/articles/2545275?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "The Federal Trade Commission caused a pair of playground equipment makers to abandon their planned merger, Canadian enforcers upended a deal for the Green Giant brand in the country and state attorneys general reached settlements for several regional deals.",
+   "data": "2026-11-02T15:47:55-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "4 Mass. Rulings You May Have Missed In October",
+   "link": "https://www.law360.com/competition/articles/2545091?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "A nonprofit municipal insurance group is responsible for a portion of a settlement with a man who spent 37 years in prison for a murder he didn't commit, and a biotech startup can continue to pursue trade secrets and breach of contract claims against two former employees and a rival they joined last year, Massachusetts Superior Court judges said in rulings last month.",
+   "data": "2026-11-02T15:44:57-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Vistra Closes $4B Cogentrix Deal, With DOJ Approval",
+   "link": "https://www.law360.com/competition/articles/2544838?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Vistra Corp. closed its acquisition of Cogentrix Energy and its 10 natural gas-powered electricity plants on Friday, the same day the U.S. Department of Justice said it was mollified by the company's plan to divest one Cogentrix plant in Maine and another one in the state already owned by Vistra.",
+   "data": "2026-11-02T15:35:11-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "IP To PI: Mass. Trade Secrets Attys Rethink Injunction Strategy",
+   "link": "https://www.law360.com/competition/articles/2545187?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "A recent decision by Massachusetts' top appellate court that makes it tougher to secure preliminary injunctions in trade secrets cases will likely force Bay State attorneys to turn to strategies from other areas of intellectual property law to clear the heightened bar.",
+   "data": "2026-11-02T15:12:59-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "College Athletes' Attys Seek $18M Cut Of NIL Settlement",
+   "link": "https://www.law360.com/competition/articles/2545048?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "More than a year after the approval of a historic $2.78 billion settlement to share revenue derived from college athletes' name, image and likeness, attorneys for the athletes are seeking $18 million for their work administering the settlement's terms.",
+   "data": "2026-11-02T14:59:18-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "5th Circ. Skeptical Chinese Citizens Have Right To Texas Land",
+   "link": "https://www.law360.com/competition/articles/2545282?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "A Fifth Circuit panel wants to know if Chinese citizens who wish to purchase property in Texas are arguing that everyone in the world has a constitutional right to do so, asking Monday if people globally \"have the right to be treated as U.S. citizens for purposes of purchasing property in Texas.\"",
+   "data": "2026-11-02T13:52:49-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Shop Says Rival Must Arbitrate ENASCAR Trade Secrets Row",
+   "link": "https://www.law360.com/competition/articles/2544455?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "An eNASCAR digital race car shop accused of stealing trade secrets told a North Carolina federal judge the dispute should be arbitrated, arguing the accusations stem from supposed information obtained from its rival's website.",
+   "data": "2026-11-02T12:13:41-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "FTC Highlights Path To Preserve Board Rights In A Rival Co.",
+   "link": "https://www.law360.com/competition/articles/2543573?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "The Federal Trade Commission's move to add key guardrails permitting firearms manufacturer Beretta to retain two directors as it takes a 25% stake in competitor Ruger illustrates how parties may maintain board rights in certain circumstances without running afoul of Section 8 of the Clayton Act, say attorneys at Davis Polk.",
+   "data": "2026-11-02T11:39:33-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "RealPage, Landlords Get DC Antitrust Trial Delayed",
+   "link": "https://www.law360.com/competition/articles/2545196?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "A District of Columbia superior court judge has vacated the March 29, 2027, jury trial date for the city's rent price-fixing lawsuit against property management software company RealPage Inc. and multiple landlords.",
+   "data": "2026-11-02T11:37:03-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Agentic AI Is Not Outside Existing Rules, Regulators Say",
+   "link": "https://www.law360.com/competition/articles/2544989?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Organizations that deploy autonomous agents powered by artificial intelligence are still responsible for their use and compliance with existing legal and regulatory frameworks, four of the country's leading regulators have said.",
+   "data": "2026-11-02T09:36:58-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Rightmove Alone Would Gain If £1B Claim Is Opt-In, CAT Told",
+   "link": "https://www.law360.com/competition/articles/2545019?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Only Rightmove would benefit if thousands of estate agents were forced to opt in to a proposed £1.1 billion ($1.5 billion) class action over allegedly excessive fees, the accountant seeking to bring the claim told a tribunal Monday.",
+   "data": "2026-11-02T05:59:35-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "Watt a relief: The Tipline for 2 November 2026",
+   "link": "https://globalcompetitionreview.com/gcr-usa/article/watt-relief-the-tipline-2-november-2026",
+   "resumo_original": "Vistra has “unilaterally” decided to offload a pair of power plants in Maine after antitrust concerns threatened to cast a shadow on its $4 billion purchase of Cogentrix. The Department of Justice predicted the divestitures would save consumers tens of millions of dollars annually. Also in Tipline, the US Sentencing Commission has increased the dollar thresholds used to recommend prison sentences ...",
+   "data": "2026-11-02T19:09:48-03:00",
+   "texto": "Vistra has “unilaterally” decided to offload a pair of power plants in Maine after antitrust concerns threatened to cast a shadow on its $4 billion purchase of Cogentrix. The Department of Justice predicted the divestitures would save consumers tens of millions of dollars annually. Also in Tipline, the US Sentencing Commission has increased the dollar thresholds used to recommend prison sentences for convicted cartellists.\nGet news, unique commentary, expert analysis and essential resources from the Global Competition Review experts.\nCopyright © 2026 LBR trading as Centellic Company Number: 03281866 VAT: GB 160 7529 10\nIn-depth antitrust news, analysis and data trusted by competition practitioners worldwide"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "Second Circuit strikes down glasses suit",
+   "link": "https://globalcompetitionreview.com/gcr-usa/article/second-circuit-strikes-down-glasses-suit",
+   "resumo_original": "The US Court of Appeals for the Second Circuit has upheld the dismissal of a class action against EssilorLuxottica after finding that the plaintiffs failed to allege an antitrust market for premium eyewear.&nbsp;",
+   "data": "2026-11-02T18:42:49-03:00",
+   "texto": "The US Court of Appeals for the Second Circuit has upheld the dismissal of a class action against EssilorLuxottica after finding that the plaintiffs failed to allege an antitrust market for premium eyewear.\nGet news, unique commentary, expert analysis and essential resources from the Global Competition Review experts.\nCopyright © 2026 LBR trading as Centellic Company Number: 03281866 VAT: GB 160 7529 10\nIn-depth antitrust news, analysis and data trusted by competition practitioners worldwide"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "CAT urged to certify £1.6bn opt-out claim against Rightmove",
+   "link": "https://globalcompetitionreview.com/article/cat-urged-certify-ps16bn-opt-out-claim-against-rightmove",
+   "resumo_original": "Rightmove’s attempt to force businesses to opt into a £1.6 billion collective action against the property listings platform is designed to reduce the value of damages or exhaust the claimant’s budget so the litigation will “run into the sand”, the proposed class representative has argued.",
+   "data": "2026-11-02T14:03:31-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "AI Mode: The Briefing for 2 November 2026",
+   "link": "https://globalcompetitionreview.com/article/ai-mode-the-briefing-2-november-2026",
+   "resumo_original": "Turkey’s Competition Authority has joined its counterparts in Brussels and London in probing how Google uses AI to summarise content in its search results. The agency announced the investigation today, alongside interim measures against the company that are designed to protect news publishers from potentially discriminatory and exploitative conduct. Also in The Briefing, InterDigital reveals it is...",
+   "data": "2026-11-02T09:00:00-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "Rightmove fights over certification in abuse of dominance class action",
+   "link": "https://globalcompetitionreview.com/article/rightmove-fights-over-certification-in-abuse-of-dominance-class-action",
+   "resumo_original": "Allowing a £1.6 billion collective action against Rightmove to progress on an opt-out basis would raise questions over when opt-in proceedings could ever be appropriate, the UK’s largest property listing platform will tell the UK’s Competition Appeal Tribunal today.",
+   "data": "2026-11-02T07:29:00-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Brasil Energia",
+   "idioma": "pt",
+   "titulo": "Agenda / Forum de Energia",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Fb0NWV0lkUXUtSkJ0T2RlM1R5Si1xRHhfeFlVcmF4OUM5eHNaZmJvaWQ2RHVtTlMxYjRxVDlLNnVMWTdETjRrTmJKeV9qU09xN0E?oc=5",
+   "resumo_original": "Agenda / Forum de Energia Editora Brasil Energia",
+   "data": "2026-11-02T21:15:58-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Brasil Energia",
+   "idioma": "pt",
+   "titulo": "P-35 chega ao estaleiro Clip em megaoperação logística",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlZCRmZGR1hLcW9JWFpnTXlDRHM2c1NnS2RpdjNtUW9RU2RwS2JNRzlxRXVobk5KWkRIT3E1UGlRMFJsV0QwT0pKdHVDbW85TmJ6cGUzRVVmTlJJeFpXc1RMLXNCUnJWSGRzc1Qyc2x1SlppYWRvamNUblNFaE40aVJsaUFkc1ZwMXRlWXBSWVJkUElaZnlGeXNpclJwOW84R1RsUjJFWlgybHJ4ZVpZamQ1eHVOcjNTdXc?oc=5",
+   "resumo_original": "P-35 chega ao estaleiro Clip em megaoperação logística Editora Brasil Energia",
+   "data": "2026-11-02T18:21:20-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "PV Magazine Brasil",
+   "idioma": "pt",
+   "titulo": "Usina solar chilena está fora de operação há dois meses após ataque cibernético",
+   "link": "https://www.pv-magazine-brasil.com/2026/11/02/chilean-solar-plant-offline-for-two-months-following-cyberattack/",
+   "resumo_original": "Uma usina solar de 103 MW e seu sistema de armazenamento em baterias de 98 MW/312 MWh, no norte do Chile, permanecem fora de operação há dois meses após um ataque cibernético relatado em agosto. A causa e a extensão do incidente ainda não foram confirmadas, e não há previsão anunciada para a retomada das operações.",
+   "data": "2026-11-02T08:28:00-03:00",
+   "texto": "A usina solar de Huatacondo, de 103 MW, e seu sistema de armazenamento de energia em baterias (BESS, na sigla em inglês), de 98 MW/312 MWh, localizados na região de Tarapacá, no Chile, permanecem fora de operação há dois meses após um ataque cibernético. O relatório diário do Coordenador Elétrico Nacional do Chile, publicado em 27 de outubro, lista as duas instalações como sujeitas a desligamento forçado, com disponibilidade de 0%. O documento continua fazendo referência a um incidente registrado em 27 de agosto, sob a solicitação de desligamento forçado SDCF 2025.1000.\nO incidente foi registrado em 27 de agosto, às 13h10, quando o centro de controle da RNE solicitou o desligamento forçado da usina solar e de seu sistema de armazenamento em baterias. A causa informada foi um “ataque cibernético às instalações de Huatacondo”, que deixou ambas desconectadas do Sistema Elétrico Nacional (SEN) do Chile.\nNa mesma ocasião, a RNE solicitou o desligamento forçado do transformador TR1, de 220/23 kV, da subestação Santa Rita, também citando um ataque cibernético, conforme a solicitação SDCF 2026100746.\nO mesmo relatório diário registra outros dois incidentes atribuídos a ataques cibernéticos. Às 21h30, o centro de controle da Espinos (Power) informou que as usinas termelétricas Olivos e Espinos, localizadas em Los Vilos, na região de Coquimbo, estavam indisponíveis para despacho após a perda das capacidades de monitoramento e controle remoto.\nO relatório não esclarece se esses incidentes estavam relacionados ao ocorrido anteriormente em Huatacondo ou se foram consequência do mesmo ataque.\nInaugurada em 2019, a usina solar de Huatacondo pertence a um consórcio formado pela japonesa Sojitz Corp., com participação de 60%; pela Shikoku Electric Power, que, segundo informações divulgadas anteriormente, detém 30%; e pela francesa Eiffage, com 10%.\nO projeto de armazenamento em baterias, desenvolvido pela AustrianSolar Chile Four SpA, começou a ser construído em 2025. A e-Storage, subsidiária da Canadian Solar, foi selecionada para fornecer o BESS, enquanto a Tritec-Intervento foi contratada para executar os serviços de infraestrutura e integração do sistema (balance of plant).\nO sistema de baterias ainda estava em fase de comissionamento quando ocorreu o incidente e permanecia nessa etapa em 27 de outubro. Portanto, sua indisponibilidade não representa uma interrupção de dois meses em uma operação comercial já estabelecida.\nUma análise dos relatórios diários do Coordenador Elétrico Nacional, abrangendo o período de 28 de outubro de 2025 a 27 de outubro de 2026, examinou 360 dos 365 documentos publicados no intervalo.\nA análise não identificou outros novos incidentes explicitamente atribuídos a ataques cibernéticos além daqueles relatados em 27 de agosto. As referências posteriores diziam respeito à continuidade do desligamento das instalações de Huatacondo.\nNão foi possível consultar os relatórios de 29 e 31 de outubro de 2025 e de 30 de março, 31 de agosto e 8 de setembro de 2026. Portanto, os resultados não permitem concluir que os incidentes de agosto tenham sido os únicos ataques cibernéticos ocorridos no período ou os primeiros desse tipo. A análise se limita aos incidentes operacionais documentados e explicitamente descritos com esses termos nos relatórios examinados.\nEm outubro de 2025, Patricio Leyton, diretor da Unidade de Cibersegurança e Infraestrutura Crítica do Coordenador Elétrico Nacional, afirmou à Mining Report que o Chile não havia registrado ataques cibernéticos com impacto significativo sobre sua infraestrutura elétrica, apesar dos milhões de tentativas de ataque detectadas pela organização.\nO Coordenador dispõe de um protocolo de notificação de incidentes de cibersegurança que estabelece obrigações de comunicação para as entidades que operam no sistema elétrico.\nEm 28 de agosto, um dia após os incidentes relatados, a Comissão Nacional de Energia do Chile (CNE) abriu uma consulta pública sobre uma proposta de norma técnica de cibersegurança e segurança da informação para o setor elétrico.\nA pv magazine entrou em contato com o Coordenador Elétrico Nacional e com a AustrianSolar Chile Four SpA para solicitar informações sobre as circunstâncias do ataque relatado, suas consequências operacionais e a previsão para a retomada das instalações. Nenhuma das organizações havia respondido até o fechamento desta edição.\nNão foi identificada nenhuma declaração pública que esclarecesse a origem do incidente, os sistemas computacionais afetados, uma possível conexão entre os episódios relatados em 27 de agosto ou os motivos da prolongada indisponibilidade de Huatacondo.\nOs relatórios diários do Coordenador registram as causas comunicadas pelos operadores das usinas, mas não constituem investigações técnicas capazes de determinar a natureza ou a extensão dos ataques cibernéticos relatados.\nEste conteúdo está protegido por direitos de autor e não pode ser reutilizado. Se pretende colaborar connosco e reutilizar parte do nosso conteúdo, contacte-nos através do seguinte endereço: [email protected] ."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "PV Magazine Brasil",
+   "idioma": "pt",
+   "titulo": "O que 11 ilhas revelam sobre o verdadeiro gargalo das microrredes renováveis",
+   "link": "https://www.pv-magazine-brasil.com/2026/11/02/what-11-islands-reveal-about-the-real-bottleneck-in-renewable-mini-grids/",
+   "resumo_original": "Relatório do IEA-PVPS que analisa 11 ilhas conclui que alcançar uma matriz elétrica com participação próxima de 100% de fontes renováveis depende tanto de liderança, engajamento comunitário, financiamento e planejamento antecipado quanto de tecnologia. Embora as soluções técnicas comprovadas variem amplamente, transições bem-sucedidas exigem projetos de rede adaptados às condições locais e apoio institucional contínuo, o que torna sua replicação especialmente desafiadora em ilhas menores, remotas e de baixa renda.",
+   "data": "2026-11-02T07:28:00-03:00",
+   "texto": "As ilhas são frequentemente apontadas como ambientes ideais para demonstrar a viabilidade de sistemas elétricos abastecidos 100% por fontes renováveis: redes isoladas, limites claros entre os agentes envolvidos e, na maioria dos casos, nenhuma conexão com uma rede principal à qual recorrer. Um novo relatório da Força-Tarefa 18 do IEA-PVPS coloca essa reputação à prova ao examinar 11 ilhas que já alcançaram ou se aproximaram de participações muito elevadas de renováveis na matriz elétrica. Os casos vão da vila de Apolima, em Samoa, com 88 habitantes, a Lolland, na Dinamarca, onde vivem mais de 57 mil pessoas e que está conectada à rede elétrica dinamarquesa.\nO estudo mostra que a tecnologia necessária para operar uma ilha quase inteiramente com fontes renováveis já existe e funciona em configurações muito diferentes. O que determina se um projeto efetivamente alcançará esse objetivo são, sobretudo, fatores sociais, políticos e organizacionais, e não apenas aspectos técnicos. O resultado depende de como a tecnologia é combinada com as condições sociais, políticas, econômicas e organizacionais adequadas.\nA principal evidência apresentada pelo relatório é que não existe uma definição única do que significa alcançar o sucesso na prática. A ilha de Kodiak, no Alasca, opera com um sistema híbrido de energia hidrelétrica e eólica, administrado por uma concessionária pertencente aos próprios membros e com uma cultura avançada de operação, alcançando entre 99% e 100% de fornecimento renovável.\nEm Samsø, na Dinamarca, esse resultado é obtido quase inteiramente por meio de turbinas eólicas de propriedade comunitária e investimentos dos cidadãos. Como a ilha está conectada à rede dinamarquesa, não depende de armazenamento local. Já Yakushima, no Japão, alcança 100% de eletricidade renovável exclusivamente com pequenas centrais hidrelétricas, graças à combinação entre relevo montanhoso, volume de chuvas e perfil da demanda.\nApolima opera com um sistema solar isolado, sem armazenamento, porque a pequena dimensão da comunidade dispensa essa necessidade. O sistema inteiramente solar de Tokelau, com baterias, foi viabilizado pelo financiamento contínuo da Nova Zelândia. Nas Ilhas Canárias, na Espanha, El Hierro combina energia eólica com armazenamento hidrelétrico por bombeamento, enquanto La Graciosa utiliza um sistema híbrido de eólica, solar fotovoltaica e baterias, cujas estratégias de despacho ainda estão sendo otimizadas durante a operação.\nO relatório trata essa diversidade como uma de suas principais conclusões, e não como um detalhe: não existe uma diretriz universal. Um sistema híbrido de energia eólica e hidrelétrica reversível que funciona em El Hierro seria superdimensionado para Apolima. Da mesma forma, um modelo financiado por doadores, que permitiu a Tokelau alcançar o fornecimento integral de energia solar, não seria necessariamente aplicável a uma ilha como Kodiak, cuja operação é conduzida por uma concessionária.\nO que se repete nos 11 casos, independentemente da combinação tecnológica ou do tamanho das ilhas, é um conjunto específico de condições não técnicas.\nPara identificar essas condições, os autores desenvolveram uma matriz de fatores de sucesso organizada em quatro fases — preparação, projeto, implementação e monitoramento e avaliação — e cinco dimensões: social, política, técnica, econômica e ambiental.\nA matriz foi preenchida com base em uma revisão bibliográfica de mais de 60 publicações acadêmicas, análise de estudos de caso e cinco entrevistas aprofundadas com profissionais que atuam em projetos insulares. O processo identificou 111 fatores de sucesso distintos. O padrão mais evidente é a concentração desses fatores na fase de preparação: quase metade de todos os elementos identificados está nessa etapa, antes mesmo da instalação de uma turbina ou painel solar.\nO relatório destaca que ações de educação e conscientização comunitária, avaliações dos recursos disponíveis e da rede elétrica, alinhamento político antecipado e estruturação do financiamento precisam ocorrer em paralelo, muito antes da definição do projeto do sistema.\nIlhas que investiram significativamente nessa etapa — como Lolland, Samsø e El Hierro — construíram um entendimento compartilhado e uma estrutura institucional que facilitaram as fases seguintes.\nA principal lição para desenvolvedores e financiadores é que a falta de recursos destinados ao planejamento e ao engajamento das comunidades constitui uma das causas mais previsíveis de dificuldades nas etapas posteriores, mesmo quando o projeto técnico é adequado.\nDos 111 fatores identificados, 13 foram classificados como elementos-chave de sucesso, com base na frequência com que apareceram em diferentes entrevistas. Quatro se destacam pela presença em praticamente todos os casos: dois de natureza social e política e dois técnicos.\nO primeiro é a presença de lideranças ou agentes locais capazes de mobilizar o apoio da comunidade, manter o projeto em andamento ao longo de vários anos e atuar na interface entre os atores comunitários, políticos e técnicos.\nA transição energética de Samsø é apresentada como um exemplo emblemático desse papel, ao conectar a identidade local, os investimentos dos cidadãos e a posterior expansão da geração eólica.\nO segundo fator é o engajamento contínuo das partes interessadas ao longo de todo o ciclo de vida do projeto, e não apenas durante o planejamento. O relatório destaca que esse elemento aparece em todas as fases analisadas, tornando-se um dos fatores mais abrangentes do conjunto de dados.\nMesmo decisões altamente técnicas, como a escolha da tecnologia de geração ou a definição dos pontos da rede que precisam de reforço, dependem, em última instância, da confiança dos agentes envolvidos para serem aceitas e implementadas de forma duradoura.\nIsso não significa que a engenharia tenha importância secundária. Os fatores técnicos representam a maior categoria individual do levantamento, com 41 dos 111 elementos identificados.\nOs outros dois fatores quase universais também são técnicos — e, na verdade, os mais frequentemente mencionados: o planejamento do sistema no longo prazo e o reforço da rede elétrica especificamente para integrar fontes renováveis variáveis.\nO relatório também destaca práticas operacionais concretas para manter uma elevada participação de renováveis depois que os sistemas entram em funcionamento. Entre elas estão o balanceamento em tempo real da geração eólica e hidrelétrica em Kodiak e o uso de volantes de inércia e resistores dinâmicos em King Island para estabilizar um sistema híbrido de geração eólica, solar fotovoltaica, baterias e diesel.\nO estudo considera a robustez técnica e a adequação do projeto às condições locais como a base das transições energéticas bem-sucedidas nas ilhas. Mas a tecnologia, isoladamente, não determina o resultado. O que diferencia as ilhas que alcançam e mantêm altas participações de renováveis daquelas em que a transição não avança é a capacidade de combinar um projeto técnico consistente com as condições sociais, políticas e financeiras necessárias para viabilizar sua construção e operação conforme o planejado.\nA seção final do relatório deixa claro, porém, que suas conclusões não constituem uma lista de medidas que podem ser simplesmente reproduzidas em qualquer lugar.\nOs autores observam que as próprias condições necessárias para viabilizar os 13 fatores-chave de sucesso — como a existência de uma instituição local capaz de sustentar o planejamento por vários anos, a continuidade do envolvimento das partes interessadas durante um processo de longo prazo e a disponibilidade de financiamento que não dependa inteiramente de ciclos curtos de doações — estão distribuídas de maneira desigual.\nQuando essas condições são frágeis, as mesmas iniciativas tendem a perder força, em vez de necessariamente fracassar de forma imediata. O engajamento das partes interessadas perde continuidade sem uma liderança capaz de sustentá-lo; reformas tarifárias enfrentam dificuldades para atrair investimentos em ambientes regulatórios instáveis; e projetos técnicos comprovados em ilhas com mais recursos são difíceis de reproduzir sem cadeias de suprimentos confiáveis ou equipes de operação e manutenção (O&M) capacitadas.\nOs autores ressaltam que essa lacuna de replicabilidade tende a afetar mais intensamente as ilhas menores, mais remotas e de baixa renda, sobretudo no Sul Global, onde é menos provável que já existam as bases institucionais e financeiras presentes nos próprios estudos de caso analisados pelo relatório.\nEste artigo faz parte de uma coluna mensal do programa IEA-PVPS. O conteúdo foi elaborado pela Força-Tarefa 18 do IEA-PVPS, que examina como ferramentas digitais podem ser aplicadas estrategicamente ao longo de toda a cadeia de valor de projetos isolados da rede elétrica.\nAs opiniões e os pontos de vista expressos neste artigo são exclusivamente do autor e não refletem necessariamente os da pv magazine .\nEste conteúdo está protegido por direitos de autor e não pode ser reutilizado. Se pretende colaborar connosco e reutilizar parte do nosso conteúdo, contacte-nos através do seguinte endereço: [email protected] ."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "PV Magazine Brasil",
+   "idioma": "pt",
+   "titulo": "Projeto de armazenamento de 840 MWh no Chile prevê início de operação em 2028",
+   "link": "https://www.pv-magazine-brasil.com/2026/11/02/projeto-de-armazenamento-de-840-mwh-no-chile-preve-inicio-de-operacao-em-2028/",
+   "resumo_original": "A Qualitas Energy obteve US$ 286 milhões em financiamento sem recurso para um portfólio de ativos renováveis no Chile, que reúne 259 MW de capacidade de geração e um sistema de armazenamento de energia em baterias (BESS) de 840 MWh.",
+   "data": "2026-11-02T07:25:00-03:00",
+   "texto": "A Qualitas Energy garantiu US$ 286 milhões em financiamento sem recurso (non-recourse financing) para um portfólio de projetos de energia renovável no Chile, que compreende 259 MW de capacidade de geração e 840 MWh de armazenamento de energia em baterias.\nO conjunto de oito ativos inclui um projeto solar de 154 MWp associado a um sistema de armazenamento em baterias. As instalações solares, eólicas e de armazenamento têm previsão de entrada em operação comercial em 2028.\nO financiamento, concedido pelo BNP Paribas e pelo Banco Santander, abrange todos os ativos chilenos da Qualitas Energy mantidos no fundo Qualitas Energy Fund V (QE V). A operação combina o refinanciamento de instalações já operacionais com recursos destinados a novos projetos em construção.\nO portfólio reúne oito ativos distribuídos em três tecnologias de energia renovável: 66 MW de pequenas centrais hidrelétricas em operação, um projeto solar fotovoltaico de 154 MWp integrado a um sistema de armazenamento de energia em baterias (BESS), com capacidade de 840 MWh, e 39 MW de parques eólicos terrestres.\nOs projetos solares, eólicos e de armazenamento estão em construção e devem iniciar a operação comercial em 2028.\nA Qualitas Energy não divulgou o nome nem a localização da usina solar, tampouco a potência do sistema de baterias em MW. Essa informação seria necessária para determinar a duração de descarga do armazenamento em sua potência máxima.\nEstruturado como um financiamento verde, o pacote inclui dívida sênior sem recurso, linhas de crédito para cartas de crédito e uma linha destinada ao financiamento do imposto sobre valor agregado (IVA).\nO BNP Paribas atuou como banco estruturador exclusivo, coordenador global e coordenador do financiamento verde. O Banco Santander desempenhou as funções de agente administrativo, coordenador líder conjunto e coordenador conjunto de colocação.\nA Qualitas Energy informou que o portfólio possui contratos de compra de energia de longo prazo (PPAs) com consumidores corporativos, que garantem receitas contratadas para dar suporte ao financiamento. A empresa não revelou as contrapartes, os volumes de energia contratados, os preços ou os prazos dos acordos.\nA Qualitas Energy iniciou suas operações no Chile em 2023, quando abriu um escritório em Santiago e adquiriu seu primeiro ativo hidrelétrico no país.\nEm julho de 2026, a empresa anunciou uma licitação para contratar até 517 GWh por ano de energia elétrica proveniente de seu portfólio de pequenos projetos de geração distribuída (PMGD) e ativos de grande escala localizados na região central do Chile e na região de Coquimbo.\nA licitação contemplou contratos físicos e financeiros, com opções de fornecimento de energia de base (baseload), solar e noturna, e prazos de 10, 12 e 15 anos.\nEste conteúdo está protegido por direitos de autor e não pode ser reutilizado. Se pretende colaborar connosco e reutilizar parte do nosso conteúdo, contacte-nos através do seguinte endereço: [email protected] ."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "ELEIÇÃO MARCADA PARA HOJE NOS ESTADOS UNIDOS TERÁ SEU RESULTADO INFLUENCIANDO A POLÍTICA DE VÁRIOS PAÍSES, PRINCIPALMENTE O BRASIL",
+   "link": "https://petronoticias.com.br/eleicao-marcada-para-hoje-nos-estados-unidos-tera-seu-resultado-influenciando-a-politica-de-varios-paises-principalmente-o-brasil/",
+   "resumo_original": "ORLANDO – Por FABIANA ROCHA – As eleições de meio de mandato nos Estados Unidos são um verdadeiro termômetro do atual governo Trump, com consequências para todo mundo. Talvez seja tão importante quanto a eleição presidencial. Trump sofre um verdadeiro massacre da grande mídia americana – quase que complemente pró-democratas – assim como a mídia […]",
+   "data": "2026-11-03T04:00:25-03:00",
+   "texto": "ORLANDO – Por FABIANA ROCHA – As eleições de meio de mandato nos Estados Unidos são um verdadeiro termômetro do atual governo Trump, com consequências para todo mundo. Talvez seja tão importante quanto a eleição presidencial. Trump sofre um verdadeiro massacre da grande mídia americana – quase que complemente pró-democratas – assim como a mídia internacional. Querem um exemplo, leiam os jornais brasileiros e façam o que na universidade de comunicação nos ensina: o jornalismo comparado. Os interesses da grande maioria dos donos jornais só visam lucro e liberaram a credibilidade construída em dezenas de anos de equilíbrio, para a influência de uma nova geração do jornalismo formada pelas universidades comandadas por professores com viés claro de esquerda, principalmente as universidades federais. Trump apanha de todos Para lembrar, as midterms nos Estados Unidos,  são as eleições gerais que acontecem no meio do mandato presidencial de 4 anos. Ocorrem sempre na primeira terça-feira de novembro, dois anos depois da eleição presidencial. As próximas serão em 3 de novembro de 2026. O que está em jogo: Câmara dos Deputados (House): todos os 435 assentos são renovados a cada 2 anos; Senado: 33 ou 34 das 100 cadeiras – senadores têm mandato de 6 anos;  os  governadores: cerca de 36 dos 50 estados elegem governador nas midterms;  Legislativo e cargos estaduais e locais prefeituras, assembleias estaduais, secretários de estado, juízes, propostas de leis estaduais. Por que são importantes: É considerado um termômetro do presidente em exercício. Historicamente, o partido que está na Casa Branca tende a perder cadeiras no Congresso nas midterms. O resultado define se o presidente terá maioria para aprovar projetos nos 2 anos finais ou se terá um Congresso de oposição. É também quando se decide o controle do Congresso, que tem poder para aprovar orçamento, investigações e nomeações. Uma vitória do partido Republicano deixará o Presidente Trump ainda mais forte. As eleições americanas também terão uma forte influência em todo mundo, principalmente para o Brasil. A eleição que deu vitória à Lula, com influência, mais uma vez, do STF, que adiou o início da contagem por duas horas horas de paralisação, vai ser comparada aos dados da inteligência do Estados Unidos e do Mossad, de Israel. Tanto Trump quando Benjamin Netanyaho. As últimas eleições por várias características inéditas e por proporcionalidade matemática quase impossível de acontecer, provocou uma expectativa de vários governos, como Esrtados Unidos e Israel. Nenhum dois reconheceu ainda a vitória de Lula como legítima. Outro aspecto para o Brasil será o econômico. Especialmente no grande projeto de construção de um túnel de sete quilômetros sob o Lago de Michigan, que servirá como passagem de pelo menos uma linha  de um oleoduto. Como o Petronotícias já noticiou, apenas a empresa brasileira Liderroll, com vasta experiência no assunto, tem tecnologia reconhecida e patenteada para serviços dessa importância, como lembrar o empresário Paulo Fernandes(esquerda), presidente da companhia brasileira. O projeto, desde1008, bombardeado pelo governo democrata dos Estados Unidos, unido aos velhos conhecidos ambientalistas que usufruem do capitalismo até o caroço, ao mesmo tempo em que querem destrui-lo. Precisariam viver os mesmos dias que a população da Nicarágua, de Cuba, da Coréia do Norte ou das agruras da parte pobre da população do nordeste do Brasil, sem água, saneamento e vivendo das migalhas do Bolsa Família, para entenderem-na pele o que é esta realidade. “Namoramos essa donzela há muito tempo e agora está chegando a hora do casamento. Nada pode acontecer de errado, temos qe ter fé neste aspecto. Teremos mais um importante exemplo internacional desta importância para mostrarmos, mais uma vez, a capacidade técnica da Liderroll. O lançamento de um duto de sete quilômetros dentro de um túnel a 30 metros abaixo do leito do lago, com 3,5 quilômetros em decidas e 3.5 quilômetros em subida, é um desafio que ainda não enfrentamos mas já testamos as nossas outras tecnologias que serão usadas em conjunto. Temos plena convicção nos testes que já fizemos, que tudo dará certo. Engenharia é isso. E temos plena confiança nela,” diz Paulo Fernandes, presidente da empresa brasileira. Uma vitória democrata pode jogar areia e apagar a ideia de um novo trecho deste oleoduto estratégico para regiões dos Estados Unidos e do Canadá. Iriam mexer também com o petróleo canadense em Michigan, em função da situação política que envolve o funcionamento da Linha 5.  Acredita-se que a situação para uma solução do oleoduto melhoraria se os republicanos vencessem três disputas importantes, já que se os democratas vencerem, aumenta o potencial tanto de beneficiar quanto de prejudicar a produção e exportação de energia convencional do Canadá. Há 39 governos estaduais em disputa nas eleições de 3 de novembro, e cinco deles estão localizados em estados que fazem fronteira com o Canadá. estados fronteiriços estão entre os políticos americanos mais afetados pela disputa tarifária entre os EUA e o Canadá. Estados com empresas que realizam um grande volume de comércio transfronteiriço com o Canadá e que normalmente atraem muitos turistas canadenses estão entre os que mais pressionam o governo Trump para que ponha fim à sua investida contra o Canadá. Do ponto de vista do oeste canadense, importa menos se o governador de um estado é republicano ou democrata, desde que tenha uma visão favorável ao comércio bilateral com o Canadá. A governadora democrata de Michigan, Gretchen Whitmer, antiga adversária do oleoduto Linha 5 da Enbridge, atingiu o limite de mandatos e não pode concorrer à reeleição. Como já fez diversas vezes, Whitmer ameaçou recentemente fechar o oleoduto Linha 5 da Enbridge, que  transporta 540 mil barris de petróleo bruto canadense por dia através de Wisconsin e Michigan até Sarnia, Ontário. Ela é responsável por aproximadamente 90% do petróleo bruto refinado e consumido em Ontário. Obviamente, se o Oleoduto 5 fosse repentinamente fechado, Ontário enfrentaria uma grave crise energética. Os caminhões de transporte ficariam sem diesel, o que impediria o abastecimento de alimentos nos supermercados. A província rapidamente ficaria sem combustível de aviação e todos os veículos movidos a gasolina teriam que permanecer parados. A capacidade de Ontário funcionar como uma sociedade moderna e próspera estaria seriamente comprometida até que sistemas alternativos para a obtenção de petróleo bruto pudessem ser desenvolvidos. Gretchen Whitmer , por vezes aprovou o Oleoduto 5, e noutras ocasiões foi uma das suas mais fervorosas opositoras. A última vez que ameaçou encerrar o projeto foi em setembro de 2026. O principal ponto de discórdia de Whitmer(dieita) em relação ao Oleoduto 5 é a possibilidade de um vazamento de petróleo no ponto onde o oleoduto cruza o fundo do Estreito de Mackinac, em Michigan. Um grande vazamento de petróleo no Estreito é visto por ambientalistas e democratas de Michigan como uma séria ameaça à qualidade da água dos Grandes Lagos. Para mitigar o risco de um vazamento, a Enbridge se comprometeu a construir um túnel de concreto com 7 mil metros  através do leito. Whitmer anunciou recentemente que a promessa da Enbridge de construir um túnel é insuficiente, visto que a empresa não iniciou a construção do projeto, que foi proposto pela primeira vez em 2018. As aprovações regulatórias para o túnel e para o próprio Oleoduto 5 foram concedidas, apenas para serem revogadas posteriormente e, em seguida, concedidas novamente em uma série de decisões contraditórias. Por que a Enbridge lançaria um projeto de túnel de US$ 800 milhões em um momento em que a licença de operação do Oleoduto 5 foi revogada? A Enbridge se viu exatamente nessa situação após uma decisão judicial proferida no último verão. A candidata democrata para substituir Whitmer como governadora é Jocelyn Benson , atual secretária de Estado de Michigan. Benson prometeu estudar a situação do Oleoduto 5 , “explorando todos os mecanismos legais e regulatórios disponíveis para proteger os Grandes Lagos de derramamentos de petróleo ”. Ela prometeu “ desativar qualquer infraestrutura considerada perigosa para as vias navegáveis ​​públicas, incluindo trechos expostos do Oleoduto 5,  como o trecho no fundo do Estreito”. A leitura dos compromissos de plataforma de Benson ( esquerda) a coloca em sintonia com a posição de Whitmer em relação ao Oleoduto 5. A situação é a seguinte: a Enbridge precisa fechar o Oleoduto 5 porque o túnel que propõe construir através da rocha abaixo do Estreito de Mackinac ainda não foi construído. No entanto, a construção do túnel foi atrasada em grande parte porque os órgãos reguladores e os tribunais de Michigan têm exigido repetidamente o descomissionamento do oleoduto. O adversário republicano de Benson na disputa pelo governo do estado é John James, que atualmente cumpre seu segundo mandato como representante de Michigan na Câmara dos Representantes dos EUA. James é um defensor ferrenho do projeto do túnel da Enbridge e se comprometeu a encerrar todos os processos judiciais em nível estadual contra o Oleoduto 5 assim que assumir o cargo. James declarou à mídia local que “ O túnel oferece uma solução segura e moderna que garante o fornecimento essencial de energia e mantém as operações da refinaria em toda a região.” Esse comentário sugere que James reconhece a importância crucial da Linha 5 para Ontário. A candidatura de James ao Senado pode se beneficiar do fato de que os eleitores negros representam de 20% a 25% da base eleitoral dos democratas. Alguns analistas argumentam que uma parcela da comunidade negra de Michigan, normalmente inclinada aos democratas, pode estar relutante em votar contra um republicano negro experiente, aumentando assim as chances de James. Analistas de pesquisas eleitorais, incluindo Nate Silver , afirmam que, em média, os democratas têm uma vantagem de 8,0% a 8,3% sobre os republicanos na disputa por cadeiras na Câmara dos Representantes. A média nacional é corroborada pela média das pesquisas do Real Clear Polling para a corrida ao governo de Michigan. Benson tem uma vantagem média de 8,2% sobre James nas últimas 10 pesquisas. A pesquisa mais recente para a disputa pelo governo de Michigan foi um amplo levantamento conduzido pela YouGov.com entre 28 de setembro e 5 de outubro. A YouGov entrevistou 3.947 eleitores prováveis ​​para a pesquisa, tornando-a a maior pesquisa realizada sobre as eleições para governador e senador de Michigan neste ciclo eleitoral. Os resultados da YouGov indicam que a disputa se acirrou. A vantagem de Benson sobre James agora é de apenas três pontos percentuais. Benson é o favorito de 48% dos eleitores prováveis, enquanto James foi escolhido por 45%. A diferença entre os dois candidatos agora é menor que a margem de erro. Estamos diante de uma disputa acirrada. Obviamente, a corrida para governador de Michigan não reflete mais a média nacional que favorece os democratas. Na verdade, as tendências nacionais tendem a ser menos evidentes em um “estado indeciso” como Michigan, onde cada partido obteve maior sucesso em duas das últimas quatro eleições nacionais. Existe outro motivo pelo qual James pode estar se saindo melhor do que a pesquisa da YouGov sugere. Os institutos de pesquisa dos EUA têm consistentemente, e incorretamente, superestimado a importância dos democratas em suas amostras nas últimas cinco eleições nacionais. Uma das cadeiras do Senado dos EUA pelo Michigan está em disputa este ano, e o senador atual não está concorrendo à reeleição. Os senadores dos EUA devem concorrer à reeleição a cada seis anos, não havendo limite para o número de mandatos de seis anos que podem cumprir. O candidato republicano ao Senado é Mike Rogers(direita) , ex-membro do Congresso e atualmente especialista em segurança nacional. Ele é mais um republicano de Michigan que reconhece a importância crucial do Oleoduto 5 para Ontário. Rogers atestou a “ importância econômica estratégica do Oleoduto 5 para a distribuição confiável de petróleo no Meio-Oeste dos EUA ”. O Oleoduto 5 fornece petróleo bruto para algumas refinarias americanas em seu trajeto até Sarnia. Rogers argumenta que “ envolver o oleoduto em concreto em profundidade na rocha elimina as vulnerabilidades a derramamentos, preservando ao mesmo tempo o comércio transfronteiriço de energia com o Canadá”. O adversário democrata de Rogers na disputa pela vaga no Senado é o Abdul El-Sayed(esquerda) , ex-diretor de saúde do Condado de Wayne . El-Sayed possui um currículo acadêmico impressionante, que inclui uma bolsa de estudos Rhodes. Antes de sua nomeaçãocurrículo acadêmico impressionante, que inclui uma bolsa de estudos Rhodes. Antes de sua nomeação, El-Sayed fez campanha por “ um fechamento gradual e responsável do Oleoduto 5 em seu formato atual.” Isso sugere que El-Sayed pode ter considerado a crise energética que afetaria as refinarias de Ontário e Michigan caso o oleoduto fosse fechado de forma irresponsável. Atualmente, El-Sayed promete exigir uma avaliação ambiental federal abrangente do oleoduto. Talvez El-Sayed não estivesse prestando atenção durante as aparentemente intermináveis ​​rodadas de revisão regulatória às quais o Oleoduto 5 foi submetido. É claro que outras questões além do Oleoduto 5 influenciarão o desempenho de El-Sayed no dia da eleição. Embora ele não se declare membro da facção socialista democrática do Partido Democrata, compartilha algumas das posições da extrema esquerda, como o corte da ajuda americana a Israel. Michigan tem a maior proporção de americanos de origem árabe de qualquer estado americano,  sua posição sobre Israel provavelmente atrairá muitos eleitores de ascendência do Oriente Médio. Os árabes representam apenas 3,1% da população de Michigan. Mas, em uma disputa extremamente acirrada, seus votos podem ser decisivos. Os números da YouGov indicam que agora a disputa está acirrada. A pesquisa da YouGov mostra El-Sayed e Rogers tecnicamente empatados. O democrata El-Sayed é o favorito de 49% dos eleitores prováveis, apenas um ponto à frente do republicano Rogers, que tem 48% de apoio. NOVO PROCURADOR Uma reportagem da Energy Now de 23 de setembro relatou o fracasso de um processo movido pela Procuradora-Geral de Michigan, Dana Nessel(direita). O processo alegava que as principais empresas petrolíferas haviam conspirado para limitar o aumento da produção de veículos elétricos e, por extensão, frustrar os esforços para combater as mudanças climáticas. Este processo, juntamente com vários outros semelhantes que foram movidos nos EUA, foi rejeitado pelo tribunal. Dana Nessel, procuradora-geral cessante de Michigan, entrou com um processo judicial contra a indústria petrolífera, no qual foi derrotada, alegando que as empresas petrolíferas haviam conspirado para acabar com o mercado de veículos elétricos. Eli Savit(esquerda) , o candidato democrata a procurador-geral, afirmou que dará continuidade a todas as ações judiciais relacionadas ao Oleoduto 5 iniciadas pela procuradora-geral Nessel, que está deixando o cargo. Ele também prometeu contestar e, com sorte, reverter uma recente decisão de um tribunal federal que limita parte da autoridade do estado sobre oleodutos.  Savit possui uma sólida formação jurídica. Atualmente, ele é o promotor do Condado de Washtenaw , em Michigan. Anteriormente, foi consultor jurídico sênior da cidade de Detroit e, antes disso, ocupou um prestigioso cargo de assistente jurídico na Suprema Corte dos EUA. O candidato republicano a procurador-geral é Doug Lloyd. Ele é claramente a favor do gasoduto e promete suspender as ações judiciais movidas contra o Oleoduto 5. Ele apoia a continuidade da operação do gasoduto durante o período que antecede a conclusão do projeto do túnel. Com base na análise das eleições de meio de mandato em Michigan, é perfeitamente razoável concluir que os interesses do setor energético convencional do Canadá serão melhor atendidos se os candidatos republicanos vencerem todas as três disputas examinadas. Se os republicanos tiverem um bom desempenho, o futuro do Oleoduto 5 estará muito mais seguro no curto prazo do que estaria se os democratas vencerem qualquer uma ou todas as disputas. Tendo em vista as incertezas em torno das políticas de oleodutos de Michigan, dois primeiros-ministros do Canadá estão tomando medidas para desenvolver um sistema alternativo de fornecimento de petróleo bruto para Ontário. Doug Ford e Danielle Smith propõem a construção de um novo oleoduto com capacidade para 550.000 barris por dia, que seguirá uma rota totalmente canadense, ligando Hardisty, Alberta, ao polo de refino de petróleo em Sarnia. Smith e Ford argumentam que a proposta do fortalecerá a soberania e a independência energética do Canadá. Não menos importante é o fato de que ela garantiria que pudéssemos evitar a crise energética devastadora que Ontário sofreria se os americanos decidissem fechar o Oleoduto 5. A Proposta de rota totalmente canadense para o gasoduto Northern Shield. Se o oleoduto Northern Shield estivesse em construção hoje, o resultado das eleições de meio de mandato em Michigan teria menos importância para os apoiadores da indústria petrolífera canadense. Mas, caso os americanos interrompam as operações do Oleoduto 5 antes da conclusão do Northern Shield, o Canadá precisaria encontrar rapidamente outra maneira de levar petróleo bruto para Ontário. Compartilhar: WhatsApp Tweet Share 0 LinkedIn 0\nORLANDO – Por FABIANA ROCHA – As eleições de meio de mandato nos Estados Unidos são um verdadeiro termômetro do atual governo Trump, com consequências para todo mundo. Talvez seja tão importante quanto a eleição presidencial. Trump sofre um verdadeiro massacre da grande mídia americana – quase que complemente pró-democratas – assim como a mídia internacional. Querem um exemplo, leiam os jornais brasileiros e façam o que na universidade de comunicação nos ensina: o jornalismo comparado. Os interesses da grande maioria dos donos jornais só visam lucro e liberaram a credibilidade construída em dezenas de anos de equilíbrio, para a influência de uma nova geração do jornalismo formada pelas universidades comandadas por professores com viés claro de esquerda, principalmente as universidades federais. Trump apanha de todos Para lembrar, as midterms nos Estados Unidos,  são as eleições gerais que acontecem no meio do mandato presidencial de 4 anos. Ocorrem sempre na primeira terça-feira de novembro, dois anos depois da eleição presidencial. As próximas serão em 3 de novembro de 2026. O que está em jogo: Câmara dos Deputados (House): todos os 435 assentos são renovados a cada 2 anos; Senado: 33 ou 34 das 100 cadeiras – senadores têm mandato de 6 anos;  os  governadores: cerca de 36 dos 50 estados elegem governador nas midterms;  Legislativo e cargos estaduais e locais prefeituras, assembleias estaduais, secretários de estado, juízes, propostas de leis estaduais. Por que são importantes: É considerado um termômetro do presidente em exercício.\nHistoricamente, o partido que está na Casa Branca tende a perder cadeiras no Congresso nas midterms. O resultado define se o presidente terá maioria para aprovar projetos nos 2 anos finais ou se terá um Congresso de oposição. É também quando se decide o controle do Congresso, que tem poder para aprovar orçamento, investigações e nomeações. Uma vitória do partido Republicano deixará o Presidente Trump ainda mais forte. As eleições americanas também terão uma forte influência em todo mundo, principalmente para o Brasil. A eleição que deu vitória à Lula, com influência, mais uma vez, do STF, que adiou o início da contagem por duas horas horas de paralisação, vai ser comparada aos dados da inteligência do Estados Unidos e do Mossad, de Israel. Tanto Trump quando Benjamin Netanyaho. As últimas eleições por várias características inéditas e por proporcionalidade matemática quase impossível de acontecer, provocou "
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "A REPSOL SINOPEC SERÁ A SEDE DOS DEBATES DO FÓRUM DE ENERGIA QUE ACONTECERÁ AMANHÃ NO RIO DE JANEIRO",
+   "link": "https://petronoticias.com.br/a-repsol-sinopec-sera-a-sede-dos-debates-do-forum-de-energia-que-acontecera-amanha-no-rio-de-janeiro/",
+   "resumo_original": "As perspectivas de investimento, os desafios da transição energética e as oportunidades de cooperação entre empresas brasileiras e espanholas estarão no centro do Fórum de Energia 2026, promovido pela Câmara Oficial Espanhola de Comércio no Brasil, por meio do Comitê de Infraestrutura e Energia. O encontro será realizado amanhã (3) na sede da Repsol Sinopec […]",
+   "data": "2026-11-02T15:00:56-03:00",
+   "texto": "As perspectivas de investimento, os desafios da transição energética e as oportunidades de cooperação entre empresas brasileiras e espanholas estarão no centro do Fórum de Energia 2026 , promovido pela Câmara Oficial Espanhola de Comércio no Brasil,  por meio do Comitê de Infraestrutura e Energia. O encontro será realizado amanhã (3)  na sede da Repsol Sinopec Brasil, no Rio de Janeiro, e reunirá representantes de empresas do setor energético e da Empresa de Pesquisa Energética (EPE) para discutir tendências, oportunidades e caminhos para o desenvolvimento do mercado. A programação terá como eixo a aproximação entre Brasil e Espanha em um setor marcado pela necessidade de investimentos, inovação tecnológica e avanço de soluções voltadas à sustentabilidade. Entre os temas previstos estão a transição energética, o desenvolvimento de novos negócios, a formação de parcerias estratégicas e as tendências tecnológicas que podem transformar a geração, a transmissão e a operação de energia. O Fórum reunirá lideranças de diferentes segmentos da cadeia energética, incluindo Jaime Llopis, diretor corporativo do Grupo Cobra; Thiago Guilherme Ferreira Prado, presidente da Empresa de Pesquisa Energética (EPE); Carlos Eduardo Olesko, CEO da CYMI; Marcelo Lopez, diretor de Operação de Geração e Transmissão da Neoenergia; Alejandro Ponce(foto principal), CEO da Repsol Sinopec; Judith Vila Pont, COO da Repsol Sinopec; José Renato, Gerente de Regulação da Celeo; Giselia Pontes, Diretora comercial da Naturgy; Urias Martiniano, advogado; e Alberto Paniagua, diretor corporativo da Howden Brasil . A participação de representantes de empresas com atuação em diferentes frentes do setor permitirá ampliar a discussão sobre os desafios de infraestrutura, as perspectivas de mercado e as oportunidades de colaboração entre organizações dos dois países. Para a Câmara Espanhola, a iniciativa reforça a importância de aproximar empresas, especialistas e instituições para discutir os caminhos do setor energético e identificar oportunidades de cooperação. “ A transição energética exige planejamento, investimentos e colaboração entre diferentes agentes do mercado. O Brasil e a Espanha têm experiências e competências que podem contribuir para essa agenda, e o Fórum é uma oportunidade para aproximar lideranças, compartilhar perspectivas e discutir oportunidades concretas de negócios e parcerias “, afirma André De Angelo, presidente da Câmara Espanhola. A presença de representantes da EPE e de empresas que atuam em geração, transmissão, energia e engenharia também abre espaço para discutir a relação entre planejamento energético, desenvolvimento de projetos e condições necessárias para atrair investimentos. Nesse contexto, a cooperação internacional pode favorecer a troca de conhecimento, a incorporação de novas tecnologias e a identificação de oportunidades em um mercado que demanda soluções para conciliar segurança energética, competitividade e sustentabilidade. Compartilhar: WhatsApp Tweet Share 0 LinkedIn 0\nAs perspectivas de investimento, os desafios da transição energética e as oportunidades de cooperação entre empresas brasileiras e espanholas estarão no centro do Fórum de Energia 2026 , promovido pela Câmara Oficial Espanhola de Comércio no Brasil,  por meio do Comitê de Infraestrutura e Energia. O encontro será realizado amanhã (3)  na sede da Repsol Sinopec Brasil, no Rio de Janeiro, e reunirá representantes de empresas do setor energético e da Empresa de Pesquisa Energética (EPE) para discutir tendências, oportunidades e caminhos para o desenvolvimento do mercado.\nA programação terá como eixo a aproximação entre Brasil e Espanha em um setor marcado pela necessidade de investimentos, inovação tecnológica e avanço de soluções voltadas à sustentabilidade. Entre os temas previstos estão a transição energética, o desenvolvimento de novos negócios, a formação de parcerias estratégicas e as tendências tecnológicas que podem transformar a geração, a transmissão e a operação de energia.\nO Fórum reunirá lideranças de diferentes segmentos da cadeia energética, incluindo Jaime Llopis, diretor corporativo do Grupo Cobra; Thiago Guilherme Ferreira Prado, presidente da Empresa de Pesquisa Energética (EPE); Carlos Eduardo Olesko, CEO da CYMI; Marcelo Lopez, diretor de Operação de Geração e Transmissão da Neoenergia; Alejandro Ponce(foto principal), CEO da Repsol Sinopec; Judith Vila Pont, COO da Repsol Sinopec; José Renato, Gerente de Regulação da Celeo; Giselia Pontes, Diretora comercial da Naturgy; Urias Martiniano, advogado; e Alberto Paniagua, diretor corporativo da Howden Brasil . A participação de representantes de empresas com atuação em diferentes frentes do setor permitirá ampliar a discussão sobre os desafios de infraestrutura, as perspectivas de mercado e as oportunidades de colaboração entre organizações dos dois países.\nPara a Câmara Espanhola, a iniciativa reforça a importância de aproximar empresas, especialistas e instituições para discutir os caminhos do setor energético e identificar oportunidades de cooperação. “ A transição energética exige planejamento, investimentos e colaboração entre diferentes agentes do mercado. O Brasil e a Espanha têm experiências e competências que podem contribuir para essa agenda, e o Fórum é uma oportunidade para aproximar lideranças, compartilhar perspectivas e discutir oportunidades concretas de negócios e parcerias “, afirma André De Angelo, presidente da Câmara Espanhola.\nA presença de representantes da EPE e de empresas que atuam em geração, transmissão, energia e engenharia também abre espaço para discutir a relação entre planejamento energético, desenvolvimento de projetos e condições necessárias para atrair investimentos. Nesse contexto, a cooperação internacional pode favorecer a troca de conhecimento, a incorporação de novas tecnologias e a identificação de oportunidades em um mercado que demanda soluções para conciliar segurança energética, competitividade e sustentabilidade.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "FPSO P-35 PASSA SOB A PONTE RIO-NITERÓI EM OPERAÇÃO DE ALTA COMPLEXIDADE E SEGUE PARA O ESTALEIRO INHAÚMA",
+   "link": "https://petronoticias.com.br/fpso-p-35-passa-sob-a-ponte-rio-niteroi-em-operacao-de-alta-complexidade-e-segue-para-o-estaleiro-inhauma/",
+   "resumo_original": "Quem trafegou na manhã desta segunda-feira (2) pela Ponte Rio-Niterói teve uma vista de tirar o fôlego. Em uma operação que envolveu mais de cem profissionais, o FPSO P-35 passou sob a ponte e chamou a atenção dos motoristas que cruzavam a via, além de pedestres que circulavam pela cidade e avistaram de longe a […]",
+   "data": "2026-11-02T11:00:22-03:00",
+   "texto": "Quem trafegou na manhã desta segunda-feira (2) pela Ponte Rio-Niterói teve uma vista de tirar o fôlego. Em uma operação que envolveu mais de cem profissionais, o FPSO P-35 passou sob a ponte e chamou a atenção dos motoristas que cruzavam a via, além de pedestres que circulavam pela cidade e avistaram de longe a gigantesca plataforma. A P-35 estava na Ilha das Cobras, nas instalações da Marinha do Brasil, e seguirá agora para o Estaleiro Inhaúma, no Caju, na zona portuária do Rio de Janeiro.\nSegundo o gerente executivo de Programas Estruturantes da Petrobrás, Wagner Victer , a travessia sob a Ponte Rio-Niterói exigiu meses de planejamento e uma série de adaptações estruturais para permitir a passagem da unidade pelo vão central da estrutura. Foi necessário desmontar parte do turret e retirar o queimador (flare) da plataforma, reduzindo sua altura. As adaptações foram planejadas pela Gávea Logística, que levou em consideração as condições meteorológicas e o nível da maré, além das aprovações da Marinha do Brasil e da comunicação prévia aos operadores da Ponte Rio-Niterói.\nMesmo com a ponte em funcionamento, a travessia foi concluída com sucesso. A plataforma passou com uma folga de apenas alguns metros em relação ao vão central, evidenciando a complexidade da operação. A movimentação também foi registrada em imagens aéreas, que mostram a dimensão do desafio e a passagem da gigantesca unidade marítima sob a estrutura.\nA travessia remete a outra operação realizada na década de 1990, quando o FPSO P-34 passou por adaptações semelhantes e foi levado ao estaleiro para ser convertido no sistema piloto de produção dos campos de Barracuda e Caratinga. A nova movimentação reforça a capacidade da engenharia naval brasileira de executar operações logísticas de grande porte e elevada complexidade. “ Agora, a plataforma gigante da Petrobrás ficará ancorada junto ao cais e poderá ser vista por todos que cruzam a ponte. As imagens são lindas e nos enchem de esperança, especialmente para quem ama a engenharia naval brasileira ”, declarou Victer.\nA P-35 é uma unidade do tipo FPSO, com mais de 330 metros de comprimento. A plataforma foi instalada em 1997 no campo de Marlim, na Bacia de Campos, onde operou durante 27 anos, em lâmina d’água de 900 metros. A unidade tinha capacidade para produzir até 84 mil barris de petróleo por dia. A Petrobras estuda a possibilidade de reutilizar o casco em novos projetos ou desmantelar partes do topside.\nEsse camarada (Wagner Victer) é um fanfarrāo de primeira. “Meses de planejamento”.. Por isso que estamos mal de país… É bravata em cima de bravata. É um mantra dessa galera antiga de Petrobras. Tem que fazer uma limpeza e tirar essas Malas pesadas, que só mamam nas têta a das estatais. Tem que privatizar a Petrobras pra acabar com esses cabides de empregos. Quer enganar quem com esses “tantos meses” só pra se rebocar um casco de navio? A turma lá do estaleiro de Angra passa o dia todo só fazendo isso, pra cima e pra baixo. Manobram navios dia … Leia mais »\nPossivelmente vc nao tem formação em engenharia ou se tem é poucoco qualificado ou frustrado para fala um conjunto de baboseira como essa alias dá para trocar as pessoas mas tem que fazer concurso e passar e na minha época eram 200 por vagas e tive a ” sorte ” de tirar em primeiro lugar. Um argumento ou crítica em questão como essa podem ser feitas com argumentos técnicos e nao fazendo uma mistura de ódio e impropriedades técnicas . Desconhecer o rigoroso planejamento que envolve essa operação que envolve a desmontagem de um flare e de um Turret ( … Leia mais »\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "GRUPO RODONAVES COMEMORA 45 ANOS DE FUNDAÇÃO PUBLICANDO UM RELATÓRIO DE SUSTENTABILIDADE INTEGRANDO SEUS 11 MIL FUNCIONÁRIOS",
+   "link": "https://petronoticias.com.br/grupo-rodonaves-comemora-45-anos-de-fundacao-publicando-um-relatorio-de-sustentabilidade-integrando-seus-11-mil-funcionarios/",
+   "resumo_original": "O Grupo Rodonaves, um dos principais ecossistemas de transporte e logística do Brasil, publicou o seu Relatório de Sustentabilidade 2025, mostrando alinhamento da companhia ao compromisso com a transparência e as melhores práticas de mercado. O documento foi elaborado pela primeira vez com base nas normas internacionais da Global Reporting Initiative (GRI), consolidando os resultados […]",
+   "data": "2026-11-02T04:00:17-03:00",
+   "texto": "O Grupo Rodonaves, um dos principais ecossistemas de transporte e logística do Brasil, publicou  o seu Relatório de Sustentabilidade 2025, mostrando  alinhamento da companhia  ao compromisso com a transparência e as melhores práticas de mercado.  O documento foi elaborado pela primeira vez com base nas normas internacionais da Global Reporting Initiative (GRI ), consolidando os resultados de um ano em que a empresa celebrou seus 45 anos de fundação. O relatório evidencia como  as estratégias executadas ao longo do último ano fortaleceram o pilar ambiental da companhia. Como resultado direto das renovações de frota conduzidas em 2025, a Rodonaves consolidou a marca de 97% de seus veículos operando com motores Euro 5 e Euro 6, tecnologias que emitem até 55% menos óxidos de nitrogênio. O documento também detalha os passos dados rumo à transição energética, com a operação de caminhões pesados movidos a Gás Natural Veicular (GNV) e o uso de infraestrutura própria de abastecimento 100% a biodiesel na unidade de Farroupilha (RS).\nRégis Tiecher , CEO do Grupo Rodonaves, disse que   “ A evolução da Rodonaves passa obrigatoriamente pela agenda ESG, que hoje é tratada como valor e incorporada diretamente à nossa estratégia de negócios.Enfrentamos um cenário macroeconômico desafiador no último ano, mas mantivemos nosso compromisso com a entrega perfeita e a eficiência. O relatório que apresentamos agora reflete a nossa ambição de crescer com rentabilidade, tendo a sustentabilidade das nossas operações como um motor inegociável.” O pilar social detalhado no relatório traduz a essência da Rodonaves, historicamente reconhecida por sua “ cultura do abraço “. Esse cuidado contínuo com os colaboradores rendeu à empresa o 3º lugar no segmento de Transporte e Logística na premiação “Lugares Mais Incríveis para Trabalhar 2025” (FIA Business School/Estadão).\nNa frente de diversidade e inclusão, os indicadores apontam o avanço de iniciativas como o programa Mulheres em Movimento, focado em ampliar a presença feminina em funções operacionais, administrativas e de liderança. Já no campo do investimento social, a companhia destinou, em 2025, mais de R$ 1,8 milhão via leis de incentivo para projetos de cultura, educação, saúde e esporte, impactando positivamente mais de 159 mil pessoas. “ Ao longo da nossa trajetória, temos ampliado nossa responsabilidade com as pessoas e com o futuro. Esse compromisso se expressa na escuta ativa, que aproxima, e na construção de um espaço cada vez mais plural. O nosso Relatório de Sustentabilidade materializa o esforço para assegurar que as práticas ESG sejam um valor real, criando oportunidades e contribuindo para um futuro mais próspero para as mais de 11 mil famílias que hoje compõem nosso ecossistema “, destaca Vera Naves , Vice-Presidente do Grupo.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Brasil Mineral",
+   "idioma": "pt",
+   "titulo": "SGB anuncia investimentos de R$ 1,2 bilhão até 2030 para ampliar conhecimento geológico",
+   "link": "https://brasilmineral.com.br/noticias/sgb-anuncia-investimentos-de-r-12-bilhao-ate-2030-para-ampliar-conhecimento-geologico",
+   "resumo_original": "Cerca de R$ 300 milhões já estão no projeto de orçamento de 2027 para levantar geofísica aérea, geoquímica e mapas das províncias minerais",
+   "data": "2026-11-02T10:49:14-03:00",
+   "texto": "Cerca de R$ 300 milhões já estão no projeto de orçamento de 2027 para levantar geofísica aérea, geoquímica e mapas das províncias minerais\nO Serviço Geológico do Brasil deverá dispor de R$ 1,2 bilhão até 2030 para investir em programas visando ampliar o conhecimento geológico do território brasileiro. Foi o que anunciou o presidente do órgão, Vilmar Simões, durante a abertura do 52º Congresso Brasileiro de Geologia (CBG), que se realiza em Fortaleza (CE). Os investimentos permitirão avançar em projetos envolvendo geofísica aérea, geoquímica e mapeamento geológico em escala 1:100.000 nas províncias minerais do Brasil.\nO diretor-presidente ressaltou que o orçamento de R$ 1,2 bilhão previsto até 2030 pelo governo federal será fundamental para gerar resultados que apoiem o desenvolvimento da cadeia produtiva mineral do país. “Já foi submetido ao Projeto de Lei Orçamentária Anual (PLOA), orçamento de cerca de R$ 300 milhões para execução em 2027. Esse projeto tem por objetivo investigar com maior profundidade todas as províncias minerais conhecidas no nosso país”, explicou Simões.\nUma das frentes do projeto são os levantamentos aerogeofísicos, sendo que um bloco já foi concluído em Tocantins e outro em parte do estado de Goiás, onde há outro bloco em conclusão. O SGB também está desenvolvendo levantamentos aerogeofísicos na Bacia do Parnaíba, em áreas do Maranhão e Piauí. Além disso, o SGB avança com os levantamentos geoquímicos.\nPara ampliar o mapeamento geológico na escala 1:100.000, Vilmar Simões ressaltou a importância da atuação integrada entre o SGB e a academia. No discurso, destacou a necessidade das parcerias com as universidades e centros de pesquisa para desenvolvimento deste programa de ampliação do conhecimento geológico.\nDurante a cerimônia, o presidente Vilmar Simões também abordou o valor da atual carteira de projetos de pesquisa, desenvolvimento e inovação (PD&I), conduzidos pelo SGB em parceria com instituições, dentre elas, a Petrobras. A carteira de projetos já soma cerca de R$ 400 milhões. “Estamos revitalizando o Museu de Ciências da Terra, na Urca, que será equipado por meio dessa parceria com a Petrobras no valor de cerca de R$ 110 milhões. Já está em execução o Centro de Referência em Geociência que abrigará um dos maiores e mais modernos laboratórios de isotopia e geocronologia da América Latina”, disse.\nSimões enfatizou ainda a importância da disseminação do conhecimento geocientífico e apresentou o novo sistema do SGB: GeoBusca , na versão beta. Essa ferramenta facilita a localização de informações geocientíficas produzidas pela instituição e amplia as possibilidades de acesso da sociedade a dados que podem apoiar pesquisas, estudos e diferentes aplicações."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Brasil Mineral",
+   "idioma": "pt",
+   "titulo": "Projeto Cabaçal, da Meridian, vale US$ 2,1 bilhões e requer investimento de US$ 322 milhões",
+   "link": "https://brasilmineral.com.br/noticias/projeto-cabacal-da-meridian-vale-us-21-bilhoes-e-requer-investimento-de-us-322-milhoes",
+   "resumo_original": "Relatório técnico protocolado aponta taxa de retorno de 108% e 183,5 mil onças de ouro equivalente por ano nos cinco primeiros anos, em Mato Grosso",
+   "data": "2026-11-02T10:49:09-03:00",
+   "texto": "Relatório técnico protocolado aponta taxa de retorno de 108% e 183,5 mil onças de ouro equivalente por ano nos cinco primeiros anos, em Mato Grosso\nA Meridian Mining protocolou o Relatório Técnico do Estudo de Viabilidade Definitivo (EVD) para o projeto de ouro, cobre e prata Cabaçal, localizado em Mato Grosso. O documento, datado de 28 de outubro de 2026 e elaborado em conformidade com o padrão canadense NI 43-101, confirma que o depósito está entre os projetos de metais preciosos e básicos mais robustos em desenvolvimento na América Latina.\nOs números do EVD (Estudo de Viabilidade Definitivo) são expressivos. Com preços de referência de US$ 3.570 por onça de ouro, US$ 5,03 por libra de cobre e US$ 50,17 por onça de prata, o projeto apresenta Valor Presente Líquido (VPL) líquido de impostos de US$ 2,1 bilhões a uma taxa de desconto de 5%, Taxa Interna de Retorno (TIR) de 108% e retorno do investimento em apenas 0,9 ano, tudo a partir de um capex pré-produção de US$ 322 milhões. O Custo Total de Sustentação (AISC) é de US$ 1.056 por onça de ouro equivalente, nível competitivo em escala global.\nA eficiência operacional do projeto é sustentada por uma combinação de fatores favoráveis como alta recuperação metalúrgica, baixa relação estéril/minério de 1,4:1 ao longo de toda a vida útil da mina e o ambiente de custos operacionais reduzidos do Brasil. Nos cinco primeiros anos de lavra, Cabaçal deverá produzir em média 183.526 onças de ouro equivalente por ano. As reservas minerais comprovadas e prováveis totalizam 56,04 milhões de toneladas, com teores de 0,61 g/t de ouro, 0,35% de cobre e 1,33 g/t de prata.\nO relatório foi elaborado por consultoras independentes de reconhecida expertise — Ausenco Engineering Canada, GE21 Consultoria Mineral e Flowsheets Metallurgical Consulting — e revisado internamente por Erich Marques, Geólogo Chefe da Meridian e Pessoa Qualificada nos termos do NI 43-101. A empresa ressalta que não há diferenças materiais entre o EVD protocolado e as informações divulgadas no comunicado de imprensa original, de 22 de setembro de 2026. Com o documento agora arquivado no SEDAR+ e no site corporativo, Cabaçal avança para a fase de decisão de investimento com uma das mais altas TIRs já registradas para um projeto de mineração de grande porte no Brasil."
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "BC encerra prazo para licença de cripto em meio a saídas e fusões",
+   "link": "https://valor.globo.com/financas/criptomoedas/noticia/2026/11/02/bc-encerra-prazo-para-licena-de-cripto-em-meio-a-sadas-e-fuses.ghtml",
+   "resumo_original": "Após anos de consultas públicas e discussões com o mercado, além de uma tentativa de adiar a data-limite, terminou na sexta-feira (30) o prazo para que empresas que já prestavam serviços com criptoativos solicitassem autorização ao Banco Central (BC). Levantamento da Cainvest, atualizado no sábado (31), reuniu 74 instituições com pedidos anunciados, comunicações de bancos e registros documentais. O número não é uma contagem oficial de pedidos do BC. Em agosto, a Associação Brasileira de Tokenização e Ativos Digitais (ABToken), a Zetta e a Associação Brasileira de Fintechs (ABFintechs) pediram ",
+   "data": "2026-11-02T22:46:16-03:00",
+   "texto": "Após anos de consultas públicas e discussões com o mercado, além de uma tentativa de adiar a data-limite, terminou na sexta-feira (30) o prazo para que empresas que já prestavam serviços com criptoativos solicitassem autorização ao Banco Central (BC). Levantamento da Cainvest, atualizado no sábado (31), reuniu 74 instituições com pedidos anunciados, comunicações de bancos e registros documentais. O número não é uma contagem oficial de pedidos do BC.\nEm agosto, a Associação Brasileira de Tokenização e Ativos Digitais (ABToken), a Zetta e a Associação Brasileira de Fintechs (ABFintechs) pediram mais 120 dias para a adequação, citando dificuldades para cumprir as normas e contratar certificações técnicas independentes. No entanto, o BC manteve o prazo.\nAs Resoluções BCB nº 519 e 520 disciplinam as sociedades prestadoras de serviços de ativos virtuais (SPSAVs), classificadas como intermediárias, responsáveis pela intermediação de operações; custodiantes, encarregadas da guarda dos ativos; ou corretoras, que reúnem as duas atividades.\n“O fim do prazo para apresentação do pedido de autorização ou de comunicação, conforme o caso, representa um marco. É o momento em que o setor deixa de estar apenas sujeito a uma regulamentação publicada e passa, de fato, a ingressar de forma efetiva no perímetro de autorização e supervisão do Banco Central”, afirmou Tatiana Guazzelli, sócia do Pinheiro Neto Advogados e especialista em mercado de criptoativos.\nEmpresas que já operavam em 2 de fevereiro e protocolaram o requerimento dentro do prazo podem continuar oferecendo os serviços enquanto aguardam a decisão do BC. Quem não solicitou autorização deve encerrar as atividades em até 30 dias, sem direito à continuidade automática por um protocolo posterior.\n“O pedido de autorização não é uma mera formalidade. O processo envolve o atendimento de uma série de exigências regulatórias, incluindo exigências de capital social e patrimônio líquido mínimo, designação de ao menos três diretores, identificação clara dos acionistas controladores e acionistas com participação qualificada das sociedades”, disse Tatiana.\nA autorização tem duas fases. Na primeira, o BC verifica a atuação anterior, os controladores e o capital; na segunda, examina governança e infraestrutura tecnológica, entre outros requisitos. A Resolução BCB nº 549 fixa prazos administrativos de 360 dias para a primeira fase e 720 para a segunda, sem assegurar a aprovação.\nO capital mínimo exigido para obter autorização foi um dos principais pontos de discussão entre o BC e o setor. Na proposta apresentada pelo regulador em consulta pública, em 2024, os valores previstos eram de R$ 1 milhão para intermediárias, R$ 2 milhões para custodiantes e R$ 3 milhões para corretoras. Com a regulamentação definitiva, o cálculo passou a considerar as atividades e os riscos de cada instituição, com exigências que podem variar de R$ 10,8 milhões a R$ 37,2 milhões, conforme a estrutura da operação.\nEntre as principais corretoras de criptoativos que atuam no Brasil e anunciaram pedidos estão Binance, Coinbase, Mercado Bitcoin, Bybit e Foxbit. Também houve pedidos de empresas do ramo de stablecoins, moedas digitais que buscam cotação estável, geralmente com relação ao dólar. Algumas delas foram Crown, emissora da BRLV, e Avenia, responsável pela BRLA, ambas stablecoins de real.\nBancos já autorizados a funcionar seguem outro procedimento: podem comunicar ao BC a prestação de serviços de ativos virtuais, acompanhada de certificação técnica independente, em vez de solicitar nova licença como SPSAV. Itaú, Bradesco e Banco Braza anunciaram a formalização dessas atividades.\nAs exigências também pesaram sobre empresas brasileiras. A Coinext, corretora com mais de oito anos de atuação, encerrou seus serviços de negociação e custódia após informar que não alcançou o capital mínimo exigido. A Bity, que iniciou suas atividades em 2018, também decidiu não pedir licença como corretora. Segundo a empresa, sua plataforma somou mais de 850 mil usuários e R$ 100 bilhões negociados. A decisão foi concentrar recursos em outras atividades.\nA Bitso, uma das maiores corretoras de criptomoedas do México, deixou de atender diretamente o varejo brasileiro e firmou acordo com o Mercado Bitcoin para facilitar a migração dos clientes.\nOutra possibilidade para empresas que pretendem entrar ou ampliar presença no país são as fusões e aquisições (M&A) de corretoras que já apresentaram pedido de autorização. Sob o regime de transição, conhecido como “grandfathering”, essas empresas podem continuar operando enquanto o regulador analisa o requerimento. Isso dá valor a uma operação já estabelecida, mas sua compra não equivale à transferência automática de licença.\n“A empresa que protocolou o pedido dentro do prazo pode continuar operando enquanto o Banco Central faz a análise, o que tem valor para quem quer entrar no mercado sem começar do zero. Mas uma mudança de controle no meio do processo precisa ser comunicada e submetida ao regulador, e isso pode exigir complementações e alongar a análise. Por isso, nas negociações, o risco regulatório costuma ser tratado no próprio desenho da operação”, afirmou Paulo Brancher, sócio da área de Criptoativos do Mattos Filho.\n“Algumas empresas menores não conseguirão cumprir os requisitos e deverão se associar a grupos maiores, vender suas operações ou encerrar as atividades de forma ordenada. Do ponto de vista concorrencial, a maior parte dessas operações tende a ser de pequeno porte e não deve levantar preocupações relevantes. Ainda assim, as operações que atingirem os critérios de faturamento da Lei nº 12.529/2011 precisam ser submetidas previamente ao Cade, e o órgão pode acompanhar a concentração em segmentos específicos”, disse Brancher.\nA reorganização também exige atenção aos usuários de plataformas que encerram atividades. “Em casos de encerramento das atividades, é importante que haja comunicação clara, portabilidade dos ativos e continuidade do atendimento, para que a reorganização do setor não se traduza em prejuízo para os clientes”, afirmou."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Petróleo despenca com sinais de abertura diplomática pelos EUA e Irã",
+   "link": "https://valor.globo.com/financas/noticia/2026/11/02/petroleo-despenca-com-sinais-de-abertura-diplomatica-pelos-eua-e-ira.ghtml",
+   "resumo_original": "Os contratos futuros de petróleo despencaram nesta segunda-feira, ao passo em que os investidores retiram parte do prêmio de risco no barril acumulado nos últimos dias devido aos receios de uma escalada militar entre os Estados Unidos e o Irã. O alívio foi impulsionado pelas sinalizações de diplomacia por integrantes de ambos os governos, dias antes do resultado das eleições de meio de mandato (“midterms”) nos EUA, que ainda gera alguma apreensão entre os operadores. O petróleo Brent com entrega para janeiro despencou 7,17%, cotado a US$ 101,70 por barril, e o WTI com entrega para dezembro ced",
+   "data": "2026-11-02T18:23:51-03:00",
+   "texto": "Os contratos futuros de petróleo despencaram nesta segunda-feira, ao passo em que os investidores retiram parte do prêmio de risco no barril acumulado nos últimos dias devido aos receios de uma escalada militar entre os Estados Unidos e o Irã. O alívio foi impulsionado pelas sinalizações de diplomacia por integrantes de ambos os governos, dias antes do resultado das eleições de meio de mandato (“midterms”) nos EUA, que ainda gera alguma apreensão entre os operadores.\nO petróleo Brent com entrega para janeiro despencou 7,17%, cotado a US$ 101,70 por barril, e o WTI com entrega para dezembro cedeu 7,36%, cotado a US$ 96,46 por barril, na Nymex.\nO site Axios reportou que o presidente dos Estados Unidos, Donald Trump, disse ao primeiro-ministro de Israel, Benjamin Netanyahu, no sábado, que prefere deixar que as negociações sigam seu curso, contrapondo as pressões por uma escalada militar que levaram ao avanço do petróleo na semana passada.\nO Irã também deu sinais de abertura diplomática, sobretudo após o presidente do país, Masoud Pezeshkian, afirmar que o líder supremo, Mojtaba Khamenei, concedeu ao governo mais autoridade para buscar negociações de paz.\n“Uma nova rodada de ataques ao Irã, por parte dos EUA e de Israel, não levará a lugar nenhum no plano político. Trump espera, ou talvez até reze, que um novo ataque de grande escala contra o Irã o enfraqueça, fazendo com que ceda à vontade dos EUA e de Israel. Trata-se de uma ilusão, tal como a que norteia as ações de Putin ao atacar civis na Ucrânia”, avalia Bjarne Schieldrop, analista-chefe de commodities do SEB."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Bolsas europeias sobem em meio à recuperação de techs e ao alívio no petróleo",
+   "link": "https://valor.globo.com/financas/noticia/2026/11/02/bolsas-europeias-sobem-em-meio-a-recuperacao-de-techs-e-ao-alivio-no-petroleo.ghtml",
+   "resumo_original": "Prédio da Euronext em Paris, a bolsa da capital francesa e casa do índice CAC 40",
+   "data": "2026-11-02T13:57:36-03:00",
+   "texto": "As bolsas europeias encerraram esta segunda-feira em alta, refletindo a melhora no apetite ao risco em nível global na sessão de hoje. O alívio nos preços do petróleo, diante dos sinais de arrefecimento nas tensões no Oriente Médio, o recuo dos juros dos títulos soberanos no continente e a recuperação do setor de tecnologia, que passou por fortes ajustes de posições na semana passada, impulsionam os índices no pregão.\nO índice pan-europeu Stoxx 600 encerrou em alta de 0,45%, aos 649,65 pontos. O Dax de Frankfurt ganhou 0,63%, aos 25.981,09; o FTSE 100 subiu 0,29%, aos 10.761,33; o Cac 40 de Paris teve avanço de 0,98%, aos 8.047,69.\nO setor de tecnologia do Stoxx subiu 0,51%, após os resultados de “big techs” aquém do esperado provocarem um forte “sell-off” global no segmento na semana passada. Alguns dos principais setores do mercado europeu também registraram fortes ganhos, como o bancário (+1,12%) e de mineração (+1,80%).\nO petróleo opera em forte queda na sessão, devolvendo grande parte do avanço visto na semana passada, quando os temores de uma escalada militar na região do Golfo após as eleições de meio mandato (“midterms”) levaram o Brent, a referência global, ao maior valor desde maio. O presidente americano, Donald Trump, disse que pretende dar mais tempo às negociações, o que impulsionou a queima de parte do prêmio de risco do barril.\nO alívio nos preços do petróleo também contribuiu para a queda dos rendimentos dos títulos públicos europeus, após o avanço da semana passada. O sentimento dos investidores, porém, permanece frágil, diante de preocupações com a situação fiscal da França e da perspectiva de novas altas nos juros pelo Banco Central Europeu (BCE)."
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Registros mensais da Tesla disparam no Norte da Europa, mesmo com alta da concorrência chinesa",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/02/registros-mensais-da-tesla-disparam-no-norte-da-europa-mesmo-com-alta-da-concorrencia-chinesa.ghtml",
+   "resumo_original": "Os registros de novos carros da Tesla aumentaram em vários mercados do norte da Europa em outubro, à medida que a fabricante norte-americana de veículos elétricos ampliou sua recuperação regional nas vendas, apesar da crescente concorrência das montadoras chinesas. Os registros da Tesla dispararam 248% na Suécia, 131% na Noruega e 34% na Dinamarca, segundo dados da Mobility Sweden, da OFV da Noruega e do bilstatistik.dk da Dinamarca. A recuperação foi impulsionada por comparações mais favoráveis com o mesmo período do ano anterior, preços mais altos dos combustíveis, incentivos governamentais ",
+   "data": "2026-11-02T11:47:15-03:00",
+   "texto": "Os registros de novos carros da Tesla aumentaram em vários mercados do norte da Europa em outubro, à medida que a fabricante norte-americana de veículos elétricos ampliou sua recuperação regional nas vendas, apesar da crescente concorrência das montadoras chinesas.\nOs registros da Tesla dispararam 248% na Suécia, 131% na Noruega e 34% na Dinamarca, segundo dados da Mobility Sweden, da OFV da Noruega e do bilstatistik.dk da Dinamarca.\nA recuperação foi impulsionada por comparações mais favoráveis com o mesmo período do ano anterior, preços mais altos dos combustíveis, incentivos governamentais e o crescimento contínuo da demanda por veículos elétricos.\nO desempenho, no entanto, variou pela região. A Tesla registrou fortes ganhos na Noruega e na Suécia, mas ficou atrás de vários rivais chineses na Dinamarca, o que destaca o cenário competitivo cada vez mais fragmentado na Europa.\nNa Noruega, a Tesla teve seu melhor outubro já registrado e foi a marca de carros mais vendida do país, com uma participação de mercado de 9,8%, de acordo com a OFV. As marcas chinesas continuaram a expandir sua presença, respondendo por 22,5% dos registros de carros de passeio novos, sua maior participação mensal já registrada.\n“Especialmente na Noruega, as pessoas são, em geral, mais abastadas do que em outras partes da Europa; elas procuram menos as opções mais econômicas das marcas chinesas do que em outros países europeus”, afirmou Rico Luman, economista sênior da ING Research.\nEm contrapartida, a participação de mercado da Tesla na Dinamarca foi de apenas 0,73%, ficando atrás da BYD, da Leapmotor, da Xpeng e da MG, de propriedade da Saic, que conquistaram entre 1,6% e 5,5% do mercado cada uma.\n“O Norte da Europa está bastante aberto aos novos participantes, desde que sejam veículos elétricos eficientes. Foi isso que permitiu à Tesla alcançar uma posição de liderança e é o que está permitindo que as marcas chinesas ganhem terreno rapidamente”, disse à Reuters o analista do setor Felipe Munoz, que dirige a plataforma Car Industry Analysis.\nA Tesla continua sendo uma das marcas de veículos elétricos mais fortes da Europa, embora sua dependência do Model 3 e do Model Y a tenha deixado diante de uma concorrência crescente por parte de rivais com linhas de produtos mais amplas.\nA montadora informou em outubro que havia encerrado o terceiro trimestre com sua maior carteira de pedidos de veículos de passageiros em quatro anos."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Minério de ferro fecha quase estável com queda menor que o esperado na demanda chinesa",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/02/minrio-de-ferro-fecha-quase-estvel-com-queda-menor-que-o-esperado-na-demanda-chinesa.ghtml",
+   "resumo_original": "Os preços do minério de ferro fecharam quase estáveis nesta segunda-feira (2), diante de uma queda menor do que se antecipava na demanda por esse insumo para a produção de aço na China, principal consumidora do produto, onde os preços têm sido pressionados nos últimos dois meses devido às expectativas do mercado de um excesso de oferta no quarto trimestre. O contrato de minério de ferro mais negociado na Bolsa de Commodities de Dalian, na China (DCIOcv1), encerrou o pregão diurno com queda de 0,07%, a 674,5 yuans (US$ 101,46) por tonelada. Ele registrou perdas de 3,4% e 4,3% em setembro e outu",
+   "data": "2026-11-02T11:09:20-03:00",
+   "texto": "Os preços do minério de ferro fecharam quase estáveis nesta segunda-feira (2), diante de uma queda menor do que se antecipava na demanda por esse insumo para a produção de aço na China, principal consumidora do produto, onde os preços têm sido pressionados nos últimos dois meses devido às expectativas do mercado de um excesso de oferta no quarto trimestre.\nO contrato de minério de ferro mais negociado na Bolsa de Commodities de Dalian, na China (DCIOcv1), encerrou o pregão diurno com queda de 0,07%, a 674,5 yuans (US$ 101,46) por tonelada. Ele registrou perdas de 3,4% e 4,3% em setembro e outubro, respectivamente.\nAlgumas siderúrgicas chinesas iniciaram a manutenção de equipamentos em meio à baixa rentabilidade, enquanto várias outras nas regiões do norte reduziram temporariamente a produção para melhorar a qualidade do ar local. Isso gerou expectativas de uma queda acentuada na produção de metal quente, um indicador da demanda por minério de ferro.\nNo entanto, a produção média diária de metal quente entre as siderúrgicas chinesas pesquisadas caiu apenas 0,2% em relação à semana anterior, para cerca de 2,32 milhões de toneladas em 29 de outubro, segundo dados da consultoria Mysteel.\nO minério de ferro ainda enfrenta riscos de queda devido a fundamentos fracos, mas o sentimento do mercado se recuperou um pouco com os preços caindo para perto do nível de suporte técnico, afirmaram analistas da corretora Guoxin Futures em uma nota.\nIsso ajudou a estabilizar os preços do minério, acrescentaram."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "BNDES estuda uso do Fundo Garantidor de Exportação para investimento em mineração",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/02/bndes-estuda-uso-do-fundo-garantidor-de-exportao-para-investimento-em-minerao.ghtml",
+   "resumo_original": "José Luis Gordon, diretor de desenvolvimento produtivo, inovação e comércio exterior do BNDES",
+   "data": "2026-11-02T11:03:34-03:00",
+   "texto": "O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) está estudando novas alternativas de financiamento para destravar investimentos na indústria mineral brasileira e mitigar a exigência de garantias para projetos que demandam grandes aportes, um dos entraves do setor. O uso do Fundo Garantidor de Exportação (FGE) é uma das frentes em análise.\nSegundo a instituição, o financiamento para o setor minerário enfrenta desafios sobretudo na fase de estruturação de garantias. “O grande gargalo, do ponto de vista financeiro, é a questão das garantias para apoiar o setor”, disse ao Valor José Luis Gordon, diretor de desenvolvimento produtivo, inovação e comércio exterior do BNDES.\nO estudo sobre a viabilidade do uso do FGE pelo setor ganhou força após mudanças legislativas recentes. Criado em 1999 e gerido pelo banco de fomento, o instrumento teve escopo ampliado no ano passado, por medida provisória. As mudanças foram incorporadas em lei e, agora, o seguro de crédito à exportação coberto pelo fundo passou a abranger projetos de investimento produtivo em território nacional, destinados à exportação, com foco em tecnologia ou ligados à economia verde.\n“É a alternativa também que estamos estudando, de usar o FGE como uma possibilidade de apoiar também, por conta dessas mudanças na lei, que permitiram que a agenda de descarbonização seja apoiada por este instrumento. Isso está sendo discutido ainda e não tem nada decidido. Estamos avaliando”, disse Gordon.\nSegundo ele, do ponto de vista operacional, o BNDES está preparado para avançar quando houver alinhamento político sobre o tema. “Essa [medida] ainda não tem consenso no governo, mas trabalhamos e temos tudo pronto para funcionar”, afirmou.\nEle disse que o foco da aplicação do FGE na mineração não se restringe à extração de matéria-prima, mas no desestímulo à exportação de minérios brutos, sem processamento local. Segundo Gordon, a proposta seria oferecer garantias a empreendimentos que realizassem o beneficiamento no país, mesmo que parte da produção fosse para o mercado externo.\n“A ideia dele é apoiar os projetos de investimento que vão agregar valor no Brasil, toda a parte de beneficiamento e que possam exportar uma parte disso. Uma parte sendo exportada, uma parte ficando no Brasil, mas podendo apoiar o investimento usando o FGE”, afirmou.\n“Por exemplo, uma empresa que já está produzindo e exportando e quer aumentar a produção e expandir a capacidade de beneficiamento, ou fazer um investimento a mais, poderia usar o FGE como uma garantia para poder expandir sua capacidade produtiva e agregar valor”, acrescentou.\nO plano integra um conjunto mais amplo de mecanismos que governo e BNDES vêm articulando para acelerar investimentos no setor mineral e de minerais críticos. Entre alternativas já em andamento estão o Fundo Clima, com linha de crédito com taxas incentivadas para projetos sustentáveis; linhas de financiamento do BNDES Mais Inovação; o programa Brasil Soberano, lançado com recursos próprios do FGE; além da possibilidade de participação acionária com aportes diretos em ações de empresa do setor, por meio do BNDESPar.\n“O BNDESPar, o lado do banco que investe diretamente, é uma forma de investir e chegar nessas ‘junior companies’ (pequenas mineradoras independentes focadas na fase inicial da atividade mineral)”, disse Gordon. “E, recentemente, também criamos um grupo interno do banco para trabalhar a construção de soluções de ‘project finance’ (com retorno baseado no fluxo de caixa futuro de um projeto não operacional)”, completou.\nO setor de minerais críticos, em específico, ainda deve passar a contar em breve com o Fundo Garantidor da Atividade Mineral (FGAM), de até R$ 2 bilhões, que surge junto com a política nacional de minerais críticos, sancionada em setembro.\nO BNDES já estimou, anteriormente, que este fundo precisaria de cerca de R$ 5 bilhões para destravar projetos."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Lucro da S-Oil cresce quase 23 vezes no 3º trimestre em meio à turbulência contínua no Oriente Médio",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/02/lucro-da-s-oil-cresce-quase-23-vezes-no-3o-trimestre-em-meio-a-turbulencia-continua-no-oriente-medio.ghtml",
+   "resumo_original": "A S-Oil registrou um aumento de quase 23 vezes em seu lucro líquido no terceiro trimestre, impulsionado pelos preços mais altos de energia e margens de refino mais amplas, em um cenário de incerteza decorrente do prolongado conflito no Oriente Médio. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+   "data": "2026-11-02T10:13:10-03:00",
+   "texto": "A S-Oil registrou um aumento de quase 23 vezes em seu lucro líquido no terceiro trimestre, impulsionado pelos preços mais altos de energia e margens de refino mais amplas, em um cenário de incerteza decorrente do prolongado conflito no Oriente Médio.\nA refinaria sul-coreana, controlada pela Saudi Aramco, informou nesta segunda-feira (2) que as margens de refino permaneceram sólidas no período de julho a setembro, sustentadas por uma oferta restrita devido ao prolongado conflito envolvendo o Irã.\nO lucro líquido no trimestre foi de 1,436 trilhão de wons (equivalente a US$ 1,08 bilhão), um salto expressivo em relação aos 63,20 bilhões de wons registrados um ano antes. O resultado superou a estimativa de consenso compilada pela FactSet, que era de 1,013 trilhão de wons.\nA receita subiu 42%, atingindo 11,969 trilhões de wons. O lucro operacional cresceu mais de seis vezes, chegando a 1,407 trilhão de wons.\nO segmento de refino da S-Oil continuou a impulsionar o sólido crescimento dos resultados, respondendo por quase metade do lucro operacional total da empresa.\nOs preços elevados do petróleo bruto e dos produtos refinados continuaram a sustentar valores de estoque mais altos e margens de refino mais amplas, em meio a tensões persistentes no Oriente Médio.\nO transporte marítimo através do Estreito de Ormuz e do Estreito de Bab el-Mandeb — duas das rotas de suprimento de petróleo mais críticas do mundo — permanece restrito, uma vez que as tensões entre os EUA, o Irã, a Arábia Saudita e os militantes houthis (apoiados pelo Irã) continuam elevadas, apesar dos esforços diplomáticos para amenizar o conflito.\nO presidente Trump suspendeu temporariamente novos ataques ao Irã, mas os militantes houthis deram continuidade à sua campanha contra instalações petrolíferas sauditas. O mercado tem incorporado, cada vez mais, o risco de uma escalada maior na região após as eleições de meio de mandato nos EUA, marcadas para 3 de novembro.\nSegundo reportagem recente do The Wall Street Journal, os EUA estão enviando um terceiro grupo de ataque de porta-aviões e embarcações adicionais do Corpo de Fuzileiros Navais para o Oriente Médio, enquanto o presidente Trump avalia a possibilidade de retomar os ataques contra o Irã após as eleições de meio de mandato. As ações da S-Oil acumularam uma alta de mais de 50% este ano, apesar de um recuo no último mês."
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Grécia acerta aquisição de até 6 jatos KC-390 Millennium, da Embraer",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/02/grcia-acerta-aquisio-de-at-6-jatos-kc-390-millennium-da-embraer.ghtml",
+   "resumo_original": "O Ministério da Defesa da Grécia assinou, nesta segunda-feira (2), a aquisição de três aeronaves KC-390 Millennium e a obtenção de opções de compra de outras três unidades. O contrato foi firmado por meio de um acordo governamental entre Grécia e Portugal, segundo informações divulgadas pela fabricante brasileira em comunicado ao mercado. A primeira entrega do pedido deve ocorrer em 2027, segundo a Embraer. “Estamos honrados com a decisão da Grécia de adquirir o KC-390 Millennium. Essa escolha ressalta a confiança que importantes membros da Otan [Organização do Tratado do Atlântico Norte] poss",
+   "data": "2026-11-02T09:32:51-03:00",
+   "texto": "O Ministério da Defesa da Grécia assinou, nesta segunda-feira (2), a aquisição de três aeronaves KC-390 Millennium e a obtenção de opções de compra de outras três unidades. O contrato foi firmado por meio de um acordo governamental entre Grécia e Portugal, segundo informações divulgadas pela fabricante brasileira em comunicado ao mercado.\nA primeira entrega do pedido deve ocorrer em 2027, segundo a Embraer . “Estamos honrados com a decisão da Grécia de adquirir o KC-390 Millennium. Essa escolha ressalta a confiança que importantes membros da Otan [Organização do Tratado do Atlântico Norte] possuem em nossa aeronave”, afirma o presidente da divisão de defesa e segurança da Embraer , Bosco da Costa Junior.\nA Grécia é o sétimo país europeu a selecionar o jato da Embraer , juntando-se a Portugal, Hungria, Holanda, Áustria, República Tcheca e Suécia. O modelo também já foi adquirido pelas forças aéreas do Brasil, da Colômbia e de países asiáticos.\nDe acordo com a Embraer , a aeronave pode transportar carga útil de 26 toneladas e é capaz de executar diferentes tipos de missões, incluindo transporte de cargas e tropas, lançamento de equipamentos e pessoal, evacuação médica, busca e salvamento e combate a incêndios.\nA encomenda, fechada nesta segunda-feira, já havia sido noticiada por veículos locais da Grécia, quando aprovada previamente por órgãos do país mediterrâneo."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Ryanair busca reduzir custos para compensar aumento da conta de combustível",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/02/ryanair-busca-reduzir-custos-para-compensar-aumento-da-conta-de-combustvel.ghtml",
+   "resumo_original": "A Ryanair Holdings prevê um aumento significativo de suas despesas com combustível no próximo ano fiscal e está avaliando possíveis cortes de custos para amenizar o impacto, alertando que elevar os preços das passagens e reduzir rotas não será suficiente. A companhia divulgou, nesta segunda-feira (2), os resultados referentes ao segundo trimestre do ano fiscal de 2027. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+   "data": "2026-11-02T09:12:10-03:00",
+   "texto": "A Ryanair Holdings prevê um aumento significativo de suas despesas com combustível no próximo ano fiscal e está avaliando possíveis cortes de custos para amenizar o impacto, alertando que elevar os preços das passagens e reduzir rotas não será suficiente. A companhia divulgou, nesta segunda-feira (2), os resultados referentes ao segundo trimestre do ano fiscal de 2027.\nO conflito no Oriente Médio elevou os custos de combustível para companhias aéreas em todo o mundo, levando-as a aumentar as tarifas e reduzir rotas em um momento em que muitos clientes estão adiando a compra de passagens até a última hora devido à incerteza econômica.\n“A menos que haja uma solução rápida para o conflito no Oriente Médio, esperamos que os preços do combustível de aviação permaneçam elevados até bem avançado o ano de 2027”, afirmou nesta segunda-feira o diretor-presidente da Ryanair, Michael O'Leary.\n“À medida que os contratos de proteção contra oscilações dos preços do petróleo, firmados a valores mais baixos, vencerem antes do verão de 2027, todas as companhias aéreas da União Europeia enfrentarão uma conta de combustível significativamente maior no próximo ano”, acrescentou.\nAs tarifas de voos de curta distância na Europa devem subir consideravelmente devido ao aumento dos preços do combustível de aviação e aos cortes de capacidade das companhias aéreas. Ainda assim, essas medidas provavelmente não serão suficientes para compensar integralmente um aumento estimado em cerca de 2 bilhões de euros (US$ 2,23 bilhões) nas despesas com combustível da Ryanair no ano fiscal encerrado em março de 2028, considerando os preços atuais dos contratos futuros, informou o grupo aéreo sediado em Dublin.\nA companhia afirmou que está avaliando negociações com aeroportos, acordos trabalhistas próximos do vencimento, redução da proporção de tripulantes por aeronave e uso de inteligência artificial para gerar economias.\nA Ryanair reduziu recentemente sua projeção de tráfego de passageiros para o atual ano fiscal, com o objetivo de diminuir sua exposição ao combustível sem proteção contra oscilações de preços. A empresa espera que o tráfego cresça 3% no ano fiscal de 2028, para 220 milhões de passageiros, uma vez que prevê que a Agência da União Europeia para a Segurança da Aviação (EASA) certificará o Boeing 737 MAX 10 nas próximas semanas, abrindo caminho para as primeiras 16 entregas na primavera.\nA companhia afirmou que seus resultados para o ano encerrado em março estão bem protegidos da atual volatilidade dos preços do petróleo devido aos contratos de hedge existentes. Enquanto 80% das necessidades de combustível de aviação da Ryanair para o ano fiscal de 2027 estão protegidas a US$ 65 por barril, a cobertura para o ano fiscal de 2028 é de 25%, a US$ 95 por barril, acrescentou.\nNo último trimestre, o custo do combustível de aviação não protegido por operações de hedge dobrou, contribuindo para um aumento das despesas operacionais que pressionou o lucro do grupo. Ainda assim, a companhia afirmou que planeja iniciar, em fevereiro, um programa de recompra de ações de 800 milhões de euros e anunciou um dividendo intermediário de 27,3 centavos de euro por ação, ante 19,3 centavos de euro um ano antes.\nA Ryanair informou que registrou lucro antes de impostos de 1,83 bilhão de euros no trimestre encerrado em 30 de setembro, em comparação com 1,96 bilhão de euros no mesmo período do ano passado. O lucro líquido trimestral recuou 6%, para 1,61 bilhão de euros.\nO aumento de 10% nas despesas operacionais compensou o crescimento da receita, que passou de 5,48 bilhões de euros para 5,7 bilhões de euros. Analistas consultados pela Visible Alpha projetavam receita de 5,72 bilhões de euros.\nA companhia afirmou que a demanda está forte para o trimestre encerrado em dezembro, com os preços apresentando uma tendência de alta moderada em relação ao mesmo período do ano passado, mas ressaltou que as reservas para o Natal e para o recesso escolar de meio de período determinarão o nível final das tarifas trimestrais.\nCom visibilidade limitada sobre o quarto trimestre do atual ano fiscal, ainda é cedo para fornecer uma projeção consistente de lucro para o ano fiscal de 2027, acrescentou a Ryanair."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Petróleo despenca com expectativas de avanço diplomático entre EUA e Irã",
+   "link": "https://valor.globo.com/financas/noticia/2026/11/02/petrleo-cai-4-pontos-percentuais-com-expectativas-de-avano-diplomtico-entre-eua-e-ir.ghtml",
+   "resumo_original": "Barris de petróleo",
+   "data": "2026-11-02T08:41:06-03:00",
+   "texto": "Os preços do petróleo recuam, com o Brent, referência mundial, em queda de cerca de 4%, devolvendo os ganhos da sexta-feira, diante das expectativas de uma solução diplomática para o conflito entre Estados Unidos, Israel e Irã. A sinalização do presidente americano, Donald Trump, de que pretende dar mais tempo às negociações reduziu os temores de uma escalada do conflito antes das eleições de meio de mandato nos Estados Unidos.\nPerto das 13h45 (de Brasília), na Intercontinental Exchange (ICE), o petróleo Brent para entrega em fevereiro caía 7,28% a US$ 101,58 por barril. Já na New York Mercantile Exchange (Nymex), o petróleo WTI para dezembro cedia 7,14% a US$ 96,69.\n“O petróleo cai à medida que esperanças diplomáticas reduzem o prêmio de risco no Oriente Médio”, diz o MUFG, em nota. Relatos da imprensa indicam que o presidente dos Estados Unidos, Donald Trump, pressionou Israel a conceder mais tempo à diplomacia para alcançar uma solução, embora o cenário geopolítico na região continue tenso. Segundo o portal Axios, Trump informou ao primeiro-ministro de Israel, Benjamin Netanyahu, que pretendia permitir o desenrolar das negociações.\nNos últimos dias, diversas embarcações foram atacadas no Estreito de Ormuz e na região do Golfo, mantendo a ameaça geopolítica em evidência, diz o MUFG. Paralelamente, a Organização dos Países Exportadores de Petróleo e aliados (Opep+), que vinha adotando restrições voluntárias à produção, manteve as metas de produção para dezembro, embora as restrições à circulação pelo estreito limitem a produção e as exportações, tornando as cotas em grande parte nominais."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Chinesa Envision Energy estuda fábrica no Brasil para baterias e turbinas eólicas",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/chinesa-envision-energy-estuda-fabrica-no-brasil-para-baterias-e-turbinas-eolicas.shtml",
+   "resumo_original": "A chinesa Envision Energy está avaliando a possibilidade de instalar uma fábrica no Brasil para produzir baterias e turbinas eólicas, dois negócios de seu portfólio de soluções para o setor de energia que estão no foco dos planos de crescimento para o país, disse um executivo da companhia à Reuters. Leia mais (11/02/2026 - 19h11)",
+   "data": "2026-11-02T19:11:00-03:00",
+   "texto": "Reuters A chinesa Envision Energy está avaliando a possibilidade de instalar uma fábrica no Brasil para produzir baterias e turbinas eólicas, dois negócios de seu portfólio de soluções para o setor de energia que estão no foco dos planos de crescimento para o país, disse um executivo da companhia à Reuters.\nA decisão de um eventual investimento para fabricação local dependeria de uma demonstração de interesse do governo brasileiro, segundo Marcello Trombelli, diretor de soluções e de relações institucionais e governamentais da Envision no Brasil.\n\"Nós estamos em constante contato com os governos, estaduais e federal, no intuito de demonstrar as soluções que nossas tecnologias podem trazer para o sistema elétrico brasileiro. Já seria possível termos nossas fábricas aqui, mas também é preciso que demonstrem interesse\", afirmou ele à Reuters, à margem do evento Brazil Windpower, na terça-feira.\nQuestionado sobre o que seria esse \"interesse\", o executivo mencionou medidas como incentivos fiscais e ex-tarifários, que ajudariam a empresa a trazer gradualmente sua produção de tecnologias consideradas inéditas para o mercado brasileiro.\nUma das maiores fornecedoras mundiais de soluções de tecnologia \"verde\", a Envision ainda é relativamente nova no Brasil. No ano passado, anunciou suas primeiras intenções para o país, incluindo uma planta de combustível sustentável de aviação (SAF), após uma visita do presidente Luiz Inácio Lula da Silva e outros integrantes do governo à China .\nEm janeiro deste ano, a Envision divulgou seu primeiro grande negócio local, um acordo com a geradora renovável Casa dos Ventos para o fornecimento de 630 megawatts (MW) de turbinas eólicas e outros serviços.\nO contrato com a Casa dos Ventos, que será atendido com máquinas importadas, ganhou projeção por ser um dos únicos anunciados em meio a uma crise prolongada da indústria eólica doméstica, enquanto o segmento ainda luta por uma retomada a partir de 2027.\nMultinacionais como GE e Siemens paralisaram suas atividades no país nos últimos anos, devido à falta de encomendas para novos parques. Ao mesmo tempo, outras fabricantes desembarcaram no Brasil, vindas especialmente da China, como Goldwind, Sinoma e Windey.\nAlém de aerogeradores, a Envision Energy também está interessada no segmento de baterias e já tem ofertado seus produtos a empresas que pretendem participar do primeiro leilão do Brasil para contratar essa tecnologia para o sistema elétrico.\n\"Estamos seguindo a cartilha definida para o BESS (sistema de bateria), ou seja, é esperado que para participar do leilão de BESS tenha-se conteúdo nacional, estamos nessa estratégia, trabalhando para isso, com parcerias locais\", explicou Trombelli.\nAlgumas fabricantes chinesas de sistemas de armazenamento de energia, como Jinko ESS e CATL, já fecharam parcerias com empresas brasileiras do segmento para nacionalizar projetos e garantir uma participação maior no leilão inédito para a tecnologia, marcado para dezembro. Já a BYD anunciou um investimento de até R$500 milhões para produção de BESS no Brasil."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Gasolina deve atingir recorde sob Trump na véspera das eleições de meio de mandato nos EUA",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gasolina-deve-atingir-recorde-sob-trump-na-vespera-das-eleicoes-de-meio-de-mandato-nos-eua.shtml",
+   "resumo_original": "Os preços da gasolina desde que Donald Trump voltou à Casa Branca estão prestes a atingir uma média recorde durante uma administração presidencial nos Estados Unidos , um dia antes de os americanos votarem em eleições legislativas dominadas pela alta do custo de vida. Leia mais (11/02/2026 - 16h17)",
+   "data": "2026-11-02T16:17:00-03:00",
+   "texto": "Você tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nOs preços da gasolina desde que Donald Trump voltou à Casa Branca estão prestes a atingir uma média recorde durante uma administração presidencial nos Estados Unidos , um dia antes de os americanos votarem em eleições legislativas dominadas pela alta do custo de vida.\nUma análise do Financial Times com base em dados federais mostra que o preço médio de um galão (3,8 litros) de gasolina durante o segundo mandato de Trump ultrapassará US$ 3,46 em 2 de novembro, superando a máxima média anterior, registrada sob seu antecessor, Joe Biden.\nO recorde indesejado para o presidente ocorre em um momento em que os custos dos combustíveis —que dispararam desde que ele iniciou a guerra com o Irã , em fevereiro— se tornaram um importante fator de desgaste para os republicanos às vésperas da votação desta semana.\n\"Os preços elevados da energia são um dos principais fatores por trás das preocupações com o custo de vida, que estarão no centro das atenções dos eleitores nas urnas\", afirmou Jason Bordoff, diretor do Centro de Política Energética Global da Universidade Columbia. \"E esses preços são resultado de danos autoinfligidos que esta administração impôs ao país.\"\nDurante a campanha de 2024, Trump conquistou muitos eleitores ao prometer reduzir o preço da gasolina para US$ 2 por galão e combater a inflação persistente que havia afetado os americanos sob Biden. Em vez disso, a guerra fez os preços subirem significativamente.\nO custo da gasolina aumentou mais de 33% desde que Trump voltou ao poder, em janeiro do ano passado, chegando a US$ 4,269 por galão em 26 de outubro, o dado mais recente divulgado pela Administração de Informação de Energia (EIA, na sigla em inglês).\nO preço médio ao longo do segundo mandato do presidente era de US$ 3,455 por galão na semana passada, pouco abaixo do recorde de US$ 3,457 registrado durante a presidência de Biden. Cálculos do FT mostram que a média de Trump ultrapassará a de seu antecessor quando os dados de preços de 2 de novembro forem divulgados nesta terça-feira (3).\nOs preços sob Trump, porém, continuam abaixo do pico absoluto de mais de US$ 5 por galão registrado durante o governo Biden, após a invasão em larga escala da Ucrânia pela Rússia, em 2022.\nO aumento dos preços nas bombas elevou a inflação e se tornou um problema eleitoral para o presidente. O índice de preços de gastos com consumo pessoal (PCE, na sigla em inglês) subiu a uma taxa anual de 3,6% em setembro, ante 2,6% antes de Trump assumir o cargo.\nReceba no seu email o que de mais importante acontece na economia; aberta para não assinantes.\nPesquisas indicam que eleitores frustrados devem punir o partido do presidente nesta semana, com disputas para a Câmara e o Senado em estados antes considerados redutos republicanos se tornando acirradas. Uma pesquisa recente do FT apontou que 56% dos eleitores afirmaram estar em situação financeira pior sob Trump.\n\"Se a vida moderna pudesse ser resumida a um preço, seria o preço na bomba de combustível\", afirmou Bob McNally, ex-assessor de energia do governo George W. Bush e presidente da consultoria Rapidan Energy. \"Independentemente de o eleitor abastecer naquele dia ou não, é provável que veja o preço na bomba.\"\nA forte alta dos combustíveis equivaleu a \"um aumento repentino de impostos que o eleitor não autorizou e sobre o qual o Congresso não votou\", disse McNally. \"E, como os presidentes [Jimmy] Carter e George H. W. Bush podem atestar, isso representa um enorme obstáculo para qualquer partido no poder às vésperas de uma eleição.\"\nO Irã bloqueou em grande medida o transporte de petróleo pelo estreito de Hormuz durante boa parte do ano. A guerra provocou danos generalizados a refinarias e outras infraestruturas energéticas no Oriente Médio , agravando as restrições de oferta provocadas por ataques ucranianos a refinarias russas e elevando os preços globais dos combustíveis.\nO presidente dos EUA defendeu a alta dos preços como um efeito colateral de uma guerra que, segundo ele, era necessária para impedir que o Irã obtivesse uma arma nuclear. Trump afirmou que os preços despencarão quando o conflito terminar.\nA porta-voz da Casa Branca, Taylor Rogers, disse ao FT: \"Proteger a segurança nacional dos Estados Unidos contra ameaças de um regime terrorista radical que grita ‘Morte à América’ há 47 anos foi a coisa certa a fazer, e o presidente Trump é o único que teve coragem de fazê-lo\".\nUm funcionário da Casa Branca afirmou que, quando ajustados pela inflação, os preços eram mais altos sob Biden.\nO diesel — insumo essencial para a agricultura e a indústria — tem sido um problema particularmente difícil para a Casa Branca nos últimos meses, à medida que republicanos em regiões agrícolas do país enfrentam forte pressão dos eleitores.\nO diesel subiu mais de 70% durante o segundo mandato de Trump, chegando a US$ 6,352 em 26 de outubro. O preço médio do combustível desde que o presidente voltou ao poder também superou o nível registrado sob Biden, de US$ 4,076, e atingiu US$ 4,339 na semana passada, mostram cálculos do FT com base em dados da EIA.\nTrump adotou medidas extraordinárias para tentar reduzir os preços, incluindo a suspensão de regras ambientais e de transporte marítimo, além de incentivar governadores a coordenar esforços para suspender impostos estaduais sobre combustíveis.\n\"Esta administração foi mais longe do que qualquer outra na tentativa de conter os preços nas bombas\", afirmou McNally. \"Mas, no fim das contas, o poder de qualquer Casa Branca é limitado.\"\nA medida mais controversa de Trump foi suspender temporariamente sanções à importação de diesel russo por meio de um acordo com o presidente Vladimir Putin.\nTrês navios-tanque —um deles na lista de sanções dos EUA e outro na lista de restrições da União Europeia— estão programados para descarregar um total de 140 mil toneladas de diesel em portos americanos poucos dias depois das eleições legislativas.\nAnalistas afirmam que o acordo de diesel com Putin terá pouco impacto sobre os preços no curto prazo, devido aos pequenos volumes iniciais prometidos. O efeito de longo prazo também deve ser limitado, a menos que haja um acordo de paz entre Moscou e Kiev.\n\"No fim das contas, provavelmente muito pouco desse diesel chegará aos Estados Unidos, porque a Rússia não tem muito diesel para vender\", afirmou Rachel Ziemba, analista do Centro para uma Nova Segurança Americana. \"Seria necessário um cessar-fogo na área de energia, além de tempo para reconstruir e reparar as refinarias russas.\"\nNa sexta-feira, Exxon e Chevron alertaram que a crise do diesel veio para ficar, enquanto as petrolíferas americanas divulgaram lucros próximos de recordes, de US$ 25,3 bilhões somados.\nTrump provocou indignação ao celebrar os ganhos das empresas de energia como uma vantagem para os Estados Unidos. \"Não estou nem aí, vou dizer: estamos fazendo uma fortuna do caramba\", afirmou a uma plateia na Geórgia, provocando reação negativa em algumas regiões do país.\n\"Trump e seus amigos ultrarricos do setor petrolífero estão estourando champanhe enquanto embolsam bilhões com o sofrimento dos americanos\", afirmou Alex Glass, do Climate Power, uma organização ambiental sem fins lucrativos.\nMais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?\nDe 2ª a 6ª pela manhã, receba o boletim gratuito com notícias e análises de economia"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Petróleo despenca quase 8% com expectativa de retomada de negociações entre EUA e Irã",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/petroleo-despenca-quase-8-com-expectativa-de-retomada-de-negociacoes-entre-eua-e-ira.shtml",
+   "resumo_original": "Os preços do petróleo despencaram quase 8% nesta segunda-feira (2), depois que o presidente do Irã, Masoud Pezeshkian, afirmou que o líder supremo do país havia concedido ao governo \"certos poderes\" nas negociações destinadas a garantir um acordo com os EUA. Leia mais (11/02/2026 - 15h20)",
+   "data": "2026-11-02T15:20:00-03:00",
+   "texto": "Você tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nOs preços do petróleo despencaram quase 8% nesta segunda-feira (2), depois que o presidente do Irã, Masoud Pezeshkian, afirmou que o líder supremo do país havia concedido ao governo \"certos poderes\" nas negociações destinadas a garantir um acordo com os EUA.\nO barril Brent, referência mundial, chegou a cair para US$ 104,40 (R$ 568,25), queda de 7,96%, por volta das 13h45 (horário de Brasília). É o menor valor desde 21 de outubro, quando o Brent chegou a ser vendido por US$ 104,26.\nPor volta das 15h, a cotação estava em US$ 104,38 (R$ 568,14), com desvalorização de 8%. Já o petróleo WTI (West Texas Intermediate), usado nos EUA, caía 7,77%, a US$ 96,04 (R$ 522,75).\nA queda ocorreu enquanto os operadores avaliavam as chances de os EUA e Israel lançarem uma nova rodada de ataques intensos contra Teerã após as eleições de meio de mandato dos EUA, nesta terça-feira (3).\n\"Estamos fazendo esforços para resolver a questão por meio do diálogo\", afirmou Pezeshkian, segundo a imprensa local. \"Nesse sentido, o líder supremo também concedeu certos poderes ao governo.\"\nO aiatolá Mojtaba Khamenei, que não fez aparições públicas desde o início da guerra, em 28 de fevereiro, tem a palavra final sobre todos os assuntos de Estado.\nAs declarações de Pezeshkian aumentaram a volatilidade no mercado de petróleo, enquanto os operadores continuavam concentrados no conflito no Oriente Médio.\nO primeiro-ministro israelense, Benjamin Netanyahu, pressiona o presidente dos EUA, Donald Trump, por uma rápida retomada da guerra, segundo pessoas a par da situação.\nTrump, que descartou qualquer ataque antes das eleições de meio de mandato, ainda não decidiu se retomará as ofensivas, acrescentaram as pessoas ouvidas pela reportagem.\n\"Vale lembrar que os preços do petróleo incorporam um prêmio de risco geopolítico bastante elevado\", afirmou Francesco Pesole, estrategista do ING, acrescentando que a retórica mais moderada de ambos os lados ajudou a reduzir os preços do petróleo.\nReceba no seu email o que de mais importante acontece na economia; aberta para não assinantes.\nMediadores regionais, liderados pelo Qatar, intensificaram nas últimas semanas os esforços para intermediar um acordo provisório entre os EUA e o Irã antes das eleições de meio de mandato.\nAutoridades iranianas mantiveram conversas com mediadores em Doha no fim de semana, depois que uma equipe de negociadores catarianos realizou um dia de negociações em Teerã na sexta-feira.\nUma pessoa informada sobre as conversas disse que tanto os EUA quanto o Irã queriam um acordo e davam sinais de maior flexibilidade, mas ainda não estava claro se o esforço diplomático seria capaz de superar as divergências. Os mediadores pressionam Trump a dar mais tempo à diplomacia.\nExecutivos do setor disseram que oito meses de interrupções nos fluxos de petróleo do Oriente Médio reduziram as margens de segurança dos mercados globais, ampliando as reações dos preços aos acontecimentos na região.\n\"Há muito medo e risco embutidos no preço hoje, além de fundamentos bastante apertados\", disse Russell Hardy, presidente-executivo da Vitol, aos participantes da conferência Adipec, em Abu Dhabi, na segunda-feira.\nHardy afirmou que o mercado enfrentava uma \"situação difícil e delicadamente equilibrada entre oferta e demanda\" e acrescentou: \"A questão é: conseguimos suportar muito mais dessas interrupções? Acho que a resposta é não.\"\nO Brent para entrega em dezembro chegou a US$ 118 o barril na última sexta-feira (30). Parte da queda dos preços na segunda-feira esteve relacionada à mudança do principal contrato de referência para o vencimento de janeiro.\nEspecialistas disseram estar cautelosos quanto às perspectivas de uma nova rodada de negociações de paz, diante das inúmeras tentativas de se chegar a um acordo nos últimos oito meses.\n\"A questão central é: [Khamenei] realmente deu seu aval a concessões que manterão à margem o ‘grupo favorável a concluir o trabalho’?\", questionou Helima Croft, chefe de estratégia global de commodities do RBC Capital Markets.\nA queda do preço do petróleo ajudou a sustentar uma recuperação das ações dos EUA na segunda-feira. O Nasdaq 100, fortemente concentrado em tecnologia, subiu 0,4%, e o abrangente S&P 500 avançou 0,6%.\nO Nasdaq 100 caiu 3,5% na sexta-feira e registrou, em outubro, seu pior mês em mais de um ano, enquanto o índice Philadelphia Semiconductor, que acompanha as principais fabricantes de chips dos EUA, despencou 7,2%.\n\"Acreditamos que é hora de voltar, com cautela, [aos ativos de risco]\", escreveu Ajay Rajadhyaksha, chefe global de pesquisa do Barclays, em nota a clientes na segunda-feira.\n\"A grande questão agora é saber se as últimas semanas representam os primeiros sinais de um colapso iminente da inteligência artificial\", escreveu Rajadhyaksha, do Barclays, embora tenha acrescentado que \"a demanda por capacidade computacional continua, por enquanto, superando a oferta\" e que \"de modo geral, os resultados das empresas permaneceram sólidos\".\nA queda dos preços do petróleo impulsionou uma alta dos títulos públicos, que vinham sendo castigados pelos temores de inflação. Isso levou o rendimento dos gilts de dez anos a cair 0,09 ponto percentual na segunda-feira, para pouco menos de 5,2%.\nMais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?\nDe 2ª a 6ª pela manhã, receba o boletim gratuito com notícias e análises de economia"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Guerra reduziu estoques de petróleo em quase 1 bilhão de barris, diz CEO de estatal dos Emirados Árabes",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/guerra-reduziu-estoques-de-petroleo-em-quase-1-bilhao-de-barris-diz-ceo-de-estatal-dos-emirados-arabes.shtml",
+   "resumo_original": "O CEO da petrolífera Adnoc, Sultan Al Jaber, afirmou nesta segunda-feira (2) que o mundo reduziu seus estoques de segurança ao retirar quase 1 bilhão de barris de petróleo das reservas desde que a guerra dos EUA e de Israel contra o Irã interrompeu o transporte marítimo pelo estreito de Hormuz , em 28 de fevereiro. Leia mais (11/02/2026 - 09h23)",
+   "data": "2026-11-02T09:23:00-03:00",
+   "texto": "Você tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nO CEO da petrolífera Adnoc, Sultan Al Jaber, afirmou nesta segunda-feira (2) que o mundo reduziu seus estoques de segurança ao retirar quase 1 bilhão de barris de petróleo das reservas desde que a guerra dos EUA e de Israel contra o Irã interrompeu o transporte marítimo pelo estreito de Hormuz , em 28 de fevereiro.\nOs estoques de diesel em algumas regiões estão nos níveis mais baixos em 35 anos para esta época do ano, enquanto outras enfrentam um déficit de oferta de GNL (gás natural liquefeito) de 600 bilhões de pés cúbicos (17 bilhões de metros cúbicos), disse Al Jaber, durante a conferência ADIPEC, realizada nos Emirados Árabes Unidos .\nOs preços do diesel em muitos mercados dispararam para máximas históricas, impulsionados pelas interrupções no fornecimento provocadas pela guerra, e representam ameaças de inflação e de aumento do custo de vida para governos e consumidores.\n\"Precisamos ampliar o armazenamento estratégico, aumentar os estoques de derivados e contar com capacidade flexível de refino mais próxima dos mercados consumidores\", comentou Al Jaber. \"A infraestrutura deve ser construída antes de se tornar necessária e apoiada por uma logística avançada\", disse o executivo da empresa estatal dos Emirados Árabes Unidos.\nOs custos de transporte marítimo e logística subiram de 5% antes da guerra contra o Irã para 30% do custo de um barril , afirmou Al Jaber.\nO barril Brent, referência internacional, está sendo negociado a cerca de US$ 110 (R$ 544,60), uma alta de aproximadamente 50% em relação a fevereiro, pouco antes do início da guerra.\nReceba no seu email o que de mais importante acontece na economia; aberta para não assinantes.\nNo mês passado, a AIE (Agência Internacional de Energia) concordou em liberar para o mercado mais de 20 milhões de barris de diesel, além de todo o petróleo remanescente de uma liberação recorde de reservas emergenciais prometida em março para ampliar a oferta e conter a disparada dos preços.\nAmin Nasser, CEO da petrolífera estatal saudita Saudi Aramco, afirmou no mês passado que restavam menos de 6 bilhões de barris em estoques comerciais , sendo que a grande maioria não estava disponível, na prática.\nMais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?\nDe 2ª a 6ª pela manhã, receba o boletim gratuito com notícias e análises de economia"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Beneficiada por liminar, Vertex planeja iniciar produção de gasolina em 2027",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/beneficiada-por-liminar-vertex-planeja-iniciar-producao-de-gasolina-em-2027.shtml",
+   "resumo_original": "Amparada por uma decisão judicial e sob questionamentos do mercado, a Vertex Formuladora planeja começar a produzir gasolina em Sorocaba (SP) no início de 2027 por meio de processo conhecido como formulação. Leia mais (11/02/2026 - 04h00)",
+   "data": "2026-11-02T04:00:00-03:00",
+   "texto": "Rio de Janeiro Amparada por uma decisão judicial e sob questionamentos do mercado, a Vertex Formuladora planeja começar a produzir gasolina em Sorocaba (SP) no início de 2027 por meio de processo conhecido como formulação.\nEssa atividade, que consiste na mistura de correntes de hidrocarbonetos, como a nafta, está suspensa pela ANP (Agência Nacional do Petróleo , Gás Natural e Biocombustíveis) desde julho de 2025, após operações contra fraudes no setor de combustíveis.\nEm julho deste ano, a diretoria da ANP aprovou estudo que recomenda o fim da atividade. Segundo o relatório, os benefícios para o abastecimento são \"muito baixos\" e os custos fiscais, \"muito altos\", com base em casos investigados em operações como a Carbono Oculto .\nA última formuladora a operar no Brasil, a Copape, teve a autorização cassada pela ANP em 2024, após sucessivas infrações operacionais e fraudes fiscais.\nA Vertex alega que pediu autorização antes da suspensão e, por isso, recorreu à Justiça. A empresa comunicou à ANP o início das obras em dezembro de 2022 e pediu a licença de operação em julho de 2024, um ano antes da decisão da agência.\nEm 2025, conseguiu na 3ª Vara Federal de Sorocaba uma decisão que obrigou a ANP a continuar analisando o pedido. Em setembro, o desembargador Luiz Alberto de Souza Ribeiro, do TRF-3 (Tribunal Regional Federal da 3ª Região), deu cinco dias para a agência concluir o processo e mandou emitir uma autorização provisória.\nEm nota, a ANP diz que recorreu da decisão por meio da AGU (Advocacia-Geral da União). Se a Justiça mudar de entendimento, afirma a agência, a autorização será revista.\nO diretor-geral da Vertex, Daniel Kurtinaitis, diz que a suspensão de 2025 trouxe insegurança jurídica para uma empresa que já havia investido dezenas de milhões de reais. Segundo ele, o projeto foi idealizado entre o fim de 2021 e o início de 2022, e o investimento total chega a R$ 60 milhões.\nA planta fica às margens da rodovia Castelo Branco. Tem 13 tanques, com capacidade para armazenar 35 milhões de litros. A autorização permite produzir cerca de 100 milhões de litros por mês, o equivalente a cerca de 0,05% da produção nacional.\nKurtinaitis afirma que a empresa está hoje em fase de contratação de pessoal e comissionamento dos equipamentos, e estima levar até 12 meses depois da partida para atingir a produção máxima.\nO plano estratégico da companhia, acrescenta o executivo, inclui ampliar a tancagem para 65 milhões de litros e construir uma usina de energia solar. No futuro, a empresa pretende instalar uma unidade de refino no local.\nO investimento da empresa, porém, é questionado pelo mercado de combustíveis. O ICL (Instituto Combustível Legal) diz que a formulação \"representa uma vulnerabilidade regulatória que pode favorecer fraudes fiscais, dificultar a fiscalização e comprometer a concorrência leal\".\n\"Autorizações concedidas por decisões judiciais individuais, em meio a um processo de revisão regulatória, podem ampliar a insegurança jurídica e criar distorções competitivas entre os agentes do mercado\", afirmou o instituto, financiado por empresas de produção e distribuição de combustíveis.\nKurtinaitis diz que refinarias e centrais petroquímicas já utilizam essa técnica. \"O processo de formulação é comum no mercado nacional e internacional\", afirma."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Petróleo despenca quase 8% com expectativa de acordo entre EUA e Irã",
+   "link": "https://oglobo.globo.com/economia/financas/noticia/2026/11/02/petroleo-cai-mais-de-4percent-com-sinalizacao-de-que-trump-esta-aberto-a-negociacoes-com-ira.ghtml",
+   "resumo_original": "Petróleo cai quase 8%",
+   "data": "2026-11-02T10:56:26-03:00",
+   "texto": "A renovação das expectativas de que os esforços diplomáticos possam pôr fim à guerra no Irã provocou uma forte queda nos preços do petróleo nesta segunda-feira. Os contratos futuros da commodity fecharam com recuo próximo de 8%, após o presidente dos EUA, Donald Trump, sinalizar otimismo com a possibilidade de um acordo com os iranianos. Já as ações de tecnologia tiveram mais um dia de desvalorização, com dúvidas quanto à sustentabilidade dos investimentos em inteligência artificial (IA).\nJuros: Disparada do dólar e incerteza fiscal pós-eleições elevam apostas em pausa no corte da Selic Olhar estrangeiro: 'No fiscal, importante é ter estratégia na direção correta', diz CEO da BlackRock no Brasil\n— Eles (o Irã) querem chegar a um acordo, e isso pode acontecer — afirmou o presidente americano a jornalistas em Washington.\nO republicano acrescentou que os preços do petróleo caíram porque “parece que as negociações estão avançando muito bem”. Pela manhã, o site americano Axios havia noticiado que Trump teria informado ao primeiro-ministro de Israel, Benjamin Netanyahu, que estaria disposto a dar mais tempo às negociações com Teerã antes de retomar ataques.\nApós a divulgação da notícia, o presidente iraniano, Masoud Pezeshkian, afirmou ter recebido mais autonomia do líder supremo do país, Mojtaba Khamenei, para conduzir negociações de paz com os EUA.\nDiante dessas sinalizações, o petróleo do tipo Brent, referência no mercado internacional, fechou em queda de 7,63%, negociado a US$ 104,77. Já o West Texas Intermediate (WTI), referência nos Estados Unidos, recuou 7,36%, a US$ 96,46 o barril.\nPara Sloth Hansen, chefe de estratégia de commodities do Saxo Bank, ouvido pela Bloomberg, a retração nos preços evidencia os riscos de um mercado sujeito a movimentos em direções opostas, entre o temor de uma escalada militar e a expectativa de negociações de paz:\n— Agora, tudo gira em torno da geopolítica, especialmente com as eleições de meio de mandato (nos EUA, que serão hoje) — disse.\nEm um primeiro momento, a queda do petróleo trouxe alívio ao mercado acionário, com a perspectiva de redução dos custos de energia, o que atenuaria a pressão sobre a inflação global. As Bolsas na Europa e na Ásia fecharam no azul. No entanto, o receio quanto à possibilidade de uma bolha de IA voltou a assustar os investidores.\nO Nasdaq, índice com forte participação de empresas de tecnologia, cedeu 1,07%, aos 25.164 pontos, e o S&P 500 recuou 0,51%, aos 7.541 pontos. Apenas o índice Dow Jones da Bolsa de Nova York fechou em leve alta, de 0,41%, aos 51.98 pontos.\nReforma Tributária: Setor privado pressiona Senado para mudar alíquota da CBS\nAs perdas foram lideradas pelas ações de fabricantes de semicondutores. O índice Philadelphia Semiconductor, que acompanha os papéis das principais companhias do setor nos Estados Unidos, caiu 3,4%, ampliando o tombo de 7,2% registrado na última sexta-feira.\n— O petróleo mais barato deveria favorecer as ações de tecnologia, mas o fato de os papéis não terem conseguido sustentar os ganhos da abertura, mesmo com a forte queda da commodity, mostra como a confiança dos investidores está enfraquecida após as perdas expressivas da semana passada — afirmou Dave Mazza, CEO da Roundhill Financial à Bloomberg.\nSegundo o executivo, a proximidade da divulgação dos resultados financeiros da Apple e da empresa de software para IA Palantir Technologies contribuíram para a cautela dos investidores.\nA receita da Apple cresceu acima da expectativa no quarto trimestre fiscal, encerrado em setembro, para US$ 114,5 bilhões. O lucro líquido atingiu US$ 30,71 bilhões, avanço de quase 12% em relação a igual período de 2025. As vendas na China, no entanto, ficaram abaixo do esperado.\nA fabricante do iPhone alertou que a alta “sem precedentes” nos preços dos chips de memória e os custos para operar suas ferramentas de inteligência artificial vão pressionar suas margens de lucro no próximo trimestre. Com isso, as ações da Apple recuaram cerca de 3% no pregão após o fechamento do mercado. Foi o primeiro balanço divulgado pela empesa desde que John Ternus assumiu o cargo de diretor-presidente.\nAs eleições legislativas americanas, marcadas para esta terça-feira e que definirão a nova composição do Congresso americano, também vêm deixando o mercado mais apreensivo. O resultado poderá influenciar a capacidade do presidente Donald Trump de implementar sua agenda econômica, especialmente em temas como política fiscal, comércio internacional e regulamentação da inteligência artificial.\nNo Brasil, a Bolsa permaneceu fechada devido ao feriado do Dia dos Finados."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petróleo tomba 7% após sinal dos EUA de busca por solução diplomática com Irã",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmxoZy1ROEZvOFFsTzZyLTdXQ3J0TkNLNVlNS0tnNjB2NnlXbnVoUmdWdFBvUkc5S0pDX2RER0FxYzlzcXdhemtVM1RrdHpXdkF5QkhCc3RGb0RRU0Z5ZklWc2hFWl96RWdtUzJ3YVFRX3pINEhIemJxV1NWUDVFeDFNdlI0SnhDbFFzMU5iREFhQ3o0ckxKX0p3ZUtjTTZURW95ZHNzeElVejZsNEZfWUY5cnhxV2dBRWVPWkdFWTA4a3g2M1hKck9CeGRyQdIB0wFBVV95cUxORVBkcmRzMzlmRkhPT3l4eEhCV1kzeTRyeTg4TUNHb21iYnBrcDRWMllMQW9rdkhDaHFuSmJQRmY1UndKVE5Sc3lKaXlvOXFxX0ZUZldKclUyS3N6UlpSQ2EyRHoyOVUwNkU4RWVKWFB0TjhNakJxQkdFREFjRG90YnpYZGFyUHJ5aTZCaVV4TllxakxWcERvLV8tNXBTMV9HN0ozaEx6M3c4YTBBNE84bkp1U3hBRjBoTTU4ZEJfLWEwRFVtV0YwRUFEQ2JMczRuU2tz?oc=5",
+   "resumo_original": "Petróleo tomba 7% após sinal dos EUA de busca por solução diplomática com Irã Estadão",
+   "data": "2026-11-02T17:18:08-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas da Europa operam em alta com queda do petróleo; Paris resiste a alerta da Fitch",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZXJEdjRQTDY4N250VjBwc2ZTUnhuMms3X1VwOTc3MmhLa3VDZnM1VkM1REFkOVVMZ0pCQ0hxNW1BS2R5SU53TTlFZFZBcWNFVDJBUjF0WGoxckxaRGhYSFVGdk1obGhHY2FkSnZWQnFhcUluTDNXdV9ka0tLZE5ONlY4WGh2UldWcHFYU2M5ODNPQnRaYXp2Ui1ZdWN0TFBFMWdUbGxBbmdoSEVrNzQ0aTgxQk9NYWFOQmQ1LXF3QlhfWkFzd1FvQkZ0TlhIVFg5VFlTVllPbjlMMUt10gHiAUFVX3lxTFB0UllhUTFvbm9vSkZ3WHl2SEM3blhBTUhRN3JFTDRkSXlKWGkxZnZDa1FiVFdiWGJPR2VseExsbmwxVllXNGhKN1NCMXh3c0xzejhqOUJRMXZKMElQT2NNdTdGNXA3V2dkdnRVc3YxcGo0cUhPNEZOek1RLUxZUnE1WHZHRjRZRmdXUW9XMWswaHpmNkFUSWhLOWk5Y1ZUaWRka3YyT29BWXdraERwTzZwZVRMRUFyNDBxM0RnLVVfZE83bFRmMmRTdU1qOFF4ZnVja2tUR3JqakgzQ1JybXB4WUE?oc=5",
+   "resumo_original": "Bolsas da Europa operam em alta com queda do petróleo; Paris resiste a alerta da Fitch Estadão",
+   "data": "2026-11-02T09:45:58-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLW5OQlNha2JjWmR2elR6cmhFNGh4NDRhaUNqMEp0RVhPX29ZQWRia3ctOVhhRC1kNVRWLThHcTRIY1daWFFMSEFtNXhuZ2VJUTE1TVhaSFZTMDNWM0gwSlRSbUxIRDFwZHFYZ3dyYlU5dGFrN3pJOXlqTGhkNzhVUUR1OHF6YVU5a2RFQVU5ZnVLMFpCMUZ6VGpDLXdIeTJLVDBBTjQ4ZkhTdGs3ODlCSDM5SE8yQV9IYjFaUzFTbHZ0S2tKeTBLTFVMZnBKNTNNcTNXUHpPNkFxcXc3UC15ddIB5gFBVV95cUxOQ2pEVENhYmFTOHRWeVRqdms2QWRKTFFudGV0YXg3NW5Jbnk0U0ZzTGI3Vnl6ampKU1dRV0h0XzVxNW1kVDZkUnFuclRDVVozQmJpOTI3bGtvZ2FSNGtzaUhjVTBTMmc1REp5QzBwUnp6WEdtc2stVHQ2VlBGTUpXc0FJekMzejhWQ3ZsVFNNZTZscEtBY2VicmpMSEpJMUl1Y25DNERNbWszV0hCRWg4MVFGOEczZXh4bzM3WG4tOGNZZHpVMUVhRDAwMXFYbFFZMEVnWGhXcTVtekU3Ty1TV2F3SE9qUQ?oc=5",
+   "resumo_original": "Bolsas da Ásia fecham mistas, com queda do petróleo; ações da Hybe recuam antes de balanço Estadão",
+   "data": "2026-11-02T09:32:01-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas da Europa fecham majoritariamente em alta com tombo nos preços do petróleo e BCE no radar",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdmliVy1HVHpWcmZIa0dvaVJ4QTdiaVhoZWxBeG9xOUlUckVwTmZENVQxOW9XekkwVTRkdHVPVEtzSmZJNVB3OXlkTDA3RlU5ZWprWmNjS1dvakdtLUxSYnhiRmlNWDFPdm01ZWloY0JoR1ZxVUkxZFQxbVoyblJOaXRSS1JLQVJwR2w1aUlJMmQ1RXlINlI1ci1RVEU3UzZaSUVlc2VURmdUR0lDQk9EUm81MXlMV0ljdmNyWFgxMC1jUUMxRzF5RGtaZkE4NzhDTVBQSzVLa0JReVBvU3p5c1VmR0dMNFd3UW8w?oc=5",
+   "resumo_original": "Bolsas da Europa fecham majoritariamente em alta com tombo nos preços do petróleo e BCE no radar Estadão",
+   "data": "2026-11-02T15:15:42-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas de NY fecham sem direção única com tombo de 7% do petróleo; eleições e payroll ficam no radar",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOGJhVzNxbGdWcFE5ZHRlQXQyZWphcGxGYlFldjRjcHJwbU0wTEdSWmpqQl9NdVJJYVhKRVUyUjk5LWNVSkpsTDBWVzFuZkJwTXp1Vm9nYTJuQkpHbnJGcVh5WUN4MlpnLTVwLTVFTHEzSVhUd0hPVTByZDVqLTBlMm1MOG81NjFOeHlSV2hDb3RwS2hmWV9xT1hHWXEwMFRYOTZNWm9ZY1BHRHhWcVpwLWdGOUlTT0h4MVB3a3g2RG1odHFsdkdkS2hYTlhCSV9wUnpkUnYwczc5bUdXZllORlFZQ2x6bG16bzVwWdIB8gFBVV95cUxPS0JhNXVXUHREeEszNUhKS2dOWHBwWVBpVl9FaXhQcG9zbm81a2VfYi1zTE02TGFPbkdRSTIwNE9Odkc3Tm56YlBMN1NIazNoN0NfVlcxZjR5bk5Ya3VxQlVRaG9hbFg0TC14bXZaUS1YLWdjWG91dWtNeGZZdVVuT2s4NE0xMFczQk0ySk8yUV9UYmlVdHhKTDBNRXB4aVhhaWMxdHJiR0RITFVvQ2FvNVlHbWNXdzdfaWpldktNalFHU2ZNamxqbEpodFgtVi1FYjZvZDduR290Y1laUk9rU2NBS2N1bzhkWGFmcmN3X1A4UQ?oc=5",
+   "resumo_original": "Bolsas de NY fecham sem direção única com tombo de 7% do petróleo; eleições e payroll ficam no radar Estadão",
+   "data": "2026-11-02T09:36:32-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petrobras conclui perfuração e confirma 3ª descoberta de petróleo na costa do Amapá",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGVGM3FoZ0NPMV91WnI0SVNqbUl5dmhDeXM1Sk5hVzJrRV9PU0RTXzhFelo5TFRnQ0kxUk1SRngwVEFtTWNRTHRZLTh0TVZLLVhOTGxCY1FWTDZmUXFWb2xUV1VoVmZuek9uUXA2RFFuWFpBc21uYUFyVlNNZ3dVV3RSbDZlQXFoZUJuYkpLQjhUNnpBX0xxRVUxWUtNWUFiZVFoSnZXejFCSkdGdEh2SUVFRDBKM0I3dDYwNW1mczJUeG9vYXVZTGl0TS15dEY3M3c?oc=5",
+   "resumo_original": "Petrobras conclui perfuração e confirma 3ª descoberta de petróleo na costa do Amapá Estadão",
+   "data": "2026-11-02T09:03:02-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ações de tecnologia derrubam Bolsas de NY, com queda de 2,86% no Nasdaq; petróleo dispara mais de 2%",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUHFwLW4ybkEtcHAwcHo2TzBvMU45U2pGYkZUTE5Yd1JsR0RMaHVfanpyQVhmWWZvNmRBMDJsQmpaM0FKMmZWRlB5blU0dEFMWk5sVWJtN2pwVnppYVdON2lxelZyUmo1X2pxZlp2bjQ0NWFuVWc2Y3Zvd0tZeDBEOVNEaVk4VjByYmQ1SXptNlpNN3hZcFR6WDl0ZmgtN1ZGVmxNbDR2MW9qMnZSbVhIeFNhdk1vaTd2amV5Q2xvSktFNzVnTDJ5Ymo3SFpXX1FoeTV5eEszMHBBQkktSC1qN2NBcDNfTVZSR3YwOGQzSGtrN1Vm?oc=5",
+   "resumo_original": "Ações de tecnologia derrubam Bolsas de NY, com queda de 2,86% no Nasdaq; petróleo dispara mais de 2% Estadão",
+   "data": "2026-11-02T18:12:14-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Confrontos entre cartel e guerrilha obrigam 500 indígenas a deixar território na Colômbia",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnJ5WjZoNFRnbEFxZVVEdjN0ZG9zZ2Z0eG43UEtTaXVCVWtyb1pNMmJWdWxKbzV3eEpxblNtSjJ1WmdNV0JpeEhTZzVRcXM5Nm8tVGkwd3BVWFlDTGplQWl0aGhEaXZmNTJyUkhQS1l3OHFjdnIzMzRLMFdfWUxxOUtwZWF6SGFwOUVWLXBSUTR1ZFRGb2xzM2EwQldXdnVHeEFGOFUzZzhpbklQNkl4U2x2MFBaYmtLNG1tRnRkcnB0d1JvNTJySmQwWHQySVpTRmxNSlBBNS1kcXc?oc=5",
+   "resumo_original": "Confrontos entre cartel e guerrilha obrigam 500 indígenas a deixar território na Colômbia Estadão",
+   "data": "2026-11-02T03:38:19-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Movimento Econômico",
+   "idioma": "pt",
+   "titulo": "Onshore no Nordeste ganha novo ciclo com gás natural, perfurações e investimentos",
+   "link": "https://movimentoeconomico.com.br/estados/alagoas/2026/11/03/onshore-no-nordeste-ganha-novo-ciclo-com-gas-natural-perfuracoes-e-investimentos/",
+   "resumo_original": "Nordeste concentrou 53,1% da produção terrestre de petróleo e gás do país até agosto e mantém novos projetos em campos maduros e áreas exploratórias",
+   "data": "2026-11-03T04:22:00-03:00",
+   "texto": "O onshore nordestino respondeu por 53,1% da produção terrestre brasileira de petróleo e gás natural entre janeiro e agosto de 2026 , segundo dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis ( ANP ). Considerando a conversão em barris de óleo equivalente, o gás natural representou uma parcela ligeiramente superior à do petróleo na produção regional, com destaque para os poços no Maranhão . Já no petróleo, o Rio Grande do Norte manteve a liderança regional. Boa parte dessa produção é realizada por petroleiras independentes , que projetam investimentos e ampliação da produção no longo prazo.\nO levantamento realizado nos dados da ANP mostra que a produção terrestre de petróleo do Nordeste teve média de 63,4 mil barris por dia entre janeiro e agosto de 2026 , uma queda de 9,3% em relação ao mesmo período de 2025 . O Rio Grande do Norte produziu 26,6 mil barris por dia , apesar do recuo de 16,1% no comparativo com o ano anterior.\nA Bahia produziu 19,4 mil barris diários , redução de 7,3% , enquanto Sergipe registrou 12,6 mil barris por dia , queda de 1,5% . Alagoas foi o único estado nordestino a ampliar a produção terrestre de petróleo no período, com crescimento de 22,5% , para 4,5 mil barris por dia . No Ceará , a extração caiu 61,7% , para aproximadamente 302 barris diários . Já o Maranhão produziu cerca de 84 barris de petróleo por dia , recuo de 14,2% .\nNo gás natural , a produção terrestre do Nordeste alcançou 10,2 milhões de metros cúbicos por dia , avanço de 11,4% na comparação entre janeiro e agosto de 2026 e o mesmo intervalo de 2025. O Maranhão liderou com 4,71 milhões de metros cúbicos diários , alta de 27,9% . A Bahia registrou 2,86 milhões de metros cúbicos por dia , redução de 2,3% , enquanto Alagoas ampliou a produção em 17,4% , para 1,63 milhão de metros cúbicos diários .\nO Rio Grande do Norte produziu aproximadamente 931 mil metros cúbicos de gás por dia , queda de 15,2% . Em Sergipe , a produção cresceu 16,2% , alcançando 74,6 mil metros cúbicos diários . O Ceará registrou 380 metros cúbicos de gás por dia , redução de 61,6% .\nNo dia 15 de outubro, a Brava Energia comunicou ao mercado que identificou a presença de hidrocarbonetos em seu primeiro poço exploratório terrestre (onshore), localizado no Campo de Sanhaçu , na Bacia Potiguar, no Rio Grande do Norte.\nSegundo a Brava, a descoberta ocorreu durante a perfuração do poço de extensão 3-SAN-6D-RN . Os trabalhos começaram em 3 1 de agosto e alcançaram 2.230 metros de profundidade , com identificação de gás no reservatório principal do campo.\nA Brava disse ao Movimento Econômico que o segmento de gás natural no Nordeste é um vetor de negócios para a empresa , principalmente pela sua capacidade de garantir segurança energética regional e nacional .\n“Os Polos Potiguar (RN) e Recôncavo (BA) têm papel importante na estratégia integrada de negócios da companhia. Para os próximos anos, a Brava Energia planeja campanhas de perfuração e workover nas bacias do Rio Grande do Norte e da Bahia”, afirmou ao Movimento Econômico .\nEm paralelo, a Brava pretende desenvolver iniciativas de recuperação avançada , visando compensar o declínio natural dos reservatórios e elevar o fator de recuperação dos campos maduros. “A atuação da BRAVA no onshore nordestino está em linha com o compromisso de fortalecer a cadeia produtiva e o desenvolvimento socioeconômico das comunidades onde atua”, completou.\nA Origem Energia arrematou quatro blocos exploratórios no 6º Ciclo da Oferta Permanente de Concessão da ANP , realizado no início de outubro.\nEm entrevista ao Movimento Econômico , Alexandra Garchet, diretora Jurídica e de Relações Institucionais e Governamentais, explicou que a Origem pretende ampliar a produção de gás natural na Bahia e alcançar novos clientes no Nordeste, levando a experiência da petroleira em Alagoas para o Polo Tucano Sul .\n“ Alagoas e Tucano Sul compartilham características importantes: são ativos de gás natural não associado, com infraestrutura existente e oportunidades adicionais de desenvolvimento. O objetivo é aplicar em Tucano Sul o modelo de desenvolvimento que construímos em Alagoas, contribuindo para ampliar a oferta de gás natural na Bahia e fortalecer o mercado de energia do Nordeste”, afirmou.\nJá a PetroReconcavo investiu, nos últimos dois anos, R$ 1,6 bilhão no desenvolvimento da própria produção na Bahia , Rio Grande do Norte e Sergipe , realizando perfuração de novos poços, operações de workover , projetos de injeção de água, busca por novos horizontes produtores e modernização das estruturas de superfície.\nO vice-presidente de Operações da PetroReconcavo, João Victor Moreira, disse ao Movimento Econômico , no início de outubro, que enxerga potencial produtivo por mais 50 ou 60 anos nos campos onde a companhia atua. Segundo ele, o gás natural ganhará cada vez mais espaço na produção e, consequentemente, relevância no mercado regional.\nSe no passado o petróleo chegou a representar mais de 90% da produção da companhia, essa composição mudou com o avanço do gás natural, que hoje responde por cerca de 40% do total produzido .\n“ O onshore tem uma vocação de produzir muito mais gás natural quando olhamos para o futuro . A Petrobras fez as descobertas de forma muito competente no passado, mas o gás natural não tinha a importância que tem hoje, pois não havia infraestrutura para ele ser tratado e destinado ao consumo”, explicou João Victor Moreira.\nEm Sergipe , a Carmo Energy opera o Polo Carmópolis, adquirido da Petrobras e assumido no fim de 2022 . Segundo o boletim da ANP, a companhia registrou produção média de 12,35 mil barris de óleo equivalente por dia (boe/d) em agosto de 2026 . O volume inclui aproximadamente 11,89 mil barris diários de petróleo e 73,12 mil metros cúbicos de gás natural por dia . A unidade boe/d reúne petróleo e gás convertido em equivalente energético.\nA recuperação dos campos maduros sustenta os planos de expansão da empresa. Em entrevista à Brasil Energia , publicada em julho, o diretor-geral Rodrigo Moreto informou que a produção estava próxima de 3,5 mil boe/d quando a Carmo assumiu os ativos. A companhia estabeleceu metas de alcançar 15 mil boe/d até o fim de 2026 e 20 mil boe/d em 2027 , com investimentos em perfuração, tratamento de fluidos, dutos e infraestrutura de escoamento. Segundo o executivo, foram realizadas 153 perfurações em 2025.\nA Eneva atua na produção terrestre de gás natural na Bacia do Parnaíb a, no Maranhão, com uma operação integrada ao abastecimento de suas termelétricas. No terceiro trimestre de 202 6, a companhia produziu 420 milhões de metros cúbicos de gás na bacia , equivalentes a aproximadamente 4,6 milhões de metros cúbicos por dia . O volume ficou estável frente ao segundo trimestre, nos valores arredondados divulgados, e abaixo dos 630 milhões de metros cúbicos registrados no terceiro trimestre de 2025 .\nNesse modelo, a extração acompanha as necessidades de abastecimento das usinas e a demanda por geração elétrica. A empresa também destina parte do gás à comercialização de gás natural liquefeito (GNL) em pequena escala. Ao fim de setembro, os campos da Bacia do Parnaíba reuniam 36,6 bilhões de metros cúbicos de reservas remanescentes provadas e prováveis , segundo dados operacionais da companhia.\nNa Bahia , a Alvopetro concentra sua operação de gás natural nos campos de Caburé e Murucututu , na Bacia do Recôncavo. Em agosto de 2026, a ANP registrou produção média de aproximadamente 2,08 mil boe/d para a operadora.\nEm comunicado divulgado em outubro, a Alvopetro informou ter concluído a modernização da Unidade de Processamento de Gás Natural de Caburé e mantido obras e perfurações em Murucututu. A companhia pretende quadruplicar a capacidade de escoamento desse campo, com ampliação de instalações e gasodutos, em projetos cuja conclusão é esperada para o início de 2027 .\nA Mandacaru Energia integra o grupo de produtoras independentes com operações na Bacia Potiguar , no Rio Grande do Norte . Entre seus ativos estão Cardeal e Colibri , localizados a cerca de 30 quilômetros de Mossoró. A empresa atua no aproveitamento de campos maduros e marginais , com produção de petróleo e gás natural.\nA Petrosynergy também participa da produção terrestre no Nordeste, com campos em Alagoas , Bahia e Rio Grande do Norte . Entre os ativos relacionados pela companhia estão Tabuleiro dos Martins , Fazenda Pau Brasil , Jequiá e Coqueiro Seco , em Alagoas; Canário , Trovoada e Uirapuru , na Bahia; e Pitiguari , no Rio Grande do Norte.\nCom atuação na Bahia, a Petroborn opera o c ampo de Iraí , produtor de gás natural não associado na Bacia do Tucano Sul , e o campo de Bela Vista , na Bacia do Recôncavo, cuja cessão de direitos foi concluída em julho de 2025. Em agosto de 2026, a ANP registrou aproximadamente 18,1 mil metros cúbicos de gás por dia , equivalentes a 114 boe/d , para a operadora. Naquele mês, o boletim não apontou produção de petróleo para a companhia.\nLeia mais: Sergipe amplia rota do gás natural e prepara entrada de biometano na rede"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Movimento Econômico",
+   "idioma": "pt",
+   "titulo": "ANP antecipa certificado exigido para R$ 18,3 bilhões em créditos ao hidrogênio",
+   "link": "https://movimentoeconomico.com.br/economia/energia/2026/11/02/anp-antecipa-certificado-exigido-para-r-183-bilhoes-em-creditos-ao-hidrogenio/",
+   "resumo_original": "Sem certificado, tributo suspenso no Rehidro tem de ser pago com multa. Decisão da ANP nesta quinta-feira (29) prevê a regra pronta para o hidrogênio em outubro de 2027, após consulta pública",
+   "data": "2026-11-02T04:36:00-03:00",
+   "texto": "Empresas que investem em hidrogênio de baixa emissão de carbono no Brasil só ficam livres dos tributos que deixaram de pagar se o combustível for certificado, e as regras dessa certificação devem sair em outubro de 2027 . A diretoria da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou nesta quinta-feira ( 29 ) a antecipação da norma, que estava prevista na proposta de Agenda Regulatória 2027-2028 e passou para a agenda de 2025-2026 , com início dos trabalhos em novembro .\nA exigência está no Decreto nº 13.096 , assinado em 12 de agosto e publicado no Diário Oficial da União em 13 de agosto de 2026 . Ele regulamenta o Regime Especial de Incentivos para a Produção de Hidrogênio de Baixa Emissão de Carbono (Rehidro) , que suspende a cobrança de duas contribuições federais sobre o faturamento, o Programa de Integração Social (PIS) , que inclui o Pasep, e a Cofins , na compra de bens e serviços para os projetos. A suspensão só vira alíquota zero quando a empresa apresenta o certificado de baixa emissão e as declarações da ANP sobre as contrapartidas. Sem isso, paga os tributos com multa e juros.\nO certificado também é condição para os créditos do Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono (PHBC) , que tem teto de R$ 18,3 bilhões em créditos fiscais entre 2030 e 2034 . Pelo decreto, o crédito só é reconhecido enquanto o hidrogênio produzido ou consumido mantiver a certificação. A ANP justificou a mudança de calendário pela importância da norma para os investidores do setor e para as políticas de incentivo à produção.\nPelo cronograma aprovado, a minuta da norma deve ser escrita entre junho e julho de 2027 . A consulta pública está prevista para julho e agosto, e a audiência pública, para agosto.\nO decreto manda calcular a intensidade de emissões do hidrogênio por análise de ciclo de vida , que soma os gases de efeito estufa liberados em cada etapa. A conta vai da extração da matéria-prima ao portão de consumo, mas até 31 de dezembro de 2030 pode parar no portão da fábrica. O marco legal, a Lei nº 14.948 , de 2 de agosto de 2024 , considera de baixa emissão o hidrogênio com até 7 quilos de gás carbônico equivalente por quilo produzido.\nEsse limite inclui o chamado hidrogênio verde , obtido da água com energia eólica ou solar, e também rotas como biomassa, energia nuclear e hidrogênio natural. As emissões ligadas à fabricação dos equipamentos de novos projetos serão informadas em separado até o fim de 2030.\nA ANP é a autoridade reguladora do sistema e vai fixar os padrões da certificação. O Inmetro credencia as empresas certificadoras, e a Câmara de Comercialização de Energia Elétrica (CCEE) registra os certificados numa base nacional, para rastrear o produto e impedir que o mesmo volume seja contado duas vezes. Enquanto o Inmetro não credenciar certificadoras para esse fim, a própria ANP pode designá-las a partir de listas de escopo parecido.\nQuem entra no Rehidro precisa aplicar ao menos 1% do valor total do investimento em projetos de transição energética no país, num prazo de cinco anos . O dinheiro pode ir para acesso à energia nas comunidades afetadas, segurança hídrica, recarga de aquíferos , reflorestamento, cidades sustentáveis, soluções baseadas na natureza e descarbonização da indústria.\nOutro 1% vai para pesquisa, desenvolvimento e inovação. O decreto também fixa conteúdo nacional mínimo de 15% nos sistemas de produção por eletrólise e nos eletrolisadores, de 40% nas demais rotas e de 60% em materiais de distribuição e transporte e em serviços, com dispensa quando não houver equivalente fabricado no país.\nA ANP analisa esses compromissos num fluxo interno e leva cada caso à diretoria colegiada. Depois, o processo segue para o Ministério de Minas e Energia (MME) , que publica as portarias de habilitação prévia. A agência criou em agosto um projeto especial com três prioridades: esse fluxo, a certificação e o manual de autorizações.\nNa reunião desta quinta, a diretoria também aprovou a atualização do Manual para Solicitação de Autorizações para a produção de hidrogênio de baixa emissão de carbono. A nova versão incorpora as regras do decreto de agosto e lista os casos em que a empresa fica dispensada de pedir autorização à ANP.\nA dispensa vale para instalações que produzam hidrogênio em projetos de pesquisa, para consumo próprio , como insumo industrial ou para usos não energéticos. Esses produtores terão de fazer um registro na agência, por meio de um formulário simplificado que ainda será publicado no site da ANP.\nO manual também atualiza os requisitos de gestão de riscos , define o tratamento das instalações que já estão em operação e orienta sobre o Rehidro. O documento tem caráter de orientação e vale enquanto a agência não conclui a regulamentação definitiva. A proposta de Agenda Regulatória 2027-2028, hoje em consulta prévia, inclui outras cinco ações sobre hidrogênio, entre elas regras de produção, movimentação e segurança operacional.\nOs créditos do PHBC serão distribuídos numa disputa conduzida pelo Ministério da Fazenda , que terá como critério mínimo de julgamento o menor crédito pedido por unidade de hidrogênio. O edital terá consulta pública antes do certame, e o valor efetivamente oferecido dependerá das metas fiscais e da lei orçamentária de cada ano.\nTêm prioridade os projetos que usam o hidrogênio no próprio processo industrial nos setores de fertilizantes , siderurgia , cimento , química, petroquímica e transporte pesado . Os vencedores terão de entregar garantias de até 10% do crédito e cronograma com decisão final de investimento, licença de instalação, obras, testes e operação comercial.\nQuem não operar no prazo ou não produzir hidrogênio certificado paga multa de até 20% do crédito que receberia. De acordo com nota do Ministério da Fazenda de 22 de setembro de 2026 , a Secretaria de Reformas Econômicas discute ao longo do ano o desenho da primeira disputa com o Banco Mundial , a Organização das Nações Unidas para o Desenvolvimento Industrial, a Fundação H2Global e a consultoria PSR Energy.\nA redução das desigualdades regionais aparece entre os objetivos da política na mesma nota da Fazenda. No Complexo do Pecém , no Ceará , a Diamante Energia já usa hidrogênio verde no sistema de resfriamento de um dos geradores de 360 megawatts da usina termelétrica, em projeto que a empresa descreveu como pioneiro no país em escala de megawatt no comunicado de 19 de outubro de 2026 .\nNo Rio Grande do Norte , o Plano de Negócios 2026-2030 da Petrobras , aprovado em 27 de novembro de 2025 , previa a primeira planta piloto de hidrogênio de baixa emissão de carbono da companhia no país, na região do Vale do Açu . A unidade teria 2 megawatts de eletrólise e início de operação previsto para 2026 .\nNo litoral norte potiguar, o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) começou em agosto de 2026 os estudos do Porto-Indústria Verde , em Caiçara do Norte . A primeira fase dura 12 meses, e das três etapas do projeto, que somam R$ 6,8 bilhões , R$ 2,1 bilhões são destinados a hidrogênio verde e amônia.\nLeia mais: Aço e alumínio do NE entram na 1ª leva de medição de emissões de carbono em 2027"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Petróleo cai mais de 7% com expectativa de acordo entre EUA e Irã",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSi1CRnR3bEQ1M210VS1TcnJiTWxfSHhlQWdfcHM3Y0JON054cm41MVlhSER0UkxaYWlHclN5MjZXV1JsMVYwMHRDOHNwWTR1M1RWRmZyZUpjV3QxZ0x0ZU1KR1IwU3dlRFRPa3F2MXJ2b1ZMMHBOelQ2QjRsR25JaUsxck41WGNXNndybFo2MGFvV0NWOG92eHJFdFNjaWxlVlhOTlMyMUkydUIybF8xQkhKWVZpeTF4?oc=5",
+   "resumo_original": "Petróleo cai mais de 7% com expectativa de acordo entre EUA e Irã CNN Brasil",
+   "data": "2026-11-02T15:53:07-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Bolsas da Europa sobem com queda do petróleo e BCE no radar",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGxjeHRUUTFQWHlDdlcxMTR3Vi1selQxUUhGOTFkTHZoVkMwMHYxd0VubFRVN0JBeGM3clA0MjlmcGpaVUpMS2FaYjRwQXhqTF9NV3o2UkJRWGQ4cnJWSjlZT05HTmFuaE1XVjJGbC1HaHhveU5BbFpPTnJvXzdveXIzUm0zMHF4T0VtUmdrUE9SMFpDaFh6eUliOVg5U2g4RDRhOWxkNktzaWtueExrSkpB?oc=5",
+   "resumo_original": "Bolsas da Europa sobem com queda do petróleo e BCE no radar CNN Brasil",
+   "data": "2026-11-02T15:43:47-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Wall Street fecha mista com queda do petróleo e eleições nos EUA",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWC1MUnlXYWl3Vkpkdk12QlZGMF9Qa3RRUFR5TDFKNkkwZTZBOXZOaGJ3NEdWSy1JZHVHcFFWWUdGLWcwdGVqRWx2azM1aHp5eTlKbDh4d2paWXZRbDN1a3BsdWlSOHQ1QnJ5eGdrQng3cEVxazlhTDJtR3dBcERoSHVWekJLMFZ4NWxNb3J1ajZqWUVtY1Raa2NBb3dERnZOZkE2X3dvNFQwSTMzTkFUcDNOUGJYZnVf?oc=5",
+   "resumo_original": "Wall Street fecha mista com queda do petróleo e eleições nos EUA CNN Brasil",
+   "data": "2026-11-02T19:47:10-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Bolsas da Ásia fecham mistas com investidores de olho em IA e petróleo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWHZDUHY1WEx2cVN5YXVheGE2U25COXZvTXlQZEJmNjEwcEEwWXprbmxzVF9weTg1bF94OTE0eEk4MlRuWGNGdjV3QlQtT25XYWthUC1XMzhGdU9rSTE1UEVGSHJxNG8yZEwzb1VUaU9ZOHNzMDZROEZfVHBYakhpMnF2alRWWmpLeUxQWE9ORTJxVll2OE1tdVRqc2otVDBGRURnNHNWcGE2c2Qtc3FxbGx5bXY1RXhMbFNVcFctU1g?oc=5",
+   "resumo_original": "Bolsas da Ásia fecham mistas com investidores de olho em IA e petróleo CNN Brasil",
+   "data": "2026-11-02T08:05:15-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "A um mês do fim do contrato, Aneel cobra decisão do governo sobre Enel RJ",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUxkNkRvM21uakxaeHN6T0prTW1EMTUyRG9lRGljcXd6OVAxSG5adEt2bDZmNFctc1R4VG5LWklMYTF2LVBmM1ZyTFY5QVN2aURSSEF1Sk5kWTBwczd1cXBGMzZYZzhYUVg4X1k0aDh0a2RaQ01TOHRiT3JsRUEyUHBXck5Sa3YzMTRTM01qUE44LWZ6LUE0Ml9GdFhrQzZfTkV3N291NkcxUkxfZDh3?oc=5",
+   "resumo_original": "A um mês do fim do contrato, Aneel cobra decisão do governo sobre Enel RJ CNN Brasil",
+   "data": "2026-11-03T04:30:43-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Emirados Árabes dizem que exportações de petróleo subiram apesar da guerra",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWtvNUVvQllqLVBMNTJsZ2JwNzlJbm9rRkxpS0QyN3pWa2VoZlppZnhEVG9iUWdVdVdDWnhsdjdtem1JYko0QjRtaEJvYkkzejNpcXBsd1haaFJtR0dCMDJXcENUT2lXSDZnMlNWdUJsaFJ1ZlVCanhZY2JubmprdlhRRFBab1FvR3BtNnF0b1hSVWtxcEhibW5vRnRKWnNDdkN5WjJjY0ltTG5qV2JSeWJWR09pX0lMdm9yUzk0ZjM1U0hKOWc?oc=5",
+   "resumo_original": "Emirados Árabes dizem que exportações de petróleo subiram apesar da guerra CNN Brasil",
+   "data": "2026-11-02T13:11:42-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Ações de australiana sobem 27% após descoberta de terras raras no Tocantins",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHpyTWpTUmZwc1dtSjV3VGVyNHhmQVBWVzVzM3oyUHRNZXlJc0J2ZGYwc1cyX3dabHk5ZjJXd1l4Z1lJcUJJdFJycjhrWjhqbTJSVjFjQlVGZkxieEdodjJndTg4Qm43dnBVamN1NTZ0QlNOeFBkN0xsc1lQV1VxTG1kN3BWc2RpUGUwZ3Zac3ZGMGJSRURlejlpWVAwRDdnc1M0RG5NTndCalk3ekRN?oc=5",
+   "resumo_original": "Ações de australiana sobem 27% após descoberta de terras raras no Tocantins CNN Brasil",
+   "data": "2026-11-02T17:08:53-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Mais etanol na gasolina: o que muda para os motores e para o consumidor?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUtLNWswbnd2YTNKRjNpbWswa0ZLQlpjMW16X1Q3Y0Q2UG5IbmdCS0k2YjBQOEotdEVOWTFrRnhaRk5WZ2owZlhpQUVHNTdvWU4zLVJfdWJOMzVGUDl4SWs3cjAtd1kxYjY1UDNZQ25xN1lsNUJFVDAtXzRHN091RGI2QklTQ2JUMmNXQkpOUzBQQnNaRFlCa2ZBWnVZNGJ3Z2RPdjhjaHVyTTJwWnfSAa4BQVVfeXFMT2lLSzVrMG53dmEzSkYzaW1rMGtGS0JaYzFtel9UN2NENlBuSG5nQktJNmIwUDhKLXRFTlkxa0Z4WkZOVmdqMGZYaUFFRzU3b1lOMy1SX3ViTjM1RlA5eElrN3IwLXdZMWI2NVAzWUNucTdZbDVCRVQwLV80RzdPdURiNkJJU0NiVDJjV0JKTlMwUEJzWkRZQmtmQVp1WTRid2dkT3Y4Y2h1ck0ycFp3?oc=5",
+   "resumo_original": "Mais etanol na gasolina: o que muda para os motores e para o consumidor? Web Stories CNN Brasil",
+   "data": "2026-11-02T19:36:23-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Para a Deloitte, M&A vai redesenhar portfólios no setor elétrico brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3pNcUpSYjB0V1ZjenozdUJubFl0T3NyMlNqcFZJclp0aFU0d1cxZkhQcjc4ZFV6YXNTbU5FUVpJeUdsMEw1VEllZThBT0NxZUFha1JsWURqRzdiRjRoYld2NzFOQ1AxRlJDX1ZCaUZGbWZKTU5IYUsxUWNVM1hpTjV2bnJsM3l3TmtGdlctd3RUd1ZUOVg5TXVSdDhLbldsRl9wR3FyOTRPbXlQNnlaaQ?oc=5",
+   "resumo_original": "Para a Deloitte, M&A vai redesenhar portfólios no setor elétrico brasileiro BNamericas",
+   "data": "2026-11-02T18:04:07-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Vale obtém autorização para ampliar mina de minério de ferro Fazendão",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWVNWjlNeHZzOGNkWWo2Z0pRWFJrMWRBRUd4eTdlTGMzSmxWalZicHZRd3BRckNkUzBhcWE0MDY1LU1IbkhTVXpnT2Y5Q2pjTmpBd0RUeldyNFFzRVlNYkhOUGdFTlNPQTFMMDROVlZjUFpUNHA2RXhEajA0cWRtckd4UGdLWVQwRHc2eWxhZEFDOGNYSE5WcTJOcXNfNHdjdlQxUXBRbjdxYThO?oc=5",
+   "resumo_original": "Vale obtém autorização para ampliar mina de minério de ferro Fazendão BNamericas",
+   "data": "2026-11-02T09:57:05-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Engenharia, rejeitos, água e justiça: o que trava e encarece a mineração no Chile",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM21oVnpBNTBVYTNGWjRXOThlYWZseURWMS0ySktZdmVVV25OVWxQbHVKUUlLME52cVNaOWE2RVFaVVgxeDgxbE1xeDVyS3VWNnVrdEIydmU0SzJUZ1FnVEVqRTFjaDRDdkV0TzNEekRfb0g0V0xGRlVqcmlISmZDXzhRRzVvSjBTdVlIaDVSaTE1RFZ4WE5YUkY1ZW1YNm5HblFSVS1VaHlvclVDcS1laG9hQWR5eXdvSFRkcg?oc=5",
+   "resumo_original": "Engenharia, rejeitos, água e justiça: o que trava e encarece a mineração no Chile BNamericas",
+   "data": "2026-11-02T14:03:06-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "O sentimento do setor de mineração da América Latina para 2027",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmEtTGZ1WmFGVlJ1bDZyUHQzWU1KNjhSakhxQk1WY2YwdFZzM1plRWdHR3dsUVc5eUlVdlVQN19KcmZ3RFE1U29xZmhxUF9WOXZjUGtqMTk4RzMyQ05QMld3eFhYbnEwbGpsWk9HcGNsQUswc2NiVVRkX1hDNVIyXzRnOEFza0hyeGFQSERqX1FKQU4tV2QzSTg1X3FfTDVIMFFz?oc=5",
+   "resumo_original": "O sentimento do setor de mineração da América Latina para 2027 BNamericas",
+   "data": "2026-11-02T09:27:48-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Mexico reduz a burocracia para perfuração de poços de petróleo e gás",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1RGZTFneGcwVEhTVTQtUkZTX0QzTWxtX2xHc1dLd004d0pzQ3lWRlFTdzNUTkpIa1R0WXFiU2pmNGtEanRvOGFOaWZJbV9RdlZpSTdBRWJ3UG9IZVV5dVZwdTdQbHRadGIwcDJqYWdzRlJWZGJZeENsVjVkU3JzWDZHS3otMkhKNHZXVENyU0hjcUxDTXNfZHoyQzRlUUVMWFB5OGNNOHRvbnM?oc=5",
+   "resumo_original": "Mexico reduz a burocracia para perfuração de poços de petróleo e gás BNamericas",
+   "data": "2026-11-02T10:57:31-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Metso projetará planta de PSJ Cobre Mendocino na Argentina, que acelera rumo ao início das obras em 2027",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeF9uVEVZZHJ0RTRfdFZBSHA5cEoxMzNxOFRMcS16RkV0VmQyeFF5OTR5ZmNYa0t5d21fWlBuR3phS3h1LTZyUVdZZXM0eGpOQ01OUWphNkc5Z18td21MMTI5b3dHQ0JzQXB5d09taTdabFk5b0tubUdpX0J6aGF0LWFMTFNOQ2ZfY3VhcWY0bVdyV3RoU3YxcW5rVkI3YlkyZGprY3F6dTZOYXhaeDEzVU0yNHJ3NURRdm16SFBfTzJTOE90SjRrSGRZdVVJNHJFUnZhUnlnOFE?oc=5",
+   "resumo_original": "Metso projetará planta de PSJ Cobre Mendocino na Argentina, que acelera rumo ao início das obras em 2027 BNamericas",
+   "data": "2026-11-02T17:05:29-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Panamá combina renováveis com baterias em licitação de energia inédita",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFZoVjJJMUg5Q2JKWnF2SFNjVmx6dVhYMHJlak52OVl1VU5TVzVzZzJTWTR0bllHR05GR1FfUmlkRHhQeS12VmE4cy1PYWVaSS1aeDRtRjhzY3Y3Q3NKZ1NldjhzUFh2Z0lCSmdGZXlvM2RRSUZNTFRHTlpmbUM4cDZoak5nUXNVTmFRZHMwVkRiWjd5elB0NFo3VU45QkZfYzFkb09WUDFRVVZpWGc?oc=5",
+   "resumo_original": "Panamá combina renováveis com baterias em licitação de energia inédita BNamericas",
+   "data": "2026-11-02T13:00:29-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "República Dominicana aprova chamada para armazenamento de energia em baterias",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2xQZXJjTFZvVHRBb1psa2NEbG9QNWM3T0RTbnYwWi1wYlh2dmxsZk5MbUtNOUh5T3BkMzdDbVlvSW9kMFdYeTU5WWF6RUVYM1FTcnRoTDVVVUxaRGhhZHVxVHlzaVUzWmpuOVk1bWlVR3ViY2dEdnVsZDItNnRMWF8xR1ViTDVyaEdCekVyRmdnc0ZqQVNPNlp1VEhXTTYweUo5YUZYdlFRQVZOT3VDSjVPZnY?oc=5",
+   "resumo_original": "República Dominicana aprova chamada para armazenamento de energia em baterias BNamericas",
+   "data": "2026-11-02T08:58:58-03:00"
+  }
+ ]
+}
