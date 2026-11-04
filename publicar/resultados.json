@@ -277,5 +277,23 @@
     "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523666202385321984",
     "erro": "",
     "quando": "2026-11-04T08:41:56.000Z"
+  },
+  {
+    "id": "2026-11-04-instagram-escritorio-reel-2",
+    "rede": "instagram-escritorio",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-04T10:56:41.000Z"
+  },
+  {
+    "id": "2026-11-04-linkedin-escritorio-reel-2",
+    "rede": "linkedin-escritorio",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-04T10:56:46.000Z"
   }
 ]
