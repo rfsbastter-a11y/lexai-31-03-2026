@@ -2589,5 +2589,543 @@
    "resumo_original": "Galan apronta primeiros embarques de cloreto de lítio de HMW na Argentina BNamericas",
    "data": "2026-11-03T15:33:23-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 4/11, 04h50 (Brasília). Dados brutos em `raw/2026-11-04.json`. Ficaram de fora mercado (bolsas, ações), eleições nos EUA, disputa política por ministérios, decisões judiciais, notícias sem relação com os setores e matérias repetidas em outros veículos.",
+  "destaque": {
+   "ids": [
+    "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/anp-multa-distribuidoras-de-combustiveis-em-mais-de-r-700-milhoes-por-precos-abusivos.shtml",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQjUwWDQ1cTJaTktPeTF5c19vbFZtSWc2WU5TZzFuWHA1WngxQ2FYQlVsMXBHS21iVVJZY2tSTkVuYWVIQkNaWGRnc2xlQUNZOWtpUHZWUzgwcGduSmNMaWlQNmRYTkxQenNMSjFUSnUzcTZJYkt4cjl0b2RMMEc2QzB3U21kZXJiRnQxTDBYbTEyNE5kTGY5MWh5QUZnTHVOU3lmRFFudS11Rk1WSnozOE5BNjBBdk9pWFZPWXZVLXVCOGtZaXNjSXN2V0JLU0l3N0w5bC1LeVRacDVjWWJmQ3Via9IB8gFBVV95cUxOVmNWeERkWnBmU2pVT3F2UEZTTElmX2UyUnc2RXh6akJWTldRYVFkN181ZXZmRFY4T3BZNVhTa09NaVkwZEFFaGNfRkhYcVV6UWVpaDJXLWItUnlPejlRT19DUFlkUXpuSWJGMjdoNVZISjlOZ3ljcURNaU1GdVZOSjJYUEJMY1dWTDNKS05oU2lDU0xiSkFfTVk0Q2s1R1FkSERlZ0RRUlFsdTZTTE81R1l4NGlYcGdWVnFvY0lfS0tNMDRlM3ZFVGk3WlJGU0s1dVRsdWpMUV9HNmhNVGQ4a0lsdlpQYW5uRVgyZlFKMGU0UQ?oc=5"
+   ],
+   "titulo": "ANP aplica mais de R$ 700 milhões em multas a distribuidoras de combustíveis e envia 11 processos ao Cade",
+   "texto": "A ANP informou em 3/11 que aplicou penalidades que somam mais de R$ 700 milhões a distribuidoras de combustíveis em processos sobre elevação abusiva de preços. As apurações, conduzidas na vigência de duas medidas provisórias, identificaram aumentos imotivados de até 4.000% na margem entre custo de aquisição e preço de venda. As distribuidoras condenadas em primeira instância administrativa respondem por mais de 45% do volume movimentado no país em 2026. Com o fim da validade das MPs, a ANP perdeu a competência para autuar por preço abusivo; os casos remanescentes irão à Senacon e aos Procons. A diretoria também aprovou o envio ao Cade de 11 processos sancionadores contra 10 distribuidoras, para avaliação de eventuais condutas anticoncorrenciais."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://www.pv-magazine-brasil.com/2026/11/03/aneel-revoga-autorizacoes-de-178-usinas-liberando-768-gw-em-capacidade-de-transmissao/",
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOENvQ2dwSlNWWUlaVEZuYk1vVkIxQW0zVV9haUQwZFlmN1ZhN3BUQndwcnZKRWdJMkN1dExNcGFBSXF5UEZlUzFESlZ6dS1ETlFIbVVZbW8tekl4TjdmbnZKWE9zX0o4eGhaMWZOckRyUW1Ham04R3BlZW1pUlVGX05Ic1BZUUNxal9HWWJhSUZwYVFYYmI0aVZKaGk0eU85Njl3MFpQNlhtT1U?oc=5",
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDluTXYtS2ZyRVBJclZxY3d3MjkzNXVhNWpUUlo0bkV6dWItVjNMMWQ0LVVSWFpuUjcwMTlHZmszQjcwTVYzRmFPb2FwQ0cyRzVVUFRrY0RPcXpkS0hjRXN5bnJXYlo3WUxPdUR3NnptNXJmRGJZRDhHbTVLRjYzclMxNkZzNDlOLXo1VG1HcE1JWFJtdW52TGI3dXluaGRORjUtSzZtUQ?oc=5"
+    ],
+    "titulo": "Aneel revoga autorizações de 178 usinas e libera 7,68 GW de capacidade de transmissão",
+    "resumo": "Pelo Despacho 3.585/2026 (169 solares e 9 eólicas, cerca de 7,8 GW), no mecanismo da REN 1.157/2026; o ONS rescinde os CUST sem encargos rescisórios. 223 usinas pediram adesão."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/planejamento/rede-eletrica-tera-operacao-especial-nos-dois-domingos-do-enem/"
+    ],
+    "titulo": "ONS adota operação especial da rede elétrica nos dois domingos do Enem",
+    "resumo": "Em 8 e 15/11, das 6h às 22h, ficam suspensas intervenções em geração e transmissão que possam causar interrupção; cerca de 5 milhões de candidatos em 1.900 municípios."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/aneel-alerta-mme-sobre-prazo-da-enel-rio-apos-justica-negar-liminar/",
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQWXVDNk40TENkV0M3M3RjT3BsY1ZwekpzUHZYYWVsZUZKNFRMOGpzekNWTEVzQmFHWE13WHYwTWpqcEk5UHRoM25kWVZESVMyRWstUlc1VFF0Z1BITG9vMFBiNXFkV1FuN21hTjdJRjE1VWI4aDJnWmhGaFNlQzEyYXAtZkhYVFo3QlBKSXEyZ1B2XzdYXzltNExWbldObGdja3M5VjU?oc=5",
+     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUxkNkRvM21uakxaeHN6T0prTW1EMTUyRG9lRGljcXd6OVAxSG5adEt2bDZmNFctc1R4VG5LWklMYTF2LVBmM1ZyTFY5QVN2aURSSEF1Sk5kWTBwczd1cXBGMzZYZzhYUVg4X1k0aDh0a2RaQ01TOHRiT3JsRUEyUHBXck5Sa3YzMTRTM01qUE44LWZ6LUE0Ml9GdFhrQzZfTkV3N291NkcxUkxfZDh3?oc=5"
+    ],
+    "titulo": "Aneel alerta o MME sobre o prazo da concessão de distribuição no Rio",
+    "resumo": "O contrato termina em 9/12 e a agência cobra a decisão do ministério."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/analise-de-caducidade-da-enel-sp-deve-ser-retomada-pela-aneel-no-dia-17/?utm_source=rss&utm_medium=rss&utm_campaign=analise-de-caducidade-da-enel-sp-deve-ser-retomada-pela-aneel-no-dia-17",
+     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmhMSWxVN3d2N0ZiNGN4MkFHWlJmVDZSaDBrc244dk1Gc0Z6eHpoNmNGM3VXRDlQd1lDZzdySFJIbjBpbDhKUGd0MXNGRjRIRk1hN0JpOHZvVVN4a3I3SHBUZDF6RkxEYVhDUzJYQnVfekxUNF9SY1BYWV9XWkp2dVZuRmdrcnVFOUVwUERkZS1MSG5BTFR6OWVpVW1mMG9kQkRyVmljd1JqVVpwRjdzQUtXMTNsRWc?oc=5",
+     "https://eixos.com.br/energia-eletrica/aneel-deve-retomar-votacao-do-processo-sobre-enel-sao-paulo-no-dia-17/"
+    ],
+    "titulo": "Aneel deve retomar em 17/11 a análise do processo de caducidade da distribuidora de São Paulo",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1dmVElDT0tnalpTbHJkaklVYWstc1k3bmdrVTFUSEo4NlA4Sk1tY1Y2VE1kTGxUT25kUkwzSnNjQkx2Q3hfVVJvQXR4ekV2SHRjVHB3ZWNzbndubzhVeTBzVFl5LThQUTBZVXhtbFQ1MDNYRDE1UG1uWVp6SU1zV3p1ZDIyQ0RDSzdybWFBaUpsT1dvNHFHcXpHMVJUZE9odmFWUW12Z2lCX1ll?oc=5"
+    ],
+    "titulo": "Área técnica da Aneel recomenda R$ 851,8 milhões para cobrir a Tarifa Social",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/geracao/micro-e-minigeracao-distribuida/aneel-avalia-restringir-oferta-de-descontos-na-gd-por-assinatura/"
+    ],
+    "titulo": "Aneel avalia restringir a oferta de descontos na geração distribuída por assinatura",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/planejamento/ons-estima-r-573-milhoes-em-encargos-de-servicos-do-sistema-para-2027/"
+    ],
+    "titulo": "ONS estima R$ 573 milhões em encargos de serviços do sistema para 2027",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/mez-nao-consegue-honrar-garantia-de-lote-de-transmissao-em-sp-diz-aneel/?utm_source=rss&utm_medium=rss&utm_campaign=mez-nao-consegue-honrar-garantia-de-lote-de-transmissao-em-sp-diz-aneel",
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3ZxUkc0YmZudVBaVjBiVWZkZWdWbkNmUk5xR1JTUWNFbUYycXJBZGdkN01fZzFTUnN4OHlwTWlyQjNmNXBvamx5SW9VWXYzbUZobUFnYUxWTE9icFhVT3V6SDhXX0Q3ZnkyYmcyU0lTZmV3Uk9wV2VxV3JHc0VyMGtuaFRWOVMtZkZlMlFmanNUUUZmOERlTjJtRzFHY0VYcnpCX28ySkU3SmJYelE4TnUyeHp5UW00QkxXOUNjTFdpT3VTRHlSUw?oc=5"
+    ],
+    "titulo": "Aneel rejeita garantia de transmissora para lote em SP e exige fiança bancária em acordo de R$ 54,7 milhões no TCU",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/ons-projeta-alta-de-64-na-carga-de-energia-em-novembro/?utm_source=rss&utm_medium=rss&utm_campaign=ons-projeta-alta-de-64-na-carga-de-energia-em-novembro"
+    ],
+    "titulo": "ONS projeta alta de 6,4% na carga de energia em novembro",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3d6TVVDVDZUT2l6Z3VLV0E5RmxBazJ5RmctUHgzcFlpNlExbmZzQUhXSTY4bHoyMFQzQldiUDhpMWtjRmgxQ1c1clhvZFFuaEltdk5RR01ZeWpKRUdaWlB0V1ZKclBvLUppamJ1NGlpVjg3NDJ3VUZDTjR4QThBNHN2Z2dtdEVhZEg1RFhtV1dvSjhhd3h4TG1IN0R1NUw5bHpfd2hEYnJ3cWtMbmx1QTgxM0I1b2M?oc=5"
+    ],
+    "titulo": "Consumo de energia elétrica cresce 4% em setembro e soma 48.184 GWh",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/conteudo-de-marca/coluna-bbce/contratos-de-energia-caem-ate-1949-na-bbce-com-expectativa-de-chuvas-em-novembro/"
+    ],
+    "titulo": "Contratos de energia caem até 19,49% na BBCE com expectativa de chuvas em novembro",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGxwMnBkbEVia0o3aUYtSndRbmxSM1NCZkRQOGFTcjZUNXNXYVE2RUoya3NJTExIWi1GX3drTnVSVW5aRXFXMlJQWTRrR2lsUmM5WUxxeHY3cWUxcnI3bWtoeDBXUmQ4UkNFRzVEbzFwZUFEVGdqdV9TMEhOZkl4T0VyS1RuYWZwZm9hNk1KOU9Ud2ROeXlwRjB6dkQ2b2MxQmJWQzNOci1tLUE?oc=5"
+    ],
+    "titulo": "Associação de armazenamento elogia preço-teto e prevê deságios maiores no LRCAP",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnFsWWFUMXM3V294UDNBbldFbWoxT2J0eU0tVy0ySWdVeDg3MEFjRnRIclJTOTZpTFNBWFF0Tlgzc0NhQmtReVhKM0ZLb2IzeU9MVHpwZ2lzSC1xbGhTY2xRLWRzSFY3ZlhZS0tWYjZqNngydnN0clVCbzNGZWZOc1JCdHJONlh4bmJ0cS1VSzJESjZ5SXhMMVhYeUR4YVNmRlRSakt6blBHOEhoWlZOcU85Y3RHUHE4?oc=5",
+     "https://eixos.com.br/eventos/realizar-o-leilao-de-baterias-em-2026-e-uma-irresponsabilidade-regulatoria-diz-advogada/"
+    ],
+    "titulo": "Leilões de baterias atraem integradores; advogada critica realizar o certame ainda em 2026",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/empresas/enel-ve-risco-de-subcontratacao-em-cenario-de-reducao-das-cotas-de-itaipu/"
+    ],
+    "titulo": "Distribuidora vê risco de subcontratação com a redução das cotas de Itaipu",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/megaexpresso/leilao-de-transmissao-passa-ao-largo-de-turbulencia-de-curto-prazo-e-renova-desagio-elevado-edicao-do-dia/"
+    ],
+    "titulo": "Leilão de transmissão renova deságio elevado apesar da turbulência de curto prazo",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQzdxN202dmdBYzZtdW1CeW84bGtNbE5rVHlKdzdCNS1zb2pYanV5MXpSUk9VVm9OTW9oRFlSWTFYUUthVThYbGd3N1FCVDEwcGI1bWVhd3RCNkNIUjdFczlPVkNaZ1k3bU9DM09jaVZSWHlPRUlmRktNTGduWGF0bGR3RklBWjBlQ0k1SzBjbmVWTksyMmdERFpYUFpEVDNsZjNONFFPbS0?oc=5"
+    ],
+    "titulo": "Aneel concede declaração de utilidade pública a vencedora de leilão de PCHs",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbTBwa2tKSWZlVDFNY080WWREWTkzbEtTRWRkZVBqWFlORVZFM3RYNlhGZXN3Q2N6dzdqdEJwT1R0RGpSeDZxVVZ0QTVmQkR1WjVkR0xwZ3RxWlk1azFEUVJ4dFlrbGtoS0E2WDg4eF9pS0lpc0NXQkF6NXdyWmYwWGFSVE8zZ2N6Q3l2SzdidS1VdEJqQlhtNGl1SUFQU0t2Y244b2sxN3h0Z25JV2NGdmZMRDFuMWJkNzZZcEdJSWswVlE?oc=5"
+    ],
+    "titulo": "Consultoria projeta queda de 2% nas contas de luz em 2027",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGRRTmJFeUcxV1NuNHZKWEF5UTJTa00yRnFqRzZUdHZIWkxvWTJzSEo2cDcybzhWSFdZME9KNy1aUm5PVU52aEZZbnRGWm1NTEJ4S1JjNlZDOHBlYkF4MVNMcldnTEgtVXA4UVJUVmo5dEl1aENNQjY1aFRONVZsVGJRenBSV3FlYlFDM19nbG5jZHJ1VXFJVjZXMXYxZm9YRU1ucDlnTTRBaDYxdTVuTGRTcHg3elNXc2UyZmxoQWlnNDNt?oc=5"
+    ],
+    "titulo": "Abraceel vê avanço na abertura do mercado livre com regras de migração e Open Energy",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGoyNWdMdjlCLVR6WVZidWJ0bXFSbGtEdjlBMWhEcUpYTkdtWVNRRy1JQTFWa1pBZlFwLTdTbEctRXAzeTFodHFvdzJZSUk5bFJzY1BzbzdVbW9jcm5MUmxPTDJqcEpTS21FMVlXcVQ0U0tJREJwU1NvbF9XVUxsNWVxaWxCLWo0TVJCRHotS0h5TEVTUGN1OHhXelJseUJ2dWc?oc=5",
+     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0dTTEhkaWliOGlzVEdyT2ZvNXhrTDMtdzRWd3Y4b0VRLU9KWDBaaTFsM2F1Z25rVXpDQm5EU0VpME5nME1vZmJ2TGdvZ3FfSGxIelJWVXZHTVFuVVN5OXI4MFRKMWFVWTZZOWtKU2dMSzVmS0JDcVljN1JHR3lCRElrMTNaSHEwLTR6Tl9hOTg5ZmlTZXhUSVhKSU1LZkpxU2R2NGF3Mms0ZlBrbXlPekpacDRDcVVsQU1BVDJLOEItNE5qOExad2VpQzg0dHMx?oc=5"
+    ],
+    "titulo": "Fabricante de turbinas vê início de retomada do mercado eólico após quase três anos",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/mercado-energetico/energia-renovavel-barata-nao-garante-avanco-da-eletrificacao-no-brasil-aponta-estudo/",
+     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1lMUkhSSnBlc3ZVQWN6cTdzd25xX2xJZFY0aEdPcUxuQlBCamQ4ZG9ZM3FQamJBTWtMbi00RFZ3UTdrZlRSc21LcHdabWRYTTR3bm9sbnJMZk8zaEJqQmY4SGNJZjNDREMtWS1PYlYxS05LbWRKcnF0ZE1UNU5iTVlGTzg3S3podUd0OG1ENXdLLWlwRnpQNFdDbW1RbENYNEZzWFAzV2lJYXVraGo5NG5fUGl5Rlcya3hzZGl6cTlfQQ?oc=5"
+    ],
+    "titulo": "Estudo aponta que energia renovável barata não garante avanço da eletrificação no Brasil",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmVCaHVXWDdBZGlTUGp1WGJuSUF6UnMwcjJ4Q1NFRzJ6SjZqcUtBN1N0MVlrSHpuUlliR19vNUFmX2N0dF9pU2taZGRxdFN2dWs0dHhhYVd4bEpBMnU0eldqcGwyZG1NZWdrSUJZSlZSRnVUREJ3RVQ4Y2pPaHNaXzJPV3BfWExla2NHNUEwYnJsUXNUVW01YjhYNmFpNHFHRnVz?oc=5",
+     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmwwV2NsNV9yQjlvcjZSTmMyWUtNSkNmcGdoMDdRLWNzclhqU1M0bHAzM3lDSWh3R2dXUm43ZXNmWTJ0TEZySlZYNlNMU3M4Ym1pY0VjSHIzaERPZ25RQ196VmlJZlo2YlRFaFh6amt4dzF1SXN4UmlPY0pBZ19Vei1DZ3lqRFNES1c1emM5engyR0U5SXNRSndnVUh6VXpsYkt0LQ?oc=5"
+    ],
+    "titulo": "BNDES aprova R$ 879 milhões para 400 ônibus elétricos em São Paulo",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/anp-multa-distribuidoras-de-combustiveis-em-mais-de-r-700-milhoes-por-precos-abusivos.shtml",
+     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQjUwWDQ1cTJaTktPeTF5c19vbFZtSWc2WU5TZzFuWHA1WngxQ2FYQlVsMXBHS21iVVJZY2tSTkVuYWVIQkNaWGRnc2xlQUNZOWtpUHZWUzgwcGduSmNMaWlQNmRYTkxQenNMSjFUSnUzcTZJYkt4cjl0b2RMMEc2QzB3U21kZXJiRnQxTDBYbTEyNE5kTGY5MWh5QUZnTHVOU3lmRFFudS11Rk1WSnozOE5BNjBBdk9pWFZPWXZVLXVCOGtZaXNjSXN2V0JLU0l3N0w5bC1LeVRacDVjWWJmQ3Via9IB8gFBVV95cUxOVmNWeERkWnBmU2pVT3F2UEZTTElmX2UyUnc2RXh6akJWTldRYVFkN181ZXZmRFY4T3BZNVhTa09NaVkwZEFFaGNfRkhYcVV6UWVpaDJXLWItUnlPejlRT19DUFlkUXpuSWJGMjdoNVZISjlOZ3ljcURNaU1GdVZOSjJYUEJMY1dWTDNKS05oU2lDU0xiSkFfTVk0Q2s1R1FkSERlZ0RRUlFsdTZTTE81R1l4NGlYcGdWVnFvY0lfS0tNMDRlM3ZFVGk3WlJGU0s1dVRsdWpMUV9HNmhNVGQ4a0lsdlpQYW5uRVgyZlFKMGU0UQ?oc=5"
+    ],
+    "titulo": "ANP multa distribuidoras de combustíveis em mais de R$ 700 milhões por elevação abusiva de preços",
+    "resumo": "As apurações, feitas sob duas MPs já sem validade, apontaram altas de até 4.000% na margem; 11 processos contra 10 distribuidoras foram enviados ao Cade e os casos restantes vão à Senacon e aos Procons."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/petroleo-e-gas/producao-de-petroleo-e-gas-natural-no-brasil-alcanca-novo-recorde-em-setembro-mostra-anp/",
+     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOalFPWDVRSU5Mem1iN09nWXhieUY4a2lzWHlZRXVlbTdmWUF6dWRjUVBIeV9uc1RrTkw4Q3lXcGtaNFhIbEJVak43bGxxRmpSN3NBTHNaTWpEaFpVRFBQdFpVVW5XSHpldzEyb20zSXNOV1NvY1RLVHJjWnE3NWlQeWFTTlRhZGZHbTB1el9nSGpKT2JRV01kUmoxNThlQ3BKa3MtNUwzYVlfVGhEcUk1ekdqcFl1aXUzTFBsbElTNWVQT21oT3RHM0xYLVQ2Y0QwSWhMaHV3?oc=5",
+     "https://news.google.com/rss/articles/CBMilAFBVV95cUxORVFHaUZEdW5sTVFITTJCTVNFQTZ4eGktZVhXbWZCVk9FSm1Nal9NempCNFJJcWVmNHlTLXhidGFfS0lzLXpQMF9JQnB4QjZTbGkwczFoN3hTWm1jWGJ3Wll6aEhSczAzeWxnWGlTQVpYOHNuUzYxQTA0R2J6aUplWWxsNFZhblNLQV9ORjEyVWZUYWUt?oc=5",
+     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUFLTWJSTGY3dlV3WGlqeklvMS1XYXBWcnRXZkl4RnRnZlB4UmJ1S3BKeDJkVzdta3pybGhJaVdQblpkT056eWp3aWlmX29oSnhmZW9XTTdkcTg5SWt4d2sydFN6YXpxdjdTZjQ3U3BkZm5saDdpRS0tWTZPbGpWcHpKRkFRejgzc29FcERHYzhCUjlMQ1ZpSA?oc=5"
+    ],
+    "titulo": "Produção de petróleo e gás bate recorde de 6,12 milhões de boe/d em setembro",
+    "resumo": "Petróleo: 4,711 milhões de barris/dia (+20,3% em 12 meses); pré-sal responde por 83,3% da produção, segundo o boletim da ANP."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/combustiveis-e-bioenergia/mesmo-com-aumento-na-capacidade-de-refino-brasil-seguira-dependente-de-importacoes-de-diesel-em-2036-diz-pde/",
+     "https://petronoticias.com.br/plano-decenal-de-energia-projeta-aumento-de-10-na-capacidade-de-refino-do-brasil-ate-2036/",
+     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQanowazlVNUo1Z0g0eThXNDVYaW0wVGFHRThUeG9sS0JpcDRSR3Z2NGdkNThBWlNjbzlrVzR4RTM2dmYyNWhXUEt3SHFTei1IdGRKZzNhdFl0Q3VGakN5cEpYSW83QjROYTZQM1VVamlrTUJGMTd5YVVqNWd5eDVLb1RUblJRUFJQZFNTXzFvdkphVjYzSHNpc3B3?oc=5",
+     "https://agenciainfra.com/blog/capacidade-nacional-de-refino-deve-crescer-10-ate-2036/?utm_source=rss&utm_medium=rss&utm_campaign=capacidade-nacional-de-refino-deve-crescer-10-ate-2036"
+    ],
+    "titulo": "PDE 2036: refino cresce 10%, mas dependência de diesel importado sobe de 20% para 25%",
+    "resumo": "Caderno de refino do MME e da EPE projeta capacidade de 2,5 milhões de barris/dia em 2036 e importações líquidas de diesel de cerca de 51 mil m³/dia."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/consumo-de-gas-natural-cresce-1536-no-brasil-no-primeiro-semestre/?utm_source=rss&utm_medium=rss&utm_campaign=consumo-de-gas-natural-cresce-1536-no-brasil-no-primeiro-semestre",
+     "https://petronoticias.com.br/consumo-de-gas-natural-no-brasil-cresce-1536-no-primeiro-semestre-de-2026/",
+     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSExWdHF2aWY0b3d5eElFRkJsMjEyNnNZYTVXeGtiLU91RXVyeWMzUTlSTmxJbkNQMUtScDI5alE1R3R2cXkyZ2w2RHc1bDE5bEE3M1VVRGN0YkliTkFRU2NCOURuaU85Y050cWlKSDYzMjJQei1RYUoycmRhX2VqSnRrOVFzZDUtcVFKT0ZZNVZCRUdyMmx0WFBqTk5CRkZmYkNZ?oc=5",
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGNlM1dUaXNjWjd0VHBsR2xJdzhUME1hQnhIWVFWeFk5VWluSTZHTldtMGpwbVBBQnFFZksxbnRnWVNOQXhTOUxpTnV0MnJkTjYycnNhTVpmWXZkUzc4TkFYRkVlbmJBQy16X3R4NHFZNGh1VUJXR1hIY2M0dkJxTDJQNUJQNVRaUWl6MXdJSVIzMy1YRGhNb055Sm9xQ1E4bVJkcWtHMGw?oc=5",
+     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnF0RTVQNnlERkN5SlBBOHlvMWJDU2JnMEVOR19veEdhYVBnTzlHMUhOTTU2R1EtVDJjV2tHRWNLdFk2Z1dQMUN0Sl9SRmlhUFQwbTRtTHhlV2c1RGtDMGV2RGpZLWJJWnFBS1BvNTNHYlN6aHB5UlVTSWt2REl4ZGxKTW83SVFKdGJhVE40V3NueElnUWNRT2d2bGpCbUppNFFwT1hyaV9PcklxNnRqRnZEVDZyNWNEaU9V?oc=5",
+     "https://megawhat.uol.com.br/oleo-e-gas/termicas-aumentam-consumo-de-gas-em-49-no-1o-semestre-de-2026/"
+    ],
+    "titulo": "Consumo de gás natural cresce 15,36% no primeiro semestre, puxado pela geração termelétrica",
+    "resumo": "O despacho das térmicas a gás subiu 49% no período, segundo a Abegás."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/gas-natural/mercado-de-gas/mercado-livre-de-gas-se-aproxima-dos-20-milhoes-de-m%c2%b3-dia-no-setor-industrial-mostra-abegas-veja-os-estados-mais-abertos/"
+    ],
+    "titulo": "Mercado livre de gás se aproxima de 20 milhões de m³/dia no setor industrial",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/cnpe-nesta-sexta-deve-discutir-gas-natural-e-eletromobilidade-dizem-fontes/?utm_source=rss&utm_medium=rss&utm_campaign=cnpe-nesta-sexta-deve-discutir-gas-natural-e-eletromobilidade-dizem-fontes",
+     "https://eixos.com.br/newsletters/dialogos-da-transicao/na-pauta-do-proximo-cnpe-mapa-do-caminho-aguarda-aval-de-lula/"
+    ],
+    "titulo": "CNPE deve discutir gás natural e eletromobilidade na reunião desta sexta",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/oleo-e-gas/eneva-escolhe-porto-no-espirito-santo-para-novo-hub-de-gas/",
+     "https://agenciainfra.com/blog/eneva-e-vports-firmam-contratos-para-implantar-o-hub-espirito-santo/?utm_source=rss&utm_medium=rss&utm_campaign=eneva-e-vports-firmam-contratos-para-implantar-o-hub-espirito-santo",
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVY3STZiX2pFYnpUa0dleFYtOFBUdHlYT2U0TlU3anROYnA3c2hCUmt6R3ZQUmJpTnA4UnF4aG91UldrbnBDSHFKNGd3MW0wNVNrT1VsWVdaUVdzTmIwRDNIZW04MVNxUmZMUTkwR3hLcEZOem1PQ2hjQzNOY2J0SmkxbU1YNDBOZldMWUJsaXgzRlpXeDkxOGFsU1UxY3Z3Y2d6QnVwcFdOclU?oc=5",
+     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTJYSzlpZXg4RW5WbEY4RTZpWXEzMWhwc09EOHFxOENjWnB3OEZHWDdhMjJKQWxBcjZqeVdYRUV6ay1Tc2kyNU8tbkRWdlZhUlpGc29BcWlqenpiRENNOUVsSlgtRS02TGRqSzNaU2tfZ0hRZGU4X3c1MjM2eTRsc09ZdUtSWXRyU0o3VGtrM01ZNVFCUFE1amhqZ1A3T2ZZ?oc=5",
+     "https://eixos.com.br/gas-natural/mercado-de-gas/eneva-garante-area-em-barra-do-riacho-para-terminal-de-gnl-e-elege-espirito-santo-como-novo-hub-de-termicas-a-gas/"
+    ],
+    "titulo": "Empresa de energia escolhe o Espírito Santo para terminal de GNL e hub de térmicas a gás",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/empresas/braskem-inicia-operacao-no-mercado-livre-de-gas-natural-no-rio-de-janeiro/",
+     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYy1Qd19hbi1Ja0pDT3RrQlRKWlZsQm1pdEJSc09IWkQyVWJSNFMzR21LNHNhYjFQaTdtWF9RWDBETmV5aVBHV1VqYnBiVF9Bai1NRXB2S1R1NnVpcHVvODJCNlByR1RrTUpFUm0tUGVHdXlrcHMtSFFqNFFXUk9mLVNUNVh2VzdNWEw5MnBR?oc=5"
+    ],
+    "titulo": "Petroquímica passa a operar no mercado livre de gás no Rio de Janeiro",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/epe-relata-dificuldade-para-acessar-dados-das-distribuidoras-de-gas/?utm_source=rss&utm_medium=rss&utm_campaign=epe-relata-dificuldade-para-acessar-dados-das-distribuidoras-de-gas"
+    ],
+    "titulo": "EPE relata dificuldade para acessar dados das distribuidoras de gás",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/oleo-e-gas/gasmig-mantem-tarifas-sem-reajuste-em-2026/"
+    ],
+    "titulo": "Distribuidora de gás de Minas Gerais mantém tarifas sem reajuste em 2026",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/petrobras-p-78-atinge-topo-da-producao-no-campo-de-buzios/?utm_source=rss&utm_medium=rss&utm_campaign=petrobras-p-78-atinge-topo-da-producao-no-campo-de-buzios",
+     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTc1ZS10eWlxYlIwMnU0aUJOWlV5NUpZenJ4WkFlSmh2YU9mb2pteFowX2JQRlZ1cmtKem5lTzNQcXZiYmIzblZadHdXd0VrR0d3NHZ1QU9FcnlBR2d5UnJXeTI5Vl9oMjhsSERLS0ZEU3lqeGFWQXlEM0dNZDRoLW50cXNLTjk5am5jT1ZoRzRDVENEY1BKV29iV1pIT0pMcjRBc2VRa3h0MUl6dV9jYlhiUFJMNEk?oc=5",
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVW5rQ3BySzZ3b2VINXgwbEJkcGUyS2x3MUNpNEM1RjhXSE9oVUhoN2k3d0VEWUtjTzBOX2lJTWxNUkFZZFdESFFhanpVakNMSFhMMEZvVlZZdkc1VjBEUzc3dWVISGFZdzlLalE5dFhCa3k2cG1ybjEyX0xuZFlpYWFMZ0x6N085eXN3WjRydDVBVGRmUDdZYUxCdnR4QVU?oc=5",
+     "https://eixos.com.br/petroleo-e-gas/plataforma-p-78-atinge-capacidade-maxima-de-180-mil-barris-por-dia-em-buzios/"
+    ],
+    "titulo": "Plataforma P-78 atinge o topo de produção, de 180 mil barris/dia, em Búzios",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblhEV09OM2Q3QS0wTHZFdDVPN2VMelZ2R2VQOEhhLVY1ek5zd1dFUHRDVEpyZHNtQ2FYYVRSaEh1LXhlMGFXQ1Iza0FjVW8tdFoydlFPTWFVS0VhbDdOUGVNTC1qUEd0U3ZMYktKWmt0MWd4di04V1pyclBKYjMwa3laZmdtYnE0MlJqOExqeERTTVlLR0dVbnlSVmtZZl9yRmdydjhuSUdkaTQ?oc=5"
+    ],
+    "titulo": "Empresa defende royalties menores para viabilizar campos maduros",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOURmZnhpcnhWdFhocW1aanV3NDExSThJcW9nN0xqQk1OTU1hajg5WjVVUjVDVmctbTJmYVlkZWVxZHNSRUFMaHpjN3hrVXhmQzJ1MGlSY1FwM3JXZ005S1FJSlJhejZfTVBSZG1QMEhiM3VhUndYcWRZVFIyTk5DbEVVSXB4TVNpY3VJNnFNMFFfZXk2VGluOXE3Uk1HRFVwbGN3QVVfS0pmUmh4eHctbXhhLXE?oc=5",
+     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzRUZ180TGJ3dVZ3VGJUajJTZm16NVlJUzFxRC1EZElWRW5WcHBJQjNLbEExdkRuQWh2RTgxNEJKMnBNWFc0OVl1ZVhsTE56TkVnYnQ3eFpHSHNMdVRWQmhXcEpla1UwdDYtSVB1anRKRGF1aVhWMk1XWElBeHFMUC1lN0lZbVZvWXFXMlRhYWwwbTlGcXIxbmRnQzhWVnAwR2xhOTB1cXF0UVhJZTZvVV90UQ?oc=5"
+    ],
+    "titulo": "Petrobras pede ao Cade que rejeite a fusão entre Saipem e Subsea7",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/bndes-aprova-r-218-bi-para-construcao-de-navios-de-apoio-maritimo/?utm_source=rss&utm_medium=rss&utm_campaign=bndes-aprova-r-218-bi-para-construcao-de-navios-de-apoio-maritimo",
+     "https://petronoticias.com.br/bndes-aprova-financiamento-de-r-218-bilhoes-para-construcao-de-quatro-navios-de-apoio-offshore/"
+    ],
+    "titulo": "BNDES aprova R$ 2,18 bilhões para construção de quatro navios de apoio offshore",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/combustiveis/petrobras-aumenta-em-72-preco-do-querosene-de-aviacao/",
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYm1wQXpwOU1JTXNyVjlBeG5VNVNycW9jTEF0UGI2a3FSdHVRd09jbEdRd3NEV3ppOFNsdXZiajJ5Vk9ZazVES1hqWkY3UW9BXy1wT3hnSHhwV1JaMVZCajhRdkFNeTd0alV0U0VtVjZ3YnFkcl9QUjFFM196RUFKR1JnMFo1eTlURVVDZi1VQVVlOU1UVHduWDlLci1zMlcxV1o1NEVmYWk0WTdzdnNGMHVHbDMtd1ROV3NoNVh0SEZVWnJQak50QQ?oc=5"
+    ],
+    "titulo": "Querosene de aviação sobe 7,2% em novembro",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMkZCNHhydTdDc1RzcUVfdV9EQ1A3eWJwdWp3Z01wbUxMLThILXN2ZlkxM1ZRdVRQR1hqQ1VvNnRZN0lCZTdWT3ozUU1zenh5eXIzQjllaE5jZjhRTVg5cFN4VkVNUURVeS1PVm1VWnp2dDFfV0Z1S0UySTRTR0l4d1p0YUJxTmhMb3ozVmZJMjRHRFk5eTJUQlQwd3VWQy03cEVvcWRQN0o3ZzMxelhfSUJn?oc=5"
+    ],
+    "titulo": "Diesel sobe até 4,81% em outubro, apesar da subvenção federal",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0hRZVlHdFJ2eGsyd2lKMlNWdWRDWmlDWlVTUC1LYjFrYkpRampMZ2x3SzB4NGhNRE1JN2oxRVlJb2E1azlCSkp4V1dpcU9EQ09CVlpMWXpOeUozQ09LT0hiMWM4TFVJTDluNG42TGVIWW1YMnR6N1dPNGQ3T2cxQXJzOWx6T0VhVjRuOXlZUDlscW5kM2Uwa1diaWI1cTdwM0VKejg2LW5ZX3N0VXFLallZOEIyUmRJY1VUYjRmbw?oc=5"
+    ],
+    "titulo": "Fluxo de petróleo em Ormuz segue abaixo do normal e pressiona o diesel no Brasil",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/gas-natural/mercado-de-gas/iea-guerra-no-ira-deve-causar-queda-recorde-na-oferta-global-de-gas-com-efeito-ate-2027/",
+     "https://petronoticias.com.br/agencia-internacional-de-energia-alerta-para-riscos-no-mercado-global-de-gas-apesar-do-aumento-da-oferta-de-gnl/"
+    ],
+    "titulo": "IEA prevê queda recorde na oferta global de gás por causa da guerra no Irã",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/manutencao-da-petrobras-reduz-producao-de-gas-da-petroreconcavo-por-25-dias/",
+     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3V2MVBib1VSNlJCZWZyRWE5VlN0YWJMTGVVXzNhMGh2RzdmbGRfLWFyYjZDWkdFQjZMSzlWM29aSGdKbUhIOTltOEhjRDIyZWNXZWQ2ZjF3QWYxaU5DNE5zQWpRb294NWNjSkZyVmVWMm5qQ3hqT3pFbmc0alNiblZNV2FjNVZOX0dtalRPbWVzRzRTVmJxYTlvdU9OOGMwbmg1TUl4QkFwYm40OVFTZlAtOE1rTmRtMTc1dFp5T0JtU0hH?oc=5"
+    ],
+    "titulo": "Manutenção reduz por 25 dias parte da produção de gás na Bahia",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/empresas/at-energia-preve-elevar-producao-de-petroleo-na-bacia-potiguar-ate-2029/"
+    ],
+    "titulo": "Produtora prevê elevar produção de petróleo na Bacia Potiguar até 2029",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/uso-de-oleos-vegetais-para-biocombustivel-sobe-122-desde-2020.shtml",
+     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZS1kN1NtQ0gyMktidFRrQmR2Y1psWlRtdWdNblI1OXJLbFM2cHVxYWlfcjR4S1p2QXVLSGhKQTVYWWlKYnJ3SjVJOGxUclFxMjhvdno3YXpwRl9MQ25rV1dmTzl3Tld6MzUwLWt1bk9BY093V181b1hIRmNkMVNVVmdvOHBwZHNKeWxYS2U1TWs4VUVQRjdTZnlPamVIcWo2QUtMOXFHcU1oeG54OFZwSmN6X1FtQkpE?oc=5"
+    ],
+    "titulo": "Uso de óleos vegetais para biocombustíveis sobe 122% desde 2020; SAF e diesel renovável puxam expansão",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOUE2bmRtT242ZThhekkwVlRjRkdNTHJaZFF1QnRNdF9UMGlrb0h5X3l2MkNVVTBJVEcyeVJVSFhCRzh2RW9LalJaQUcyTUdacHR2bFhQbUs3dEcteWo1ZnNoNUJTWU5VTmFMR1lHZHd1VEFGcFhSOUNUX1pYSlRJT3N6NGk1VVNaWW9mdnd0ZDFfY3pPcUxMVDZSREJ5QmctaTZodnpHekFKNGhnU1FfQ3pTWThLZldfMF9HOXJfVFE2VWpmTUE?oc=5"
+    ],
+    "titulo": "Descoberta de petróleo dá ao Amapá potencial de polo logístico",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/transicao-energetica/brasil-propoe-caminhos-diferentes-para-paises-abandonarem-combustiveis-fosseis/",
+     "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/fica-claro-que-todos-os-paises-podem-comecar-agora-diz-ana-toni-sobre-mapa-do-caminho-para-o-fim-dos-combustiveis-fosseis.ghtml",
+     "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/11/03/reduzir-combustiveis-fosseis-e-urgente-inevitavel-e-possivel-diz-documento-pre-cop31.ghtml"
+    ],
+    "titulo": "Brasil propõe caminhos para a transição dos combustíveis fósseis antes da COP31",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-recebe-4-5-estrelas-em-ranking-internacional-de-autoridades-antitruste"
+    ],
+    "titulo": "Cade recebe 4,5 estrelas em ranking internacional de autoridades antitruste",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-participa-de-seminario-internacional-sobre-defesa-da-concorrencia-na-china",
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-participa-de-forum-internacional-sobre-concorrencia-digital-em-dubai"
+    ],
+    "titulo": "Cade participa de seminário na China e de fórum sobre concorrência digital em Dubai",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/gcr-usa/article/google-ai-education-policy-draws-tying-concerns"
+    ],
+    "titulo": "Política de educação em IA do Google levanta preocupações de venda casada",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/gcr-usa/article/shoppers-secure-class-status-against-amazons-anti-discounting-policy",
+     "https://www.law360.com/competition/articles/2545171?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Consumidores obtêm certificação de ação coletiva contra política 'antidesconto' da Amazon nos EUA",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2545710?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Suprema Corte dos EUA vai julgar em janeiro caso de desacato da Apple sobre a App Store",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/skyworks-and-qorvo-won-swift-chinese-deal-approval-after-touting-threat-rivals"
+    ],
+    "titulo": "Fusão Skyworks-Qorvo teve aprovação rápida na China após alegação de ameaça de rivais",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/jdcom-set-close-ceconomy-deal-after-securing-fsr-approval"
+    ],
+    "titulo": "JD.com deve concluir compra da Ceconomy após aprovação sob o regulamento de subsídios estrangeiros da UE",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2543698?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Dez formas de laboratórios de IA limitarem riscos antitruste em pactos de segurança",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2546010?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Democratas questionam o CEO do McDonald's sobre precificação com IA",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2545908?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Tribunal de Delaware encerra ação de Icahn sobre a compra da Grail pela Illumina",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/nova-regra-abre-mercado-de-vale-refeicao-a-partir-de-sabado-sob-resistencia-de-grandes-empresas.shtml",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-o-que-muda-com-as-novas-regras-para-vale-refeicao-e-alimentacao.shtml"
+    ],
+    "titulo": "Nova regra abre o mercado de vale-refeição a partir de sábado",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/sgb-lanca-geobusca-plataforma-com-cinco-milhoes-de-dados-geocientificos",
+     "https://minerabrasil.com.br/sgb-lanca-plataforma-com-inteligencia-artificial-para-facilitar-acesso-a-milhoes-de-dados-cientificos/2026/11/03/"
+    ],
+    "titulo": "SGB lança GeoBusca, plataforma com cinco milhões de dados geocientíficos",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/triagem-em-minerais-criticos-nao-e-para-afugentar-investimento-diz-mdic/?utm_source=rss&utm_medium=rss&utm_campaign=triagem-em-minerais-criticos-nao-e-para-afugentar-investimento-diz-mdic",
+     "https://agenciainfra.com/blog/governo-preve-1a-reuniao-de-conselho-de-minerais-criticos-apos-cop-31/?utm_source=rss&utm_medium=rss&utm_campaign=governo-preve-1a-reuniao-de-conselho-de-minerais-criticos-apos-cop-31"
+    ],
+    "titulo": "Mdic diz que triagem em minerais críticos não visa afastar investimento; conselho deve se reunir após a COP31",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://revistamineracao.com.br/2026/11/03/vale-recebe-licenca-para-ampliar-processamento-da-mina-fazendao-em-mg/"
+    ],
+    "titulo": "Vale recebe licença para ampliar processamento da mina Fazendão em MG",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/feam-nega-licencas-para-projeto-oncas-de-pitangui",
+     "https://revistamineracao.com.br/2026/11/03/jaguar-mining-vai-revisar-projeto-de-ouro-apos-negativa-de-licenca-ambiental/"
+    ],
+    "titulo": "Órgão ambiental de MG nega licenças para projeto de ouro em Pitangui",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXZqX25pMFBWVjRrVGxYN2NTcnVEdTZwU0s4Q2lxNnc5UXI2cUVOOGFjVWZraHVJdFJnTWJvMlBWVmlPLWY4QlRvTnNoR1dYVlBJMU1RcGFKX19Rak9KcEo4dlRpeW1JeEFmYUZQZ1JhUGw4RVZwVllZUWlWWUJGZU00TGl6eHEyRUtqSDdkLWRCaHptbkNqYXYxNnZxVC1QWG84WTdDX0U?oc=5",
+     "https://minerabrasil.com.br/power-minerals-recebe-investimento-estrategico-de-a-5-milhoes-para-avancar-nas-pesquisas-de-terras-raras-no-brasil/2026/11/03/",
+     "https://brasilmineral.com.br/noticias/power-minerals-garante-investimento-estrategico-de-a-5-milhoes"
+    ],
+    "titulo": "Investidores estrangeiros ampliam aportes em projetos de terras raras no Brasil",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mineradora-ganha-mais-dois-meses-para-fechar-aquisicao-de-negocio-de-niquel-no-brasil.shtml",
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalRXNjg1Sm1xcDJXTFlUd3FtaWhhdFFDSjNWbF9MMnNLTHBOVERQa3lONGZ4MmxNUWpvNmk1UTNmUi1YTWxBVjAzTnpFQnpqVHJyNkFrbzIzOEYwTHBGbWZCcXFzQXRGRW0tSGFvS3FJMFlGX0hHR1VRNUdsWjg1THpwd0hiQnFseV9xY05yYmd1Y204MHhkblhfM2pFaWxXSUc5NFBn?oc=5"
+    ],
+    "titulo": "Prazo para acordo de níquel no Brasil é prorrogado por dois meses",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://revistamineracao.com.br/2026/11/03/csn-negocia-venda-de-unidade-de-cimentos-por-r-127-bilhoes/"
+    ],
+    "titulo": "Siderúrgica negocia venda de unidade de cimentos por R$ 12,7 bilhões",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/sigma-lithium-amplia-para-us-125-milhoes-oferta-de-titulos-conversiveis"
+    ],
+    "titulo": "Sigma Lithium amplia oferta de títulos conversíveis para US$ 125 milhões",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://revistaminerios.com.br/investimentos-vale-r-125-bi-3-trimestre-2026/"
+    ],
+    "titulo": "Investimentos da Vale somam R$ 1,25 bilhão no terceiro trimestre",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWtVVUlpSzY5RUVBTjdlN29FS3Q5ZFpja0txQVB3c3JMd1Nta1pTNi1MYjFscDZtNnZkcGMwaXdLMUEzZkl0dFZDcGNTa1VPX2NiQTlrYWlYR1h5VnByZnFkV0NVVTFLeHJhaU5mZUZ6d2hJV1hZTjNmUWdEcGhzRWZkaENCdkFaSzZ1QTY0cW95VUI1bGx2NEJmWTNxTkZQY29Id093QnJ3bl9LbVF3WEZ3TVJmWmtGdTVJdWloaGJoUDdfaXc?oc=5"
+    ],
+    "titulo": "Colômbia derruba restrições à mineração",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/mpor-e-bahia-firmarao-acordo-para-gestao-da-hidrovia-do-sao-francisco/?utm_source=rss&utm_medium=rss&utm_campaign=mpor-e-bahia-firmarao-acordo-para-gestao-da-hidrovia-do-sao-francisco"
+    ],
+    "titulo": "Ministério de Portos e Bahia firmarão acordo para gestão da Hidrovia do São Francisco",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/seca-no-tapajos-reduz-carga-de-barcacas-e-governo-admite-uso-de-rodovias/?utm_source=rss&utm_medium=rss&utm_campaign=seca-no-tapajos-reduz-carga-de-barcacas-e-governo-admite-uso-de-rodovias"
+    ],
+    "titulo": "Seca no Tapajós reduz carga de barcaças e governo admite uso de rodovias",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/bruno-dantas-as-concessoes-e-a-revisao-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=bruno-dantas-as-concessoes-e-a-revisao-de-2027"
+    ],
+    "titulo": "Artigo: as concessões e a revisão de 2027",
+    "resumo": "Só a manchete está disponível."
+   }
+  ]
+ }
 }
