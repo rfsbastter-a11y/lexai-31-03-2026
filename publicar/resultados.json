@@ -246,8 +246,8 @@
     "id": "2026-11-04-instagram-escritorio-documento-1",
     "rede": "instagram-escritorio",
     "tipo": "documento",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/p/DfT-468DLJ8/",
     "erro": "",
     "quando": "2026-11-04T08:02:27.000Z"
   },
@@ -255,8 +255,8 @@
     "id": "2026-11-04-linkedin-escritorio-documento-1",
     "rede": "linkedin-escritorio",
     "tipo": "documento",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523656474754199552",
     "erro": "",
     "quando": "2026-11-04T08:03:21.000Z"
   }
