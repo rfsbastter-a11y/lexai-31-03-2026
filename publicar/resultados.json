@@ -300,8 +300,8 @@
     "id": "2026-11-05-instagram-escritorio-reel-1",
     "rede": "instagram-escritorio",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/DfWpUrMFfST/",
     "erro": "",
     "quando": "2026-11-05T08:51:41.000Z"
   },
@@ -309,8 +309,8 @@
     "id": "2026-11-05-linkedin-escritorio-reel-1",
     "rede": "linkedin-escritorio",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524031071798063104",
     "erro": "",
     "quando": "2026-11-05T08:51:47.000Z"
   }
