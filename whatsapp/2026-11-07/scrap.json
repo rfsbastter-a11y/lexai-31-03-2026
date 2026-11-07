@@ -2509,5 +2509,571 @@
    "resumo_original": "Brazil extends oil export tax through year end, advances US reciprocity process Reuters",
    "data": "2026-11-06T10:17:45-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 7/11, 04h50 (Brasília). Dados brutos em `raw/2026-11-07.json`. Ficaram de fora mercado (bolsas, ações, balanços), eleições, ações judiciais, contratações de escritórios, notícias já enviadas ontem, notícias sem relação com os setores e matérias repetidas em outros veículos.",
+  "destaque": {
+   "ids": [
+    "https://eixos.com.br/transicao-energetica/cnpe-aprova-plano-nacional-de-transicao-energetica-acoes-serao-revistas-a-cada-quatro-anos/",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWjZ4QVdjdXNKUFlkNDA4ZjJnalV3RFczWVkzQXFWUUFUSG8xTmt1Y0RtN2NzaVNZYkZSWTlCdWVXUkk5Q3NVcm11SkhoM1h3a2hsMjdDNDJBRl9ERzFTUVp1QjdHaXFZbUI4NThzQ3lRcFowcVZ3RFdoQzFKZ3ZkTWxOcE5tM1hIWVdMeU56SUM1UWpZZndHOURUTWM?oc=5",
+    "https://www.pv-magazine-brasil.com/2026/11/06/cnpe-aprova-plano-nacional-de-transicao-energetica-e-cria-grupo-de-trabalho-sobre-eletromobilidade/"
+   ],
+   "titulo": "CNPE aprova o Plano Nacional de Transição Energética e as diretrizes do Mapa do Caminho",
+   "texto": "O Conselho Nacional de Política Energética aprovou em 6/11 o Plano Nacional de Transição Energética (Plante), plano de ação da Política Nacional de Transição Energética aprovada em agosto de 2024. São dois volumes: a visão de longo prazo e ciclos de implementação de quatro anos, em que as ações podem ser revistas sem mudar as diretrizes. O plano segue os cenários do PNE 2055, e o PDE será o parâmetro de monitoramento. A consulta pública de abril recebeu mais de 1.400 contribuições, que levaram a mais de 400 ajustes. A resolução cria o GT Plante, interministerial e permanente, coordenado pelo MME. Na mesma reunião, o CNPE aprovou as diretrizes do Mapa do Caminho para reduzir a dependência de combustíveis fósseis e criou grupos de trabalho sobre eletromobilidade e energia a partir de resíduos."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://eixos.com.br/transicao-energetica/cnpe-aprova-plano-nacional-de-transicao-energetica-acoes-serao-revistas-a-cada-quatro-anos/",
+     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWjZ4QVdjdXNKUFlkNDA4ZjJnalV3RFczWVkzQXFWUUFUSG8xTmt1Y0RtN2NzaVNZYkZSWTlCdWVXUkk5Q3NVcm11SkhoM1h3a2hsMjdDNDJBRl9ERzFTUVp1QjdHaXFZbUI4NThzQ3lRcFowcVZ3RFdoQzFKZ3ZkTWxOcE5tM1hIWVdMeU56SUM1UWpZZndHOURUTWM?oc=5",
+     "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUpVbXVZakdsV0ZSTFZjSXgyckNCei1rQ1lZWE1LbUN6Ylp5N0x5Mk55TVpGSUlyMUJUVG9FRW9lSHJ6azloTkxYMEE5R29vYXgxVUxPdTllUzAxWHg2dGJXQVV3MS10Y20xV0llZnBLZGgyX3VLTldoTXFtMmYtZUZ0MHJiWXhlc3hlcUJ5LTRsbkxreUtCWHJDVElJUQ?oc=5",
+     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjA4N0p1LUhJYWZPVVphZHNKRUFLcVJYdElxcFZDWjBIZUNoOXk1VkFBYmNCX0c4UDJrVGRwSjRDanJWZFJuZ1VsbUxSTVAzR0tmR0NVenBWUFRtTTB2bzhQNnhnaGZHeXRFTF9lX05lR1N1SmljM1I3NTJBYldOdFRweFAtcElWekJvcWVtTm5xYVBQQnRQQTdiTU5YNU53MkhEVnRoeVpfbkpTek03Yw?oc=5",
+     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNExYZkkxc0dQUnBhT3F6NTY4YjEtd3VvcUVMZVJLZW9NLXV3UUdjSjU2YXJnbkppaHByRjhqbTg3LWRMZ1pjdDhRSVJ2UlNPcjlISzNaNlBKMV83VnhfclROblBpVmpTb1F6T0RGMldKa2JtdTJJVWtQT25MRGJkcWRYd1J4ZElOby1fNTBYc3ZKTGpUX1N0alhBYkplMTR2Y3JYQ1dQUUx1RmNm?oc=5",
+     "https://www.pv-magazine-brasil.com/2026/11/06/cnpe-aprova-plano-nacional-de-transicao-energetica-e-cria-grupo-de-trabalho-sobre-eletromobilidade/"
+    ],
+    "titulo": "CNPE aprova o Plano Nacional de Transição Energética (Plante), com ciclos de quatro anos",
+    "resumo": "Plano de ação da PNTE em dois volumes; a consulta de abril teve mais de 1.400 contribuições e o texto cria um grupo técnico permanente coordenado pelo MME.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/governo-cria-grupo-de-trabalho-para-apoiar-expansao-da-eletromobilidade/?utm_source=rss&utm_medium=rss&utm_campaign=governo-cria-grupo-de-trabalho-para-apoiar-expansao-da-eletromobilidade",
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVB2eExhUk1LNzNHZGsxUEtTRnRRSng2NkxsekktOG9tZ0xwak1HdXMwaGItdXB5WTZxVnlHcTFLWXVHN3c0SkFwQzhjQUFCcURTczZTR0xCcXpkT0hweWh5RmRIUVpqRkMzVFAtVlI5eUZsbXRBaUtON0NENjB0bHc5T19DVGs0d2hoZFBTb1JLVXN6ai10MGkzdGNMUnd0SUpPYWFn?oc=5",
+     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZC14OWd2YlZHWmVxdGpBUzhrM19fY1BCaUxFa2ZTLXdhNHRicGhNUHBoNU82T2NfMEk3ek0wZ2NtZEs2aFVLQjdCb0NfaWd4OVFiWVhYOFNhcDUzbURUOURWWTF4UnprWEFoLWxybUNVQ29CWmJ6MmN4el9DbHBKaW1XbE1Wb1R0aHpaUnQ0V25PYWMteGxQcDY1Vl8tMUx0SlNkU0o2RlVqYkNWQ0JuZmVVVFB4aHpfUEpqWmtCY2Q?oc=5"
+    ],
+    "titulo": "CNPE cria grupo de trabalho para formular a estratégia nacional de eletromobilidade",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUhoNHBOUEFidUtzdVpFcGtQMUNxQUVhcEhVdXpDTXlDRmhfbHJqTk05Ukh0Q0lmMk9qUXdrVnpDemNUdkhBbVp1VFdZMlRjRmktX2RwRE5oVzl0WU0xUkxnaHA0WWR3LVkwdFV1TEFNVVVIc3B3RC14ZDZMcW9CcV9VV29oOVNxM0RSNXk0Skh3a0M2cW1vSGN5dHN0VUpfSDRzZ2RMUHBXb3g4eFVZMjdkbmFhSFFsUlNVWnp2eVo?oc=5",
+     "https://eixos.com.br/transicao-energetica/cnpe-cria-grupo-para-buscar-solucoes-para-80-milhoes-de-toneladas-de-residuos/"
+    ],
+    "titulo": "CNPE cria grupo para estruturar regras de geração de energia a partir de resíduos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdmhlMUdDUGQ0a0FiTXA3TnJoRTE1cm0xYjNQcmdfMmVYbGlCWUQyR25FUjJfQVdnWURMNVA3RkxWVVZ6WWlxdzAzZm1qN3JjbXBiOVUwWEVxQjR1Vkxqd1h2V0s1OHAyTVlTT3c0ZnRfY2pLQ3Q4SVpnUnZpdjU3YS02RDRHZG5Xd1NVdjRHdDJucjRoTXdlTmxSVG1Kc3hLRXVla19BNEE4ZElOeGdMSENxRkFibmgtUmJJLUJuMWxvVEVK?oc=5",
+     "https://eixos.com.br/transicao-energetica/cnpe-aprova-estrategia-nacional-de-dados-energeticos-elaborada-com-a-iea/"
+    ],
+    "titulo": "CNPE aprova estratégia nacional para integrar e padronizar dados do setor energético",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/governo-preve-reestruturar-setor-nuclear-e-adia-angra-3-diz-silveira/?utm_source=rss&utm_medium=rss&utm_campaign=governo-preve-reestruturar-setor-nuclear-e-adia-angra-3-diz-silveira",
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkJnbm5hdWtGS3VuOWhUWkNZOVNkcV9KcXE4QndQb21mWjkwLTRBTE1DcXpFZW1HUmRhdHJLcF9GUFN4b3FmdkR5WWFTX3ZJRENxanZ2blNqTVJ6QVVkV0dZQm1Lam82dlVjSVF1WWlLaWtYbWhtZFlQMmx5RWJGdzQ3OG5SeEs3RUtCVng1M2tOVzRRcUhXTGo1dnJla3NXMVZKNV80S2lHU1RaMVJETVJES0RfeXVzdkJtSTFzcDdhTVdFNUE?oc=5",
+     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHg5andTN2lEOXRueE9Cc2pubngzNHBUUnBlMm01aHZwcl9fbm5nOEpkdTVOa1cxRlBxcjRHaHhITnpUcXFrMXF6UnFpUnpTU1ZKSU9fNXl5UE1FX1d0ZjlRMGF6S182ZGR5WnVUWTNheXNvN1NleUxuSXVlR2xIU0V4TVM3eE5yXzFuNDFwWnZnNWthYjdtdVNYTDgwLTA5S19XZjM4TkNFSGdoQ2h6THJwUFRmYVJUb1E?oc=5",
+     "https://petronoticias.com.br/angra-3-fica-de-fora-da-reuniao-do-cnpe-e-governo-faz-nova-promessa-de-reestruturar-o-setor-nuclear-brasileiro/"
+    ],
+    "titulo": "Governo enviará projeto de lei para reestruturar o setor nuclear; Angra 3 fica atrelada à nova governança",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/eventos/enbpar-enxerga-brasil-como-exportador-de-combustivel-nuclear-diante-da-retomada-mundial-do-setor/"
+    ],
+    "titulo": "ENBPar vê o Brasil como possível exportador de combustível nuclear",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/politica-energetica/governo-preve-anunciar-regulamentacao-do-redata-apos-a-cop31/",
+     "https://agenciainfra.com/blog/regulamentacao-do-redata-deve-ser-publicada-apos-a-cop31-diz-casa-civil/?utm_source=rss&utm_medium=rss&utm_campaign=regulamentacao-do-redata-deve-ser-publicada-apos-a-cop31-diz-casa-civil",
+     "https://eixos.com.br/transicao-energetica/decreto-do-redata-fica-para-depois-da-cop31/"
+    ],
+    "titulo": "Regulamentação do Redata (data centers) deve ser publicada depois da COP31",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/mme-e-aneel-trocam-cobrancas-sobre-concessao-da-enel-rio-prestes-a-vencer/?utm_source=rss&utm_medium=rss&utm_campaign=mme-e-aneel-trocam-cobrancas-sobre-concessao-da-enel-rio-prestes-a-vencer",
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHNJWlJqd1Y4RE5DcHFxbzZOdGU0WWJJZXVtbFZSUWZaS01JdVNPc1NwY2VEZV83MU9ZaUdndlVENk1OQ09xOGxRV0NZQmExRFBzSFR3ci1SU0lSRldVMXpQRnU5ZVFzV3ZTYzdBbnZ3T2c1NHNlN2FoWGJEeTRQeWRyYkxmN3M2QjZ5QUJ6ajdGQmtSUTlNeDUyVkZtU2c?oc=5"
+    ],
+    "titulo": "MME e Aneel trocam cobranças sobre a concessão da Enel RJ; agência arquiva primeira auditoria",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/opiniao-da-comunidade/enel-sp-por-que-discutir-caducidade-se-a-concessao-termina-em-2028/"
+    ],
+    "titulo": "Enel SP: o debate sobre caducidade com a concessão terminando em 2028",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHE1eWZNRmc1WG9wd1lOZW42N296UnlNQU1GMzNyOUJZc09TUDBXTHhkcjg5clR0Rzdoc1Y2ckpyQ3oxVmF2UTJtVldlbWo1MHVBYzlIS0xiYzdoQmtfaFI3SDNLSG5LZi1aRndoaVhfdGNtZDhDQ3lhM1ExUlJDTXB4MHY0aTFxQlhLanEwaWRxOUpONUI4bnQ2RUp1aUE?oc=5"
+    ],
+    "titulo": "Associação de consumidores aponta distorção no orçamento do teto da CDE",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTnlKOVpnRkZuX051UGtWMWZDVnBaZHFQWWJOSzBQT2NDM0JFZEJOdEdnZWNHWWZlbnNhbjN6UFNDRjFnVlNFVUdhY05kVG9iRUpqVDJTLWVaVFZZWjhLd1RvMzBhY0RQZEhxWTY3V2VzVjRYdHd3X2hyWEdRNXZyaXdOVUpZNjdQMDA2d0hwal9LTTdiVF80cDhRLVlJS3Y2bTY3UTlrOA?oc=5"
+    ],
+    "titulo": "Consultoria prevê queda de 5,14% nas tarifas do Sudeste em 2027",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQald2MlhyVE9YOTBUMF84N2MzRXJsemsyNGZEbDladmdRQkxYWV9GQy1sR1RKZ2p2eElKcDdGaEhaMm14YjJxTGJlTTItREVDUTJwakZDRFowaXViY3R0VVZvM0ZuS29nVHVERUhWbkQwajFWOE1TT3pBWC00X2FGSFVfbkw2WGtsSEg3QllyNGpUYkVDLVVZUEREZEo4V1FGVjJ2cVl5NzNxVVNTSG5RREtrVWozNk1pb1E?oc=5"
+    ],
+    "titulo": "ONS aponta risco médio de acionar o plano de gestão de excedentes de energia",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHBZRWlCT3pqMFMtYlBJdFJGbGlCZHA5ZWRvYkNsUkFZWDJwN2V0bGM0YWJQSVpYUzFvZ21Ba3NVSms0dE56eXd5MnlSUUxnOUdUb2Q5aXFYZjdQaHI1bnFvY2N3WHUtODhpbm5RZFBYX2QxMTFXWWF6YXNtNXhZQWxPTXdfQmhuRzFYb0lBR05xRW1teE9Xbi1uU21FV29jNXB6NHRvNDJkYmFrd3FuVEUtUQ?oc=5",
+     "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1BsY1ZtSE53aEo2Sl9MYk85Z09KVDg5TXpxcWZHdGJiTm02NHlqSjN3ZVUwLUFHbWVJZEo0RmpubXZseVh5clBoeWc0U0dzbHRCWUNDZFMydmU5QUVoU2FlLXgtZDdPMUNoZVNhNWhLQlJnVlp4NEl4N1g4X0JsY0VLdDlRbXU5NzJWZzM2SHJRRHJ0SlpKV0RIejcwZw?oc=5",
+     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2ZkUzJsNzdrU2l5WW9UMkRYQk9lLS10R2NWaUVvVUJVVHlBZGtCNWF3cnRQWUN5clJpWHFNWHhqTk40Mm1XMHJENGh3eDBtYVJQWVZ2ZUVpQThuaFp5YXRQREhzQWd4RmpxWkxxVW9SMDQ2ZjZYZzhDc1RoWGQzNWt3UG4tMHBBVHpaVTVYUkNyQQ?oc=5"
+    ],
+    "titulo": "ONS projeta afluências de até 247% da média no Sul e alta de 7,3% na carga em novembro",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkRWekdCZXZGcDE4ajdIanhnNnFCLVQxMFExcE4wT1BLVFNsRFJyWl9iWUlSLUltcm0zVTlvdTdrREVvMVZPQnlfMTZoZnppcGtNRFF3SWY4Y3NjcHNrNjJvQ1lpSGM3X2Rqcl9zUzNid211NTV4MnJpRF9OVk11OFQ3Tk1OYVNIOUJhX01KVVFyR1BXOEE?oc=5"
+    ],
+    "titulo": "4º leilão de transmissão garante R$ 8,9 bilhões em investimentos, avalia associação",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/geracao/mais-de-70-da-capacidade-eolica-e-solar-exigira-decisoes-ate-2040/"
+    ],
+    "titulo": "Mais de 70% da capacidade eólica e solar exigirá decisões de repotenciação ou descomissionamento até 2040",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/empresas/parque-eolico-de-r-15-bilhao-recebe-licenca-no-rio-grande-do-sul/"
+    ],
+    "titulo": "Parque eólico de R$ 1,5 bilhão recebe licença no Rio Grande do Sul",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://www.pv-magazine-brasil.com/2026/11/06/ceara-aprova-complexo-solar-de-2037-mw-com-investimento-de-r-847-milhoes/"
+    ],
+    "titulo": "Ceará aprova complexo solar de 203,7 MW com investimento de R$ 847 milhões",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/armazenamento/mercado-brasileiro-de-baterias-deve-crescer-50-em-2026-aponta-greener/",
+     "https://www.pv-magazine-brasil.com/2026/11/06/brasil-pode-chegar-a-10-gw-de-baterias-instaladas-em-ate-cinco-anos-projeta-voltxs/",
+     "https://www.pv-magazine-brasil.com/2026/11/06/mercado-brasileiro-de-armazenamento-acumula-12-gwh-em-novos-contratos-so-em-2026/"
+    ],
+    "titulo": "Mercado de baterias deve crescer 50% em 2026 e já soma 1,2 GWh em novos contratos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/mercado-livre/pregao-da-bbce-bate-recorde-em-meio-a-previsao-de-chuvas-e-queda-dos-precos/",
+     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdURzZGVKM1pRZ1RfRzMyOExVY285QV80aUc0OEtFLWtnZnliRG5ULVRTXzdnOVNKb2hldGxpZWJ3NEtqd05UTERvUFRGSTZYQTlSNjU1TXRRS0dPWmk4aDNCcnFlalJ4NVNLaVRiZkJta2FtRUpuRUcza0k1eXdGdFB1dHQ3ajFjOTR6QUVYQmctTFFwX0R6Ug?oc=5"
+    ],
+    "titulo": "Pregão da BBCE bate recorde com previsão de chuvas e queda dos preços",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/mercado-livre/cemig-supera-300-mw-medios-no-varejo-e-chega-a-10-do-mercado/",
+     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFF4Y0xpclJ1ZXd0OFBxMFJXNUpXUjFSOHNPWmVmeEsxMVZnVFZqYmtJWGplZ1c5VmRjNnE5bjc2cWRTTVozQnZObTRTMnNoQThsZF9vR1hxSFFZX0Zpa1Q4UldiSU5XbFlMdzc0Nmg2VXVxNm5TcEtZbUNEV1NZNlYyWHhRQnFzYlp4NUxhNzBoZw?oc=5",
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEVBNENpczl0NFRNbjQ0YUF5MndRTnM0RGs1Q2gtRk1pV0JhSENERHRBSWUzVEdoZlZob2NzejJpdzNCYVZ2WkNmalo4aUw4b0ptcXFfazFibkF1WmZ0OXJxeTQxTWpkbm0ydnhtbHRDVndjWUliTzFQekNfWFpkMFN0OXhDamJGdHgybGdxNWdZNHVqN2c3ckhUUFd0b1E?oc=5",
+     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYVE0OEg5WUxGdmdlS3RQVjVkSjYtT1dtZ1llbDBmRWY0ZXlEeXBMb3ktbWdYWmRNRUtHaUoxdTA5THl1dC05OVYwNlNVZWp0Y0xtVGlzdVNJdmdIRC1nUGRPU0FJS0pRU3JyQ1ZvOVRBTURLLUhZbml0aUNxMmtxNEdUV3R1bEwtWmcxNGZ0WEQ3bnotZW5Ma2xQODRrWjNnYlVMa2ROaHRLSHRw?oc=5"
+    ],
+    "titulo": "Comercializadora supera 300 MW médios no varejo e chega a 10% do mercado",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM243d3l0VmZKVy1HVGZlZl93RzAyb3NWZ3o1alZ4Ym9VZEVjdVJTbk9xOXp3YUJ3bVVtYnp4bXh0bm55TzAteGs4aFhSV29UTmlXY1VPaWUzSjdGZ3FVcGpzd3FFemFYUzdoS1Q2X1BIY1ViUHlWSGZyWFFWSFdrY25waDNYdEpOVHVTZlR3VGhDOFU2SXA5cElzbFcyX0tlTERmNkY3VjR6MmpXcFhCdGFFay1SbHM?oc=5",
+     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnpFQ3liVFFzLV9INTMzYjRmS3piejJKa0oxdG5aLUJ0RkZmeXVpS3ZWU2NjNkxkVXFua01aWnkyY2Q1X0lkajM4UVdMdEdzWjV6Nl96NnZnLTVQajVOek42Qy0yWkhrbWtwT2hVN0NzRThXTFVBRXFhdUhGVms4S0ZuazQzTkwtdUU1Q2s2dEtXQQ?oc=5",
+     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWRwNldhSUJ0RVlXM1FyS0VyU3AxM1pzbjh0OHNsUVBXV3lKcUtFZm91VnBfNlpIdTBVZk9OY2hXRDNtcEVIanUzVzh0VXhoYlNwMVlGdDV2bUFXTktCZDVldFppVjR1eXVVT3J5MmxxdTJEZGlaVThCSE9BcEtGVlZrSmp1VThxUEc1UHJHenAzb0VVNm40TVk2a2huX1NqODZ0TE90Zk5SOW0xMTJZM3NobndXbGc0?oc=5"
+    ],
+    "titulo": "Custo do hidrogênio verde no Brasil sobe 27% em um ano; demanda firme pode demorar dois anos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN014QThiY3Q3c3NaMTVyblBYN2pCYlNDZHRGRHFYQ3hQMkhRbGlHREZibk1aaWhMclktcS1DQWR5MlFwZk53OFIyNzZCT3UwVVRMcTU5ckRZWkNOMUN5UEJoNGRBbUxLaWxsV21xZGhIbUV5YmI4S0p0OHFNaFlxczduUzhiZ18wVVNLT0p3UVpHSzdXMHVYN2lIVFFkVXhRRHptT05WTDNYT3FOa1JpY2pUNHhHdll5ZTBVd3lR?oc=5",
+     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzFQQUlCN0tPdExkQy1TYnU3RkRVOVRKVlZ6NmVPbmtYMEI4dHB5S0w3MzB5MzV5cjBsT1YwNFhKWjRGeUlna0ZUT2hSS0JWdl9jSkFtTkFTTTRDVjdubkhRVUtlY1VRZEtLbHhmdUxkWUE4ZkE5bHhfSl9vaVVweVNLNzdpREZWNVhWdTZ6UkFCeVljaV9Fbw?oc=5"
+    ],
+    "titulo": "Finep destina R$ 13,2 milhões a microturbina nacional movida a hidrogênio",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUVdGc3g3UGl3M18ta09QQXgwaXFIQXZtUnJQaElOcE85ZzY4Zjk1bjdfclY1MGNqVWN0a1ducFhISGFmbkJzOXlvaEFBMHNjMDBKQndlZnlBaUhCWF9XYnVLWVdENWVkS2dMYVE1Y19BVktiY01iSHB2VDRTTVZpaHVyVjEwWDNTd2NpYWVHMnlRZ1Z5LVZGN0xQeFRBWmVoZjl0UENQY0ZmMTZZOUo2QTEwaHFIQkNpV01tOHljMXhiWlVQbHhEX2JBM2ExVWIxVkI4eQ?oc=5"
+    ],
+    "titulo": "Redes subterrâneas: o marco regulatório e o compartilhamento de postes",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdTVxZmZXQlh1aGxLWWVKczhhVFFVTExCcW5wZHpyT0tnSnRDWTZIYXVFbDF3d0tzOXotNk1nZzAxbVEyTXhPcC1kaVlDaFJBSFFVaS1jRGlmbVp4WWxENHhHQ0dfMmcwZ0cwUG1jeFJFeGRnZHMtSE5PVTBpbXRXTk9UZXF1OTFsNE56eWxLcFBHdVphTW4xV1NfMkFYNFFIV0M4ZVlLUURnaXFyWWY3WllCWERmZGNBenBBdXV1NXB2N0pNVUtaRjhnWFB4U1Fv?oc=5",
+     "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekduRG9zUTM1c3RlYVdUM0xoeERqYlVfb0hId2xsOGhJMmNhN2kzY2RiQW9RR0Y1S1o0b2MxUGN2RHhxTElqb2ZXVElOanJCb1ZGcEhZa3gwcHBKZjQzSExGel81M01lR042blAzNWtURENvWEVUSmFGOURSbndNV25ySkRBSE1wTlNrZVBKbDl4Tk0?oc=5",
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0dhN1MwQ1QxdnFvTTFidFdFRjROUDNad3o0bUtYcFZZUHZwZFdOZGljd01ubTB5VGhGM192cE92QWsyaThCcFpYMHRyLTVaMzMtZFZMYkt6dDZBd2ZSZUs4TzBfNUVzN3BtWlIxaDRDcnZpWTAtRnpVLVRIWlZWQmF0TEd5SmRrM0hLRWZ1X2dMUTJ2dmtUWFJFRzNxUGYxNnI1aDNXYTNzc3pLWFE?oc=5"
+    ],
+    "titulo": "Temporais no Sul afetam 200 mil clientes; distribuidoras acionam planos de contingência",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/eletrificacao-esbarra-em-custo-da-energia-e-infraestrutura-de-recarga/?utm_source=rss&utm_medium=rss&utm_campaign=eletrificacao-esbarra-em-custo-da-energia-e-infraestrutura-de-recarga",
+     "https://agenciainfra.com/blog/coalizao-prioriza-15-medidas-para-descarbonizar-transportes-ate-2030/?utm_source=rss&utm_medium=rss&utm_campaign=coalizao-prioriza-15-medidas-para-descarbonizar-transportes-ate-2030"
+    ],
+    "titulo": "Eletrificação dos transportes esbarra no custo da energia e na infraestrutura de recarga",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2J5ZkJlUlRNTE0tb3Rsd3B6Wkw0N3hCcU9FeWhSaERINy1aSTd3eVc1eVUwRXplOUZYWDdJbU0ydV8tTi13U0duc1FpT2E2X1FJTXY4aWIzd21rNDlnQlAtSXMtVG9TUFdxQlF0Q0t5cWVMbnhOZlBRMm1IcVVIS3l2Vl8ybnJLV3dka1FudHAyYXdFa09kNGxGUHo4WW8?oc=5",
+     "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUpVbXVZakdsV0ZSTFZjSXgyckNCei1rQ1lZWE1LbUN6Ylp5N0x5Mk55TVpGSUlyMUJUVG9FRW9lSHJ6azloTkxYMEE5R29vYXgxVUxPdTllUzAxWHg2dGJXQVV3MS10Y20xV0llZnBLZGgyX3VLTldoTXFtMmYtZUZ0MHJiWXhlc3hlcUJ5LTRsbkxreUtCWHJDVElJUQ?oc=5",
+     "https://petronoticias.com.br/cnpe-aprova-diretrizes-do-mapa-do-caminho-para-reduzir-dependencia-de-combustiveis-fosseis/",
+     "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDVaR0luMHpSdjZkWnhGTXg2aEN6TWR3bzRjdFI5ZmE0eTJfbG40R1BxWURGeEJDQ0pNYzZHeTJJemE2azV1VzJqWm1EWGcwZmI5TVJ5aGJEQUZHR19UMHdaNFFkMkV5UDlOOWlFQmtZa3gwMVNWT2Y2MHAtNTBmVVV6Q3hXaXNRQXMxbUxadWRtMTJ1Vk15Umt6a1BsUjJheGRyNDR2UThZeFVObmFuTU81WDFUcVFpZ3dnck1hT2g5Q3VLTlM1UnQ4UEVZd9IB0wFBVV95cUxNZUJBZDB6OU1oQml0b05FZXVtRmFaUFU2U2RKMVQxZnlLR0ZKN1hmLU5FMFZsYXhDSDJPdENFNXZxak0zNVc1SWo5bmFhQ3p6MnJzeUZhc1dHa2M2QmV5TDQtdVdyRXd4TzU4ajJkRXJEMTR6X2RXbnp5aWFybmE2QmExYWM0TV9sT1JHQUowcDRaRlpTREVoNkJ5ZnJuZG9mMXk4OERybHZfWEJxbm1xRUQ5MW9hUzBhNFJtaHkxTThENmI5bGxMZlQwcG5FVWNFWXgw?oc=5",
+     "https://eixos.com.br/newsletters/dialogos-da-transicao/governo-assegura-espaco-para-o-petroleo-no-mapa-dos-fosseis/",
+     "https://eixos.com.br/politica/mapa-dos-fosseis-vai-por-arrecadacao-e-subsidios-na-conta-para-decidir-reducao-do-consumo/",
+     "https://oglobo.globo.com/economia/noticia/2026/11/06/governo-lula-aprovar-diretriz-para-reduzir-dependencia-de-combustiveis-fosseis.ghtml"
+    ],
+    "titulo": "CNPE aprova 18 diretrizes do Mapa do Caminho para reduzir a dependência de combustíveis fósseis",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/cnpe-cria-gt-do-mapa-do-caminho-com-prazo-de-1-ano-para-conclusao/?utm_source=rss&utm_medium=rss&utm_campaign=cnpe-cria-gt-do-mapa-do-caminho-com-prazo-de-1-ano-para-conclusao"
+    ],
+    "titulo": "CNPE cria GT do Mapa do Caminho com prazo de um ano para conclusão",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/cnpe-decide-que-botijoes-de-gas-deverao-ter-a-marca-da-distribuidora/?utm_source=rss&utm_medium=rss&utm_campaign=cnpe-decide-que-botijoes-de-gas-deverao-ter-a-marca-da-distribuidora",
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWlNY2FCRFcwcG9Zc0F2VnNRZURQNnAwUVkyLUJlYzI0X2ZnenNXbmJBZTZFeVJhRm9QclB0UnJ6U3lNbnF3amx5bXBFSFFQdHBaQnpXZjNZODd2QlJUd1J6c2IxQ2FwZGR6TWNzMmIxVkc1d19mMFlZNjEtOVhac3Byd0NjRnUxbG9iLURoV3VlMlkzTFY4M1RhV09oVmdoSVg5OER0TDNaMW1la3pIUjRCYUpDSF9YVGlwNlNOMWYyVVpnOEE?oc=5",
+     "https://eixos.com.br/combustiveis-e-bioenergia/governo-usa-cnpe-para-barrar-de-vez-a-reforma-do-glp-na-anp/",
+     "https://petronoticias.com.br/governo-aprova-medidas-para-reforcar-fiscalizacao-e-combater-fraudes-no-mercado-de-glp/"
+    ],
+    "titulo": "CNPE determina marca da distribuidora nos botijões e endurece rastreabilidade e fiscalização no mercado de GLP",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/destaques-do-diario/governo-prorroga-imposto-de-12-sobre-exportacao-de-petroleo-e-subsidio-ao-diesel/",
+     "https://agenciainfra.com/blog/congresso-prorroga-validade-de-mps-sobre-subsidios-a-combustiveis/?utm_source=rss&utm_medium=rss&utm_campaign=congresso-prorroga-validade-de-mps-sobre-subsidios-a-combustiveis",
+     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb1VuRURicGM2OHU4ZVpVWlRTUXIxWnptbWxHOF9VcnRHSTYybzFnWGtUdm11SnN3WmIwRnF2dGRqdE9ZZG43b2V1NU9SZy05LXB2S3dUOE4yYnRVTDhSU1VxdGZsT2F0bkZlcUs0dG9CUU1ROVlsVkJoQUdwZ3QzQS1XOVN1QlF4dWpkZW1HWk9tUzhLd1Y0MnJvdzJyNXh6alFmNDJUMlhoUWVwR3AyVElyYTlSYlZ4R2ExWWRNN0dmWjl0SGNJTDVzSnBkVF81NmVSYkNoRlJWdFZQaV9j0gHuAUFVX3lxTE1kdzFWc1ROYzI4em1MODdvN3htLW1sTjBWbHRRMUU2aGNGQmMzTzBTSEF2Q05PNDNvOXBFWncwZkg0Vy1yQ095SWNCQ1R2VFFQWWpsWjNFVXNCemNoeklubUlFaFdiaWtiX2lLR1VkZC14c0FFb3M0NlV3dk91enNwb3N2enJrU2xVTnpKTkZVbTd3TkdIVmQ0R280bFB6Ynd0RUNfeGFpcmMyd0xMejlQY0RKZmRkbVlSeHZXd2RVb3cxNHRzRDBQenYzcHEyeW54OEpRRnBva1hmeEQxNlI4dmNqMXVaYlJmb3dmUWc?oc=5",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-prorroga-ate-dezembro-imposto-de-12-sobre-exportacao-de-petroleo.shtml",
+     "https://oglobo.globo.com/economia/noticia/2026/11/06/governo-prorroga-imposto-de-12percent-sobre-exportacao-de-petroleo-ate-o-final-de-2026.ghtml",
+     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUdJemplU1d3aXFnTDhfSmw1Wjd3MmRqeVdHNl8xYlljMk1GS3JyWE5zbUZqUjZ6SzN4Nm14dDQ5R3Z6a05jWmpGMXoxa0RKa3BkRGk4NGc2ZXZlTnVjQlh2U3VrNWU4ZGFQS0RnT2ZxdHVHVWpMZlV5U3g0TXBadUZTbExKR2FUNFl6dFI0OFcxakt6Tm9iN9IBngFBVV95cUxPZDg2ZnlvdFcybmc4QTRudWxEOXFSbkZSWTF2WmJXeGNCRDRzWkwtbzJ6UVV2RW1hY2s0MTZzdWhQWWdPNHIzR3kzTlgwaE53UHdTb1RSQ20wZmJvdUVSMlFvajJpWkt4eER0LTUwajdtYVZrU0RGRGlTS3hCaWpHUmFmZHl1TEExcVhueGFzV1hUWHBlYjhtVGxnUl9YQQ?oc=5",
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1IxWk9KcG5ScWJmaTJBeTFyNGh6X3g4UFVlcTJ4eExucmFBdDBneDBRek4zaHpSNS04ODFsV0xGNGxybWVkU1p3SUhsX216ek9BQVJ5ZVl3c3ZndFAtNll1YURIdFJqMDh2ZzF4cHNGZDBQLTNuQ3ZjZDBFR05XOUhYTWJGQXc2eXhUVU8yQmdvczlZdmtDaExDZTZZODBjWFRBSjloU24?oc=5",
+     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUhTTlgyaFZBWXZIQllzVEkxM3FGZzZBa1N6MTlZY0pDQ3Ryb1c0eUlFZjhXVFZQeEk3VVVaRGVSWmNhU3VFbkVpb1lkTHF5Z3prV3JvZDBxS3ZyeXFaZmREY1VNbXBYVjB4aE9jNmtPSUVyMDhuVExBYU5PanpCQ1JfYTJNNWh0UzBGV3FQQ25ZTEduVFdBSEJpVVVLOTZZcUdFTjAyM3k4RFpLUEU4WUVFem1wX181Y3RGazd0Rlo1SFQ4cGY2Y3lR?oc=5"
+    ],
+    "titulo": "Gecex prorroga até 31/12 o imposto de 12% sobre exportação de petróleo; Congresso estende MP do subsídio ao diesel",
+    "resumo": "Resolução Gecex nº 977 e prorrogação por 60 dias da MP 1.391/2026 publicadas no DOU de 6/11.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/governo-cria-comite-para-avaliar-estudos-ambientais-de-bacias-sedimentares/?utm_source=rss&utm_medium=rss&utm_campaign=governo-cria-comite-para-avaliar-estudos-ambientais-de-bacias-sedimentares",
+     "https://news.google.com/rss/articles/CBMingFBVV95cUxQajNGdlhxcVQwQXd3enJEZ09UUmswVHdMenNWeWRfU0ZBU3p4YUJadFowT1phakJJdGY4ZW5aQ1ExUW5UZGNJQ2NwNEh5UFdZZEd2VWI1NXVBTERzaWl5elFORV9hR1RTQmYtWGxpcVk5UTMzYlloekVwTVgtSlYxd0g0eFRlcGRSRkYzS0JmcUtaX0tYZ3FsdDFsOFd4UQ?oc=5",
+     "https://eixos.com.br/petroleo-e-gas/governo-retoma-avaliacao-ambiental-e-abre-caminho-para-leiloar-52-blocos-pelotas-fica-condicionada/",
+     "https://petronoticias.com.br/governo-retoma-avaliacao-ambiental-de-bacias-sedimentares-para-oferta-de-ate-52-blocos/"
+    ],
+    "titulo": "Governo retoma avaliação ambiental de bacias sedimentares e abre caminho para ofertar até 52 blocos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/oleo-e-gas/nts-suspende-investimentos-e-avalia-ir-a-justica-contra-decisao-da-anp/",
+     "https://agenciainfra.com/blog/atgas-suspensao-de-investimentos-e-consequencia-da-percepcao-de-risco/?utm_source=rss&utm_medium=rss&utm_campaign=atgas-suspensao-de-investimentos-e-consequencia-da-percepcao-de-risco",
+     "https://agenciainfra.com/blog/entidades-veem-comunicado-da-nts-como-movimento-de-intimidacao-contra-anp/?utm_source=rss&utm_medium=rss&utm_campaign=entidades-veem-comunicado-da-nts-como-movimento-de-intimidacao-contra-anp",
+     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzVJSF91c3c4MG1na3NpeGxYZTJ0NU1TOTU1UHlkS21HbFFHT0V1ekc5eUVGX05mRVZpaVA1bm5OMVBmY1VvRXpXcGE5MXplcEg2NU9qSzhVTU44YjV4SmRfNHVob1gxaE1wX2lVZFQ3YVVXU1VFRmtOeHAtQXlZTGtpNm9abldqb25IOS11enZPVkR5S2Z0ZmZwSXNLVGNVd1o4X0VqeG1DNTcybjJXN1I1a3NPWFZ6?oc=5",
+     "https://megawhat.uol.com.br/oleo-e-gas/consumidores-e-distribuidores-de-gas-criticam-ameaca-de-judicializacao-da-nts-contra-a-anp/",
+     "https://eixos.com.br/gas-natural/mercado-de-gas/industria-ve-tentativa-de-intimidar-a-anp-na-agenda-do-gas/"
+    ],
+    "titulo": "NTS suspende investimentos após decisão da ANP sobre sua base de ativos; entidades veem intimidação",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/gas-natural/nts-quer-estender-contratos-com-a-petrobras-e-escapar-de-revisao-de-tarifas/",
+     "https://eixos.com.br/gas-natural/mercado-de-gas/clientes-de-gasodutos-cobram-conclusao-da-revisao-tarifaria-ja-exigida-pelo-tcu/",
+     "https://eixos.com.br/gas-natural/entre-o-investimento-real-e-a-renda-economica-o-futuro-da-regulacao-do-transporte-de-gas-no-brasil/"
+    ],
+    "titulo": "Clientes de gasodutos cobram conclusão da revisão tarifária do transporte de gás",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/pde-2036-preve-49-milhoes-de-barris-de-petroleo-por-dia-em-2036/?utm_source=rss&utm_medium=rss&utm_campaign=pde-2036-preve-49-milhoes-de-barris-de-petroleo-por-dia-em-2036"
+    ],
+    "titulo": "PDE 2036 prevê produção de 4,9 milhões de barris de petróleo por dia",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWnFOQll1Q1N6STNRV2ZOU01nZFlZLUxZVnZRc1E1b3lZb2dKT3hWSVp5WDNEU1JXa0oyOEZ3d2FtU1JYc1VfY2dNSWxmRllqa2dLX05XTUJPbk1xR0tIVnFySTBXRlFqeHU2Mmg2aWRSSXhLYWZScU1LaDQ0ZGxrQXBURlNVOHRxRWd4cmZkaC1MUHFjdGtB?oc=5",
+     "https://eixos.com.br/combustiveis-e-bioenergia/biocombustiveis/brasil-pode-ter-deficit-de-45-bilhoes-de-litros-de-biodiesel-em-2036-com-mistura-b25-aponta-epe/"
+    ],
+    "titulo": "EPE: biocombustíveis podem demandar R$ 142 bilhões até 2036 e B25 pode gerar déficit de biodiesel",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDZlQ0UyeGZRU0tXOFEyZ0FSZ0hLVWdMMWF3d1ByQzNfUzF4RnV3WWxGdXBiT3lKTVJXZnJCakRVa0RxbGhwRzYxY2F5ekpRTjlCUEszRXZtdFBrMkNVQ242ZjhjSWhvb2JyV1Etb0Rya1NNbGVnaWtCbV9zYk1XMmFOMWRxVHpOZjVudTVRcFBFMHRETTdkQVE1VHpSV2hPWTVGWkpOMFJpVXpHLWc?oc=5",
+     "https://eixos.com.br/gas-natural/onebio-maior-planta-de-biometano-do-pais-recebe-certificacao-da-anp-para-emitir-cgob/"
+    ],
+    "titulo": "ANP habilita os primeiros produtores a emitir certificados de biometano (CGOB)",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV25ESThURTJpUDBpVzV3UGxoZ3pZR2hfMGJmbl80WWRQTU9SZHAxdFp1dGY3WWhFeHBwRXZvaG00WGdTNGhCWHhlVHJqN2pyOEdQeHVmUm0wOENKdUUzMEZKTWs3UlpidFd4NFE3LUx0SXpOSmg2bzBQNHJSblM5WkVrcXEtZWU1UnFWMlNCQkpsSEFzTnBobmdWbVVGaG41VTJEXw?oc=5"
+    ],
+    "titulo": "Produção de petróleo e gás natural alcança novo recorde em setembro",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://valor.globo.com/brasil/noticia/2026/11/06/exportacao-de-petroleo-bruto-mais-que-dobrou-em-outubro.ghtml",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-tem-superavit-comercial-de-us-93-bilhoes-em-outubro.shtml",
+     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYUpzNHBScnR2aXlaWVJ6a3BvU1lwQXdrN29CZEtfN096aUpueWpGYXlhMldleloyWnhSMDZtdUNldmlibTJvTEZmcHhUcW1pT3hoVHlQcTJyWlNkWHlfRE5aT09pVzhheVdmWXhlSWdka1N5QlUtOTRIbWxRSEQzZVZSbktodHRMdkVoWEJOVjI5MEZBY3hQZWdQZVdiSl90QVdLWEFlZm5PYVdKX3gwWmNtQ0FkV3E5YkUwQmd3?oc=5"
+    ],
+    "titulo": "Exportação de petróleo bruto mais que dobra em outubro",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/negocios/capixaba-energia-avanca-na-compra-de-campo-da-imetame/",
+     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHlpanQ1cmg0TVQyX01KTDJyQkpmUktTZ1ZMaG1mZGFkSnpMcnNsdzBPU1c4cDV2SUlDNnRTUDZNbXg3QTRoNFhZM1pUM3lyckY5Vy1rbl9SbGZZTmVlemg5TjJlRjZQTzdCSUxocWtKb1hPYVhHNHhfVGFqdnJmaXFIcXBPTFVMR2swaVZrbDhpeWtNSkhKVGEybHRMTk4xdmllVDU1d2d3UQ?oc=5",
+     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakdJNDgwYVZYSDNFcHVrQ0ZzX1JOSGo0bFNERUwzanE5YXlBZDE1bUtZUHhJdUdvNmdQSmtteHFYU1hYLTBWNE11YXZGWFVRd1VHa1dIWFRCY0UxM1BGOER6TVRxbVhZSGhaYWN6REFidlZXd0pMMTlrYVFyczMyNFdCV0NMLThkWDBQYjd2LUFTa0JFa2drbjdn?oc=5"
+    ],
+    "titulo": "Venda de campo terrestre no Espírito Santo avança; vendedora pretende devolver um bloco",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://petronoticias.com.br/lloyds-register-aprova-conceito-de-fpso-da-petrobras-para-revitalizacao-do-campo-de-tupi/"
+    ],
+    "titulo": "Certificadora aprova conceito de FPSO para revitalizar o campo de Tupi",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/combustiveis-e-bioenergia/acelen-reduz-preco-do-diesel-em-28-e-da-gasolina-em-4-com-queda-do-petroleo/"
+    ],
+    "titulo": "Refinaria baiana reduz o preço do diesel em 2,8% e da gasolina em 4%",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-divulga-resultado-preliminar-da-chamada-publica-para-credenciamento-de-consultores-nao-governamentais"
+    ],
+    "titulo": "Cade divulga resultado preliminar do credenciamento de consultores não governamentais",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-debate-cooperacao-internacional-perspectiva-de-genero-e-regulacao-em-congresso-na-republica-dominicana"
+    ],
+    "titulo": "Cade debate cooperação internacional e regulação em congresso na República Dominicana",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/wicade-ufmg-idp-insper-e-usp-equipe-b-disputam-final-neste-sabado"
+    ],
+    "titulo": "WiCade: final da competição universitária neste sábado",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/gcr-fic/article/china-prohibits-softbanks-acquisition-of-abb-robotics"
+    ],
+    "titulo": "China proíbe a compra da ABB Robotics pela SoftBank",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2546985?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Departamento de Justiça dos EUA investiga o setor de embalagens",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/indian-watchdog-stops-hearing-antitrust-matters-amid-membership-crunch"
+    ],
+    "titulo": "Autoridade antitruste da Índia suspende julgamentos por falta de membros",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/spanish-olive-oil-merger-structured-minimise-risk-of-potential-antitrust-scrutiny"
+    ],
+    "titulo": "Fusão no setor de azeite na Espanha é estruturada para reduzir risco de análise antitruste",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2546794?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Nova lei de Nova York pode estimular ações sobre precificação algorítmica",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2547542?utm_source=rss&utm_medium=rss&utm_campaign=section",
+     "https://www.law360.com/competition/articles/2546951?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Compradores de tubos de PVC fecham acordos de US$ 212,5 milhões em ação de cartel",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZTQ2VDNJNEhYcXVFRjViYzBxb2hPQnI0aW5xZGJ5Z0FsS0xEdFlJbHY0U056XzdYbTE0aVdOeDBnc2U1UjlJVkppUnd6dGZNZFNEOFdBQmJzUnVxSGRGMm9hTm0yRk11UTZsSnBmVDB2YWhQSUNKUk9zYnZMN3Y2RDlBZ0xiNC1BNkpTNkpKdUR1SzZFTW1uLTYzbkl5dEVKMlpQUEJ0NVRNZWs4TEhmU0xUVzVCTWNuSDk1Q0ZVXzk2LVN5ZmNGWDBWQTRfVk55eW1R?oc=5",
+     "https://minerabrasil.com.br/governo-aprova-lista-de-27-minerais-criticos-e-estrategicos/2026/11/06/",
+     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeHNGUjhIRzZXTDlmU19ZRVZSMTZMUTBEVUpGUUF2TnBpNGJYN3ZMYndmeUZVRXFUWGRXcElMOVZ1OElzY1R6cG5xTkk1aTNCUERYVkNfZHBMaE5MdFVwdXBycFpHMTAtTkJSUktaOEZVQmNNU2x6WXd3Sk11VnkzMG5kZF9PM3AxR2g3elZFckphZFFfa3MwTjlZV2NhbjJzUG90RUNIM3lDdDVzcXVNMDAyTnJ4YkYyY0RrZ1I4eDRubmctMGJyOGZiUWQzUXM?oc=5",
+     "https://petronoticias.com.br/uranio-entra-na-lista-oficial-de-minerais-criticos-e-estrategicos-do-brasil/",
+     "https://brasilmineral.com.br/noticias/decreto-determina-criterios-de-classificacao"
+    ],
+    "titulo": "Cimce define 27 minerais críticos e critérios de acesso a fundo de até R$ 2 bilhões",
+    "resumo": "Decreto fixa critérios de classificação; urânio entra na classe de prioridade alta.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/conselho-de-minerais-deve-definir-cadeias-prioritarias-no-dia-20/?utm_source=rss&utm_medium=rss&utm_campaign=conselho-de-minerais-deve-definir-cadeias-prioritarias-no-dia-20"
+    ],
+    "titulo": "Conselho de minerais deve definir as cadeias prioritárias em 20/11",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/ibram-quer-prioridade-em-instrumentos-de-incentivo-e-fomento",
+     "https://minerabrasil.com.br/ibram-defende-prioridade-a-incentivos-fiscais-e-credito-na-regulamentacao-da-politica-de-minerais-criticos/2026/11/06/"
+    ],
+    "titulo": "Ibram pede prioridade a incentivos fiscais e crédito na regulamentação da política de minerais críticos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/bndes-conhece-tecnologia-da-viridis-que-pode-transformar-pocos-de-caldas-em-polo-industrial-de-terras-raras/2026/11/06/",
+     "https://minerabrasil.com.br/bndes-visita-projeto-de-terras-raras-da-meteoric-em-pocos-de-caldas/2026/11/06/",
+     "https://revistaminerios.com.br/viridis-vendas-solvay-funding-mina-pocos-de-caldas/",
+     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMU9EZ0RRXzNYcHd3ZUJQZVlGYWxGRnRteGZMQ0tSM21pTEVzUDBiYjUwS0x1WWM5WTBSeGIwcEs5MzhJbzBxdGxaYnNjZE5FOGxUNGxjMXlyUVFwTVdXbW9WLWZSZDdUekpnZUhHMmJyR1c4eWpKVm8tY1FlMmZUN2ZNVzlmXzFvZUg2NXFRQVVNaDRsYTdLSmJ3QUVldlg1ek14OFNuZHJwVjA2a2VVZWw2UnpsVzRQdzJ1N1pBcWVITHpNUzI1T0NUMXd0Zw?oc=5",
+     "https://brasilmineral.com.br/noticias/axel-ree-e-governo-de-minas-assinam-protocolo-para-o-projeto-caladao"
+    ],
+    "titulo": "Projetos de terras raras em Minas avançam com visitas do BNDES e contratos de venda",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/policia-federal-inaugura-laboratorio-para-rastrear-ouro-ilegal/?utm_source=rss&utm_medium=rss&utm_campaign=policia-federal-inaugura-laboratorio-para-rastrear-ouro-ilegal"
+    ],
+    "titulo": "Polícia Federal inaugura laboratório para rastrear ouro ilegal",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://revistamineracao.com.br/2026/11/06/vale-conclui-80-das-descaracterizacoes-em-itabira-mg-e-encerra-niveis-de-emergencia/"
+    ],
+    "titulo": "Vale conclui 80% das descaracterizações de barragens em Itabira e encerra níveis de emergência",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/cedro-mineracao-segue-caminho-de-outras-e-suspende-producao-em-minas-gerais"
+    ],
+    "titulo": "Mais uma mineradora suspende a produção em Minas Gerais",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/brasil-debate-caminhos-para-reduzir-dependencia-externa-de-fertilizantes-e-fortalecer-producao-nacional/2026/11/06/"
+    ],
+    "titulo": "Debate sobre como reduzir a dependência externa de fertilizantes",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/mineracao-e-petroleo-evitam-retracao-da-industria-brasileira-aponta-instituto-mauro-borges/2026/11/06/",
+     "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa2h2c0NfdjFHdWpTNmdybU5jb1NqTW1UaXY4bTZHNUVUMWNfLVZCcVZyWUlHNDJrRlNFVnNEVHlMRVZkbDFBQ0d6eFF0VmlHVFMwRl83ZkNNNFpuOWdTVVlKbGxFdkRJcUkwVE96TXBreGhRdlRobFMxd0lodERla0F3bjUyekk1T242SklrQkpfUnlxWjRaaEpxUl9YY0hNM2hBSGNFWk93SHpLR0UxVHpQOTFSMkIzMkozTWNPYnN2NDBPZTZOdzRNRWVnNjdQWmZoRFp5NlAyRkNCV0JJaUZZVXJUS0RsbHdoNlh2OFFpX3k5SWhMcW5IVl80SW8?oc=5"
+    ],
+    "titulo": "Mineração e petróleo evitam retração da indústria brasileira",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/antt-estabelece-limite-de-30-dias-uteis-para-quitacao-de-fretes/?utm_source=rss&utm_medium=rss&utm_campaign=antt-estabelece-limite-de-30-dias-uteis-para-quitacao-de-fretes"
+    ],
+    "titulo": "ANTT fixa limite de 30 dias úteis para quitação de fretes",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Infraestrutura"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/antaq-aperta-controle-sobre-porto-para-ferrovia-oeste-leste-em-ilheus/?utm_source=rss&utm_medium=rss&utm_campaign=antaq-aperta-controle-sobre-porto-para-ferrovia-oeste-leste-em-ilheus"
+    ],
+    "titulo": "Antaq aperta controle sobre porto da Ferrovia Oeste-Leste em Ilhéus",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Infraestrutura"
+   }
+  ]
+ }
 }
