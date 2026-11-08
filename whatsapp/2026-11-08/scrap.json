@@ -1,0 +1,605 @@
+{
+ "data": "2026-11-08",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 23,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 64,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 46,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 4,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 100,
+   "no_periodo": 4,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 15,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 40,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 5,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "CADE",
+   "idioma": "pt",
+   "titulo": "Cade e WIA firmam parceria para fortalecer Revista de Defesa da Concorrência",
+   "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-e-wia-firmam-parceria-para-fortalecer-revista-de-defesa-da-concorrencia",
+   "resumo_original": "",
+   "data": "2026-11-07T12:00:00-03:00",
+   "texto": "Ao final dos três dias de competição da WiCade – promovida pelo Conselho Administrativo de Defesa Econômica (Cade) em parceria com a Rede Women in Antitrust (WIA) –, realizada neste sábado (7/11), a conselheira Camila Pires Alves e a presidente da WIA e sócia do MHV Advogados, Marcela Mattiuzo, anunciaram uma nova parceria da autarquia com a WIA na Revista de Defesa da Concorrência.\nA Revista de Defesa da Concorrência (RDC) é um periódico científico eletrônico, gratuito e de acesso aberto, editado semestralmente pelo Cade desde 2013. A publicação visa fomentar a produção acadêmica e disseminar conhecimentos sobre defesa da concorrência e política antitruste. A submissão de artigos será até 5/3/2027.\n“Vamos fazer uma chamada de artigos que vai enfatizar a diversidade de gênero, papel fundamental da WIA. Vamos exigir uma co-autora principal mulher pós-graduada - claro que outras diversidades também são bem vindas”, anunciou Camila. “Mais uma iniciativa super importante do WIA com o Cade. Seguimos felizes por fazê-la, tentamos nos superar nas nossas possibilidades, deixando o Cade de portas abertas.”\nA revista reúne artigos científicos de diferentes áreas, como Direito, Economia, Administração e Relações Internacionais. Os trabalhos devem ser inéditos e originais, podem ser submetidos em português, inglês ou espanhol.\nA WiCade 2026 foi aberta na quarta-feira (4/11) com a presença de representantes do Cade, da WIA e de parceiros da competição. A iniciativa busca aproximar estudantes universitários do Direito Concorrencial por meio de um julgamento simulado de um caso fictício. Além de estimular o aprendizado prático e o desenvolvimento de habilidades de argumentação, a competição incentiva a participação feminina: metade dos integrantes das equipes deve ser composta por mulheres.\nWiCade conecta estudantes aos desafios reais da defesa da concorrência\nWiCade: UFMG, IDP, Insper e USP (equipe B) disputam final neste sábado"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "CADE",
+   "idioma": "pt",
+   "titulo": "Universidade Federal de Minas Gerais vence WiCade 2026",
+   "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/universidade-federal-de-minas-gerais-vence-wicade-2026",
+   "resumo_original": "",
+   "data": "2026-11-07T12:00:00-03:00",
+   "texto": "A 6ª edição da WiCade, competição de direito concorrencial promovida pelo Conselho Administrativo de Defesa Econômica (Cade) em parceria com a Rede Women in Antitrust (WIA), terminou neste sábado (7/11), com a equipe da Universidade Federal de Minas Gerais (UFMG) como primeira colocada.\nO Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP), que também havia passado para a final após a rodada da manhã, ficou em segundo lugar. O Instituto de Ensino e Pesquisa (Insper) e a equipe B da Universidade de São Paulo (USP-B) foram as terceiras colocadas na categoria “melhor equipe”. (Confira, abaixo, as demais classificações)\nA WiCade deste ano reuniu 129 competidores, distribuídos em 16 equipes, além de 83 voluntários que atuaram como conselheiros e secretários das sessões de julgamento.\nPara a presidente da WIA e sócia do MHV Advogados, Marcela Mattiuzo, “a parceria com o Cade é, muito provavelmente, uma das coisas mais importantes que a gente faz no ano inteiro”, avaliou. “É muito recompensador, tanto para os participantes quanto para os organizadores. Tem sido um fortalecimento da comunidade da defesa da concorrência.”\nDurante a competição, estudantes enfrentaram o desafio de analisar e debater um caso fictício de defesa da concorrência, reproduzindo a dinâmica dos processos analisados pelo Cade. Ao final, a competição organizou os participantes vencedores em quatro categorias, com premiação para os três primeiros colocados em cada uma delas.\nParticipante da competição pela sexta vez e integrante da UFMG, a equipe vencedora, Rafaela Gonçalves Bonfim definiu a vitória como fruto de uma bela trajetória: “Finalmente chegamos no nosso grande objetivo, que era ganhar a competição”, comemorou.\nA argumentação atenta aos fatos do caso e aos dados econômicos foi, para Rafaela, o fator decisivo para levar a equipe mineira à vitória. “É inegável o tanto que essa competição contribuiu para minha evolução no Direito antitruste”, contou. “Foi aqui que eu conheci o direito antitruste e me apaixonei por ele. A experiência que eu ganhei aqui, as pessoas que eu conheci, são coisas que eu vou levar pra vida. Que venham mais mulheres para nos representar na WiCade.”\nEm sua segunda participação na competição, João Guilherme Felix, do IDP, disse esperar integrar, futuramente, a equipe de conselheiros. “É uma competição fantástica”, descreveu. “Estou aqui graças a várias pessoas que foram meus coaches e colegas de equipe.”\n“Meu resultado aqui é fruto do esforço coletivo”, afirmou Cauã Sobrinho, da equipe B da USP, vencedor na categoria de melhor orador. “A WiCade me possibilitou aprofundar temas que antes eu ainda não tinha contato dentro do direito concorrencial. Então, eu agradeço a oportunidade.”\n2º lugar: Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP);\n3º lugar: Insper Instituto de Ensino e Pesquisa (Insper) e Universidade de São Paulo, equipe B (USP-B).\nWiCade conecta estudantes aos desafios reais da defesa da concorrência\nWiCade: UFMG, IDP, Insper e USP (equipe B) disputam final neste sábado"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "Laércio defende autonomia da ANP e critica pressão da NTS sobre revisão tarifária",
+   "link": "https://eixos.com.br/gas-natural/laercio-defende-autonomia-da-anp-e-critica-pressao-da-nts-sobre-revisao-tarifaria/",
+   "resumo_original": "Relator da Lei do Gás na Câmara diz que levar a disputa à Justiça tende a adiar decisões e investimentos e cobra a abertura da consulta pública das tarifas O post Laércio defende autonomia da ANP e critica pressão da NTS sobre revisão tarifária apareceu primeiro em eixos .",
+   "data": "2026-11-07T15:07:37-03:00",
+   "texto": "O senador Laércio Oliveira (PP-SE) defendeu nesta sexta (6/11) a autonomia da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis ( ANP ) na revisão tarifária das transportadoras de gás e criticou a reação da Nova Transportadora do Sudeste ( NTS ), que ameaça levar à Justiça a decisão da agência sobre a base de remuneração da empresa.\nRelator da Lei do Gás ( lei 14134/2021 ) na Câmara, Laércio cobra que as divergências com a transportadora sejam resolvidas no processo técnico da agência. Para ele, a judicialização prolonga a incerteza e pode travar o setor.\n“A ANP precisa ter independência para examinar as contas e aplicar a lei. As divergências devem ser enfrentadas com dados e argumentos técnicos. Levar essa disputa aos tribunais tende a adiar decisões e investimentos, quando o país precisa fazer o mercado de gás avançar”, afirma Laércio.\nO senador vê pressão indevida sobre a agência na reação da NTS, que ameaçou cancelar investimentos, inclusive os já aprovados. Em comunicado ao mercado na quinta (5/11) , a empresa informou que o conselho de administração decidiu suspender a aprovação de novos investimentos e rever os projetos aprovados e ainda não executados, com exceção dos necessários à segurança e à integridade dos ativos.\nLaércio também diz que os R$ 12 bilhões anunciados pela NTS não podem ser tratados como investimento garantido que o país perderia. Em 2022, a empresa anunciou um plano de R$ 12 bilhões para oito anos.\nNa avaliação do senador, a companhia investiu pouco desde que o consórcio liderado pela Brookfield assumiu o controle da transportadora, em 2017, e a cifra precisa ser confrontada com projetos concretos e compromissos firmes de execução.\nO senador defende ainda que, se a NTS não estiver disposta a fazer os investimentos necessários, a ANP use os mecanismos de seleção pública previstos na legislação para abrir espaço a outros transportadores.\n“O investimento precisa ter retorno adequado, e o consumidor precisa pagar uma tarifa justificada pelos custos. A indústria precisa de gás competitivo para produzir e gerar empregos. A expansão da infraestrutura não pode ficar condicionada às exigências tarifárias de uma única transportadora”, afirma.\nLaércio cobra a abertura da consulta pública da terceira e última etapa da revisão, que vai definir a receita permitida e as tarifas das transportadoras para o ciclo 2026–2030. Na segunda (9/11), a diretoria da ANP vai decidir se abre a consulta, na mesma reunião em que vai julgar o pedido de reconsideração da Associação de Empresas de Transporte de Gás Natural por Gasoduto (ATGás) contra a decisão sobre as bases de remuneração da NTS e da Transportadora Associada de Gás (TAG).\nNTS ameaça cancelar investimentos que não faz, diz porta-voz do União pela Energia\nLucien Belmonte, presidente-executivo da Abividro, afirma que a entidade vai pedir para entrar como amicus curiae se a transportadora for à Justiça contra a revisão tarifária da ANP\nOnebio, maior planta de biometano do país, recebe certificação da ANP para emitir CGOB\nPlanta da Edge e da Orizon em Paulínia (SP) tem capacidade para 225 mil m³/dia; ANP espera pôr em operação até o fim do ano o sistema de emissão dos certificados\nA disputa gira em torno da decisão da ANP que zerou o valor dos ativos do contrato Malha Sudeste na base de remuneração da NTS. Pelo Método do Capital Recuperado (RCM, na sigla em inglês), a agência concluiu que as receitas desse contrato com a Petrobras, encerrado no fim de 2025 , já pagaram todo o capital investido nos gasodutos.\nA NTS pedia R$ 5,3 bilhões por esses ativos e diz que o método rompe com as regras e os precedentes do setor ao ser aplicado de forma retroativa. A empresa afirma que, se o critério valer também para os demais contratos de longo prazo, sua capacidade de honrar as obrigações financeiras poderá ser afetada a partir de 2030.\nA ANP sustenta que os métodos alternativos de valoração estão previstos nas regras desde 2014 e que a revisão sempre esteve prevista para o fim dos contratos antigos. Em fato relevante de 2 de outubro , a NTS informou que a decisão atinge receitas equivalentes a cerca de 11% da receita líquida da empresa no primeiro semestre de 2026, ou R$ 390 milhões.\nA ATGás, que reúne as transportadoras, foi à Justiça em agosto contra o método e pediu à ANP que reconsidere a decisão; se não for atendida, quer a intervenção do Ministério de Minas e Energia (MME) .\nEsta matéria foi produzida com auxílio de inteligência artificial e revisada por um editor da eixos. Conheça nossos princípios editoriais e nossa política de correções ."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "O raio-x do mercado livre de gás natural nos estados",
+   "link": "https://eixos.com.br/newsletters/newsletter-gas-week/o-raio-x-do-mercado-livre-de-gas-natural-nos-estados/",
+   "resumo_original": "Pernambuco deve se tornar o 15º estado com indústria no mercado livre, que já responde por quase metade do consumo de gás do país O post O raio-x do mercado livre de gás natural nos estados apareceu primeiro em eixos .",
+   "data": "2026-11-07T09:00:00-03:00",
+   "texto": "PIPELINE. O mercado livre já responde por quase metade do consumo de gás fora das térmicas; e Pernambuco deve se tornar o 15º estado com cliente industrial livre . O raio-x da abertura nas concessões estaduais.\nNTS quer estender contratos com a Petrobras e escapar da revisão tarifária . NTS e TAG suspendem investimentos. Gas release racha o MDIC . Gás no Redata fica para depois da COP31. ANP certifica as primeiras plantas para emitir CGOB e mais. Confira:\nO mercado livre de gás natural segue em expansão, embora o ritmo de novas migrações industriais dê sinais de desaceleração em 2026 e as perspectivas para a janela da virada do ano não sejam muito diferentes. Em um semestre, o consumo industrial no mercado livre cresceu dos 15 milhões de m³/dia ao fim de 2025 para próximo de 20 milhões de m³/dia em junho , segundo a Associação Brasileira das Empresas Distribuidoras de Gás Canalizado (Abegás). E novembro chega com novidades.\nO mercado livre já existe na maioria das concessões estaduais de gás canalizado, mas com graus de maturidade diferentes. A seguir, o raio-x do mercado livre de gás nos estados.\nA migração em curso da Alpek coloca Pernambuco no mapa do mercado livre\nRegulação ajuda, mas não é tudo. Alagoas, por exemplo, tem um dos marcos legais e regulatórios mais bem avaliados pelo Relivre, mas ainda não se abriu. Também pesam sobre o dinamismo do mercado livre a pujança da indústria local e a competitividade do portfólio de suprimento de gás da distribuidora. Afinal, quanto maior o consumo industrial e a economia esperada frente ao mercado cativo, mais atrativa é a migração. Isso ajuda a explicar por que o mercado livre ganhou fôlego primeiro no Centro-Sul, que concentra a indústria brasileira e onde o gás onshore , mais barato, tem menos influência no mix de suprimento das distribuidoras locais. Estados como Amazonas e Mato Grosso, que não estão conectados à malha integrada de gasodutos, por sua vez, têm dinâmicas próprias, com menos concorrência na oferta. Alagoas tem candidato na fila. A Esmalglass do Brasil, do setor cerâmico, está formalmente enquadrada como consumidora livre pela Arsal, o regulador estadual, desde março, mas ainda não migrou. Na Paraíba , uma indústria cerâmica já sinalizou a intenção de migrar em 2027, mas também não tem contrato formalizado.\nEm junho, o mercado livre industrial já respondia por quase metade do consumo de gás (fora as termelétricas), segundo a Abegás.\nNo Espírito Santo , essa participação já está próxima dos 90%, sinal de que o teto da abertura está mais próximo . No Maranhão e no Pará , ambos estados com concessões greenfields, as indústrias locais já embarcaram no mercado de gás como clientes livres. Veja a seguir o tamanho do mercado livre por concessão:\nEntre os estados com mais espaço para novos clientes livres está o Rio de Janeiro , o segundo maior centro consumidor de gás do país e que só este mês começou a migrar indústrias com consumos inferiores a 100 mil m³/dia. ( Relembre o caso )\nSão Paulo, o maior centro de consumo do país, também tem muito espaço para a abertura. O estado responde por 37% do mercado livre de gás no setor industrial, com 7,3 milhões de m³/dia em junho, mas ainda tem mais de 3 milhões de m³/dia no mercado cativo. E São Paulo não possui piso de consumo para enquadramento de usuários livres.\nAs grandes migrações já ocorreram e o mercado livre se aproximou dos 20 milhões de m³/dia seis anos depois das primeiras movimentações, em 2021. A tendência, no entanto, é que esse volume desacelere.\nEle destaca como os comercializadores precisarão pulverizar a abordagem comercial para captar consumidores cada vez menores, com apetites também menores à migração a partir de agora. Na avaliação da NewGas, empresa que faz a gestão de contratos de consumidores livres, faltam, hoje, condições mais competitivas para convencer esses consumidores de menor porte. Isso porque o pequeno consumidor tem um contrato mais simples com a distribuidora, sem grandes penalidades, o que exige um grau de desconto mais elevado para justificar a migração.\nNTS quer estender contratos com a Petrobras. A Nova Transportadora do Sudeste (NTS) propôs ao governo estender até 2041 os contratos legados de transporte de gás com a Petrobras e, assim, escapar da revisão tarifária que promete cortar sua base de remuneração. Em troca da extensão dos contratos legados, a tarifa cairia 37% em 2027, mas o desconto encolheria para 18% em 2030, e a receita projetada da NTS cresceria 53% com os dez anos a mais de contrato.\nSubiu o tom. Esta semana, o conselho da NTS aprovou levar à Justiça o corte de R$ 5,3 bilhões na sua base de remuneração, caso a ANP não reveja a decisão nem haja acordo, e suspendeu a aprovação de novos investimentos.\nReação. Os usuários dos gasodutos, pelo CdU, cobraram que a ANP conclua a revisão , já exigida pelo TCU, e lembraram que a Lei do Gás permite oferecer a outro interessado o investimento que a transportadora recusar. A Abrace disse que nenhuma empresa pode intimidar a ANP com ameaça de suspender investimentos.\nOpinião: A regulação do transporte de gás precisa conciliar remuneração dos investimentos, segurança jurídica e modicidade tarifária , escreve o presidente da Abpip , Márcio Félix. Gas release na berlinda. Sob pressão da Petrobras, o programa de desconcentração do mercado de gás rachou o MDIC : a pasta, que apoiou o gas release na consulta pública da ANP, passou a questionar sua eficácia em audiência na Câmara, nesta semana. Gás no Redata fica para depois. O decreto do Redata ficou para depois da COP31 . A ministra da Casa Civil, Miriam Belchior, disse nesta sexta (6/11) que o texto está “praticamente finalizado” e deve ser anunciado na semana de 16 de novembro. Fazenda e MME seguem sem consenso sobre o enquadramento do gás natural como fonte de baixa emissão para os data centers. Eneva confirma novo terminal de GNL no ES. Empresa assinou com a Vports, autoridade portuária do Espírito Santo, contratos de uso de áreas no Porto de Barra do Riacho, em Aracruz (ES), para instalar um terminal de regaseificação e termelétricas a gás arrematadas no LRCAP 2026. Com isso, confirma o estado como sede do Hub Sudeste, em vez do Rio de Janeiro, a outra opção considerada. Efeitos da guerra no GNL. O conflito no Oriente Médio deve provocar o maior recuo anual já registrado na oferta global, com fluxos estrangulados e mais competição entre importadores, alertou a Agência Internacional de Energia (IEA, em inglês), que estima queda de 3% (20 bilhões de m³) na oferta mundial de GNL em 2026. Produção em alta. A produção de gás natural no Brasil chegou a 224 milhões de m³/dia em setembro, alta de 17,5% sobre setembro de 2025, segundo a ANP . Desse total, 66,4 milhões de m³/dia foram disponibilizados ao mercado. Corredores verdes. A Ultragaz espera operar, no início de 2027, seu primeiro posto de biometano em rodovia , na Bandeirantes (SP).\nCGOBs até o fim do ano. A ANP trabalha para colocar em operação até o fim de 2026 o sistema de emissão dos Certificados de Garantia de Origem do Biometano (CGOBs), afirmou a diretora Symone Araújo .\nMais biometano. A Potigás vê o mercado livre de gás como uma oportunidade para desenvolver o biometano no Rio Grande do Norte . A precificação ainda é um desafio para o aproveitamento do gás renovável no estado."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "NTS ameaça cancelar investimentos que não faz, diz porta-voz do União pela Energia",
+   "link": "https://eixos.com.br/gas-natural/nts-ameaca-cancelar-investimentos-que-nao-faz-diz-porta-voz-do-uniao-pela-energia/",
+   "resumo_original": "Lucien Belmonte, presidente-executivo da Abividro, afirma que a entidade vai pedir para entrar como amicus curiae se a transportadora for à Justiça contra a revisão tarifária da ANP O post NTS ameaça cancelar investimentos que não faz, diz porta-voz do União pela Energia apareceu primeiro em eixos .",
+   "data": "2026-11-07T06:01:00-03:00",
+   "texto": "O presidente-executivo da Associação Brasileira das Indústrias de Vidro ( Abividro ), Lucien Belmonte , porta-voz do movimento União pela Energia, que reúne 70 setores da indústria, questiona a ameaça da Nova Transportadora do Sudeste ( NTS ) de cancelar investimentos, inclusive os já aprovados , feita nesta quinta (5/11).\n“Eles não estão investindo nada, suspender o quê? Só se suspender a manutenção, aí é grave”, disse Belmonte em entrevista à eixos .\nUm exemplo é a estação de compressão (Ecomp) de Japeri (RJ). A NTS recebeu a autorização de construção em janeiro de 2025, mas a obra não saiu do papel enquanto a empresa pedia uma remuneração mais alta do que a proposta pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) , que negou o pedido.\nEm novembro de 2025, a ANP determinou que a NTS iniciasse a obra imediatamente , sob pena de abrir concorrência para outra empresa pegar o projeto. O conselho da transportadora aprovou o investimento em janeiro de 2026.\nBelmonte afirma que, se a NTS levar a revisão tarifária à Justiça, a Abividro vai pedir para entrar no processo como amicus curiae.\nA Associação de Empresas de Transporte de Gás Natural por Gasoduto ( ATGás ) contesta na 4ª Vara Federal Cível do Distrito Federal o uso do Método do Capital Recuperado (RCM, na sigla em inglês) para calcular a base de remuneração dos contratos legados da NTS e da Transportadora Associada de Gás (TAG). Com o método, a ANP zerou, em 2 de outubro, a base das malhas Sudeste (NTS) e Nordeste (TAG).\nEm nota divulgada nesta sexta (6/11), o União pela Energia sai em defesa da ANP e afirma que “é legítimo que empresas questionem decisões regulatórias pelos meios institucionais e jurídicos disponíveis”.\nMas pondera: “O que não pode acontecer é que os planos de uma empresa ou de um segmento da cadeia se sobreponha ao interesse público, à competitividade da indústria e ao direito dos consumidores a tarifas justas e a um mercado efetivamente concorrencial”.\nOnebio, maior planta de biometano do país, recebe certificação da ANP para emitir CGOB\nPlanta da Edge e da Orizon em Paulínia (SP) tem capacidade para 225 mil m³/dia; ANP espera pôr em operação até o fim do ano o sistema de emissão dos certificados\nArayara vê greenwashing em plano de transição que mantém fósseis até 2055\nInstituto critica aprovação sem passar pelo fórum da transição e diz que diretrizes para reduzir fósseis contrastam com leilão que contratou 90 térmicas a gás\nO comunicado da NTS veio às vésperas da reunião da diretoria da ANP, na segunda (9/11), que tem na pauta o pedido de reconsideração da ATGás e a abertura de consulta pública sobre as receitas e tarifas das transportadoras para 2026–2030, última etapa da revisão tarifária.\n“Eu espero que a decisão [da ANP] seja eminentemente econômica e técnica, não é uma decisão política”, afirma Belmonte. “Você já teve ativos de transportes que foram depreciados duas vezes e as pessoas parecem que querem que a gente pague a depreciação por uma terceira vez nessa história, é absurdo isso”.\n“No fundo, a gente está vendo um acirramento de uma posição de quem não quer mexer em nada para deixar exatamente como está”, completa.\nEle critica o posicionamento do secretário de Desenvolvimento Industrial, Inovação, Comércio e Serviços do Ministério do Desenvolvimento, Indústria, Comércio e Serviços , Uallace Moreira Lima , durante audiência pública sobre o gas release (programa de desconcentração do mercado de gás proposto pela ANP) nesta quarta (4/11), na Câmara dos Deputados.\nNa ocasião, o secretário afirmou que o gas release, em essência, não garante redução de preços e que o debate precisa considerar o papel estratégico da Petrobras na verticalização da cadeia produtiva.\nPara Belmonte, o argumento vai de encontro à defesa feita pelo próprio governo em torno da reindustrialização, que passa pela oferta de energia competitiva. “Todos os países do Sudeste Asiático ou os países que foram atrás de reindustrialização, como o próprio Estados Unidos, foram através de energia barata”, diz.\n“Quando não tem energia barata, eles fazem programas específicos de subsídio para energia barata. E aqui no Brasil você faz o contrário, você encarece a energia falando que você vai democratizar. Não existe isso na face da Terra”.\nO que a ANP decidiu? A ANP revisa as tarifas das transportadoras de gás para 2026–2030. Em 2/10, usou o Método do Capital Recuperado (RCM) para calcular quanto dos gasodutos dos contratos legados com a Petrobras ainda falta pagar.\nO método. O RCM calcula o capital investido nos gasodutos e desconta o que as tarifas já devolveram ao transportador. As transportadoras dizem que o método nunca tinha sido usado por reguladores no Brasil e que a ANP mudou a regra ao longo do processo . A ATGás pede na Justiça Federal que a regra do RCM seja declarada ilegal.\nA extensão dos contratos. A NTS propôs ao MME estender até 2041 os contratos legados com a Petrobras, em troca de uma tarifa menor em 2027, que depois volta a subir.\nOs consumidores. Consumidores e indústria defendem a ANP e pedem que ela conclua a revisão. Dizem que os gasodutos já foram pagos e que remunerá-los de novo encarece o gás.\nPróximo passo, por enquanto. Na segunda (9/11), a diretoria da ANP julga o pedido de reconsideração da ATGás e decide se abre a consulta pública da última fase, que define as tarifas de 2026–2030."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "Às vésperas da COP31, o Brasil precisa pôr o metano na conta",
+   "link": "https://eixos.com.br/politica/meio-ambiente/as-vesperas-da-cop31-o-brasil-precisa-por-o-metano-na-conta/",
+   "resumo_original": "Setor de resíduos emitiu 95,7 milhões de toneladas de CO₂ equivalente em 2024, mas recuperação energética e compostagem seguem sem valor econômico reconhecido, enquanto o país prometeu cortar 30% do metano até 2030, escrevem Yuri Schmitke e Alexandre Moriya O post Às vésperas da COP31, o Brasil precisa pôr o metano na conta apareceu primeiro em eixos .",
+   "data": "2026-11-07T06:00:00-03:00",
+   "texto": "Para quem cuida da gestão do lixo de uma cidade, o aterro sanitário costuma parecer a opção mais simples e barata. Porém, há uma parte do custo que não aparece em lugar nenhum, e não se trata somente de valor financeiro. Trata-se do metano que o resíduo enterrado emite ao longo de décadas .\nEnquanto essa conta não for feita , o Brasil continuará adiando investimentos de que precisa para cumprir seus compromissos climáticos e deixando para as próximas gerações uma conta ambiental que não fecha.\nA COP31 , que começa em 9 de novembro em Antália, na Turquia, é a chance de o país acertar essa conta antes que o prazo se esgote. Um ano depois de presidir a COP30, em Belém, o Brasil chega à nova conferência com uma promessa pendente. Em 2021, o país aderiu ao Compromisso Global do Metano , que prevê reduzir as emissões mundiais desse gás em pelo menos 30% até 2030, em relação a 2020 .\nNo entanto, segundo relatório de 2025 do Programa das Nações Unidas para o Meio Ambiente ( Pnuma ), os planos apresentados pelos países, se integralmente cumpridos, reduziriam essas emissões em apenas 8%. É menos de um terço do prometido .\nO metano responde por cerca de 30% do aumento da temperatura global desde a era pré-industrial, de acordo com a Agência Internacional de Energia. Como permanece cerca de 12 anos na atmosfera, cortá-lo é uma das formas mais rápidas de conter o aquecimento nas próximas décadas.\nNo Brasil, o setor de resíduos emitiu 95,7 milhões de toneladas de CO₂ equivalente em 2024, 3,6% a mais que no ano anterior, segundo o Observatório do Clima. Desse total, quase dois terços vêm da disposição em aterros e lixões.\nIsso não faz do aterro o vilão . A troca dos lixões por aterros sanitários foi uma conquista do saneamento brasileiro, e eles continuarão necessários para a destinação dos rejeitos.\nO problema está nos critérios que os municípios usam para escolher como vão tratar seus resíduos nos próximos 30 ou 50 anos. Quem trata o lixo antes da disposição final, por compostagem, biodigestão ou recuperação energética, evita metano, gera energia e recupera materiais. Mas o metano evitado não tem valor reconhecido, e a comparação com o aterro fica desigual.\nA recuperação energética de resíduos, tecnologia que transforma o lixo não reciclável em energia elétrica, evidencia a dimensão do que está em jogo.\nEstimativa preliminar da Associação Brasileira de Energia de Resíduos ( Abren ) indica que as usinas previstas na meta de 994 MW do Plano Nacional de Resíduos Sólidos tratariam cerca de 13 milhões de toneladas de lixo por ano, gerariam 8 TWh de energia e evitariam 290 mil toneladas de metano anualmente , cerca de 1,4% das emissões nacionais desse gás.\nÉ um corte comparável ao das principais medidas para o lixo do Plano de Ação Nacional de Ar Limpo e Clima, do Ministério do Meio Ambiente e Mudança do Clima. Ainda assim, a primeira versão do plano deixou a recuperação energética de fora, omissão que a Abren apontou em consulta pública.\nOs primeiros projetos já começaram a sair do papel, mas em ritmo lento. A Usina de Recuperação Energética de Barueri, na Grande São Paulo, que será a primeira da América Latina, chegou a 88% das obras em outubro e deve iniciar a operação comercial no primeiro semestre de 2027 , com 20 MW e capacidade para 870 toneladas de resíduos por dia .\nTransição energética deve se dar pela via da integração de fontes, defende Firjan\nPara a gerente de Petróleo, Gás e Energias da Firjan, Karine Fragoso, o caminho é ter mais de uma fonte à disposição para se alcançar a descarbonização\nBrasil propõe caminhos diferentes para países abandonarem combustíveis fósseis\nPresidência da COP30 apresenta roteiro internacional com foco em oferta, demanda e dependência econômica\nA capital paulista contratou outras quatro usinas, de 30 MW cada , com operação prevista entre 2030 e 2034 . Somadas, elas representam apenas 14% da meta de 994 MW para 2040 . A distância não se explica pela falta de metas, e sim pela ausência de um ambiente econômico que torne os projetos viáveis.\nConstruir esse cenário não exige reinventar a política climática. Exige instrumentos que deem valor ao metano evitado e comprovado: crédito de longo prazo, garantias para projetos, contratação de energia que reconheça os serviços ambientais das usinas e mecanismos de precificação de emissões, sempre com tarifas acessíveis para a população e inclusão dos catadores.\nExige também que a meta climática apresentada pelo Brasil à ONU, de reduzir as emissões líquidas entre 59% e 67% até 2035 em relação a 2005, se traduza em metas mensuráveis de metano evitado no setor de resíduos, com responsáveis, prazos e fontes de financiamento.\nPara isso, o caminho legislativo já está traçado. O PL 3.311/2025 , de autoria do senador Fernando Dueire, cria o Programa Nacional do Metano Zero , que integra gestão de resíduos e produção de energia e prevê a certificação dos benefícios ambientais.\nAprovado na Comissão de Assuntos Econômicos (CAE) do Senado em julho deste ano, e incluído com prioridade pelo Plano Nacional da Transição Energética (Plante), o projeto tramita na Comissão de Meio Ambiente e merece a devida urgência a que a medida faz jus.\nNada disso significa opor a recuperação energética à reciclagem. A ordem de prioridades da Política Nacional de Resíduos Sólidos, que começa pela não geração e passa pela reutilização e pela reciclagem, deve ser respeitada, e o trabalho dos catadores, preservado.\nAs usinas devem receber apenas o que sobra depois da coleta seletiva e do tratamento dos orgânicos, e cada projeto precisa ser avaliado pela composição do lixo, pela escala, pela logística e pelo balanço de emissões em todo o ciclo de vida.\nAlém disso, é vital capturar todo o metano possível dos aterros existentes, melhorando o processo mediante sistemas de monitoramento via drones ou satélites com câmeras de espectrometria.\nNa COP31, os países voltarão a renovar compromissos. O Brasil já assumiu os que importam. O que falta é pôr o metano evitado na conta e transformar promessas em usinas e em reduções comprovadas de emissões .\nYuri Schmitke é presidente executivo da Associação Brasileira de Energia de Resíduos (Abren)."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "PRODUÇÃO DE PETRÓLEO NO BRASIL DEVE ATINGIR PICO DE 5 MILHÕES DE BARRIS POR DIA EM 2028",
+   "link": "https://petronoticias.com.br/producao-de-petroleo-no-brasil-deve-atingir-pico-de-5-milhoes-de-barris-por-dia-em-2028/",
+   "resumo_original": "A produção brasileira de petróleo deverá atingir um pico de aproximadamente 5 milhões de barris por dia em 2028, impulsionada principalmente pela entrada em operação de novas unidades no pré-sal. A projeção consta do Caderno de Produção de Petróleo e Gás Natural do Plano Decenal de Expansão de Energia 2036 (PDE 2036), publicado pelo Ministério […]",
+   "data": "2026-11-08T04:00:09-03:00",
+   "texto": "A produção brasileira de petróleo deverá atingir um pico de aproximadamente 5 milhões de barris por dia em 2028, impulsionada principalmente pela entrada em operação de novas unidades no pré-sal. A projeção consta do Caderno de Produção de Petróleo e Gás Natural do Plano Decenal de Expansão de Energia 2036 (PDE 2036), publicado pelo Ministério de Minas e Energia (MME) e pela Empresa de Pesquisa Energética (EPE).\nApós alcançar esse patamar, a produção deverá permanecer próxima do nível máximo nos anos seguintes, chegando a 4,9 milhões de barris por dia em 2036. O volume representa um crescimento de aproximadamente 30% em relação ao registrado em 2025.\nO pré-sal continuará como principal fonte de petróleo do país, respondendo por 73% da produção nacional ao final do período analisado. As operações em águas profundas e ultraprofundas, por sua vez, representarão 94% do total em 2036. No ambiente terrestre (onshore), a expectativa é de que a produção alcance 153 mil barris por dia, o equivalente a 3% do volume nacional.\nNo caso do gás natural, a produção bruta deverá atingir 308 milhões de metros cúbicos por dia (m³/d), alta de 72% na comparação com o mesmo ano, impulsionada principalmente pelas bacias de Santos, Campos, Sergipe-Alagoas e Parnaíba. O pré-sal deverá manter sua predominância, com participação de 76% do volume bruto produzido no país ao final do horizonte do estudo.\nA produção líquida deverá chegar a 135 milhões de m³/d, com o pré-sal respondendo por aproximadamente 55% desse total. A produção terrestre também ganhará destaque, com previsão de alcançar 26 milhões de m³/d, equivalente a 20% da oferta nacional.\nO estudo apresenta ainda análises de sensibilidade sobre iniciativas que podem ampliar a produção e o aproveitamento dos recursos nacionais. Entre as oportunidades identificadas para o gás natural está a implantação de um Gas Hub no campo de Mero, na Bacia de Santos. A estrutura permitiria processar e disponibilizar gás proveniente de plataformas sem capacidade própria de separação de dióxido de carbono (CO₂), com potencial de exportação de 15 milhões de m³/d.\nOutra possibilidade apontada é o aumento do fator de recuperação dos campos. Segundo o caderno, cada avanço de um ponto percentual nesse indicador poderia acrescentar cerca de 207 milhões de barris de óleo equivalente (boe) aos volumes recuperáveis nas bacias terrestres e aproximadamente 2,3 bilhões de boe nas áreas marítimas.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "PETROBRÁS PRORROGA CONTRATO DO NAVIO DE APOIO SKANDI OLINDA",
+   "link": "https://petronoticias.com.br/petrobras-prorroga-contrato-do-navio-de-apoio-skandi-olinda/",
+   "resumo_original": "A embarcação de apoio à instalação de dutos (PLSV, na sigla em inglês) Skandi Olinda, pertencente a uma joint venture entre o DOF Group e a TechnipFMC, teve seu contrato de longo prazo com a Petrobrás prorrogado. O acordo, que tinha previsão de encerramento em abril de 2027, foi estendido até janeiro de 2028, acrescentando […]",
+   "data": "2026-11-07T13:00:49-03:00",
+   "texto": "A embarcação de apoio à instalação de dutos (PLSV, na sigla em inglês) Skandi Olinda, pertencente a uma joint venture entre o DOF Group e a TechnipFMC, teve seu contrato de longo prazo com a Petrobrás prorrogado.\nO acordo, que tinha previsão de encerramento em abril de 2027, foi estendido até janeiro de 2028, acrescentando 304 dias de trabalho à contratação. A Skandi Olinda se junta às embarcações Skandi Buzios e Skandi Recife, que também tiveram seus contratos com a Petrobras prorrogados em julho deste ano.\nConstruída em 2019, a Skandi Olinda possui 140 metros de comprimento e capacidade para acomodar 120 pessoas. A embarcação pertence igualmente ao DOF Group e à TechnipFMC, com participação de 50% para cada empresa.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "FIM DE SEMANA COM OPORTUNIDADES DE ESTÁGIOS E EMPREGOS. ESCOLHA BEM E FAÇA A SUA INSCRIÇÃO",
+   "link": "https://petronoticias.com.br/fim-de-semana-com-oportunidades-de-estagios-e-empregos-escolha-bem-e-faca-a-sua-inscricao/",
+   "resumo_original": "Quem está em busca de uma oportunidade no mercado de trabalho pode encontrar novas possibilidades em Macaé. A Prefeitura, por meio da Secretaria Municipal de Trabalho e Renda, divulgou nesta semana, 910 oportunidades de emprego em diferentes áreas profissionais. As vagas contemplam candidatos com níveis de escolaridade que vão do Ensino Fundamental ao Ensino Superior, […]",
+   "data": "2026-11-07T04:00:30-03:00",
+   "texto": "Quem está em busca de uma oportunidade no mercado de trabalho pode encontrar novas possibilidades em Macaé. A Prefeitura, por meio da Secretaria Municipal de Trabalho e Renda, divulgou nesta semana, 910 oportunidades de emprego em diferentes áreas profissionais. As vagas contemplam candidatos com níveis de escolaridade que vão do Ensino Fundamental ao Ensino Superior, incluindo oportunidades para pessoas com deficiência (PCD). O levantamento reúne chances em diversos segmentos, como comércio, serviços, hotelaria, alimentação, construção civil, indústria, logística e setor de óleo e gás.\nEntre as funções disponíveis estão atendente, operador de caixa, auxiliar de serviços gerais, vendedor, motorista, cozinheiro, camareira, eletricista, mecânico, pedreiro, soldador, técnico de instrumentação e auxiliar administrativo. Há também oportunidades para profissionais com formação técnica e superior, como projetista de tubulação, analista de documentação, médico psiquiatra, psicopedagogo, psicomotricista e professores de diferentes disciplinas. O cadastro contempla ainda vagas destinadas exclusivamente a pessoas com deficiência, incluindo funções como marinheiro de convés, operador de ROV e surveyor, além de outras oportunidades que também aceitam candidatos PCD. Os interessados devem procurar a Secretaria Municipal de Trabalho e Renda para realizar cadastro e encaminhamento às vagas disponíveis. É importante manter os dados atualizados para aumentar as chances de inserção no mercado de trabalho. A Secretaria também disponibiliza link específico onde é possível preencher o cadastro de forma online. O endereço é: Edifício Comercial Lótus, na Avenida Nossa Senhora da Glória, 1181, Praia Campista , das 8h às 17h. Caso não encontre uma vaga que se encaixe no perfil desejado, é possível fazer um cadastro de forma online.\nA Raízen abre, no dia 3 de novembro, as inscrições para as vagas de Jovem Aprendiz. A companhia prevê mais de 340 vagas, distribuídas entre as frentes de Etanol, Açúcar e Bioenergia e de Combustíveis. Há oportunidades abertas em todas as regiões do país. As vagas são para áreas administrativas, operacionais e técnicas e as primeiras admissões devem ocorrer em janeiro de 2027. Para a frente de Etanol, Açúcar e Bioenergia, a empresa oferece cargos em Jataí (GO), Lagoa da Prata (MG), na capital de São Paulo e no interior do estado em Araraquara, Barra Bonita, Bento de Abreu, Guariba, Piracicaba, Jaú, Andradina, Ipaussu, Igarapava, Maracaí, Mirandópolis, Paraguaçu Paulista, Brotas, Rafard, Elias Fausto, Ibaté, Tarumã, Valparaíso e Morro Agudo.\nJá na frente de Combustíveis, as cidades contempladas são Açailândia (MA), Recife (PE), Fortaleza (CE), Belém (PA), Marabá (PA), Curitiba (PR), Jaraguá do Sul (SC), Paulínia (SP), Betim (MG), Duque de Caxias (RJ) e Rio de Janeiro, na Ilha do Governador (RJ). Para participar, o candidato deve ter entre 16 e 21 anos, estar cursando ou já ter concluído o Ensino Médio e ter de 4 a 8 horas de disponibilidade diária. O processo seletivo será composto de testes online, análise de currículo e entrevista. Entre os benefícios oferecidos estão plano de saúde, plano odontológico, plataforma de saúde, bem-estar e atividades físicas, vale-alimentação, vale-transporte ou transporte fretado, conforme a localidade, além de seguro de vida. Para participar, o candidato deve ter entre 16 e 21 anos, estar cursando ou já ter concluído o Ensino Médio e ter de 4 a 8 horas de disponibilidade diária. As inscrições serão feitas pela página do Programa Aprendiz da Raízen Link . O processo seletivo será composto de testes online, análise de currículo e entrevista. Entre os benefícios oferecidos estão plano de saúde, plano odontológico, plataforma de saúde, bem-estar e atividades físicas, vale-alimentação, vale-transporte ou transporte fretado, conforme a localidade, além de seguro de vida.\nA ICONIC, responsável pelas marcas Ipiranga Lubrificantes e Texaco Lubrificantes, está com oportunidades de trabalho em São Paulo, no Rio de Janeiro e em Cuiabá (MT). As seleções contemplam diferentes áreas de atuação e perfis profissionais. Os interessados podem consultar os requisitos e se candidatar pelo portal Link Em São Paulo, as oportunidades estão concentradas nas áreas de Jurídico, Crédito, Contas a Receber e Cobrança. No Rio de Janeiro, a companhia conta com posições em Tributário, Trade Marketing e Gestão de Produtos (PMO). A empresa também mantém um banco de talentos afirmativo para pessoas com deficiência (PcD), voltado ao cadastro de profissionais para futuras oportunidades. Em Cuiabá, há oportunidade na área Comercial. As posições contemplam diferentes frentes da operação da companhia, de atividades administrativas e financeiras ao relacionamento com o mercado.” Buscamos profissionais com uma visão para novos desafios, habilidades para trabalhar em ambiente dinâmico e interessadas na oportunidade de crescimento em longo prazo “, afirma Alessandra Sili, analista de Recrutamento e Seleção da ICONIC. A oferta e os critérios de elegibilidade dos benefícios variam conforme a posição e devem ser consultados nos anúncios. As oportunidades podem ser atualizadas ou encerradas durante o processo seletivo.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Brasil destinou R$ 54,1 bilhões a subsídios para combustíveis fósseis em 2025, aponta Inesc",
+   "link": "https://valor.globo.com/brasil/noticia/2026/11/07/brasil-destinou-r-541-bilhes-a-subsdios-para-combustveis-fsseis-em-2025-aponta-inesc.ghtml",
+   "resumo_original": "Gás natural",
+   "data": "2026-11-07T13:16:41-03:00",
+   "texto": "Apesar do avanço dos incentivos às fontes renováveis, os combustíveis fósseis continuam concentrando a maior parte dos subsídios federais à energia no Brasil . Em 2025, petróleo , gás natural e carvão mineral receberam R$ 54,12 bilhões, o equivalente a 70% dos R$ 77,16 bilhões destinados ao setor energético. O valor é 2,35 vezes superior aos R$ 23,04 bilhões concedidos às fontes renováveis, segundo análise do Instituto de Estudos Socioeconômicos ( Inesc ), organização não-governamental que atua no monitoramento do orçamento público.\nO levantamento mostra que, entre 2024 e 2025, os subsídios às renováveis cresceram 20,9%, enquanto os destinados aos combustíveis fósseis recuaram apenas 1,3%. Para o Inesc, embora o movimento indique uma mudança gradual, a política de incentivos ainda está distante de refletir os compromissos brasileiros de transição energética.\n\"O principal recado do estudo não é acabar com subsídios de uma hora para outra, mas construir um plano ordenado de reforma\", afirma Cássio Cardoso Carvalho, assessor político do Inesc e um dos autores do levantamento. \"É preciso avaliar quais incentivos ainda fazem sentido, estabelecer cronogramas e distinguir subsídios à produção daqueles voltados ao consumo, que muitas vezes cumprem uma função social.\"\nUm dos principais alertas do estudo é que parte significativa desses incentivos é bancada pelos consumidores. A Conta de Consumo de Combustíveis (CCC), que financia a geração de energia em sistemas isolados movidos principalmente a diesel, somou R$ 14,1 bilhões em 2025. Já as bandeiras tarifárias mais que dobraram no período, alcançando R$ 7,78 bilhões após maior acionamento de termelétricas diante da menor geração hidrelétrica. Somados aos incentivos ao carvão mineral, esses mecanismos representaram R$ 23,1 bilhões, ou 42,7% dos subsídios aos combustíveis fósseis.\nCarvalho afirma que a conta tende a ficar mais pesada com o avanço das mudanças climáticas: \"A escassez hídrica aumenta a necessidade de geração térmica, enquanto parte dos grandes consumidores migra para o mercado livre e deixa de pagar bandeiras tarifárias. A conta acaba sendo rateada entre quem permanece no mercado regulado, pressionando principalmente os consumidores residenciais\", diz.\nA discussão ganha força internacional. Na XI Semana de Energia da Organização Latino-Americana de Energia (Olade), realizada em outubro, países da região defenderam, por consenso, a revisão dos subsídios às diferentes fontes energéticas. O tema também aparece no primeiro roteiro global para reduzir a dependência mundial de petróleo, gás e carvão apresentado nesta semana pela presidência brasileira da COP30 e feito com base em 247 contribuições de 115 países. Para Carvalho, as tensões geopolíticas e seus efeitos sobre o mercado de petróleo e os preços da energia também reforçam a necessidade de os governos revisarem políticas de subsídios.\nO estudo chama atenção ainda para a estrutura dos incentivos às fontes renováveis. Embora tenham crescido para R$ 23 bilhões em 2025, cerca de 64% desse total corresponde a subsídios para geração distribuída, como painéis solares instalados em residências e empresas. Ao mesmo tempo, 95,5% desses incentivos são financiados por encargos cobrados na conta de luz, e não pelo orçamento da União.\n\"Quem consegue instalar geração própria deixa de pagar parte dos custos do sistema, enquanto consumidores sem acesso a financiamento ou à tecnologia acabam assumindo essa conta. A expansão das renováveis precisa caminhar junto com critérios de justiça distributiva\", afirma.\nOutro dado destacado pelo levantamento é a redução de 46,3% das renúncias fiscais do Repetro, regime especial voltado ao setor de petróleo e gás, justamente em um período de produção recorde. Para o pesquisador, o resultado indica que é possível discutir a revisão gradual desses incentivos sem necessariamente comprometer a atividade econômica do setor.\nCom um novo mandato do presidente Luiz Inácio Lula da Silva, o Inesc espera que a revisão dos subsídios ganhe prioridade. Segundo Carvalho, propostas como a reforma da Conta de Desenvolvimento Energético (CDE) — fundo setorial do setor elétrico que financia subsídios, descontos na conta de luz para famílias de baixa renda, compra de combustíveis para sistemas isolados e programas de universalização do acesso à energia — e a reavaliação do Repetro já estavam entre as diretrizes do governo e podem contribuir para reduzir distorções, fortalecer a indústria nacional e tornar a conta de luz mais equilibrada para os consumidores."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Crise do petróleo se mantém e atenção se volta aos números das aéreas do 3º tri",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/07/crise-do-petrleo-se-mantm-e-ateno-se-volta-aos-nmeros-das-areas-do-3-tri.ghtml",
+   "resumo_original": "Avião",
+   "data": "2026-11-07T13:08:04-03:00",
+   "texto": "Com o petróleo ainda em patamares elevados, os resultados do terceiro trimestre das companhias aéreas ganham importância para o mercado, que busca identificar como as empresas estão reagindo ao aumento dos custos e quais estratégias têm adotado para preservar a rentabilidade .\nNos últimos meses, as aéreas passaram a ajustar suas rotas em busca de mercados mais lucrativos, em meio ao encarecimento do combustível. A primeira a divulgar os resultados foi a Latam , na terça-feira (3). Agora, a Azul deve soltar seus números no dia 12 de novembro, já a fabricante Embraer também publica balanço no dia 10. A Abra, holding da Gol , libera os dados em 18 de novembro.\nSegundo números da Agência Nacional de Aviação Civil ( Anac ), o preço médio do QAV (combustível de aviação) praticado no Brasil em setembro foi de R$ 5,66 por litro, aumento de 54,4% em relação a setembro de 2025 e de 32,5% na comparação com setembro de 2024, em valores de setembro de 2026, atualizados pelo IPCA.\nNo dia 24 de outubro, a Azul anunciou uma operação de financiamento no valor de R$ 2 bilhões, com cobertura do risco de crédito concedida pela União, por intermédio da Agência Brasileira Gestora de Fundos Garantidores e Garantias (ABGF), com recursos do Fundo de Garantia à Exportação (FGE). Segundo a aérea, os recursos serão destinados justamente ao pagamento de combustível de aviação para a operação regular doméstica.\nOs desafios se refletem em um setor com mais dificuldade para ampliar a oferta — embora a Latam tenha crescido mais que suas concorrentes nos últimos tempos.\nSegundo dados da Anac, em setembro, as aéreas movimentaram 10,9 milhões de passageiros no total, aumento de 0,7% em relação ao mesmo mês do ano passado. Desse total, foram 8,5 milhões de passageiros no mercado doméstico, queda de 0,1% na comparação com igual mês do ano anterior. Já no mercado internacional, foram 2,4 milhões de passageiros, alta de 3,9%.\nEm relação às tarifas, os números da Anac apontaram que, em setembro, o bilhete foi comercializado por uma média de R$ 746,62 por trecho, redução de 0,5% em relação a setembro de 2025 e aumento de 1,9% na comparação com setembro de 2024, em valores também atualizados pelo IPCA.\nA Latam fechou o terceiro trimestre com um lucro líquido de US$ 441 milhões, alta de 16,3% na comparação anual. O resultado foi amparado por uma forte demanda por viagens, que ajudou a empresa a crescer sua oferta e aumentar tarifas. O ganho chegou mesmo diante de uma disparada do combustível de aviação.\nO grupo atualizou suas projeções para 2026, elevando a estimativa de receita para uma faixa entre US$ 17,6 bilhões e US$ 17,8 bilhões — antes a estimativa estava na faixa entre US$ 17,3 bilhões e US$ 17,7 bilhões. A projeção agora considera o preço do combustível a US$ 180 por barril no quarto trimestre de 2026 — antes, a estimativa era um preço para o combustível no quarto trimestre de US$ 130 o barril.\nA companhia divulgou ainda um novo guidance para seu fechamento do ano em que projeta crescimento na oferta de assentos entre 7,5% e 8,5% para a operação no Brasil. O novo guidance representa corte de 0,5 ponto percentual contra o anterior, que era entre 8% e 9%.\nOutra aérea a realizar ajustes foi a Gol, mas de forma mais profunda, com uma redução de 10% entre abril e agosto na oferta doméstica. A empresa também decidiu abandonar algumas rotas.\nParte do ajuste se deu sobretudo no braço internacional, com destaque para a Flórida, com cerca de 18 voos semanais que partem de três cidades do Brasil deixando de ser feitos a partir de fevereiro — a operação é tocada com o Boeing 747 Max."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Exportações crescem 20% em outubro, puxadas pelo petróleo",
+   "link": "https://valor.globo.com/brasil/noticia/2026/11/07/exportaes-crescem-20-pontos-percentuais-em-outubro-puxadas-pelo-petrleo.ghtml",
+   "resumo_original": "Navio-plataforma na Bacia de Santos",
+   "data": "2026-11-07T12:56:39-03:00",
+   "texto": "O aumento das vendas de petróleo bruto ao exterior sustentou o crescimento recorde das exportações brasileiras em outubro e deve continuar favorecendo o saldo comercial nos próximos meses, avaliam economistas. Do lado das importações, a desaceleração da atividade econômica e a depreciação do câmbio tendem a conter a demanda por produtos estrangeiros.\nA balança comercial registrou superávit de US$ 9,318 bilhões em outubro, segundo dados divulgados pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic). O saldo resultou de US$ 37,807 bilhões em exportações (+20,0%) e US$ 28,49 bilhões em importações (+14,8%).\nO diretor de Estatísticas e Estudos de Comércio Exterior da Secretaria de Comércio Exterior (Secex), Herlon Brandão, afirmou que outubro de 2026 foi o “mês que apresentou o maior comércio mensal da série histórica, com recordes tanto de exportação quanto de importação”. A indústria extrativa, que avançou 53,5% em relação a outubro de 2025, foi a principal responsável pelo recorde de exportações no mês.\nO destaque foi o petróleo bruto, cujas vendas ao exterior cresceram 122,6%, com aumento de US$ 4,70 bilhões. Segundo a XP, o produto respondeu por 15 pontos percentuais (p.p.) da alta de 20% das exportações brasileiras no período.\nBrandão afirma ainda que a combinação do aumento do volume exportado e dos preços contribuiu para que a receita com as vendas da commodity chegasse a US$ 8,54 bilhões. O volume de petróleo bruto embarcado cresceu 62,9%, enquanto os preços avançaram 36,7% na comparação com outubro do ano passado.\nA economista da XP Luíza Pinese afirma que o produto deve ampliar sua contribuição para as exportações nos próximos meses, à medida que os registros de exportação se normalizam após uma defasagem contábil. Em relação às importações, Pinese destaca o aumento dos preços dos combustíveis (+99,8%) e o avanço das compras de automóveis de passageiros (+95,5%).\nPinese avalia ainda que as importações devem permanecer elevadas, impulsionadas também por preços mais altos de produtos farmacêuticos e semicondutores. No entanto, excluindo os veículos, os volumes importados devem continuar contidos, em linha com a desaceleração da atividade econômica. “Isso não será suficiente para compensar o avanço dos volumes exportados de petróleo, principal item da pauta exportadora brasileira”, afirma. A XP projeta superávit comercial de US$ 90,3 bilhões em 2026.\nPara 2027, a empresa elevou a projeção para o preço do petróleo Brent a US$ 90 por barril, o que tem efeito líquido positivo sobre a balança comercial. Pinese também avalia que a atividade econômica mais fraca e o câmbio mais depreciado devem reduzir a demanda por importações. A projeção de superávit comercial para o próximo ano foi revisada de US$ 81,8 bilhões para US$ 95 bilhões.\n“O registro das plataformas P-80 e P-82 (de petróleo), estimadas em US$ 3,0 bilhões cada e não incluídas em nossas projeções, pode elevar as importações entre dezembro e janeiro. Para 2027, os grãos também representam um risco, dado o maior consumo doméstico e o compromisso da China de comprar a produção americana”, avalia Pinese.\nJosé Pimenta, sócio-diretor da BMJ Consultoria, avalia que o crescimento das exportações e importações brasileiras em outubro ainda reflete o aquecimento da atividade econômica e a diversificação de mercados deve ampliar o espaço das exportações brasileiras. \"Quando a gente olha para uma balança comercial aquecida, ela tende a refletir uma economia aquecida, embora essa seja a projeção para 2026. É preciso ver o que vai acontecer em 2027”, afirma.\nHerlon Brandão afirma também que o desempenho das exportações de petróleo bruto contribuiu para o crescimento das vendas brasileiras à União Europeia (UE) e aos Estados Unidos, que avançaram 32% e 87%, respectivamente. No caso dos EUA, as exportações passaram de US$ 2,3 bilhões para US$ 4,3 bilhões, um aumento de US$ 2 bilhões.\n“Além disso, temos uma base de comparação muito deprimida. Outubro do ano passado foi o vale da exportação para os Estados Unidos no ano, um mês já sob o efeito do tarifaço. Isso ajuda a explicar esse crescimento de 87% para esse destino”, disse.\nEm relação à queda de 5,3% das exportações brasileiras para a China, Brandão afirmou que o recuo foi influenciado pelo desempenho da carne bovina, cujos embarques foram afetados pelo esgotamento da cota chinesa. Os volumes de carne bovina caíram -1,7 p.p., afirma a XP.\nNa avaliação de Pimenta, a diversificação dos parceiros comerciais também têm contribuído para ampliar a presença dos produtos brasileiros no mercado internacional. Ele cita o crescimento das vendas em 2026 para países como Índia, que avançaram 82,6%, com aumento de US$ 4,4 bilhões, e Itália, com alta de 30,1%, equivalente a US$ 1,4 bilhão.\n“São mercados que individualmente não têm o nível de expressão de uma China, mas quando são somados, você começa a ter uma mudança de ponteiro interessante na cadeia exportadora brasileira” afirma."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "NTS suspende investimento e vai à Justiça contra ANP",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/07/nts-suspende-investimento-e-vai-justia-contra-anp.ghtml",
+   "resumo_original": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP)",
+   "data": "2026-11-07T10:10:08-03:00",
+   "texto": "O conselho de administração da Nova Transportadora do Sudeste ( NTS ) decidiu ajuizar uma medida judicial contra a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis ( ANP ) para anular ou suspender os efeitos da deliberação que resultou na aplicação de um método de valoração de ativos que a empresa considera “inadequado”.\nA companhia atua no transporte de gás natural com uma malha de mais de dois mil quilômetros de dutos interligando os Estados de São Paulo, Rio e Minas Gerais.\nSegundo a NTS, o método tem o efeito de reduzir indevidamente a sua Base Regulatória de Ativos (BRA). Além disso, o conselho da NTS também aprovou, enquanto perdurar o que chamou de incerteza regulatória, a suspensão da aprovação de novos investimentos, além da revisão de projetos anteriormente aprovados e ainda não executados, exceto aqueles necessários para a segurança e integridade dos ativos da empresa.\n“Após avaliar detalhadamente com seus assessores os fundamentos jurídicos e regulatórios da decisão, bem como os seus potenciais impactos econômico-financeiros, o conselho de administração aprovou que seja ajuizada medida judicial em face da ANP para anular ou suspender os efeitos da deliberação que resultou na aplicação de um método de valoração de ativos inadequado com o efeito de reduzir indevidamente a BRA da companhia”, diz o fato relevante divulgado pela NTS na noite de quinta-feira (5).\nA empresa acrescenta que a adoção da medida ora aprovada está condicionada à manutenção da decisão da ANP em caso de indeferimento dos recursos administrativos apresentados pela NTS ou ausência de solução consensual com as autoridades competentes sobre o tema.\nNa avaliação da NTS, a abordagem adotada pela ANP rompe com o arcabouço normativo aplicável e com o histórico de precedentes regulatórios do setor, ao introduzir novas regras, premissas e critérios para a determinação da base de ativos e aplicá-los retrospectivamente a investimentos já realizados.\n“A companhia não tem conhecimento da adoção desse método por outros reguladores no Brasil, nem por reguladores de quaisquer outras jurisdições para fins de remuneração de ativos regulados”, acrescenta a empresa no fato relevante.\nAinda de acordo com o documento, a NTS entende que os argumentos utilizados pela ANP para defender a aplicação do método retroativo não se aplicam para os ativos associados aos demais contratos de serviço de transporte de longo prazo da NTS, considerando o contexto documental e regulatório em que foram firmados, entre 2009 e 2011.\nA empresa entende, ainda, que esse método não poderia ser utilizado para valorar a base regulatória de tais ativos ao término desses contratos, o que ocorrerá entre os anos de 2030 e 2031.\nNo fato relevante, a NTS ressalta que, caso até o fim de 2029 a decisão da ANP sobre a BRA da Malha Sudeste tenha sido mantida conforme os atuais termos e condições; a companhia não tenha obtido medida administrativa ou judicial capaz de suspender ou reverter seus efeitos para os ativos da Malha Sudeste; e não tenha obtido confirmação da ANP de que o mesmo método retroativo não seria aplicável ao término dos demais contratos de longo prazo, a consequente redução da remuneração regulatória poderá impactar, a partir de 2030, a capacidade da companhia de cumprir suas obrigações financeiras nos termos originalmente previstos.\n“A companhia ressalta que o cenário descrito acima não reflete a sua situação atual, uma vez que a decisão, isoladamente considerada, se aplica exclusivamente ao contrato Malha Sudeste, e a valoração dos ativos associados aos demais contratos legados da companhia será realizada no âmbito da revisão tarifária preparatória do próximo ciclo tarifário. Tal cenário depende, portanto, do atendimento cumulativo das três condições indicadas até o final de 2029”, diz o fato relevante.\nA NTS acrescenta que permanece “confiante na robustez dos fundamentos jurídicos, regulatórios e técnicos apresentados para modificar a decisão”. “A companhia reafirma seu compromisso com a transparência e com a prestação segura e confiável do serviço de transporte de gás natural, e manterá o mercado informado sobre quaisquer desdobramentos relevantes relacionados ao tema”, conclui o fato relevante."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "EUA cobram que China cumpra acordo comercial e amplie oferta de terras raras",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/eua-cobram-que-china-cumpra-acordo-comercial-e-amplie-oferta-de-terras-raras.shtml",
+   "resumo_original": "Os Estados Unidos cobraram a China a cumprir os termos da trégua na guerra comercial firmada por Donald Trump e Xi Jinping em Busan no ano passado , em meio à frustração com o fato de Pequim não estar honrando seus compromissos relativos às exportações de terras raras. Leia mais (11/07/2026 - 11h15)",
+   "data": "2026-11-07T11:15:00-03:00",
+   "texto": "Washington | Financial Times Os Estados Unidos cobraram a China a cumprir os termos da trégua na guerra comercial firmada por Donald Trump e Xi Jinping em Busan no ano passado , em meio à frustração com o fato de Pequim não estar honrando seus compromissos relativos às exportações de terras raras.\nO secretário do Tesouro dos EUA, Scott Bessent, e o representante comercial dos EUA, Jamieson Greer, transmitiram a mensagem em uma ligação na manhã de sexta-feira (6) com He Lifeng, vice-primeiro-ministro chinês responsável pelas negociações comerciais com Washington.\n\"O secretário Bessent enfatizou a importância de a China implementar imediatamente os compromissos assumidos em Busan e manifestou preocupação com ações recentes do país\", afirmou o Tesouro em um comunicado sobre a conversa obtido pelo Financial Times.\n\"Ele ressaltou que a continuidade dos avanços depende de resultados concretos e que os EUA avaliarão atentamente a implementação do acordo pela China\", acrescentou.\nA trégua de Busan, acertada na cidade portuária sul-coreana em outubro de 2025, expira em 10 de janeiro. Quando Xi visitou Washington em setembro, os dois lados prorrogaram o prazo original em dois meses, até janeiro de 2027, depois que os negociadores não conseguiram solucionar as divergências entre os países.\nUma autoridade dos EUA afirmou que Bessent e Greer deixaram claro que Trump considerava a situação uma \"prioridade\" e que a China precisava cumprir as promessas feitas em Busan.\nEm uma publicação no X (ex-Twitter) mais tarde na sexta-feira, Greer afirmou: \"Ressaltei a importância crucial de a China adotar medidas concretas para implementar plenamente seus compromissos anteriores, sobretudo os relacionados a compras agrícolas, terras raras e outros minerais essenciais\".\nO alerta ocorre duas semanas antes do encontro previsto entre Trump e Xi em Shenzhen, onde a China sediará a cúpula da Cooperação Econômica Ásia -Pacífico. O Financial Times informou na semana passada que Xi poderá receber Trump e o presidente da Rússia, Vladimir Putin, para uma reunião trilateral.\nNão se espera que a questão comercial ocupe grande parte da reunião entre Trump e Xi em Shenzhen, mas ela quase certamente será discutida com mais detalhes quando os presidentes dos EUA e da China se encontrarem no G20, em Miami, em dezembro.\nBessent e Greer devem se reunir pessoalmente com seus homólogos chineses em algum momento entre a Apec e o G20.\nEm setembro, autoridades dos EUA disseram ao FT que a China estava cumprindo apenas dois terços de sua promessa de Busan relativa às terras raras. Uma pessoa a par da situação afirmou que Pequim não havia aumentado o fornecimento de terras raras desde que Bessent manifestou suas preocupações diretamente a He, em Nova York, em setembro, antes da reunião de Xi com Trump em Washington.\nA China rejeitou as alegações dos EUA de que não está cumprindo seu compromisso relativo às terras raras. Os EUA concluíram que a China está honrando as promessas de compras de soja, mas não cumpriu o prometido quanto a outros produtos agrícolas.\nOs EUA também estão preocupados com as restrições chinesas à exportação de ítrio —uma terra rara essencial para tudo, de motores a jato a mísseis— ao Japão, que produz componentes para produtos fabricados nos Estados Unidos. Empresas japonesas alertaram o governo de seu país de que os estoques estão chegando a níveis perigosamente baixos.\nCraig Singleton, especialista em relações entre EUA e China da Fundação para a Defesa das Democracias, um centro de estudos, afirmou que o alerta do Tesouro a Pequim foi feito em \"linguagem diplomática bastante incisiva\".\n\"Washington parece não estar disposto a negociar novas concessões até que Pequim cumpra os compromissos existentes\", acrescentou. \"Se os dois lados não conseguem sequer chegar a um consenso sobre o que já prometeram um ao outro, prorrogar a trégua pode se tornar consideravelmente mais complicado.\"\nA embaixada chinesa em Washington afirmou que Pequim divulgará uma declaração sobre a ligação \"no momento oportuno\".\n\"Os dois lados precisam avançar na mesma direção, aderir ao benefício mútuo e a resultados vantajosos para ambos, além de promover o desenvolvimento e a melhoria contínuos e estáveis dos laços econômicos e comerciais entre China e EUA\", afirmou Liu Chang, porta-voz da embaixada."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Fundação Brumadinho leva à COP31 proposta para mineração segura de terras raras",
+   "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/fundacao-brumadinho-leva-a-cop31-proposta-para-mineracao-segura-de-terras-raras.shtml",
+   "resumo_original": "A Fundação Memorial de Brumadinho, que preserva a memória das 272 vítimas do rompimento da barragem da Vale em 2019 , levará à COP31 , na Turquia , uma proposta para que a extração de minerais críticos seja feita de forma segura e com acompanhamento de comunidades afetadas. Leia mais (11/07/2026 - 18h00)",
+   "data": "2026-11-07T18:00:00-03:00",
+   "texto": "Editado por Fábio Zanini, espaço traz notícias e bastidores da política. Com Carlos Petrocilo e Gabriela Echenique\nVocê tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nReceba no seu email as informações exclusivas da coluna Painel\nA Fundação Memorial de Brumadinho, que preserva a memória das 272 vítimas do rompimento da barragem da Vale em 2019 , levará à COP31 , na Turquia , uma proposta para que a extração de minerais críticos seja feita de forma segura e com acompanhamento de comunidades afetadas.\nA mineração dessas substâncias vem sendo defendida pelo governo Lula como uma das apostas para inserir o Brasil nas cadeias mundiais da indústria de alta tecnologia.\nA entidade levará para o encontro ambiental da ONU , que começa em 9 de novembro, a Carta de Brumadinho ao Futuro da Mineração. O objetivo é estabelecer diálogo com órgãos federais, instituições de memória, universidades e organizações da sociedade civil, além de identificar possibilidades de cooperação em 2027.\nA Carta reúne cinco compromissos: vida e prevenção como fundamentos das decisões minerais; incorporação dos aprendizados à governança; participação e escuta territorial com influência efetiva; transparência, regulação e responsabilização; e reconhecimento da memória e da educação pública como contribuições à prevenção.\n\"O Brasil tem condições de avançar na industrialização dos minerais estratégicos. Esse avanço precisa vir acompanhado de compromissos verificáveis com a vida e com os territórios. A experiência de Brumadinho mostra por que prevenção e escuta precisam estar presentes antes das decisões, e não apenas depois dos danos\", afirma Fabíola Moulin, diretora-presidente da Fundação.\nLINK PRESENTE: Gostou deste texto? Assinante pode liberar sete acessos gratuitos de qualquer link por dia. Basta clicar no F azul abaixo.\nMais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão",
+   "idioma": "pt",
+   "titulo": "Vale-refeição e vale-alimentação passam a ser aceitos em todas as máquinas a partir deste sábado",
+   "link": "https://www.estadao.com.br/economia/vale-refeicao-vale-alimentacao-aceitos-todas-as-maquinas/",
+   "resumo_original": "",
+   "data": "2026-11-07T17:40:38-03:00",
+   "texto": "O nutricionista e fisiologista Hamilton Roschel explica como esses medicamentos interferem nos hábitos alimentares. Crédito: TV Estadão\nCartões de vale-alimentação e vale-refeição passam a ser aceitos em todas as maquininhas de pagamento do País a partir deste sábado, 7. A medida faz parte de um decreto que atualiza o Programa de Alimentação do Trabalhador (PAT) , assinado em novembro do ano passado. As mudanças foram feitas pelo Ministério do Trabalho e Emprego (MTE) para diminuir o custo da operação para comerciantes e o preço para consumidores.\nA nova regra prevê a interoperabilidade, que determina que máquinas de diferentes marcas aceitem todos os tipos de bandeiras para cartões de VA e VR. A mudança só vale para comerciantes que utilizam o sistema de pagamento por vales.\nO decreto não muda o valor dos vales pagos pelas empresas aos funcionários nem altera sua função. O vale-refeição e o vale-alimentação continuam comprando apenas alimentos, não podendo ser usados para adquirir eletrodomésticos, roupas ou para outros fins.\nA atualização do PAT também altera as regras de taxação e pagamento do valor ao estabelecimento comercial. O governo espera que a diminuição das taxas e a maior concorrência entre bandeiras de cartões diminuam o preço final para o consumidor.\nVale-refeição e alimentação: taxa cobrada por empresas extrapola teto, mostra Ipsos-Ipec\nMTE recebeu mais de 7.000 denúncias de assédio eleitoral, segundo ministro\nAntes, as taxas de operadoras variavam e podiam chegar a 30%. A nova regra estabelece um teto de 3,6% de taxas sobre transações vinculadas ao PAT. O teto para tarifas de intercâmbio entre usuários do programa fica em, no máximo, 2%.\nOutra mudança é o prazo limite para os repasses dos pagamentos das operadoras de máquinas e cartões, que passa a ser de 15 dias corridos, não mais 30 dias.\nO descumprimento das novas regras pelas operadoras de pagamento pode resultar em sanções administrativas e financeiras, como multas, autuações e descredenciamento do PAT, impedindo novas transações com vales.\nEm janeiro, empresas tradicionais do setor, como Alelo, Ticket, VR e Pluxee obtiveram vitórias judiciais para a derrubada das punições em caso de descumprimento, sem alteração nas novas regras, mas as medidas foram revertidas posteriormente. As empresas alegavam que as mudanças desvirtuam o objetivo original do programa.\nEmbora o decreto que atualiza as regras do PAT complete um ano este mês, a implementação da interoperabilidade enfrenta desafios técnicos, como a integração dos sistemas das operadoras e empresas de pagamento. A Associação Brasileira das Empresas de Benefícios ao Trabalhador (ABBT) afirma que a medida pode dificultar a fiscalização de estabelecimentos que utilizam os sistemas.\nThe Economist: Empresas correm contra o tempo para se proteger de ataques hackers turbinados por IA\nVoos da Petrobras e invasões mudam rotina, mas euro e ouro valem mais que petróleo em Oiapoque\nGrupo EMS lança sua segunda caneta emagrecedora no mercado nacional, com preço a partir de R$ 333\nEsses jovens estão ganhando dinheiro vendendo cartas feitas à mão"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Varejo brasileiro entra na era das ‘metafusões’. Entenda o que vem pela frente",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/08/varejo-brasileiro-entra-na-era-das-metafusoes-entenda-o-que-vem-pela-frente.ghtml",
+   "resumo_original": "Centro de distribuição da Magalu em Louveira (SP); parcerias geram ganhos de escala e otimizam o uso da infraestrutura da empresa",
+   "data": "2026-11-08T04:00:00-03:00",
+   "texto": "Impactado por juros altos, endividamento recorde das famílias e margens de lucro mais baixas, o setor varejista enfrenta uma “tempestade perfeita”, que resulta em uma onda histórica de reestruturações de dívidas e pedidos de recuperação judicial. Para se tornarem mais eficientes neste cenário adverso, as empresas estão abandonando o modelo tradicional de crescimento puramente físico e baseado em canais de venda isolados. Nesse processo de transformação, está surgindo um novo arranjo corporativo chamado de “metafusão” pelos especialistas, para ganhar competitividade e ampliar receita.\nO modelo prevê a integração de recursos, marcas, canais de venda e malhas logísticas entre diferentes ecossistemas de empresas, inclusive entre concorrentes diretos, sem a necessidade de fusão de capitais ou aquisição societária.\nCasas Bahia adia divulgação de balanço do 3º trimestre para dezembro em meio à recuperação judicial EUA suspeitam que mulher apontada como amante do CEO da Nvidia era espiã chinesa\n— Nesse processo estão sendo formados o que chamamos de metaecossistemas, quando dois ou mais ecossistemas de empresas se associam e, sem fazer fusão ou compra de participação acionária, tornam-se mais competitivos, integrando recursos, logísticas e ampliando a oferta de produtos para tornar mais competitivos seus negócios — explica Marcos Gouvêa de Souza, especialista em varejo, fundador e diretor-geral da Gouvêa Ecosystem, e um dos primeiros a apontar esse fenômeno.\nNessa transformação, Gouvêa cunhou o termo “empresa-orquestradora”. É aquela que, em vez de crescer da forma tradicional fabricando produtos, fazendo estoques e abrindo mais lojas físicas para vender suas mercadorias próprias, busca outro caminho de atuação. A empresa funciona como a “maestra” de um ecossistema, diz o especialista, e em vez de tentar fazer tudo sozinha, combina seus ativos com parceiros, plataformas digitais, logística de terceiros, serviços financeiros e inteligência artificial.\n— Vender apenas produtos tornou-se uma disputa de preços, com margens baixas de lucro — explica o especialista.\nA parceria entre o Magazine Luiza e o Mercado Livre é apontada por Gouvêa como o exemplo mais emblemático de metafusão no Brasil. Através de um acordo comercial, anunciado há dois meses, o Grupo Magalu passou a oferecer produtos de estoque próprio do Magazine Luiza, KaBuM! e Época Cosméticos aos clientes do Mercado Livre. Toda a operação de entrega desses produtos é feita pelo Magalog, operador logístico independente do Magalu. A parceria com o Mercado Livre vem na sequência de acordos semelhantes feitos com Amazon, AliExpress, Americanas, Itaú Shopping e Livelo.\n— As parcerias com outros marketplaces nos permitem ampliar presença digital, alcançar novos públicos, aproveitar audiências complementares às dos nossos canais próprios e acelerar as vendas de produtos de estoque próprio no curto prazo — diz Fabrício Garcia, vice-presidente Comercial e de Operações do Magalu, que lembra que a estratégia também beneficia o Magalog, operador logístico independente do grupo, ampliando o volume de entregas, gerando ganhos de escala e otimizando o uso da sua infraestrutura.\nA parceria inclui a oferta de cerca de 27 mil itens de estoque próprio do Magalu e de suas marcas e prevê a possibilidade de usar a rede de mais de 1.200 lojas físicas como pontos de retirada e devolução de mercadorias para outros vendedores do Mercado Livre.\nEm nota, o Mercado Livre avalia que o varejo deixou de ser um simples canal de vendas para se consolidar como uma infraestrutura completa de relacionamento com os clientes, incluindo maior oferta de produto, pagamentos, crédito e serviços.\nNo atacarejo, o Assaí fechou parceria com o Mercado Livre e aloca seu estoque de produtos de limpeza e categorias não-alimentares na infraestrutura do marketplace, que gerencia a venda final na plataforma e a logística de entrega.\nFebre por proteínas impulsiona boom de investimentos na saúde animal\n— O projeto ainda é embrionário e recente, mas há uma perspectiva de desenvolvimento muito forte para 2027, à medida que a integração do sortimento e da logística amadureça — diz Anderson Castilho, vice-presidente Comercial e de Logística do Assaí, acrescentando que o pilar inegociável é manter o custo total do carrinho de compras entre 12% e 15% mais barato do que no varejo tradicional, característica que fez o sucesso do modelo de atacarejo.\nO Assaí também já tem parcerias com iFood e Rappi para entregas rápidas e compras de conveniência. Castilho lembra que o Assaí não possui plataforma própria de e-commerce e não realiza vendas diretas por meio do seu aplicativo. Em vez de investir na construção de uma loja virtual própria, a empresa optou por atuar no ambiente digital por meio da integração com plataformas de terceiros já consolidadas.\nO conceito de ecossistemas corporativos nasceu na China, entre o final dos anos 1990 e a década de 2010, quando as empresas evoluíram de simples plataformas de venda na internet para os chamados metaecossistemas. Inicialmente no setor de jogos eletrônicos, expandiu-se com a criação do WeChat e do WePay, monitorando hábitos de consumo, e agregando serviços e conveniências para formar um ecossistema global com centenas de empresas conectadas. A americana Amazon é o principal exemplo de ecossistema ocidental que combina negócios, tecnologia e logística, além de realizar parcerias de integração com grandes redes locais.\nVA e VR: o que muda para os 22 milhões de brasileiros que têm direito ao benefício?\nSegundo Ana Paula Tozzi, CEO da AGR Consultores, especializada em varejo, o avanço das metafusões no Brasil vai na mesma direção dos grandes ecossistemas globais: deixa-se de disputar uma venda pontual para disputar a recorrência do consumidor ao longo de toda a sua jornada (da pesquisa ao pagamento e entrega) buscando ampliar a rentabilidade por cliente, compensando margens mais baixas.\n— Mas nem todas as empresas devem tentar se transformar em metaecossistemas, pois o sucesso depende de integrar apenas serviços que façam sentido prático e tragam rentabilidade real ao negócio — pondera a especialista.\nO Assaí, por exemplo, vem ampliando a oferta de conveniência, com farmácias e postos de combustível e eletropostos em 28 lojas, estratégia que faz sentido para a rede, que tem tráfego de 40 milhões de pessoas por mês. Já são nove farmácias, com meta de chegar a 25 no fim do ano, e a operação de postos de combustível está prevista para começar em 2027. A Magalu anunciou parceria com a Tempo MMS, para serviço de montagem de móveis comprados por internet, uma das principais barreiras para venda desse produto.\nPara Gouvêa, empresas com grande portfólio de produtos e serviços podem evoluir em direção aos metaecossistemas e depois caminharem para metafusões. O Boticário é um exemplo, já que deixou de ser uma fábrica e rede de lojas para integrar marcas próprias, franquias, vendas B2B, e-commerce, profissionais de beleza, serviços de salão e presença em marketplaces de terceiros, como Mercado Livre, Shopee e TikTok Shop. Ele vê oportunidades de integração do Boticário com parceiros de área similares, como saúde, fitness e bem-estar.\n— Nossa rede de lojas é como uma plataforma de relacionamento e serviços, para oferecer experiências cada vez mais completas ao consumidor, e não apenas como um canal de vendas — diz Bruno Guedes, diretor executivo de Lojas Omnichannel do Grupo Boticário.\nAs dificuldades do comércio no atual cenário econômico do país têm se refletido na desvalorização das ações de grandes varejistas na Bolsa de São Paulo, a B3, nos últimos tempos, mas esse efeito se tornou ainda mais agudo no tombo do mercado após a definição da eleição presidencial. Os papéis dessas empresas têm sido os mais penalizados.\nA percepção do mercado é que um ajuste nas contas públicas capaz de permitir a redução mais acelerada da taxa básica de juros (Selic) ficou ainda mais difícil de se realizar com a reeleição do presidente Lula após uma campanha cheia de promessas que ampliam despesas do governo. Sem perspectiva de crédito mais barato — para capital de giro e financiamento do consumo —, empresas voltadas ao mercado interno perdem o interesse dos investidores. Levantamento da consultoria Elos Ayta mostra recuo expressivo no valor de mercado de grandes varejistas como Casas Bahia (80%), Grupo Pão de Açúcar (39%) e Magalu (36%).\nAlém da Selic alta — e a subida da curva de juros futuros após a eleição não dá sinal de queda —, analistas veem um fator estrutural por trás dos índices.\n— Muitas dessas empresas que cresceram abrindo lojas com margens de lucro apertadas ficaram vulneráveis e têm nível de endividamento elevado. O mercado deixou de premiar o crescimento pelo crescimento e passou a exigir rentabilidade e geração consistente de caixa — explica Ronaldo Guimarães, sócio de Wealth Management e membro do conselho da KAT Investimentos/Safra Invest.\nBancos cortam previsão de crescimento do PIB em 2027, com mais juros e inflação\nFragilidades financeiras e estruturais dessas empresas, agravadas pela prolongada conjuntura de juros altos (a Selic está em dois dígitos desde o início de 2022), resultaram numa onda de reestruturações e recuperações judiciais no setor, como a recente das Casas Bahia.\nPara Rodrigo Simões, economista da Faculdade do Comércio, a eleição foi só o estopim. Ele observa que quem vende bens duráveis como eletrodomésticos depende de crédito, e, com juros nas alturas e 82% das famílias endividadas, o consumidor está com o orçamento no limite, diz:\n— Na segunda-feira pós-eleição, o Ibovespa caiu quase 14% porque o mercado passou a embutir juro alto por mais tempo. E com o avanço das tecnologias, o consumidor agora compara preços instantaneamente (na internet), o que ajuda a manter margens de lucro comprimidas.\nGoverno Milei faz cerco a empresas que atrasam impostos, com bloqueio de contas e penhora de bens\nEspecialistas lembram ainda que as varejistas tradicionais precisam financiar duas estruturas complexas simultâneas: lojas físicas com alto custo fixo e operações digitais que só dão lucro com escala. O uso de inteligência artificial ajuda a otimizar estoques e previsões de venda, mas nem todas conseguem converter inovação tecnológica em caixa.\nEsse desafio também se apresenta para as pequenas e médias empresas do comércio, que têm acesso ainda mais restrito a um crédito caro, limitações de capital para investir em digitalização e menor poder de barganha junto aos fornecedores para disputar o mesmo consumidor endividado. Nesse ambiente, a gestão de caixa é ainda mais decisiva. Com o avanço do e-commerce, muitas dessas pequenas varejistas também têm feito parcerias com grandes marketplaces para ampliar seu alcance, além de atuar em nichos.\nCaixa Fiscal do Paraguai está 'praticamente quebrada', diz sindicato de professores em greve\n— As pequenas e médias têm como vantagem, em relação a grandes varejistas, maior flexibilidade operacional, proximidade com o cliente e agilidade para atuar em mercados regionais — diz Guimarães.\nRicardo Pastore, coordenador do Laboratório de Varejo da ESPM, avalia que a crise do varejo não é pontual, mas ligada ao impacto da tecnologia e à mudança de comportamento do consumidor com a eliminação de barreiras físicas, burocráticas e temporais pela digitalização do comércio:\n— O modelo tradicional focado puramente na venda de produtos “commoditizados” enfrenta desgaste. A saída estratégica é estender a cadeia de relacionamento para a oferta de serviços, transformando o varejo em um hub ou plataforma de relacionamento capaz de reter o cliente."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Jatinhos, boates cheias e retorno de expatriados: Venezuela vive boom do petróleo em El Tigre",
+   "link": "https://oglobo.globo.com/economia/noticia/2026/11/07/jatinhos-boates-cheias-e-retorno-de-expatriados-venezuela-vive-boom-do-petroleo-em-el-tigre.ghtml",
+   "resumo_original": "Funcionários da indústria petrolífera confraternizam num restaurante em El Tigre",
+   "data": "2026-11-07T04:00:00-03:00",
+   "texto": "O verdadeiro centro da retomada da indústria petrolífera venezuelana não está na reluzente bolha da capital, Caracas, mas a mais de seis horas de carro a sudeste, em uma cidade chamada El Tigre.\nJatos particulares agora pousam regularmente no modesto aeroporto nos arredores da cidade. Venezuelanos estão retornando ao país depois de anos no exterior para assumir empregos no número crescente de empresas de serviços e fornecimento que estão ampliando suas operações ou se instalando na região. Os modernos edifícios comerciais já têm poucos espaços disponíveis para locação, enquanto os aluguéis de casas geminadas mobiliadas subiram 33% desde o início do ano.\n— Em outubro, mais do que dobramos o volume de equipamentos transportados e triplicamos o número de empresas atendidas em comparação com fevereiro — afirmou Greg Díaz, diretor da transportadora Frontier Forwarders, sediada em Humble, no Texas. — Agora, acrescentamos uma segunda embarcação para atender às novas reservas.\nA explosão de atividade nessa cidade situada na região de fronteira da Faixa do Orinoco — uma vasta reserva de petróleo de consistência semelhante à do piche — é um indicador ainda frágil da tão alardeada recuperação da Venezuela .\nEsse movimento é marcado pelo crescente entusiasmo em retomar as perfurações e recuperar poços, após anos de falta de investimentos, sanções e êxodo de empresas petrolíferas estrangeiras.\nA proximidade de El Tigre com operações já existentes e a concentração de empresas prestadoras de serviços para o setor petrolífero transformaram a cidade em uma das primeiras bases de apoio para essa retomada.\nA euforia está acontecendo antes mesmo de as empresas terem extraído um único novo barril de petróleo. As companhias estão alugando escritórios e pátios de armazenamento, importando equipamentos, contratando funcionários e inspecionando campos petrolíferos, enquanto se preparam para operações que, em muitos casos, ainda estão a meses de começar. E mais: os apagões ainda deixam a cidade sem energia elétrica por longos períodos.\nO tímido despertar de El Tigre ocorre após a captura de Nicolás Maduro por forças americanas, em janeiro, que abriu caminho para a ascensão da presidente interina Delcy Rodríguez . Seu governo, apoiado pelos Estados Unidos , agiu rapidamente para atrair capital estrangeiro.\nNo início deste ano, a Venezuela reformulou sua legislação petrolífera, reduzindo impostos e royalties e concedendo às empresas privadas maior liberdade para operar em áreas há muito dominadas pela estatal Petróleos de Venezuela PDVSA. Algumas empresas começaram a apostar nessa abertura muito antes da saída de Maduro do poder. A operadora turca de usinas de energia Çan2 Termik AS investiu, em 2024, na empresa venezuelana Denarius Pumping Services CA, sediada em El Tigre.\nEm setembro, sua afiliada sediada na Flórida, Denarius Holding Group — por meio de sua subsidiária venezuelana Minerosol Group CA — assinou um contrato com a PDVSA para recuperar e perfurar um campo petrolífero nas proximidades, como parte de um plano de investimentos de US$ 400 milhões.\n— Estamos acostumados a trabalhar em mercados de fronteira — afirmou Zehra Zeynep Dereli, vice-presidente da Denarius Holding Group. — Vimos o enorme crescimento que pode resultar dos investimentos e das regulamentações adequados e acreditamos que poderíamos reproduzir esse cenário na Venezuela.\nO petróleo molda a história de El Tigre desde a década de 1930, quando a Standard Oil descobriu o petróleo pesado característico da Faixa do Orinoco e o povoado se transformou em um movimentado centro da indústria petrolífera.\nHoje, a cidade, com cerca de 300 mil habitantes, está cercada por poços antigos, oleodutos e instalações de armazenamento. O petróleo bruto extraído nas proximidades de El Tigre é transportado para o norte, até as instalações de processamento e exportação da PDVSA, localizadas no litoral do Caribe.\nEl Tigre — que significa “o tigre” em espanhol — é repleta de estátuas do felino, incluindo uma escultura à beira da estrada, famosa por suas formas pouco elegantes, que virou meme nacional e, posteriormente, um disputado ponto para selfies.\nAgora, o tigre simboliza uma indústria que está novamente prestes a dar o bote.\nAs empresas petrolíferas que assinaram contratos com a PDVSA nos últimos meses têm até 120 dias para inspecionar campos e instalações, avaliar as reservas remanescentes e os danos ambientais, além de preparar planos de produção para aprovação. Atualmente, estão enviando equipamentos, trabalhadores e recursos financeiros, antecipando-se às próximas etapas.\nCargas estão chegando de diversas partes dos Estados Unidos, incluindo os estados de Montana, Utah, Wyoming, Oklahoma, Novo México e Louisiana. Desde julho, segundo Díaz, os embarques passaram a incluir não apenas máquinas e equipamentos para campos petrolíferos, mas também clínicas móveis, ambulâncias e caminhões de bombeiros destinados aos campos próximos a El Tigre.\nOs equipamentos entram na Venezuela por vários portos, entre eles o de Guanta, localizado a menos de três horas de viagem por estrada ao norte da cidade, de onde seguem para o interior do país.\nNovos funcionários também estão chegando, incluindo venezuelanos recrutados entre os milhões de compatriotas que vivem no exterior. A colombiana GeoPark, a brasileira Alvorada Oil & Gas e a americana Weatherford International, prestadora de serviços para o setor petrolífero, estão entre as empresas que estão trazendo trabalhadores para o país. A Weatherford, sozinha, multiplicou por dez seu quadro de funcionários especializados na Venezuela.\nA Alvorada tem 250 funcionários na Venezuela e administra suas operações na região do Orinoco a partir de El Tigre, onde também mantém uma unidade de fabricação de equipamentos. A empresa planeja investir US$ 70 milhões em suas operações atuais em 2027, “além de projetos paralelos nas áreas de fabricação de equipamentos, geração de energia e iniciativas sociais”, afirmou o empresário brasileiro Paulo Buzanelli, fundador da companhia e presidente do conselho da Alvorada Holdings USA, sediada no Texas, por meio da qual a empresa canaliza seus investimentos na Venezuela.\nA indiana Oil and Natural Gas, braço internacional da estatal ONGC Videsh, enviou recentemente uma equipe para inspecionar campos petrolíferos e avaliar ativos, após receber autorização dos Estados Unidos para retomar suas operações. Algumas empresas esperam assumir o controle total de suas operações e iniciar os trabalhos até o final do ano. A ONGC Videsh não respondeu imediatamente aos pedidos de comentário.\nOs principais hotéis da cidade frequentemente estão com a lotação esgotada, e restaurantes que antes ficavam praticamente vazios tiveram de contratar funcionários e ampliar os serviços para dar conta da demanda. A taxa de ocupação dos quartos do Eurobuilding El Tigre saltou para 87% em outubro, ante 35% no mesmo mês do ano anterior, segundo Eduardo Zarikian, diretor-presidente do Eurobuilding Hotels Group.\nA presidente interina Delcy Rodríguez comentou a situação das reservas durante um pronunciamento na terça-feira. Ela afirmou que havia “acabado de sair de uma reunião com um investidor americano, que me disse: ‘Não temos onde nos hospedar em El Tigre — está tudo lotado’”.\nEm declaração transmitida pela televisão estatal, Rodríguez afirmou que, embora a produção de petróleo tenha registrado uma média de 1,24 milhão de barris por dia em outubro, espera-se um aumento mais expressivo a partir de dezembro, quando os acordos assinados recentemente começarem a produzir efeitos.\nO tráfego de jatos particulares também aumentou no aeroporto nos arredores de El Tigre. Altos executivos de empresas já estabelecidas no país, como a Chevron e a North American Blue Energy Partners, assim como de novas entrantes, como a Primavera Infinita, de Fred Ehrsam, têm visitado a região, segundo pessoas familiarizadas com essas viagens, que não estavam autorizadas a comentar o assunto publicamente. A Primavera Infinita não respondeu imediatamente ao pedido de comentário.\nEngenheiros colombianos transferidos pela GeoPark comemoram um privilégio que raramente tinham nas regiões petrolíferas remotas de seu país: um trajeto diário de aproximadamente 50 minutos, por estradas pavimentadas, entre El Tigre e os campos próximos, em vez de cumprir turnos de uma semana em alojamentos improvisados nos próprios campos de petróleo.\nMas ainda é cedo para avaliar os resultados dessa retomada. A produção venezuelana de petróleo permanece estagnada em cerca de 1,2 milhão de barris por dia há meses, aproximadamente um terço do último pico sustentado, de cerca de 3 milhões de barris diários, registrado na década de 1990.\nA presidente afirma que o país espera receber quase US$ 76 bilhões em investimentos nos setores de petróleo e gás nos próximos cinco anos.\nPara alguns trabalhadores do setor petrolífero, porém, essa recuperação ainda parece superficial. A engenheira Yasmina Requena, avaliadora de equipamentos para campos petrolíferos, afirma que as empresas estão alugando pátios industriais por um ano, em vez de cinco:\n— Elas estão adotando uma postura cautelosa, como se dissessem: ‘Vamos ver o que acontece’.\nO mercado de avaliação de empresas está lento, afirmou Yasmina Requena, de 72 anos. Em contrapartida, ela observa muitas negociações envolvendo empresas “que não têm capital ou canibalizaram seus próprios equipamentos, mas ainda estão com a documentação em ordem. Estão vendendo o que lhes resta: sua pessoa jurídica”.\nO mercado imobiliário local também está sentindo os efeitos dessa mudança.\nOs aluguéis mensais de casas geminadas mobiliadas em San Tomé, um subúrbio popular entre trabalhadores estrangeiros do setor petrolífero, subiram para até US$ 4.500, ante cerca de US$ 1.500 há um ano.\nO aquecimento do mercado também está se espalhando para a vizinha Puerto La Cruz, um importante centro regional da PDVSA e de outras empresas petrolíferas. Os preços pedidos por alguns imóveis subiram para cerca de US$ 380 mil, ante US$ 120 mil anteriormente, afirmou Víctor Morales, presidente da câmara local do setor petrolífero.\nAs atividades na Faixa do Orinoco estão avançando mais rapidamente do que na região do Lago de Maracaibo porque a maior parte das operações ocorre em terra firme, afirmou Alexis Medina, diretor de uma empresa de manutenção de poços sediada na vizinha Anaco.\nMuitas empresas estão concentrando seus esforços inicialmente nos campos já existentes, onde é possível recuperar poços e infraestrutura sem os investimentos mais elevados necessários para desenvolver áreas ainda inexploradas.\n—Estamos recebendo visitas de empresas internacionais e bancos locais pelo menos duas vezes por semana. Eles querem discutir financiamentos, parcerias e empréstimos — afirmou Medina.\nEm alguns casos, dinheiro e equipamentos estão chegando mais rapidamente do que as empresas conseguem encontrar trabalhadores capacitados para operá-los. Cursos de certificação para operadores de máquinas pesadas, especialistas em contratos e profissionais da área ambiental estão sendo muito procurados, segundo executivos do setor.\nEm toda a indústria, as empresas estão recrutando funcionários, recebendo estagiários universitários e treinando equipes para operar equipamentos mais modernos, após anos de isolamento tecnológico.\n— Com ferramentas de inteligência artificial e simulação, estamos criando materiais de treinamento para os novos integrantes das equipes, para que possam se familiarizar rapidamente com os equipamentos que estamos recebendo — afirmou Dereli, da Denarius Group.\nA expectativa em torno da retomada também está lotando eventos de relacionamento empresarial em El Tigre e nas cidades vizinhas. Morales afirmou que os ingressos para a conferência de novembro da câmara petrolífera, realizada em Lecherías, se esgotaram. Segundo ele, o número de empresas associadas cresceu cinco vezes em quatro anos, chegando a 110.\nNos bairros mais valorizados de El Tigre, obras de conjuntos residenciais de casas geminadas que estavam paralisadas foram retomadas, e carros de modelos mais novos começam a aparecer nas ruas.\n— As empresas estão se posicionando —afirmou Morales. — Mas começaremos a ver os resultados em 2028.\nPara muitos moradores, porém, ainda há poucos sinais de que a mais recente corrida pelo petróleo na Venezuela tenha melhorado as condições de vida no dia a dia.\nO abastecimento regular de água e o fornecimento de energia elétrica durante 24 horas continuam sendo privilégios em algumas áreas de El Tigre, onde a deterioração dos serviços públicos controlados pelo Estado provoca interrupções frequentes no funcionamento de residências, empresas e escolas.\nAs quedas de energia frequentemente desligam as estações de bombeamento de água, embora a cidade esteja situada sobre um grande aquífero.\nOs centros comerciais ainda têm salas vazias que antes eram ocupadas por bancos, lojas e pequenos estabelecimentos comerciais.\n— Não vejo nenhuma mudança. O dinheiro não está chegando às ruas — afirmou Remo Di Marcantonio, proprietário de uma loja de materiais de construção na cidade. — Há um pouco mais de movimento no trânsito, sem dúvida, mas nem de longe tanto quanto há 20 anos.\nDi Marcantonio, de 56 anos, começou a ter esperança há cerca de um mês, quando sua região passou duas semanas sem interrupções no fornecimento de energia elétrica.\n—Parece que alguém de escalão elevado reclamou, e o governo restabeleceu temporariamente a energia. Agora, os apagões voltaram.\nRequena, a engenheira, enfrenta dificuldades para trabalhar em meio às condições precárias da cidade:\n— Esgoto a céu aberto corre por algumas ruas, e os estabelecimentos comerciais são obrigados a fechar. É uma vergonha. A atividade da indústria petrolífera simplesmente ainda não voltou a ser o que era antes."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petrobras despenca mais de 6% com tombo do petróleo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0xPMV83UnZ2NS1UMkkySlU0b2QtQUs0aVNhOWtycFBvZTJ4ZEpERWM5Sl9YOFNEeHFqbWJPN3VUYzZobjZaY053VWxBVFJCOWFTUmRUNi1XdExhOC1xT2x1WV9LWHB6SV83NHZXZWNycVc1SEt3bzZtSE5yMW5US2tDUE5qb2pabTdEVGpvUW1LVjl5cWRBeUJvdzBWS0d0UTN6VHRnamZ1NklGN0JpWlIyTWJYR0Zf?oc=5",
+   "resumo_original": "Petrobras despenca mais de 6% com tombo do petróleo Estadão",
+   "data": "2026-11-07T14:35:27-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "CSN Mineração salta mais de 13% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQem1tamdfR3htTDMzSmw3UlRrbnNIWWJNVmFQR0Mwa015VHdvS3AtbHdNNG4tVWtnUnViaWNwaG5mX2pkVWl6SkVVQTVWSHNRZFI0ZkJEYk1LS1RKQW1Zd1h1NVNZZ0wyd05sWU5Kd3dwbWstMnp1aW5IY3EzT0k4MWRVbkNrTVpGLWRSYW9VajhVejM0cTlWaFgtN2VlRHhSNnZtTm5CSTRoM2RhZzhnbHJ3V09rWk9mMUdYa3J0bnRJS1lnbXh0X2ZtTmV3d3RYRmVrZUg5N1hYS001MFNMWEtZWQ?oc=5",
+   "resumo_original": "CSN Mineração salta mais de 13% e lidera ganhos do Ibovespa hoje; veja maiores altas e baixas Estadão",
+   "data": "2026-11-07T18:08:22-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Aeris, fabricante de pás para geradores de energia eólica, pede recuperação extrajudicial",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb3oweVNmU2RMaWZ6aW5XZjc4WFhJTldNS3BuZ3NXTXY4Yk0xYkZRd2prVkE3RkprUnlqR0wxUUVZakdCUmxnc1dGSmxWajhuRlFfTHh4QWxCTXlZN1NrSFNiVDlhNzk4SUFYUnVZeEpwTmh1TFNURU1ZUjZfRUZmZGlybk5nQV9kLTdqVUx0ZXF0VGYxWWxsUUtSRWdyeU9rc1Q3R3B2T3RacXBvX09CZmFkUGNmYlRlbS1BWHBMaFIzM0VoQ0x6SmNR?oc=5",
+   "resumo_original": "Aeris, fabricante de pás para geradores de energia eólica, pede recuperação extrajudicial Estadão",
+   "data": "2026-11-07T20:57:45-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Dow Jones salta 3% e Bolsas de NY disparam com vitória democrata nos EUA e novo tombo do petróleo",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMjlaejl2YkpIMzFzVVBieWRYY0t2RHcxVzdSZTZFSEVqTTYxRmZpQUU2LWZ1RlVaMUdGcXJCZWJZbUxYRVhQRk5fd1JQS0VIbkpzckhtelp6aGQ3bHRCdmgtWm9PcDYySjNuV2RRa3VDOTZpaVRia19aOER3ajZ1ZVZCczdlYjJkc3NLb21SSmJqQnpnWko0UVl3XzJGMUphTUVjUkY0U1hLS0lzNnI4VnZrdGpQXzB3MmFITEt1cHVud1JFeDVhMjRSVEZBRy0tbTNKQmluTHdxbTNCbjhLYURaUlo4dElqN3FMWVpRUUNuQQ?oc=5",
+   "resumo_original": "Dow Jones salta 3% e Bolsas de NY disparam com vitória democrata nos EUA e novo tombo do petróleo Estadão",
+   "data": "2026-11-07T08:37:04-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [
+    "Mineração"
+   ],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Petróleo da Margem Equatorial deve fortalecer ex-garimpo de Eike Batista na Amazônia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOW0tN0RCWi1xbTdzUlNPclRSY25mbHpndWVYbUlDRTZuOE1rcUhySGxCQ2JTSG9VV1NfOVdCclg5emlkNGdIT0l2X1U0RjVndDdmUkE0U0ktTC1icENROF9CTlBUTEVQNF9lSDRRMlJCRVA0M1VSYk9IYm9VckJiSVRaRG1nNzcwX09LellqS2wyMzAyMUZlN3RWX2ZIZzBCdmhHd0pSMENxd2JGTTNrSnllQThMUk54OXFPdWF6VkZoR2ZOaWxicw?oc=5",
+   "resumo_original": "Petróleo da Margem Equatorial deve fortalecer ex-garimpo de Eike Batista na Amazônia Estadão",
+   "data": "2026-11-07T10:07:33-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Produção de petróleo e gás natural no Brasil alcança novo recorde em setembro, diz ANP",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV25ESThURTJpUDBpVzV3UGxoZ3pZR2hfMGJmbl80WWRQTU9SZHAxdFp1dGY3WWhFeHBwRXZvaG00WGdTNGhCWHhlVHJqN2pyOEdQeHVmUm0wOENKdUUzMEZKTWs3UlpidFd4NFE3LUx0SXpOSmg2bzBQNHJSblM5WkVrcXEtZWU1UnFWMlNCQkpsSEFzTnBobmdWbVVGaG41VTJEXw?oc=5",
+   "resumo_original": "Produção de petróleo e gás natural no Brasil alcança novo recorde em setembro, diz ANP Estadão",
+   "data": "2026-11-07T09:04:48-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "BR-156: proposta por Rondon há 99 anos, ‘rodovia do petróleo’ tem poeira, lama e corrupção no Amapá",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVUtsekVNNTR5VlNLNnVYQW1qYW0yemN5XzJUNGh6LTVLREZnTmR0eU1JRjdZQmQyZnBEZUZXZkt6dXNUSGJDcjVOVExzQmRMdlN2OGNlaWtjZTlZMERxNUpsU1d6Z3ZPU0g1NW9QNG9rYTltSWVjYzJ4RVNxTjhKWWZBWVhac0tjTDc0UXk1S0hxdlZEd294YTZBbi1uM1RkY1BvVHp0VmEzLXR6QlNyX05uSGp1VUxHZlc5MkxfZWp2VklaOGkyTnpDLWR1dHRrX2lRRWNn?oc=5",
+   "resumo_original": "BR-156: proposta por Rondon há 99 anos, ‘rodovia do petróleo’ tem poeira, lama e corrupção no Amapá Estadão",
+   "data": "2026-11-07T08:53:09-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Wall Street fecha sem direção única com eleições nos EUA e petróleo no radar",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMmdYT3RyX04wQi01VXVyNkFxcFlIRmNFd0d4aEc4QzB1dVRzRV9jM2F6QWU2aG9yV2p1aFlpWnVWVkJNUTIxSnFNNUV0aTU0aDFGc3J1dmhvU0pFSHlodVZVWXBYbWpaaVNvakVBYlBqTkZjMzJqUzE5VHhKbGNfRzZxY1ZkXzF3cWtla2UtdDJiaGkwVVRVUVF4ZUR2QklXZ2otaDdBanpPYldGbVgwUFdNODBPSXNfS2NvcWtpV2dIRjBHS1F3U3RqaEZXb3d4SHdjb1NpM0Jzal8xRHJLMEtVTlNBYWVjcnF0elJ3?oc=5",
+   "resumo_original": "Wall Street fecha sem direção única com eleições nos EUA e petróleo no radar Estadão",
+   "data": "2026-11-07T13:07:18-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ouro hoje cai mais de 1% com petróleo em alta e temor de novos aumentos dos juros nos EUA",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZFJvWFhvVTRWeWJYUExuWl9CanNISmYzWHdFeDFMUnl1dmdaVmZCVXNwRXh4WV94Yk9yZ0F3NkZqODFYMzRiaDYtUW44dzRWelVSVkJqOU96M1hYWG5BeVlKUTBJc2w0RUVZcVR5VURoa0p4SmhkclhLZVRjeEU4VWNXQmtXcXBIN2trVmJ1Yzg5NE9wVi1UU195TWNuc1ZTMUpmRURPdFNyYUVDWURja1M0UlM2OThSd2p3elFzZEZ3ZlFXNTJLTEtxRDhaX1JYNEJmNUdzY0UzM0ZLdXNHRldDMEk1Y2NHRENZ?oc=5",
+   "resumo_original": "Ouro hoje cai mais de 1% com petróleo em alta e temor de novos aumentos dos juros nos EUA Estadão",
+   "data": "2026-11-07T07:13:14-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Descoberta de petróleo dá ao Amapá potencial de se tornar o centro logístico da ‘nova Dubai’",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVpmSHljc1JaVFRmanotNjZLNVo5aWdJRmVlb1k2TUp0LXpicnZadmFUbmVpeDU5WGNQdjhSaHEwM1prRHNGbFdaU2huY0pvTzN6c0QyT3BNcU9tcDQzbW5uZndlZkoyUERTQ1llT1Z0MEoyLTFrMjhicF9HZTBDVVNvR2t2S2NPQ0V4dkVaY2htamItSF9VWkNSMHpUc0o3eWNwbGxkb3hmR05rYk9MM2NTMXFhSllsZmhHbHhhRmtmWE5FMEoyT0NaVWZ4UWFK?oc=5",
+   "resumo_original": "Descoberta de petróleo dá ao Amapá potencial de se tornar o centro logístico da ‘nova Dubai’ Estadão",
+   "data": "2026-11-07T03:23:37-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas da Europa fecham majoritariamente em alta com tombo nos preços do petróleo e BCE no radar",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeEk2MjN0bUJvdXhVWmFjV2YyZ0JLbm1nN2ZObWtDQWczSk9kVnBOQVhhOHZHX2EzQ2w2QXNiWjA3eWtKaWN2SmpPSzNHNkZQdGJuWWJtNnVsczljbFZoWnRjU1JBUFpCUmpNNFZhNllMOUNUXzR1dVREZTVsZ0xJd3praGFGcTI3Nk05VGFCM0t5eGR1bHVQTEFBMlVRQnJuQVM1SlJqdkhlSEV0MGwtS3FWNUY1ZWQ1eHJYUTY4cTlzckpFeS02d0k4aFBDVGdwZmdJeWtYTV85UF8zYzNLR2dIc2NvaGtXUHpWQ2hLWFhQRU44akE?oc=5",
+   "resumo_original": "Bolsas da Europa fecham majoritariamente em alta com tombo nos preços do petróleo e BCE no radar Estadão",
+   "data": "2026-11-07T01:02:45-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas de NY fecham sem direção única com tombo de 7% do petróleo; eleições e payroll ficam no radar",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPemN0Rk9BN2xJcG5sN2pKbmV5blQwVUExcTYwdEJ6ZEZuYUpnMzduS3pKeG52Zkd2VG54bnIwcFFDTXc5LWpGR1lycmlQeDZFRDluaFMwX2tLNl83bFlXSFpNQjlXWDdIbFItb1R5ZGZDcWRIMTRnMWZDR1l6MWwxWVlNMFZ4QWxJamZyMS1aRkoyR0UwU0UwVy1PTmlqSFZNa1JhclI2T2lyLVBNYy1NOGRZVGdfV0I4VlVha0pjVXI4X2NSbklzcFFYXzlMOVJVM0JSdFgzV0VUdko5d2xDZkhteVZhWTl0TDdISmEwVVRzTE0yMnFv?oc=5",
+   "resumo_original": "Bolsas de NY fecham sem direção única com tombo de 7% do petróleo; eleições e payroll ficam no radar Estadão",
+   "data": "2026-11-07T07:08:38-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Tesouro Direto hoje: taxas voltam a cair antes da decisão do Copom, com apoio de tombo do petróleo",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbVFuVVdoMU9NZEVJUVJFbWUxMk5BMjFKMnRDcDRoOVg0bjhmbE9lUEVidTFDYnFLdGJtVDVqWDNKb0g1d29JbHhNN3pNZzZlckdaN0tnZUp1Rk41NVJRNWIzd2xUMjBJZUVxcnlmRlZ2a3VRamdqUzJ5WDYxRDNnOWFILUxFQk5fY2dPWVdMdzU0ZVpsQjVLVS1neDdlWm53bmt4c2lNNklkTW1vZUlFSC1tUzJfSzh4NUVmajBzQ3BOQkRROVd5ekxjYk56NjlyR1U1LTE1alU5Ym1XeWhIdWNMWmR5dlE?oc=5",
+   "resumo_original": "Tesouro Direto hoje: taxas voltam a cair antes da decisão do Copom, com apoio de tombo do petróleo Estadão",
+   "data": "2026-11-07T15:48:54-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Antes do Copom, Ibovespa sobe 1,2% e tem 1ª alta desde as eleições com apoio do exterior e petróleo",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0VpRnZTX2NtTTVCYjMyVUNLLWZpd0lvYnozZUF6RGpRZmlrQnJoVkJNRDB6VTVqaGt1Z0FJU2FNTnY3cVQxVGthU0ZrT2tIQkhHMmViYXA4YXhGaFNXN01WaGsxcnNDdHJQbWFvWkVLQUxydTJ2b2NrSE12LXZnMFIwOVhqTnlTOVVSZGNFWVZiWkgwM3R0eWJKTnF2TFNMLXd4ZU13a2hQRU5HT2RsckxuNmhtTzVrT0dqNFdVMFg1cDgwTXZDbHpuMEhRUmJWRmx6WHEyQnpMb04tRDFJNHAxRDE?oc=5",
+   "resumo_original": "Antes do Copom, Ibovespa sobe 1,2% e tem 1ª alta desde as eleições com apoio do exterior e petróleo Estadão",
+   "data": "2026-11-07T21:39:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Voos da Petrobras e invasões mudam rotina, mas euro e ouro valem mais que petróleo em Oiapoque",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbFc5ZklXNGtLRGI2b3VreWtFVjdwLWJWYURJRFNtZHRzTnhyV0M4elV3Nmo3eldOQ2dZOTdtdFZlaUdlZmtLSlVTZjBEd1MtWWhWNzZtTWJqbkRNR1FZaEVrZnNZWlZKRUlQd20taGx5MlpZQjNVLVpFbDg2NHpZQzBlSXlYVHd3eWtGTTFOX0FPSl9iTHY3bU1wUHJlSUdVRFdUalFEd0tQRE5ZWmxmVDRWekVsY2I0aGRjMVR5azJ3TXBaYzRERG5sNUdicEk3TDZocw?oc=5",
+   "resumo_original": "Voos da Petrobras e invasões mudam rotina, mas euro e ouro valem mais que petróleo em Oiapoque Estadão",
+   "data": "2026-11-07T21:51:12-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Exportação de petróleo e café do Brasil tem novo recorde em outubro",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtaGx4emNEa1ZTaDlCTFZnZUNwRkNtN3NvR0lEQms2V0JqTWV4dEl0TDFjLTlWNlFiRDYwY0dzQzUxTi1uVTVfSE1fTkcwRDNVWVp5YXNOUlV1MVZBUU0xT3hJZGIzYk1uNEpJ?oc=5",
+   "resumo_original": "Exportação de petróleo e café do Brasil tem novo recorde em outubro CNN Brasil",
+   "data": "2026-11-07T09:33:26-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Petróleo em alta impactou produção da Suzano, diz CFO",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUVUyWVFENDFIVGlwclJXYzdEalE1Z0ZJNU5vM0ZqUHBCZDItM2tMb0ZTb2hVUC1HT0ttdXRpSGdaNktpS3NscGVhMzNlTVdTQXM1cE5Ga1N0WFo2X0dmVHQzNjBHNnk1TkRuTlk1LU9EcW1rNFFMMUFITVlENTkzZ1VrTWVKY2wtTUtWcXZrclI?oc=5",
+   "resumo_original": "Petróleo em alta impactou produção da Suzano, diz CFO CNN Brasil",
+   "data": "2026-11-07T12:01:57-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Gasolina nos EUA está mais cara do que há um ano",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPck9haWFjWUdJM2swUVhadkY3YTF1UHFNZlcxODMxLVVPYy1WSll6OHp2YlBoNkt2UG54WXFPTDJMTjk0MjExSDBKTjViOGxDWkFzay1ZQm9HTzVPUExKbUJoREh0SHRZckpVYVhmeFlGNDNBSG01YTBvM0FGSjJmNm9BcXl3V1JPTDdobVBJckpzcGt2bk1Sb0RNMlJ3V1dzSXpsSTVTdFR6MGM?oc=5",
+   "resumo_original": "Gasolina nos EUA está mais cara do que há um ano CNN Brasil",
+   "data": "2026-11-07T23:53:31-03:00"
+  }
+ ]
+}
