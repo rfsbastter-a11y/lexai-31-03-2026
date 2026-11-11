@@ -354,17 +354,17 @@
     "id": "2026-11-11-instagram-escritorio-documento-1",
     "rede": "instagram-escritorio",
     "tipo": "documento",
-    "status": "tentando",
+    "status": "enviado",
     "link": "",
-    "erro": "TimeoutExpired(['git', '-C', 'C:\\\\Users\\\\DELL\\\\postiz-fila\\\\repo-midia', 'push', '-q', 'origin', 'HEAD:ms-midia'], 180)",
-    "quando": "2026-11-11T16:13:02.000Z"
+    "erro": "",
+    "quando": "2026-11-11T16:22:20.000Z"
   },
   {
     "id": "2026-11-11-linkedin-escritorio-documento-1",
     "rede": "linkedin-escritorio",
     "tipo": "documento",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526316860720656384",
     "erro": "",
     "quando": "2026-11-11T16:14:21.000Z"
   },
@@ -372,8 +372,8 @@
     "id": "2026-11-11-instagram-ronald-reel-1",
     "rede": "instagram-ronald",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/Dfm4urFgjAt/",
     "erro": "",
     "quando": "2026-11-11T16:14:29.000Z"
   },
@@ -381,8 +381,8 @@
     "id": "2026-11-11-linkedin-ronald-imagem-1",
     "rede": "linkedin-ronald",
     "tipo": "imagem",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:share:7526316808484655104",
     "erro": "",
     "quando": "2026-11-11T16:14:40.000Z"
   }
