@@ -1,0 +1,266 @@
+{
+ "data": "2026-11-09",
+ "janela_horas": 24,
+ "recuperado": true,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 20,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 27,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 10,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 10,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 6,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 40,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 32,
+   "no_periodo": 31,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 48,
+   "no_periodo": 26,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 38,
+   "no_periodo": 37,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 10,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 20,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 10,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 12,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 4,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 5,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 100,
+   "no_periodo": 7,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 23,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 12,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 12,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 16,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 12,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 72,
+   "no_periodo": 22,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 7,
+   "no_periodo": 1,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Brasil Mineral",
+   "idioma": "pt",
+   "titulo": "Huaxin assina contrato de compra da CSN Cimentos por R$ 12,7 bilhões",
+   "link": "https://brasilmineral.com.br/noticias/huaxin-assina-contrato-de-compra-da-csn-cimentos-por-r-127-bilhoes",
+   "resumo_original": "A chinesa paga cerca de R$ 9 bilhões por 99,99% das ações e assume a dívida; o negócio ainda depende do Cade, da Aneel e de registros na China",
+   "data": "2026-11-08T16:16:47-03:00",
+   "texto": "A chinesa paga cerca de R$ 9 bilhões por 99,99% das ações e assume a dívida; o negócio ainda depende do Cade, da Aneel e de registros na China\nA Companhia Siderúrgica Nacional (CSN) assinou no sábado, 7 de novembro, o contrato de venda da CSN Cimentos Brasil à chinesa Huaxin Building Materials Group. O negócio avalia a cimenteira em R$ 12,7 bilhões, valor de empresa que inclui a dívida, e foi comunicado ao mercado em fato relevante no domingo (8). A assinatura encerra a negociação em exclusividade iniciada em 30 de outubro, quando a Huaxin foi escolhida no processo competitivo aberto pela CSN em março. O mercado apontava como concorrentes o consórcio da Votorantim Cimentos com a italiana Cementir e a Polimix.\nPelo comunicado da Huaxin à Bolsa de Xangai, a compradora fica com 99,99% das ações e paga cerca de R$ 9,03 bilhões (US$ 1,64 bilhão) por elas. O preço parte de uma dívida líquida de R$ 3,67 bilhões e de capital de giro negativo de R$ 279 milhões na CSN Cimentos, posição de 30 de junho, e será ajustado pelos valores efetivos na data do fechamento. Os dividendos que a cimenteira distribuir até lá estão limitados a R$ 100 milhões e serão descontados do preço.\nSegundo a Huaxin, o valor de empresa representa ágio de cerca de 34% sobre o valor contábil da cimenteira no fim de 2025, e o múltiplo sobre o Ebitda ficou abaixo da mediana das aquisições de cimenteiras no Brasil nos últimos dez anos, que variaram de 7,1 a 11,9 vezes, com mediana de 9,4 vezes. A compra será paga com caixa próprio, empréstimos bancários e emissão de títulos. O conselho da Huaxin aprovou a operação por unanimidade em 6 de novembro.\nO fechamento depende da aprovação do Conselho Administrativo de Defesa Econômica (Cade), da anuência prévia da Agência Nacional de Energia Elétrica (Aneel) e dos registros de investimento no exterior exigidos pelo governo chinês. Se o negócio não for concluído até 8 de novembro de 2027, a parte responsável pagará multa de R$ 750 milhões.\nA CSN Cimentos é a segunda maior produtora de cimento do país, com cerca de 21% do mercado, segundo a Huaxin. Tem sete fábricas com forno de clínquer e seis moagens, capacidade de 17 milhões de toneladas por ano e reservas de calcário de cerca de 2,2 bilhões de toneladas, e atua sobretudo no Nordeste e no Sudeste. A CSN produz cimento desde 2009 e cresceu com a compra da LafargeHolcim Brasil, concluída em 2022, que passou a se chamar CSN Cimentos Brasil.\nPelos números divulgados pela compradora, a cimenteira teve receita líquida de US$ 891 milhões e lucro de US$ 24,1 milhões em 2025. No primeiro semestre de 2026, a receita foi de US$ 510 milhões, com prejuízo de US$ 11,8 milhões. A Huaxin atribui o resultado ao custo alto do financiamento, ligado à situação financeira do grupo controlador, e pretende trocar os empréstimos bancários caros da cimenteira depois do fechamento. Pelo balanço da CSN, o Ebitda da divisão foi recorde no segundo trimestre, de R$ 426,9 milhões, com margem de 30,8%.\nA Huaxin está presente em 17 províncias chinesas e em 22 países e tem capacidade de moagem de cimento de 138 milhões de toneladas por ano, incluindo coligadas. Fora da China, são 41,2 milhões de toneladas, entre fábricas em operação e em construção. Nos nove primeiros meses de 2026, a receita subiu 18,6%, para 29,7 bilhões de yuans, e o lucro líquido cresceu 41%, para 2,8 bilhões de yuans, puxados pela capacidade nova no exterior.\nPara a empresa, a compra é um marco na América do Sul: será a primeira vez que uma cimenteira chinesa entra no mercado brasileiro, onde a demanda passa de 62 milhões de toneladas por ano desde 2022. A Huaxin diz que vai levar à CSN Cimentos sua experiência de integração, tecnologia de produção, controle de custos e cadeia de suprimentos, para elevar o uso da capacidade e reduzir custos.\nPara a CSN, a venda é “uma etapa importante na estratégia da empresa voltada à redução do seu endividamento e o equacionamento da sua estrutura de capital”, segundo o fato relevante. A dívida líquida do grupo somava R$ 42,1 bilhões no fim do segundo trimestre. Semanas antes, a companhia acertou a venda da unidade siderúrgica que mantém na Alemanha à espanhola Megasa, por cerca de R$ 3,1 bilhões; as duas operações somam cerca de R$ 15,8 bilhões em valor de empresa.\nPara o BTG Pactual, o valor ficou perto do piso das expectativas informais do mercado, de R$ 12 bilhões a R$ 15 bilhões. O banco vê na venda um passo relevante, que dá visibilidade ao plano de redução da dívida, mas que sozinho não resolve os problemas da CSN, cuja geração de caixa segue pressionada. O Citi avalia que o trabalho da companhia está longe de terminar. As ações da CSN subiram 8,89% na sexta-feira (6), véspera da assinatura."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ibovespa salta 2,2% com Vale em alta acima de 3%; Bolsas de Nova York avançam apesar da Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd0g4T1RwZTl5aS0xR0FDQXRUTTZfZjZ3R2daQzUwRHR5cW5sTFRkYlZkZ3BFNWJUZjREV3lhN0psZmRqdVlsN3B6a190anpfdzR1WUM2ZDJOMEZjbVYwVG56VThxcXl0WDF4OGVjYmdHR2xOc090ZVAtLTJDeWp5cEJPMHc4MEFfUXN1TUxIcFVGMHZoZFFITlZtakZtdVdYcVB2SGlvdFVLUzhFckM2Z2YwQU5BSVVyblB2c1FNX1JFTmctOWVpZTQ3RVZUbm5jeURfZE5FN1lhd1ltSFZ6YdIB5gFBVV95cUxNd215WkhoYTZ5NW54NFpTR3NzYTJKTElQWUpwNkZ1QkRjM3FucVA2NDBkdnNBLVBrYWZrdUI0SFIzcHZQTW9oUW1vUlpXR29hV29vWVRxYjY1Y1Y5VjQ1aENWYkxnQnNpcnNDNlBUdHJ2b3QzS3l0aUpQVDQxUmRwc3JNTFZWdHNyLVBDZFdFdVg0V2wzQnpiWGlodUpZRXRkd09mTXk3bHhXQzROUU1tb3piZ2JxY3lPeHliR0t2dEZielJOTnlCXzJ4dXMyYUZHS2gwaExGZGxBYl9MaE4tVE9kN3RYZw?oc=5",
+   "resumo_original": "Ibovespa salta 2,2% com Vale em alta acima de 3%; Bolsas de Nova York avançam apesar da Nvidia Estadão",
+   "data": "2026-11-09T04:30:00-03:00"
+  }
+ ],
+ "selecao": {
+  "cabecalho": "Arquivo recuperado em 11/11: a coleta automática deste dia não rodou. Janela de 8/11, 04h50, a 9/11, 04h50 (Brasília). Domingo com poucas publicações e feeds que já não guardavam todas as matérias do período. Ficou de fora mercado (bolsas).",
+  "destaque": {
+   "ids": [
+    "https://brasilmineral.com.br/noticias/huaxin-assina-contrato-de-compra-da-csn-cimentos-por-r-127-bilhoes"
+   ],
+   "titulo": "Grupo chinês assina contrato de compra de unidade de cimentos por R$ 12,7 bilhões",
+   "texto": "A CSN assinou em 7/11 o contrato de venda da CSN Cimentos Brasil ao grupo chinês Huaxin Building Materials, comunicado em fato relevante no domingo (8/11). A operação avalia a cimenteira em R$ 12,7 bilhões (valor de empresa, com a dívida); a compradora paga cerca de R$ 9 bilhões por 99,99% das ações e assume o endividamento. O fechamento depende do Cade, da Aneel e de registros na China. A assinatura encerra a exclusividade iniciada em 30/10, após processo competitivo."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/huaxin-assina-contrato-de-compra-da-csn-cimentos-por-r-127-bilhoes"
+    ],
+    "titulo": "Huaxin assina contrato de compra da CSN Cimentos por R$ 12,7 bilhões",
+    "resumo": "A compradora paga cerca de R$ 9 bilhões por 99,99% das ações e assume a dívida; o negócio depende do Cade, da Aneel e de registros na China."
+   }
+  ]
+ }
+}
