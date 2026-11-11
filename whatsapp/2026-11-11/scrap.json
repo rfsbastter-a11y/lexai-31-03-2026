@@ -2432,5 +2432,562 @@
    "resumo_original": "Brazil's Petrobras misses profit estimates, raises 2026 planned investments Reuters",
    "data": "2026-11-10T20:24:00-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 11/11, 04h50 (Brasília). Dados brutos em `raw/2026-11-11.json`. Ficaram de fora mercado (bolsas, cotações, balanços e dividendos), eleições e política partidária, ações judiciais, contratações de escritórios e executivos e matérias repetidas em outros veículos.",
+  "destaque": {
+   "ids": [
+    "https://eixos.com.br/gas-natural/mercado-de-gas/gas-release-tera-medicao-anual-e-mantera-fora-o-gas-proprio-da-petrobras/",
+    "https://megawhat.uol.com.br/economia-e-politica/privatizacao-de-estatal-do-carvao-vai-bancar-descarbonizacao-no-rio-grande-do-sul/"
+   ],
+   "titulo": "Gas Release: ANP vai propor medição anual da concentração do mercado de gás",
+   "texto": "O diretor-relator do programa de desconcentração do gás natural (gas release) na ANP vai levar ajustes à audiência pública de 19/11, depois de reunião com a Petrobras. Pela proposta, a agência medirá todo ano a concentração do mercado atacadista não termelétrico da malha integrada e fará o leilão para qualquer agente que passe de 2.500 pontos no índice HHI. O texto reforçará que a produção própria de gás da estatal fica fora do programa também nos próximos ciclos; no primeiro ciclo (2027-2030), a Petrobras é o agente sujeito ao gas release. Segue sem acordo a base de cálculo do mercado de referência: a estatal quer incluir o mercado térmico, a ANP não."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/mercado-energetico/consumo/aneel-propoe-tarifa-horaria-para-mmgd-e-eletropostos-e-preve-mudanca-gradual-para-baixa-tensao/",
+     "https://megawhat.uol.com.br/megaexpresso/aneel-sugere-tarifa-horaria-compulsoria-para-novas-conexoes-de-gd-solar-edicao-do-dia/",
+     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjUxakFyUWprcUZReWw1OGsxVEh1YzZDdVY4dzBUdWFnSkh1NnJCN1BUYU43NHNhTXpSRGRUNjd0U2RpVHdTSXlJUTFrZjVvTnI0WTg5MnZNRkp3T0Nyamd3MklhTHFLRXJKamZtMkxEcVpSUVVYNGtRR3B5RHBVeWtadGszeTNPWHdqZER4OTROODFPdnRSdHBkLXE5Q0NSZlFSdDc1cURZMDNPemZ0UmhBNXlySkQ5YTBJVXUzQ2lmRnU3VEppaVdn?oc=5",
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHpTT3BQb0dzeWJ0cDNvUzJGMXJGU0psUVp1TG9sRUdBSTRKLU1wVnotNy1OSmFrS0NaY2VhRXNVRGlkZ0FjczhLMU1TMGtjNHg2bnQ3WjBZVHlhSmdfcENhOTNiUllEQXJlWi1nb05VMnNsQ2l4LXRway1sSGZzMG5hM3hIRy1udHZnV251bnJWNG1qYVQ5UlZCS1VMWDV2QXJfQkxwdTN2aWM5amxNbnZkM0FNMUJMZmhfVDByVQ?oc=5",
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2hrS1c4b2VCWlNjUGVpYWV4d2otTXpNMG03N1ZOcjRfdGVncUlVNXRUamxQWUZMeUxKMlFRSFB2ZGNkZW5vZFJoLXlld2hoMmpuQmJ3ZVN1VU8tTVJtcHh5N0ZjekZMeHRQTy00UDJtZ2I0d1ZSNm1KT215SmdfU2toUzk4Sm1QUklmUTJ0VVpUNTExNDF0M1ZxdnVxdTYxRTBIdzZBZw?oc=5",
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3BIWEVFb2MxcXBCN3NuRmRwNWt3QlpmNFdOQXJmcmNpc2tFM2VNaUZTNjM2Z2dRb2FSd2l1WnpGNFVfMUNocnRqZC1OMGpnNklvZXhOWjhnV09rWVdLTllaVGNacEVpSFBFZU90Vm0xX1VmX0EtdDI2WmV6Q180YUJkd2RjTjNpU3g0T0hOamFPZVBLamlKcWJMVkdYSkZrOXppMXFnTGg?oc=5",
+     "https://www.pv-magazine-brasil.com/2026/11/10/tarifa-hora-certa-pode-mudar-planejamento-de-sistemas-solares-e-ampliar-espaco-para-baterias/",
+     "https://agenciainfra.com/blog/proposta-da-aneel-de-tarifa-horaria-para-gd-solar-e-um-avanco-diz-abradee/?utm_source=rss&utm_medium=rss&utm_campaign=proposta-da-aneel-de-tarifa-horaria-para-gd-solar-e-um-avanco-diz-abradee"
+    ],
+    "titulo": "Aneel detalha a Tarifa Hora Certa: novas conexões de GD e eletropostos entram 90 dias após a norma",
+    "resumo": "Proposta da área técnica (CP 46/2025): enquadramento automático em etapas de 2028 a 2031 para quem passa de 500 kWh/mês; saída para tarifa plana temporária de 3% a 5% mais cara.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/custo-da-mmgd-supera-beneficio-e-subsidio-chega-a-r-20-bi-ano-diz-estudo/?utm_source=rss&utm_medium=rss&utm_campaign=custo-da-mmgd-supera-beneficio-e-subsidio-chega-a-r-20-bi-ano-diz-estudo",
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ21tTmp6UVhLQ01QN2RsVHdudk90RVdJSWp6bDd0Q3ctZzhPMUJ3NXZJVUhaYzlFbW5TaHExRmRnUVN5Y0FJLVBtSWo4TU9vVHBYQ3JCMmhYTmtoQU9qTk83NzBndEhCUW4wWHFnRHAwQTVjZm5GOGtITm9aQXNTUGxfc3lSMklSTXMwbjhjbkljaVRLYXp5eUt4dHJxRjFwVTdRS0o2NG1oaGE1bFVlbnJSb2w2MkZWSXhZMk9ISl80QklEN2c?oc=5",
+     "https://megawhat.uol.com.br/geracao/micro-e-minigeracao-distribuida/abradee-propoe-tarifas-diferentes-para-gd-local-e-remota/",
+     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSllzMXpJdS0zNDJGXzhVQXBGQ2EtRGR2UGc1OVUxcWVNRm93YlFYTHJ4aWxZNEhSSGtBV0dBMlo3c2REd0pab1Nud2RJYUlaNjZZckswUnFEV0V5VjB2SVoyQUFmZ282bkhXNWQ4QnRHTDNuM0pac1c0dVZ3MGpDekU2UU9fOGNNZkkzUG1PNFdteC1ldXoyMmloS3ZKZC00bEVjZ0dzY19CSjhMSjN1VW4tYTdpZ3NnWU5ncQ?oc=5",
+     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3hqeW1JV3E2aGVPVUNJcEFkVjc4dHBROHI4SG1Fa1V6SnpuZmFsMEN3Z0dDZkVXZGs0MEYwVjdUbWdFdG1RVk1yYWJHb0p4ai1KalRUMS1yTnFpa1AyY3lZc3Z1dzNTQlNBcFJWUTZ5SkZnTFJLTzM5QVZPVnFVTDhIUzZJc1BLTXNINk9VQ3JLWDJ1TFVVNnd6YXhlV3ZvR0JzUllVRC1Ob2RFeEVUU0J2aS16UDZ4TXYtcVV6a0ZSWGM?oc=5"
+    ],
+    "titulo": "Estudo das distribuidoras estima subsídio de R$ 20 bilhões por ano à geração distribuída e propõe tarifas diferentes para GD local e remota",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/associacoes-pedem-apoio-do-governo-a-pl-sobre-custeio-de-baterias/?utm_source=rss&utm_medium=rss&utm_campaign=associacoes-pedem-apoio-do-governo-a-pl-sobre-custeio-de-baterias",
+     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjFBS0JOWkFCdkZiaTFRZFZZc0VTQ0o5UHBrYk1aZ0t3b0JGNWxJSEpRTEFDaHQ3cUk5RUhaMk1SWjktX1FxY2UzRE96Qjl3WlNMNXp0Nk1SMHh3NmxLT1BWSndJSzBBdmlBZm5WYXRSaHlwRXdhS3hmNVlWY09uZk9RUkVmV1dqSEFVaW9UbWVoQmpvSUYydnNkUzlsYzlQSzlvcHJWdmNMZ05hejV3VQ?oc=5",
+     "https://news.google.com/rss/articles/CBMimwJBVV95cUxQSklmZHBxUjFvR1lERERZX0pVX3dVcGQ0M3pJNVM5dVNnaWpUM3BjNmhPY2VoRFg3WlItbTVFTDRDcGlzakpqWDZocWVSTC1Xc2JRUFB3bnczSzNQWmlHQnNxYTRtcUZSN1p2dDhCWFRXRmxWREZJRWU0Uk1hX094dGVvcG5FdDNuZDVEZ2JEQzlEVmFNSHdGaE9SSGJLMTBJdWtnSkVkUTA3MTNjYmRROG1KaTZ0dnJJSzZlaTNUdXFKVUFtcjNNSDFoT2VQZUNvR2JHS1dlVTVpaGw5clV2NmFBMVVPM3NPTzVwVW44N3g1Vkh1Y0F6T2p4QXJJTG4zQkMtOF9TNG9JMEQwcERtSTMyQUdIX3NHQzhr0gGbAkFVX3lxTFBKSWZkcHFSMW9HWURERFlfSlVfd1VwZDQzekk1Uzl1U2dpalQzcGM2aE9jZWhEWDdaUi1tNUVMNENwaXNqSmpYNmhxZVJMLVdzYlFQUHdudzNLM1BaaUdCc3FhNG1xRlI3WnZ0OEJYVFdGbFZERklFZTRSTWFfT3h0ZW9wbkV0M25kNURnYkRDOURWYU1Id0ZoT1JIYksxMEl1a2dKRWRRMDcxM2NiZFE4bUppNnR2cklLNmVpM1R1cUpVQW1yM01IMWhPZVBlQ29HYkdLV2VVNWlobDlyVXY2YUExVU8zc09PNXBVbjg3eDVWSHVjQXpPanhBcklMbjNCQy04X1M0b0kwRDBwRG1JMzJBR0hfc0dDOGs?oc=5",
+     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSF9XWFJTWTVvcUNsQnMwLXREaHhVRThhaXdkeEV2c0d5Ry00N2ZpN1FKYW9HLXdPYXdDaUtmb1VJa1JJSm9JNGxyYVRyRkoyd08zZWtGTU5QczdTRVp6TWZOYUs5ZFVsdEFQRGdSRjUwR1ZYaUdZYXF6UDFuajIyd3I5RTZoVnJFWGdoTkxSSWRwU3dCS1F4UjBVM2p4QVJRTE43em96ajYtbXZIa1BOaXBnWGR3ZnpHN3hmdUdaSmZRNGV4dWlpUmFSWmowU1AtRFMyd3ZjeDlpTElUZVHSAeMBQVVfeXFMTjFRdWxCNkNFbEtUdGNnS2dVQ0xPY3IteUloWGpiYlFXZTcteDBaR1FNdS1DZzREVVJEZHVNaHppbzBFYllqbGpjQWlWb1NfVlBJMjRYekFnYUxWbHV4amYxZ2dMWlhxcURRbjVMd2pFbnRzZWFDTHhKbVhXbnJnQUlibDh6MWhkX2pDVVJLbEQxckI0cV9aRmhrbVM3bWRtc1Iya0RTdG5EY2FiNXlXQUVXcDRmd19ZSEtDS01qeTRFd0JnSUdXSEVaSFFOOUpSd1Niejg5MzJxdHVLX25CWGxNZ2s?oc=5"
+    ],
+    "titulo": "Sete associações pressionam pela aprovação de projeto que muda o custeio das baterias na reserva de capacidade; leilão atrai mais de 6 mil projetos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/empresas/mercado-livre-mantem-vantagem-sobre-o-regulado-mas-economia-potencial-recua/",
+     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFpVR093ZUE2RmdiSml6clRhcHZZaHJYRmsxdThiT0JFbUhiS3JUUkxnU2R5UDl0WFczdkpCZnRBekhZcV9QLTJEQW15X0g4WGE5T0dpcjRlY21FU3B0dm1sWFZ6SFM0eDVwSHFmaFc3NUJZWWdpR05IYURBT29wRVJ6YkFlLWY4YVVGcUlwVXNyMUIyTVBmZzFHaWhFNzVDdFFTbXRvOGFTZzBXdjdvODUzVDZ4dElrSlBaNmZDZ2EzQQ?oc=5",
+     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkpmWHpyTTc4dzNuVGt2eUdKNUt3ZUppUFYtT1R1ci1EbWRLWVp6OUZqWFA2SVdWWjBpZzJsWFNodFRpWjNlb0dGaU5sZTdjNGVhMW5NNFg1cnpyTDB0a19USkdNWUpoMlp3UGRXTVp5Yk1lQm5RZzFlTWxaazJBYzRPM3ZxYTQ3aXVkNUQ5OTRXX1UtbjZr?oc=5",
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnJzU3ZrSm5ZdlpLLWFHdkw3ZzBtSDNsMzdGTV8xNEh6Q2kzYTVlMi0yUkxnTkFNMWw4c2w5bGJaSWljbml3Ni1DS3V2UG1ycWEzbmhnTU0yMkN4WDQxQ3FlNVJObTQyUEtfbkMzUkpoSk8tbEdKaXdib3llV3ZuVnhlVHE1U3VqYjZtN3hqU0JPSEtkdWo2R2pxOEw3SFdiVjR6cW9qNjBvZGEyNlE?oc=5"
+    ],
+    "titulo": "Mercado livre mantém vantagem sobre o regulado, mas atratividade recua 22 pontos em um ano",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/mme-abre-consulta-publica-para-atualizar-regras-do-luz-para-todos/?utm_source=rss&utm_medium=rss&utm_campaign=mme-abre-consulta-publica-para-atualizar-regras-do-luz-para-todos",
+     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWJYc2hNR0Q5VW5UMDkwOFc0RWkyLVZMenZvRWF1MG1wSTIzcXRST05MYy1TYmIzbzh0MVctUnZMWlVwQUZ0dk1mVjRmWDZLbGpISUNPNDNpMWY3VXV4VFliWmFVdGRTU216c1VpcnRLeHVBX2laODJ5Z29ORzFMNGtoRlBkM3BlZkxZcjAxaXJyVGRBMy1sUkRTUGt6N1VhMGZ6NHZVVzR3S0VJSzJLbTZIeXE5bjg2dDZZZ2pn?oc=5",
+     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUZGRnNiUVBvelF2VHBRcVdWNkwyX1VHUWxVejh4eHJ1WFhlalpGRmxKaVFlZk5IUWF1YlhMeXB6Y3RrcEt1RDdPak9GaUFDcmNvVl9uM1c4RFU3VFowYktza3BKcDlmbUNiY1BtOW1ZQWZXa3FpSmh3Y3M5ZUpIOU0tZDlzcjIxMW1FYWFjSXpqbVVrQ1M4ZVhQemRRLU5LUTFR?oc=5",
+     "https://eixos.com.br/politica/mme-abre-consulta-publica-sobre-novo-manual-do-luz-para-todos/"
+    ],
+    "titulo": "MME abre consulta pública para atualizar as regras do Luz para Todos e reforça a fiscalização das distribuidoras",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/destaques-do-diario/aneel-aprova-acesso-de-data-center-da-casa-dos-ventos-no-ceara/"
+    ],
+    "titulo": "Aneel aprova acesso de data center no Ceará",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0RFeW9kb0hVU1NfNXJ6ekV6XzhHV0pfRkFHVzF1NlFXdERmelkxem9WUWJWaVY3Z19KN1ZONFZONURaLTV3dklpYXJwQWVxQW5BYnM3cXVPbC1iVksxRW95Szd6b0Via1h2Rmw3YW9zcHluMmVMbDgxSjc1ck0zMmgyN1RsVVUzOEtrWTQzT0tleFJlQ1BWbnRaYkk5cjA?oc=5"
+    ],
+    "titulo": "PDE 2036: consumo de energia chegará a 979 TWh, puxado por data centers e novas cargas",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnJ2eEV3cXBuZlZtNG9BaHRGelB2NnFpN3lIN1FwSUxZRTNaVU81clQzdTI5eERRZXVUX0NwdXVFSEttc3hUeGc2OWNackJBaUt4eEJraVJyVFVEWVBFalA0Y213Zk9CWUdlbXBzYWJFeUh3aFEtUGZjbW56QlV2RkVWcGNUdHg4UXMxTk5lS0c5S1FqSFZoLWd5V3EyNll0Qk9FLVdVazJtSDh4Sy1OclVkUnZHdnM?oc=5",
+     "https://www.pv-magazine-brasil.com/2026/11/10/menor-variacao-entre-usinas-e-maior-valor-absoluto-como-as-novas-regras-de-curtailment-podem-afetar-a-operacao/"
+    ],
+    "titulo": "Novas regras de rateio do curtailment elevariam em 73% os cortes atribuídos à solar no Nordeste",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/geracao/nuclear/eletronuclear-defende-mudanca-na-remuneracao-de-angra-1-e-2/",
+     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnNvNERyNkpOSmJ1aU00M1hVRGRvOFlRdUlpdmRUeU5IOHl4WTBSUDNEWGVialVtMmFOU3NxdG9rOHZlYmstZTJacU1taGp1eDhUS3Z5d1hENmFrYXU0ak5KMzlQdzlSTDZLZG1PeE5wcld2OGhQLWJsdHhLa0ctSTBVa0Vwek4wWGhpWTFGQW5aajUyakVnaUZsdE5SV1FDc3dsaFpZOXY1OG9wR3pCVk1vOGk?oc=5"
+    ],
+    "titulo": "Eletronuclear defende mudança na remuneração de Angra 1 e 2",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkMzMFczRmRkdERnNUFiN0sxdnJoejIxdlVmendzNUstM0FNVUI5a0NFYnZxYjBBOVlwN1BQTE9CR0ctME1fVUFDVW5VajFpMUtSMFhnelZHZTFmbzJnYkZGSmhKRnVtTFJ1ckdSTUJLZDhTd0xzdzBnM2FLUlo4bFV5clktaE5Scl9ZMERDUVBBM21FWVdTbjE5US1yUWgtcDZSNXM0c3VXdmZ2aUZvOWw0Nk9KejVwcFNZRGYwRjVvUnY4dXhoQ2FmYmpxenFGd0JLaUZn?oc=5"
+    ],
+    "titulo": "Associação do setor nuclear quer atualizar o marco regulatório no ano que vem",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/privatizacao-de-estatal-do-carvao-vai-bancar-descarbonizacao-no-rio-grande-do-sul/",
+     "https://eixos.com.br/transicao-energetica/governo-do-rs-anuncia-fundo-para-financiar-a-transicao-do-carvao/"
+    ],
+    "titulo": "Privatização de estatal do carvão vai bancar fundo de transição no Rio Grande do Sul",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXp1RlBXTENtQU92Vi1zY3FlcHdZUUFKTjBEeDBuek1CaHJrRmpGWU5UNzNQTHQxLTNfY0pwbkdNR3ZyQXdFdE5rdUdpSHoxN2l6aVVGNC1lSmZsUHRxVmxpdmxjZnVhSV9WajNfVjM3TUhFR0lyS1U4VWlzb2lmdU9sX0h1azNmM0VHeU9KcUFEMWhjRHoxRV9OYkdNU0R2ZzlLT2xQWQ?oc=5"
+    ],
+    "titulo": "CCEE amplia a gestão de riscos (GDCR) e dá mais autonomia às distribuidoras",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1hMUngzVFI5RE1LTHBBRmF1UU1lWGNsdk5QYnVyQzJPT202a3V1QlVtZkZqYmE3RUpnSTNWX01SRHpfVFZVMVc5a2RUekYybjNGM2t3YTBDb3daQ2FLVjJzQzJCeW1peXN3SF9kZC1XaWNPdmM3VVJDeTZvcW1Td2tCRmFhNHg5V2JPZzZySHRuaXdQUF9xVFFnT2dTQjFTU3g2Z1BRSUN3NUMzNGRFUEpUSWlLQ3djYmNZU185eVgzZ1AtTGc?oc=5"
+    ],
+    "titulo": "Índice de modulação de outubro mostra solar e eólica em queda e hídrica em alta",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/ana-declara-escassez-hidrica-nos-rios-tacutu-e-mau-em-roraima/?utm_source=rss&utm_medium=rss&utm_campaign=ana-declara-escassez-hidrica-nos-rios-tacutu-e-mau-em-roraima"
+    ],
+    "titulo": "ANA declara escassez hídrica em rios de Roraima",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLV9ITXZzT0MwRGNMdWw4M1p2cThHdDg0bXQwdHZxZ3h4TlhzTWxtckg3M2VxZlk2WFc1MEtOdjBXbHZORTdvakRlc0tRZUVOS0lDeWI3OUlfN0NyLW8yZTBBSWs4eWxEV180NTdJX09LZVNDWlJlckE2bC0xclVVMmxIRHdQTmt4MG94aGlsbHpneVdqckRlSW5obC1ycG9fNzB2ZjdTeUlNejU0TmZEUlVn?oc=5",
+     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOampLazBPRWJRdVgyVi1jVmhpWDlsb0VkX0M4aV9SbnVTNGxhVUxFMFRiQmZsa1drRmh5WlBVRW94LVZVUE4zYkR6bnQxY09hUVJvMWpNZThIeUJsR3lEYktDT2VoV0ROcF9QS1NMTDRHR29BS3lLeG0teE9iX0c2eWJOUi05VlNyNVE1WEs5aEpyaWRwRnowVUpfaUlibWFCQk02bmx1Sm9BYkRm?oc=5"
+    ],
+    "titulo": "Distribuidora conclui recomposição da rede após tornado em Maringá",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2QxX0lZVlhtZ09uX1F6WVVFcFBhTkxRS3pvRTltQVJaUHFPY0hhcVZoWEZZM2JKcWVFV0w5dU80d0dBYldZMVJib1pBNjRmRHdoWTFxNnNmRVpDVDd3cUlfTUhaa1I5ckllaklCSWZCdFJYUXVYVy0ySW1Jd09naUJ5dE9MUFBkR2UwRHowRGt1ZHBkRE84ajBLQ1FfMU9CbmxoNENWdUxUSHlZWjBmQUFMamVBemFKd0E?oc=5"
+    ],
+    "titulo": "IEA lança observatório global de riscos à infraestrutura energética",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/eventos/politicas-publicas-tem-tido-papel-importante-para-deslocar-consumo-de-lenha-e-reduzir-pobreza-energetica-no-brasil-defende-epe/"
+    ],
+    "titulo": "EPE: políticas públicas têm ajudado a reduzir a pobreza energética",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDc4VENFRjBMZ3VMeEtTWFVONVI3VkJrckRqdkdQc0FEYW91a0RiRFdRNHNiSjE5bjJ2dnU2c0NIR2dhYkpqWFZBRGV2OTRGdHRsQ2JfS1NtRk1nWjBtbkd1aG5MQTN3TE9sS1F2eHlqRXY2bUY4aFFkd2lZVENaUzNLR2tQUmJCenNNMDVxNjVzd3N3QzAyaWJWUjJqUlZTMDRsdGpHUnlxeGVKTGg4WUln?oc=5"
+    ],
+    "titulo": "Coalizão define 15 prioridades para descarbonizar os transportes até 2030",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVjlWLXNVNnRLSHlya1ZucXNNYVRDZGY3UGxvcURCVkZUVjE4VWk4RXJmY25SWUw0U1Zrc25JMkVwSk9PNG5zWHlNUEw3R25IU3JVenNnNE10V1JXYnVWSnBXS2cyQkRGUV9ubC0yYk5NeWJmNGlwcUh5cU41QXRIRGREZ0tNT29OLWNJZndHb29zWVNYc243UFBlTzBIdXJtUWtSTWFn?oc=5"
+    ],
+    "titulo": "Recarga acima de R$ 2,88/kWh elimina a economia do carro elétrico frente à gasolina, aponta estudo",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUdHcFJzVW5ESmV6WmpIeXFvd05Ga3d3X3UtSXZOVmZRc3FqQkJ4QzlIV0tSdHpfQ1NUT3pEbDhHR0t3SXZFSFFBOHpHbUpoMUUyM21ZcTN3RzJoZXZFMHBITlJxQWhaRWhTWmVlNXl3ZVNZWi1JZTFvVmNGVHptUlFWa2ZtSDdtOTBOdjlibVAwbEppZnhlbjVDN05JQlBHRjg2UUhhdFU3cFQxaFE?oc=5"
+    ],
+    "titulo": "Olimpíada de eficiência energética reúne 758 mil estudantes",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/gas-natural/mercado-de-gas/gas-release-tera-medicao-anual-e-mantera-fora-o-gas-proprio-da-petrobras/",
+     "https://megawhat.uol.com.br/economia-e-politica/privatizacao-de-estatal-do-carvao-vai-bancar-descarbonizacao-no-rio-grande-do-sul/"
+    ],
+    "titulo": "Gas Release: ANP vai propor medição anual da concentração e manter fora a produção própria da Petrobras",
+    "resumo": "Qualquer agente acima de 2.500 pontos no índice HHI ficará sujeito ao leilão; o novo texto vai à audiência pública de 19/11.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/oleo-e-gas/anp-suspende-revisao-do-gas-mas-petrobras-diz-nao-ter-proposta-da-nts/",
+     "https://agenciainfra.com/blog/diretor-da-anp-ve-suspensao-de-investimentos-como-pressao-contra-regulacao/?utm_source=rss&utm_medium=rss&utm_campaign=diretor-da-anp-ve-suspensao-de-investimentos-como-pressao-contra-regulacao",
+     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnV6MjI3ZVVRcGxVanJMZmttNWVjYUxKZllQRmUxT25WbktSbjl2WkRCSU1vUm9tdEtraGlJUHpMY0I3TlFmWG01dmxVcldaVzRmZ0YwdUExUzJvU1Jwb19qWVBjajlCdmVLM2tlREFtOWF1eFc0Q3NQYTI2QkNwZDRMeVRWOUJKbHBNMkcwUjNOeHM?oc=5",
+     "https://eixos.com.br/gas-natural/mercado-de-gas/petrobras-diz-que-nts-nao-apresentou-proposta-e-defende-agenda-da-anp/",
+     "https://eixos.com.br/newsletters/comece-seu-dia/os-proximos-passos-apos-a-anp-adiar-a-revisao-das-tarifas-de-transporte-de-gas/",
+     "https://petronoticias.com.br/petrobras-nega-que-tenha-recebido-proposta-da-nts-para-reducao-do-custo-de-tarifa-de-transporte-de-gas/",
+     "https://petronoticias.com.br/suspensao-temporaria-da-revisao-tarifaria-dos-gasodutos-da-mais-tempo-para-negociacao-entre-petrobras-e-nts/",
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXFqOEx6U0pheUhRNy1zcHcwSDlHaEl0Uk9hUnFkejdkSkxWN2NvQ01CSm45YV9zSGdxLWZsMFVFVnUzdHgyclJDQnpmLUx5MWhiekFpWG5SOVBObEoxS0tucDB0TnBmcEFyOEVvNVpwRnAtbXlKSXZzOGpKWGg1N2VtQ2VlV3EtRGVrRUVmc2Z2cDExSXBMeVVNYkxvNzNFajdEbXlnZHhzZEnSAboBQVVfeXFMTk1lUWFpdWt3OEI4bjRONVhMbDBoSEdZc2hFMC14dkJMTkRldDBSdlJaSUNwd2VkdWdkZldvS0J3VFZMeXBqYUJWZlJqdGR3OWNvTEVPQ3BSVnUzRGtyeDNRUjJkbFRKd0tEVDk2ZGJKODdsb0MtdnRUZFVtUEpqdjZCOXRLYTNvMzhNQVJQellpeU5PQ0FLdFFUbXkwWEM4Zi1RcTJoeXFtWmJSdDcyOWVtdXZHQVc4N0N3?oc=5",
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVZ0NS1UYmJxS2dtNE1ab1JYT081bXNLYUttTTRSVjZtOHF3aWpoYWpnNklzOXowMER6OWxVbzFjTXpWVE9kdkxBQ1VZZzF1eFZ1bldRYUE5bFhnalB1YXBhTU9GaUV1YVl0V3BMWkNJLWpzUExOVERyNjc3YXlYeXBreHllalU5WTM2bjlBSEI1c2xhTEJQalhlaGF3bXcwa3ZOUHhxSFFYUVhNeXFzWmVQMUc2WXhuUnFCczhLTQ?oc=5"
+    ],
+    "titulo": "ANP suspende por 15 dias a revisão tarifária dos gasodutos; Petrobras nega ter recebido proposta da NTS",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/gas-natural/mercado-de-gas/ppsa-firma-parceria-com-estatal-argentina-de-olho-em-leilao-estruturante-de-gas-em-2027/",
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkR3OS1ZZXFCNjFSeEFSQi11UjE2Xzlkc0lwRDZqMkl2RUxUNWFVM3dmTmRNY2V3blhoNDBibGZ5MkM2SmFfN0RJbnJzc3BiYjFRRUNfdzZZUFlvay1WSHQyNllFY3N1bWRfcVdJUDllUVp1MENvMURFUGxOZmg0RjRrRVJMVkpnR294bXpMVElSRTZCNkVyQUxWVG9ZcW1nWkpNb2REZl91alRnQ1E?oc=5",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ppsa-e-argentina-gyp-assinam-acordo-para-estudar-fornecimento-de-gas-de-vaca-muerta-ao-brasil.shtml"
+    ],
+    "titulo": "PPSA assina memorando com estatal argentina para avaliar gás de Vaca Muerta no Brasil",
+    "resumo": "Resolução CNPE 15/2026 permite outros supridores, inclusive importados, nos leilões de gás da União; leilão estruturante previsto para 2027.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/senado-aprova-projeto-que-da-acesso-de-notas-fiscais-dos-agentes-a-anp/?utm_source=rss&utm_medium=rss&utm_campaign=senado-aprova-projeto-que-da-acesso-de-notas-fiscais-dos-agentes-a-anp",
+     "https://eixos.com.br/politica/congresso/senado-aprova-projeto-que-permite-acesso-da-anp-a-notas-fiscais/",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-projeto-que-amplia-fiscalizacao-da-anp-apos-carbono-oculto.shtml",
+     "https://oglobo.globo.com/economia/noticia/2026/11/10/senado-aprova-projeto-que-amplia-acesso-da-anp-a-dados-fiscais-para-reforcar-fiscalizacao-de-combustiveis.ghtml"
+    ],
+    "titulo": "Senado aprova projeto que dá à ANP acesso a notas fiscais dos agentes do setor de combustíveis",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://movimentoeconomico.com.br/economia/combustivel/2026/11/10/diesel-com-20-de-biodiesel-depende-de-testes-e-decisao-so-deve-sair-em-2027/",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/governo-avalia-liberar-mistura-de-20-de-biodiesel-no-diesel-a-partir-de-2027.shtml"
+    ],
+    "titulo": "Diesel com 20% de biodiesel depende de testes até março; governo quer aprovar o B16 até o fim do ano",
+    "resumo": "A decisão sobre o B20 cabe ao CNPE e pode sair em maio ou outubro do ano que vem.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3FxT08tdm01QTRmeEdDYlhDVzJMZDNPNVdabUNtdklBYXgwSGRlaHYtOGtmcFVRZlVvZEVER0hqaHdaR0hDMEs0UDI2aDJQMC1zWjZoUjFwUG9tc3lIWjZ0TURhYVB4UjROWUtldmozMHk2dnhkQThKcGpxemdXNkkyUDNjYkNkcW9xTG12dXhFN1VLUGc?oc=5",
+     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzhnMmxOckV4YmtCakRjVDdGYzU2aXVRanlCbnVxYjliSktOM0ktalJqc0pRdHY2RFdXQWRFSk94eE9fc05rVlcyY2tqOUtnOXM5UWsxZS1Fa2lLVnNiS3p5WFI0UzVwSGxBR1ZQeDBaMWt3R2c2T0wxVjhLaVFfbjFzM21JdWtraGo1a0JRTWRra0ZjSE40cGlsTG5iSllpWkE?oc=5",
+     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkdGMVpLZGdBQVQyTHhKN0VDQ09pa00ySC1mWmZGZ1A0Z1NfY0g0dUM0SlJMai15QU9lUnRncGZDdE91Vk1LSXg5VUJJR0hBUTV4aU9zRlJSYVpZdVR3V3NwVXdKMUhFT0syQ3BieFFEX1FBV1RLZHR5WG92aHdlOWlJZGhubmxLWDBNcXp3Z2tzZ2VrUHhSU05ORFN6eHRLVVdMakQ4dllyWXJwd19pZFdWd9IBwgFBVV95cUxNTFVkSzR5THl5ZzdyRVJyNV9FbUhwU3hVbmQ5U0l3RjFQY0FUazVnem8zX3F1T0pYTUxJODFrMENrTWpuODZkOEhsOEVwM1ZEZ2d5VlZ3RVVnajJvaG9HOU5xREM4bDh5NS1PMVA0SDh2MjZudnVPSjNuMjJVN0JvWk1CLURSb0VzZjMxOXpveUI2dXVHWGlBc29HbVliMVpMMnI2cXY4b2tUMEhzTU41Yk1rNkpma2l2akI3YnFaemRQdw?oc=5"
+    ],
+    "titulo": "ABiogás propõe meta de 1,5% de descarbonização do gás natural no ano que vem; certificado de biometano anima empresas",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1BqUWJicElOeFptNTR2d0UxTDh5Vm5kZENjN3BJTFdMZDJqWV9USFcxYXk4OXZ6TDQtRTJ4MmRmT0ppaG9KNE5Vd3pETHZ1a0JiQ3c5ME52VERYRmtJNWUxa1dXSDBPWjMwYUlKUmNrSmhNd3pPdDFzR3p2cFpKMkg2WDBCamRKVG9YNFpza29KTlNBZkZlc01hbllKSHpWQUhSSmRYenRhOUlRV2ZaUzRZTU96ZFdOdVlMSWZ4SW0xRGdH?oc=5"
+    ],
+    "titulo": "ANP propõe novas regras para as metas de descarbonização no RenovaBio",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/ppsa-vai-ofertar-duas-cargas-de-petroleo-do-campo-de-buzios-no-dia-12/?utm_source=rss&utm_medium=rss&utm_campaign=ppsa-vai-ofertar-duas-cargas-de-petroleo-do-campo-de-buzios-no-dia-12",
+     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTjFJQWtnOUt0bjhYMlJkbjQyN2JJVnRlTXBhb3FyaEFXYU9VWTNBS3ZibFdzZS1vdm9KcmpVNFFfc3FERXVGOVV5QW5nenRuNUNSZ21RQXpWcm9aSG9wUW5tRV90UVhnWWFPS2htcGpiS0g1Sy11S2FmU2xtZlFMVk1pNWhXWnNqVnVZc0xTRXUxNEZhZFRDTFljY3NYMVlkRFQ0MkEtX2gyYUY4NFhoakhxU1B4ZmNES2l3QXFENDY0emZpSnlJanBpRF9nOG1s?oc=5",
+     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjNlUzJDTXNmbWxUMUVwYVVyeTZKLS0wMmRKaGoza1BRWmU5U3BaZ05XWVFLOUNZWEw1bklNVU5FZlZ1bVlfOThjT0FvWnphTzlPbVB1d0JMa0g5M1pQclk3QXpHcEdNRVdFdnNaWEFDNTBtNzk2eU5kOTZUVzdhQjRtTDlNZERtaWo1OWRVdUZmWFBCV085Y05rX0NGb0h5cXJzSTByc1VRZw?oc=5",
+     "https://eixos.com.br/petroleo-e-gas/ppsa-volta-a-ofertar-15-milhao-de-barris-de-buzios-em-leilao-na-quinta-12/",
+     "https://petronoticias.com.br/ppsa-volta-a-ofertar-duas-cargas-de-petroleo-do-campo-de-buzios-em-leilao-spot/"
+    ],
+    "titulo": "PPSA volta a ofertar 1,5 milhão de barris do campo de Búzios em leilão nesta quinta (12)",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/governo-prorroga-desoneracao-de-tributos-sobre-gasolina-e-etanol/?utm_source=rss&utm_medium=rss&utm_campaign=governo-prorroga-desoneracao-de-tributos-sobre-gasolina-e-etanol",
+     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYk1KOGJTcHBPUXRrT0Y4TUs5Q2xNajVxc3czYWFtVGd1cnIwa2E3QWZfdjE0OEFLRGNwU05BeFdQaWZFYU91dDFlRS04TnpCbWVxNFJZNmJYa0dIV1loMFZzZ1N2Y1ZVbDVqNUZxTHhTT3A1X0VXd1g2MnZBRlBMRUZBRkdBempYM0JINEk4WlFXVEhuRDUxckhURlBXcXNpdXNKZk5DaDN3Tmllc0ZPYlhqVWI5T2h0c2lzaQ?oc=5",
+     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSlBNQVZSbzJ0ajRtRzJYbFY5R1BVM0RLcWxGOHNDeXA3RzdaLUxHeXY5TS12bzlKaS1Ib05JYTlJcGtqbWxWcGR5SE16TTR0Qi1Kd1Ntc1VRYjk1LTZBb1ZTZFJaWkdHbDhQWkFZVmxpaV9KQzFyMGlhczNDWkFZY3pDcHNINkxldFFzbUFpcElPQlNNV2gteWV3UDB4WmU4OXFQcGlidGZwSjFJMzI4VTlWSXpZeEthODVSUGFRV2hOM0VOWE81QnVhSEg?oc=5"
+    ],
+    "titulo": "Governo prorroga por 30 dias a desoneração da gasolina e do etanol, com impacto de R$ 2,76 bilhões",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/petrobras-atualiza-projecao-de-producao-para-ate-34-mi-de-boed-em-2026/?utm_source=rss&utm_medium=rss&utm_campaign=petrobras-atualiza-projecao-de-producao-para-ate-34-mi-de-boed-em-2026",
+     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdTd5TWFRSzl0SjB6WXZYNlNZeVpjYjNhcWVaT2VycWR1b21NMlF1ajFOdDJoQkhlQUlPLXpadUVtWEg3YWtJVF8xLXRaekxTOGJQX3R5SzE2ZWxXR0ZQS0dTUlduWFdmMHFLUHV5UUc4T3NRd2tpSFdQYjh0OTZ3WnZ5N2NLdGd3d08w?oc=5",
+     "https://valor.globo.com/empresas/noticia/2026/11/10/petrobras-eleva-projees-de-produo-para-2026.ghtml",
+     "https://oglobo.globo.com/economia/negocios/noticia/2026/11/10/petrobras-eleva-previsao-de-producao-de-petroleo-e-gas-em-2026-e-aumenta-projecao-de-investimentos.ghtml"
+    ],
+    "titulo": "Petrobras eleva para até 3,4 milhões de boe/dia a projeção de produção de 2026",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://www.estadao.com.br/economia/coluna-da-broad/plano-de-negocios-da-petrobras-para-2027-2031-pode-chegar-a-us-120-bi/"
+    ],
+    "titulo": "Plano de negócios da Petrobras para 2027-2031 pode chegar a US$ 120 bilhões",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/petroleo-e-gas/pico-do-petroleo-ameaca-maior-parte-do-investimento-planejado-pela-petrobras-em-novos-campos-ate-2040-dizem-organizacoes/"
+    ],
+    "titulo": "Pico do petróleo ameaça parte do investimento planejado em novos campos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/mineracao/mineradora-negocia-uso-de-plataformas-da-petrobras-para-produzir-potassio-na-costa-de-sergipe/"
+    ],
+    "titulo": "Mineradora negocia uso de plataformas para produzir potássio na costa de Sergipe",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/newsletters/dialogos-da-transicao/dia-da-energia-na-cop31-tem-roteiro-para-transicao-mas-sem-compromissos-sobre-petroleo/",
+     "https://eixos.com.br/eventos/cop31-meta-de-eletrificacao-deve-respeitar-as-geografias-de-cada-pais/"
+    ],
+    "titulo": "Dia da Energia na COP31 tem roteiro para a transição, sem compromissos sobre petróleo",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzF3akVRXzB2UlYydm05aVpYLXkyLTZPbXFuSndUcnM2QWdQX21MV3FGMW5aZmVRTkdaUWZ2QUk2amlwUUFoVFE2R1V6TGJ2TUVEaHlkalBJcDBFblp5Tm81U3FtM3ZPWlRUVUQ5YnBocnp2TUdTX3RHd3J5ZHpZSW1NZ01LZE1YenQ3Ukh2NVRqWW14dFlpalppNDhNQlFBNnk1elVjYVJUY1RHY050VkNn?oc=5"
+    ],
+    "titulo": "Expansão da estocagem subterrânea de gás natural de Pilar (fase 2)",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd0tjMjl4WUZwQmFaQl9UUFJ2em8zdzVxaFVhWEdXRDltSjNVUnpaVy1OWVdENW9GZUMyZWZPWFljQzltbGFSSVV3WTMxaFRtMUFILVRVOUg5Ul9UNXctN0o5Z2Y1YVVQTlQzcUFMbWd0cUVybnFBYVc3cThseWxNdzlvcU93LUhWd3RKQm9kbkJMQjBSclk4bUR3cGFJcXRvNTNuOUltaVF1d0RUUWNlRVpHS05SX2c3bFgzNVNmdFAtUnJhNUc2SF9LVEtRajEzTzl0S0JnU3k4WEtkUFd5Y2hR0gHwAUFVX3lxTE91MjZLclNqRWNPOGItV1AxYTluLTBXQ2xmcjdMTGZMRWlNV0Z3T216MmlhWlZyQ1BDXzN5aEF5RDMtdGVhT08yOU1wcG4wejNDUE51UkNtcEZzVjB3T05LNTZhNFZQZ0VvcnpxeEpmV3ZtZVV0RWo2OHlPTFFmTE0yenJ3UTRVeFI1cFJra1lyTHRTcjRSa3dxVGtEbHpnQzM0c0lERl91V0ZZS3NYSWpNc1NuQnBHMlh4b05hckxla2dLWUlKdmthcmVHc0V6ZFBCNnpoQ3pCNk5kTFhmdjVRYzBjOTlrNnZiMTdKTWtLYw?oc=5"
+    ],
+    "titulo": "Ataques reduziram em 30% a capacidade de refino da Rússia",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://www.poder360.com.br/poder-congresso/regulacao-das-big-techs-sera-votada-na-semana-que-vem-diz-relator/",
+     "https://valor.globo.com/politica/noticia/2026/11/10/projeto-sobre-regulacao-concorrencial-das-big-techs-deve-ser-votado-na-proxima-semana-diz-relator.ghtml"
+    ],
+    "titulo": "Projeto de regulação concorrencial das big techs deve ser votado na semana que vem, diz relator",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://valor.globo.com/empresas/noticia/2026/11/10/cade-aprova-sem-restries-compra-do-controle-da-mills-pela-francesa-loxam.ghtml"
+    ],
+    "titulo": "Cade aprova sem restrições a compra do controle da Mills pela Loxam",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/com-aquisicao-de-flora-e-canal-rural-jbs-quer-reforcar-ligacao-com-varejo-e-produtores.shtml"
+    ],
+    "titulo": "Frigorífico compra marcas de higiene e canal de TV para reforçar ligação com varejo e produtores",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.estadao.com.br/economia/coluna-da-broad/fusoes-em-servicos-financeiros-crescem-71-em-valor-em-2026/"
+    ],
+    "titulo": "Fusões em serviços financeiros crescem 71% em valor em 2026",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMingFBVV95cUxPNXJVbWN0S3ZKYzM1eEJHMHdlX3J1ZzktWjllNGpmeFl0WnBFRVBSZGkwQjdCMFNIU0U5cGtUTkpFYlJIaUJsZWZuRVFyRElybEN2YTEtZWdTWFlWVWVNNVNqU1k4dVJSYlpZT2FhMEU1LWdsWU1lMjdDa0lBenE5MnprRjljUGZ3NTRjelFsM1c0a21KXzNvNUZnQ1BuQQ?oc=5"
+    ],
+    "titulo": "Gas Release: a concorrência barateia o preço para a indústria?",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/sem-concorrencia-contrato-repactuado-da-br-163-mt-nao-tera-disputa/?utm_source=rss&utm_medium=rss&utm_campaign=sem-concorrencia-contrato-repactuado-da-br-163-mt-nao-tera-disputa"
+    ],
+    "titulo": "Sem concorrência, contrato repactuado da BR-163/MT não terá disputa",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/market-review/market-review-merger-control/2026/article/european-union-draft-merger-guidelines-herald-paradigm-shift-enforcement-adapts-geopolitical-realities"
+    ],
+    "titulo": "União Europeia: minuta das novas diretrizes de concentrações marca mudança de paradigma",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/market-review/market-review-merger-control/2026/article/spain-cnmc-flexes-merger-control-powers-first-prohibition-and-tougher-phase-ii-remedies"
+    ],
+    "titulo": "Espanha: CNMC faz a primeira proibição de fusão e endurece remédios",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/market-review/market-review-merger-control/2026/article/china-samr-sharpens-merger-control-scrutiny-below-threshold-enforcement-expands"
+    ],
+    "titulo": "China: SAMR amplia análise de operações abaixo dos patamares de notificação",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/market-review/market-review-merger-control/2026/article/mexico-cna-raises-the-bar-merger-control-under-new-antitrust-regime"
+    ],
+    "titulo": "México: novo regime antitruste eleva exigências no controle de concentrações",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/gcr-usa/article/meador-rebukes-hovenkamp-monopoly-broth"
+    ],
+    "titulo": "Chefe antitruste do DOJ rebate Hovenkamp sobre teoria de monopólio",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2548448?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Trump indica chefe de proteção ao consumidor para vaga na FTC",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2548644?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Procuradoria de Washington processa empresas de diálise por cláusulas de não concorrência",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/private-enforcement-increasingly-steer-cma-digital-markets-work-uk-barrister-says"
+    ],
+    "titulo": "Ações privadas devem orientar cada vez mais a atuação da CMA em mercados digitais",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/estrangeiros-dominam-92-do-investimento-em-terras-raras-na-sudene/?utm_source=rss&utm_medium=rss&utm_campaign=estrangeiros-dominam-92-do-investimento-em-terras-raras-na-sudene"
+    ],
+    "titulo": "Estrangeiros respondem por 92% do investimento em terras raras na área da Sudene",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/brasil-precisa-ampliar-incentivos-para-atrair-investimentos-no-refino-de-minerais-criticos/2026/11/10/",
+     "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm5Vakk4T2s0NTd5aGNQb2NaU1FaSk9Pb0J5TEtuUFg5N3Z5bE14aXloOElZSm9OUlJ3T2o5WmpnOTZfUDJTb1ZOcDhsOE9LMWQyTE9BaVFjR1BlSjlFQ25QVU9EZEJaWlBBSmlzaFZTeUkwQ2M2VkFmV2tzN0hGSk5mcEJoNkVGbDJidzVwNXVZeUFhQi1OWW5qcXpGSERBRjlqeWlGdS1rY1RGVnVLLVY0MEltSWJzekdZYlVVSmlSVU8tTU5pd1VYaWtUR2FoTF8wYW9RbFQyaUR4aWF4TlpOVV9xNWxfaVJsVWN5SThlaU9jTktFTEQ5Z3JXVk0?oc=5",
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUhFd2c5UEhHNjYyZUVDVGFPOVRKQnYxLUdoYTZKbHkwZEdmc0FlZ2daSENZZ09kZnhyY2JWUnpORmJJZzhYTVQ1TDNyaEo1ZjFveGc1T09EU2FHaldhbGJvaHdCMjI1NlRYTHU5RmZ3M3hObXdCWWNVZEtJMXJFMlRkSlpfNDJkbkpTdkp1clFabTNONVl6YTM0aENIblNFamgxZjZpRWFEdlRzRzFBNzNWRTZUc3FKWVRsSXZNT2ZFRF9NQlFkdw?oc=5"
+    ],
+    "titulo": "Mineradoras pedem mais incentivos para atrair investimentos no refino de minerais críticos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/goias-estuda-criar-secretaria-especifica-para-energia-e-minerais-criticos/2026/11/10/",
+     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX3ZEcnVUWFNhQ19uM1BfdFM0QnVwZmpHeXFSLU5PYzZNMkREdDhzaExwLWlzekIxV2h0bzB5ZDZOdUVBOFB1TW1aU1N0Z3p4MWJKQ01ZZGdVWjgtRmFHT1h5V3BWZ3Fja21pVHI4MWdRVFFpSVpCN1VURnhYYkJxS28tWkp3Z3BzaVpXd1lmdWthbHRDSk1Ua3A3VXFCNmVfd21DNW9sVzV5LXc0WWV4bmhObnhCTEh4MDdLaGV6TjdQR2N4M25rNmVEYTVkcW42R1hDbm5tV0tnaE5xYmZXUXZVUUZvd0l4?oc=5"
+    ],
+    "titulo": "Goiás estuda criar secretaria específica para energia e minerais críticos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://revistamineracao.com.br/2026/11/10/serra-verde-inicia-exportacao-de-terras-raras-para-os-eua/"
+    ],
+    "titulo": "Primeira exportação de terras raras do Brasil para os EUA",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0l5OFJkd1g4WEY3SnZKcFBxSENfVmt1Z2lVV0RJMDFDQU5LTU1fRzgyMjAyMWhERGNzRHNHVEEzUXd1c3hVbmk4T21vaDRudGI4WmJrNXpfSzhIZ3dpandhaENyZTZnVFZPWjhFM0lOLVBpUU1iajZ5azE5QkUxb3ZyMXZobGpZRlRJS08tRzloc0I5?oc=5"
+    ],
+    "titulo": "Setor de mineração busca reduzir litígios no Brasil",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTJyaUYtWFA5cHV2YjVOa1hnNzlZQkNrNUt1Y1VtTnFvdC1QN0hMS1luSzR2bE8zUW9DUXRaOE9vWmFSU1lncWZ2RFJRbnplZlltZUZneEtaOHdoRzF0ZVdQNzZOeGFwNUhYNzB5XzMxdW1uWUp0Y2lPNjFvNTd2bk1xS0ZqbHRFUEZHcjBmMEhMNDlFbEFVU1lLbG5OOGJMVUZQMFFiSHI4V0J3dUE?oc=5",
+     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWpzVHZCZUVYcmg0d1BDWnZHXzZFSHhYR0tSYm1BaXdaTFRTRU9qU081UG4tV2s5SHhvbXc2Znd6QlFTQ3Qxbi1fVDNadkxpS1l5ZDBnbDZQQmZTaG5TOHkzUzN3Z0hDUWM3b3ZVaXhsUnV5NW54VlVUV3BkSkg3cjNnQXdoSjBYWjJhUnBhU1JMOUwwS0lEaWZHcUJSTl9OZTc3WFFjWlVBQ1JvZzJGcEljaEZRRkg3RUV4dS03UnMwQTdhV1NjYzFJMk1PUQ?oc=5"
+    ],
+    "titulo": "Projeto de cobre e ouro em Mato Grosso entra em pré-construção e atrai US$ 400 milhões em propostas de financiamento",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/votorantim-vende-a-siderurgica-argentina-acerbrag-para-a-mexicana-simec"
+    ],
+    "titulo": "Grupo brasileiro vende siderúrgica argentina a grupo mexicano",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/mpor-abre-consulta-publica-sobre-monitoramento-e-manutencao-de-hidrovias/?utm_source=rss&utm_medium=rss&utm_campaign=mpor-abre-consulta-publica-sobre-monitoramento-e-manutencao-de-hidrovias"
+    ],
+    "titulo": "Ministério de Portos abre consulta pública sobre monitoramento e manutenção de hidrovias",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Infraestrutura"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/antt-quer-definir-multas-apos-1-4-dos-transportadores-nao-contratar-seguro/?utm_source=rss&utm_medium=rss&utm_campaign=antt-quer-definir-multas-apos-1-4-dos-transportadores-nao-contratar-seguro"
+    ],
+    "titulo": "ANTT quer definir multas após um quarto dos transportadores não contratar seguro",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Infraestrutura"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/porto-de-santos-mantem-operacoes-e-busca-normalizar-sistemas-afirma-aps/?utm_source=rss&utm_medium=rss&utm_campaign=porto-de-santos-mantem-operacoes-e-busca-normalizar-sistemas-afirma-aps"
+    ],
+    "titulo": "Porto de Santos mantém operações e busca normalizar sistemas",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Infraestrutura"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/free-flow-governo-envia-mensagens-a-motoristas-com-pedagio-pendente/?utm_source=rss&utm_medium=rss&utm_campaign=free-flow-governo-envia-mensagens-a-motoristas-com-pedagio-pendente"
+    ],
+    "titulo": "Free flow: governo envia mensagens a motoristas com pedágio pendente",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Infraestrutura"
+   }
+  ]
+ }
 }
