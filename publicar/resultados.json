@@ -349,5 +349,41 @@
     "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524389934779174913",
     "erro": "",
     "quando": "2026-11-06T08:37:03.000Z"
+  },
+  {
+    "id": "2026-11-11-instagram-escritorio-documento-1",
+    "rede": "instagram-escritorio",
+    "tipo": "documento",
+    "status": "tentando",
+    "link": "",
+    "erro": "TimeoutExpired(['git', '-C', 'C:\\\\Users\\\\DELL\\\\postiz-fila\\\\repo-midia', 'push', '-q', 'origin', 'HEAD:ms-midia'], 180)",
+    "quando": "2026-11-11T16:13:02.000Z"
+  },
+  {
+    "id": "2026-11-11-linkedin-escritorio-documento-1",
+    "rede": "linkedin-escritorio",
+    "tipo": "documento",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-11T16:14:21.000Z"
+  },
+  {
+    "id": "2026-11-11-instagram-ronald-reel-1",
+    "rede": "instagram-ronald",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-11T16:14:29.000Z"
+  },
+  {
+    "id": "2026-11-11-linkedin-ronald-imagem-1",
+    "rede": "linkedin-ronald",
+    "tipo": "imagem",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-11T16:14:40.000Z"
   }
 ]
