@@ -2158,5 +2158,358 @@
    "resumo_original": "Brazil to send energy minister to Venezuela amid Petrobras interest Reuters",
    "data": "2026-11-11T19:10:40-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 12/11, 04h50 (Brasília). Dados brutos em `raw/2026-11-12.json`. Ficaram de fora mercado (bolsas, cotações, balanços e dividendos), eleições e política partidária, ações judiciais, contratações de escritórios e executivos e matérias repetidas em outros veículos.",
+  "destaque": {
+   "ids": [
+    "https://agenciainfra.com/blog/petrobras-pediu-ao-mme-mais-prazo-para-revisao-tarifaria-de-gasodutos/?utm_source=rss&utm_medium=rss&utm_campaign=petrobras-pediu-ao-mme-mais-prazo-para-revisao-tarifaria-de-gasodutos",
+    "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-nega-ter-pedido-para-anp-adiar-revisao-tarifaria-do-gas.shtml",
+    "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pode-ter-que-devolver-r-36-bi-a-compradores-de-gasodutos-vendidos-no-governo-bolsonaro.shtml"
+   ],
+   "titulo": "Revisão tarifária dos gasodutos: ofício ao MME, negativa da estatal e cláusula de R$ 3,6 bi",
+   "texto": "A disputa em torno da revisão tarifária do transporte de gás natural, ciclo 2026-2030, ganhou novos capítulos depois que a ANP suspendeu por 15 dias, em 9/11, a fase final do processo (o tema volta em 27/11). Segundo a Agência iNFRA, ofício da Petrobras ao MME pediu mais prazo para a revisão; a estatal nega ter pedido o adiamento e reconhece que a matéria é de competência da ANP. Em paralelo, o balanço do 3º trimestre revelou cláusula do contrato de venda da TAG, de 2019, que pode obrigar a Petrobras a pagar até R$ 3,6 bilhões aos compradores, vinculada à definição tarifária pela agência."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/petrobras-pediu-ao-mme-mais-prazo-para-revisao-tarifaria-de-gasodutos/?utm_source=rss&utm_medium=rss&utm_campaign=petrobras-pediu-ao-mme-mais-prazo-para-revisao-tarifaria-de-gasodutos",
+     "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeU1DcVFiNU11Zlg0blJBNWVra01kcHQySTNyVU90Z3JHb1FJTmludURKZ0t6UXBZVlFQb2ExS0NXZ2hjMzZDMHJKdFg4bFp5RkZ2NGJLNGxibDFaNkptd2syaFY4UGJScjd3dEhKREFua0ZIUG1wb2k4azdBYWF3WFhMUmxfbFFVOXNFREl5S0o3TnNEU3Z6RUdrRTh1NFNhbE84aFlWLXZKOXp0REFhZFpNbXVja0tQZi1wSS1RdEppaEFqV2VHSGRxYmpwRk9kQnpkV1YzSl9iWG9TZU1mODcwY1ZCTXNoTVd5TjJMWXNTWXc2S0RMNU42eHdUR05VZkHSAZACQVVfeXFMUDhxWjR6WHFiRVhpY3h5dk5lcFVPNHg5TEctSTRXNFRzWDZWTnl3eF9KdzVERFE2Zk9yM0h3Z19WTkZSSUtDeEVyQkh6cVBTOWRuSXRaSnAwX2VoRGRqMVNtSXVja0NDc2xPanpONDRGR2FXckVfLWlmTWVhWS05MV81WE9PbU5WcEE2dkVmbjJZMFgyWTZDRWVpbGllVENIOVpmT1U1WVM5MnIzZUVFTE9wcEVTTEpWMWVoaFU2dHBLYzE3VmJTTkxMR1BGNEtITDJNNDFkN2R5Z1V0UlRFYUd5NC15UnRXMkl4VGJkNEZYMXFpTTR2dS1GNGRpUjZ0bzlWS3A5ZGJDZUxfRFdqZFE?oc=5",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-nega-ter-pedido-para-anp-adiar-revisao-tarifaria-do-gas.shtml"
+    ],
+    "titulo": "Revisão tarifária dos gasodutos: ofício indica que a Petrobras pediu mais prazo ao MME",
+    "resumo": "Segundo a Agência iNFRA, ofício da estatal ao MME pediu mais prazo para a revisão tarifária do transporte de gás na ANP; a empresa nega ter pedido o adiamento e reconhece a competência da agência.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pode-ter-que-devolver-r-36-bi-a-compradores-de-gasodutos-vendidos-no-governo-bolsonaro.shtml",
+     "https://megawhat.uol.com.br/megaexpresso/petrobras-podera-pagar-36-bi-a-tag/"
+    ],
+    "titulo": "Venda da TAG tem cláusula de até R$ 3,6 bi atrelada à revisão tarifária da ANP",
+    "resumo": "Obrigação apareceu pela primeira vez no balanço do 3º trimestre: parte do preço da transportadora vendida em 2019 depende da definição tarifária pela ANP.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/aneel-autoriza-acesso-de-projeto-de-hidrogenio-verde-a-rede-basica/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-autoriza-acesso-de-projeto-de-hidrogenio-verde-a-rede-basica",
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWF4VjEwNmRYNElxM2pxajhFSFg1R2M2ZDhOanZkMnhaZFVCaVNLZnRRd0dETXhvZTNtYW16MjlUbXoxRWVRRnJnRm5yeUlzaWVEaHpBQW9NSEtIMnJVTGR6VGVtSkZqTnN3VXV6UW85YzFWTkdCeTRZcENmQWw1WmNidXJGUlBCMjZEQVNNUnRHTVNpUjBGdXNoWTFLbFpyOUxMdTRKN2ZtOWc?oc=5",
+     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFViTFJSS3o1al9vaWJuUzhJY2NJWU1zV1pMX25qZEtwLTJvcktzZXFpWWd2d3lFMnBUUTlGc1lJcDlBN3ZaNHA3Y3p4Z2tScmZMc0lFbURIbW5tdUJuSDFhQWJaNUdBQnVqNFlQWEpPblpaOWRmb2J3S2FPTXNQVUFfZXdrRDJOUUZoaUMxSy04LU8zc2xjMjZ6LUFMRlVzNzFZN2ZqcWkzcVpzYU1VOEdGTmowaHhURmtFMzJ4RWN0eXJt?oc=5",
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHlpeXFkRk80ZDBtLVRvS05ZUkNHMFQ2eHBaV1FMYkRyRG1kWngzNHpHSlFLeG4tZXcwZTMxRVc5YmhDY2pyNkpDVWRpNGl3cndHdTVrWEZWTzlPR2JQRV9KeXRYbUItVkZUdjBXX3BLLTl3RXNwdnJfREZoQ191bkx5VXlzZWlaREpxcjZCMHNYaTZBMWFPQW9OcVdvMmE1OWwwekNR?oc=5",
+     "https://www.pv-magazine-brasil.com/2026/11/11/aneel-autoriza-acesso-de-projeto-de-hidrogenio-verde-da-casa-dos-ventos-a-rede-basica/",
+     "https://eixos.com.br/hidrogenio/aneel-autoriza-primeiro-projeto-de-hidrogenio-verde-a-acessar-rede-basica/"
+    ],
+    "titulo": "Aneel autoriza o primeiro projeto de hidrogênio verde a acessar a Rede Básica",
+    "resumo": "Despacho 4.249/2026 (DOU de 10/11): unidade Pecém VDB 1, em Caucaia (CE), com demanda contratada de 645 MW a partir de dezembro de 2028, para produzir amônia verde.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/leiloes/aneel-suspende-prazo-para-r-642-milhoes-em-garantias-da-epp-no-lrcap/",
+     "https://agenciainfra.com/blog/aneel-suspende-aporte-de-r-642-mi-da-epp-e-jf-ate-decisao-sobre-lrcap/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-suspende-aporte-de-r-642-mi-da-epp-e-jf-ate-decisao-sobre-lrcap",
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEgzbHpGVmdDUkxBZnBpZ1c1cTJRbVNIM0x3X185dkR3OXhNbExYU3BhLXBJSUtwNmhIM0phNjk0OFV0VURYdmlfbGktZlZxRGExNlplc1hBUDI4ZVpaazRUdjhhenlFb0xzZnhLNUZBOE9pTklVRTd0NHhyQ0FlN0RJRGZiUWpCZy1RUUFsQTZIaFhhWGk4UGVYdjV6Z0pNV1F1NXBHRXZfRUMwUHM5cU1GaXMwNnZPSUJGTGF1Zw?oc=5",
+     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVA1ZXRsQ2dfTmFzWVlzNTJIX2RnczBFUnU5V1dXb3ljSVU4MGFmM0JyRXZINkpZMko1OHJvQi1QTlpyS0NPX0xjdk1DWmIyN3laT3BFRnYyNlNqRzRZb2NqczE4YkVmbXduY2E4YWM4YkdCLUlFR0d0d3lydVpGOTdLcnRrbmxsbnRUY3J2dU5aaFZuTFZUNG9LVXNFaExLR21wczBVbS1aaTZucEplNDZ1aw?oc=5"
+    ],
+    "titulo": "Aneel suspende prazo de R$ 642 mi em garantias de consórcios inabilitados no LRCap",
+    "resumo": "Cautelar unânime vale até a decisão da diretoria sobre a inabilitação de seis consórcios vencedores do leilão de reserva de capacidade de 2026.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/incerteza-sobre-reidi-para-baterias-mobiliza-mme-antes-de-leiloes/"
+    ],
+    "titulo": "MME pede à Fazenda definição sobre o Reidi para baterias antes dos leilões",
+    "resumo": "A Lei 15.269/2025 incluiu sistemas de armazenamento no regime especial, com limite de R$ 1 bilhão por exercício; falta regulamentar a aplicação.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMilwFBVV95cUxONEpxcnhqdnc3YnRlNXlSUk4wcWtFUHJvZ2Y5ODY4RUwyU3ZDd18xN2ZGV3hwZ2h1di1Cd0w0MkJMQVdmMmhlTWtSQlRFZ2RFdUJZU0Z6RGFTNElwSlZmTXhXN1Z3cUZMdkszRmlKUHRpTk9OZ2hic0R0S05PM2dWVk9UYWtETEI5ck5BRGc1MkNGR0s4OUVN?oc=5"
+    ],
+    "titulo": "Leilões de Energia Existente A-1, A-2 e A-3 ocorrem nesta sexta-feira",
+    "resumo": "Aneel e CCEE realizam os certames para suprimento a partir de 2027.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/energia-eletrica/termeletricas-gna-i-e-ii-recebem-autorizacao-para-exportar-energia-para-argentina-e-uruguai/"
+    ],
+    "titulo": "MME autoriza térmicas do Porto do Açu a exportar energia para Argentina e Uruguai",
+    "resumo": "Autorização publicada no DOU de 11/11 para exportação interruptível, conforme diretrizes de outubro de 2024 e critérios do ONS.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZTIzNUVJOXU2VC0tUk5HakN3aGJYOW80MjJ1TjBXMzg5NzdlOHhROG11Y2ZWcFpZWmN0RnBjU0hUNExkVW9IQXdTLXdLNlNlVldfZWtSblRPS21MRjJrd2w2RG4teGQxSXl4Uk9ZOUs0R2ZLSU1keXlNU0NQSHowNXREY1lSZUk0ODBXUldvMDRoRWF0S1E?oc=5"
+    ],
+    "titulo": "MME extingue concessão da UTE Piratininga",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/associacoes-questionam-migracao-automatica-de-gd-solar-existente-para-tarifa-horaria/?utm_source=rss&utm_medium=rss&utm_campaign=associacoes-questionam-migracao-automatica-de-gd-solar-existente-para-tarifa-horaria",
+     "https://agenciainfra.com/blog/aneel-agentes-apoiam-tarifa-horaria-mas-pedem-ajustes-nas-faixas-de-preco/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-agentes-apoiam-tarifa-horaria-mas-pedem-ajustes-nas-faixas-de-preco",
+     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOEVETXFsVjlsODN2X1JEbkhDX2F1WVN0MkFCNkgzUlpQMzJzWTVqYTZiTmNsWldabzA5OWtmbzMtUGluV2ZTMFVWNVhRazhzb3RGZFAtcEVjbWlsZWx4QWVCM3Uyc0Q4Y1R0d3FsV2d2WGVfT3pBa2h5R2hGTld4NFNmU3dJUjFCdzV6amNYdWZtTVZwVXlCZ0pSY0xEU2lOOUlHZzFRT2dRWU1yZDZTa3E4WTlnUlhJY2dVMzNSUUhKbmhzdHJOT2ZB?oc=5"
+    ],
+    "titulo": "Tarifa Hora Certa: agentes apoiam, mas pedem ajustes; GD solar contesta migração automática",
+    "resumo": "Associações de GD questionam a migração das unidades existentes a partir de 2028; armazenamento defende revisão dos postos tarifários.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/conteudo-de-marca/coluna-way2/ren-1-175-2026-o-que-o-open-energy-exige-e-ate-quando/"
+    ],
+    "titulo": "Open Energy: o que a REN 1.175/2026 exige e até quando",
+    "resumo": "Em vigor desde 4/11: 12 meses para a interface de acesso do consumidor aos próprios dados e 24 meses para compartilhamento por API entre empresas, com consentimento.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://www.pv-magazine-brasil.com/2026/11/11/menor-variacao-entre-usinas-e-maior-valor-absoluto-como-as-novas-regras-de-curtailment-podem-afetar-a-operacao/"
+    ],
+    "titulo": "Novas regras de curtailment: cortes maiores, mas menos desiguais entre usinas",
+    "resumo": "Simulação da Aurora Research com os critérios da REN 1.170 da Aneel aplicados a 2025.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmo3dm9QU2dvaFhEWlZ0UUl2bFpfUnZjd0d6Zk9Pb1M3ZjB1RUJmZWtmajNzMENzbGM2ZnYyRzhEOXFjTkU2ajg4UzE0SVJFQUxiUGxqcFBhb3lNZi1rNklCWHYyd1RrVnNZM3BBU0RKdnVVRWxrdncyLVEtRUF0SFplZEplRTZYZWRuMmcxX0dYYkhmZWtxYUJBVV91N3VvZmJwd3MzLW5kdDV3WXlxdENnZ3gyX2RCX3M4SkhsZk02QVBIX3k2WkdWWU54bDZvM29ZWUREanoyTnc?oc=5"
+    ],
+    "titulo": "ONS alerta Aneel e Inmetro para risco de conflito de regras sobre painéis solares",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0c2aUVBSDVnMURURlJrTHhPc1Rydm45R2l0LW8yeVhLT1NTNzdTdFBuWEpQSWRseElXLWNzMTRZNFpyRVdvODRzNTJrRHh6aXZDWkkzb29xdElBLUVpYUU3VWM5SXhlQlktMG1TN3dxem9tSDFhcnRqcFJyb0xfMlFqa1RJbkZmeFNtLUFmcU5vVGM2Rm5OaEdCdlJWVmNoTWFwRWdyVExpeGs3RzlVdFh0aUExSUk?oc=5"
+    ],
+    "titulo": "Estudo da Abradee diz que benefícios da MMGD são inferiores aos custos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDNkZ2FGTVZucGlKOUF5cXFfcWQxNnN0ejhIVXNERDR3czJwRDNpVkx5QUx2SlE4VXByNzF1dG0tUUJzTFFkd0R6b0h4OGxCZkpTRFpEalZicjVxcGwzeVR3YkdsdHppRmxtVmxHSkpINVAtX1FBaW03eG1LN1ZMUDBjMkk1ek84M01ZdDhnYVQ3Vzd6RDRJbm5CcXVyRW1pMlhBNkNOU0I?oc=5"
+    ],
+    "titulo": "EPE estima operação das primeiras usinas reversíveis em 2033",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/contratos-de-angra-travam-investimentos-nas-usinas-diz-eletronuclear/?utm_source=rss&utm_medium=rss&utm_campaign=contratos-de-angra-travam-investimentos-nas-usinas-diz-eletronuclear"
+    ],
+    "titulo": "Eletronuclear diz que contratos de Angra 1 e 2 travam investimentos",
+    "resumo": "Entrave está na remuneração da energia gerada além do montante contratado no mercado regulado.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUNrdG9FUU1keHF0VmhfY3NVU2Q2aXkyUm9wR1FxR2x1Y0k0NUtHcEFTVWFHU2h3dHFXTnFHamhldzJsUU43YUt5T2xIdG8wNlN6RVM2RnR6dHVsaGF0VFhUQjZaeW5mNHkxcmp4a3h2Y3lKQnh2N1A4YmRhR3NSNF9BUTFQOGJWQVJaVHUzNWIybHlNNm9vejNQQ3d4WkNwY1RxYmFHREZESXF3S3c?oc=5"
+    ],
+    "titulo": "Aneel altera data inicial de atualização de parcelas do UBP",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlVEZVRwa0hEcHZVX3duX3ZmdnhSVUd2NGVCdTBwMmJpTGpwVENYUW9XckY2MFhzM3VEM243Q1dzR2t2M0FicXltYm0yMW5sTU9rQ3RlU1gwdGhFWlRJMk5WV3Z0VTEwN3BPWmg5X25YNHlacW1EY0VJd25mdjJQbFZTeVRuenU2SUlUVl9pOEhlNEEtVExVYUYxYl9GaVRWSndR?oc=5"
+    ],
+    "titulo": "Aneel abre prazo para governança do Sandbox Energias da Floresta",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/petrobras-avalia-alternativas-para-desenvolver-sergipe-aguas-profundas/?utm_source=rss&utm_medium=rss&utm_campaign=petrobras-avalia-alternativas-para-desenvolver-sergipe-aguas-profundas",
+     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU3pHUFdhdmRQekhiWkVGczdjOVF6NTJoX1owMXJ1dzlDYVE4ZlJMcDVfSlJhQnJDcjVWOUNnblo2VWhPT3FOUGFQTE5PLW55OHhJSC11eVB5a05IQjZkdEwxS25hbmxWRDZ2eXZ2SFFPMnVSTVd2VFFyZ0tvUTFVY3dBTU9oU1JBblExaEpkSF9JTWVxSXU5S21JbUkxdzNoaTF2bg?oc=5",
+     "https://petronoticias.com.br/sombra-do-programa-gas-release-deixa-incerto-o-futuro-de-gasoduto-de-sergipe-aguas-profundas/"
+    ],
+    "titulo": "Sergipe Águas Profundas: estatal avalia FLNG em vez de gasoduto diante do gas release",
+    "resumo": "Diretoria citou duas alternativas para o projeto em meio à discussão do programa de desconcentração do mercado de gás.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://petronoticias.com.br/a-abiogas-pede-que-conselho-nacional-de-politica-energetica-estabeleca-15-a-meta-anual-de-comissoes-do-mercado/",
+     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3h3SC1kQW43dEYzeUdzcWRteU9xeDcwRXJKQlZiRGFTbUlrQll2WERKbHFSX052cUxnb1I1NmJpSHo1NTIzLUhHQWk5bHNBVVp0WGtuMXYzTkZkcjRZbENtLW1yRDlCaXBRcnY1cmpyOENidnVuNU9FYU5rTjJvOG5sSTcxTWd1cHJ3TUpsWVIyMm5md19EMjVlR1RoZGFRRkNsZDc2WERDWURuS000cjIyYXViUGcyX1pkWA?oc=5"
+    ],
+    "titulo": "Abiogás pede meta de 1,5% de descarbonização do gás natural em 2027",
+    "resumo": "Contribuição à Consulta Pública MME 234/2026; a minuta de resolução do CNPE prevê 1%.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/petroleo-e-gas/governo-cria-comite-para-entregar-avaliacao-ambiental-de-pelotas-em-18-meses/"
+    ],
+    "titulo": "MME cria comitê para avaliação ambiental da Bacia de Pelotas em 18 meses",
+    "resumo": "Portaria MME 175/2026; oferta de novos blocos na bacia fica condicionada à conclusão da AAAS.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRU1xbFN3dXdGRVZNRlkyWk5RUkVqZ2NWbHZka2V3Y3NydDQtdUJlN0tWclVwX0REVVVGeHlsMkFxbjZaOG85UWR4X3JxSDMyVXpwNmhGd0tkaUt3amFmWXFvOE5RUDJ4SzRFNlY5RGtpRWliSnpnU1hTWEdZanFLRVc3NzRtN0x1bW1tZXNLSVRydEJUM0dUWG01WU9uSFNMb1FSZkFmYnRzN1NBOFE?oc=5",
+     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeG9IdUp4QmVkWm5WWmY4QVE5a2FTOG0teXlzSERSMUdRclB6NEFTa0dWTkU1em5EZHR4eDZQZ0pYNXVqazhndTVPN1NzZ3BXeFBUX24tU0Q1TUdWNWVYb09NZ01MNzRSZ21oMFZXb3dGaWJtYVdGU0NtNjJfT1ZuMDEyVjdUUF9rZ204MjZ5RkNUR1dfMXRmR3hXTnl1LU5ia3E2b0tlLWtEaTExaFY1Wkw5Y01tZ05vaWc?oc=5"
+    ],
+    "titulo": "Incerteza sobre fracking leva empresa a devolver bloco no Parnaíba",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXZ5ZlpZNGJxYXBNVHBqR1NPZWliWWhPZE1iLWRRWFhSTXprTDZ2RlJCS21QTGN1bG5EclZxajdNUmVkUWFwa0VXWFVTcXFyTVgtd0pMMkFmcWZtel8wbUJMT28zdVZyZmJQcV85N3ZtcjNzTmd6N1lBLXNQak15T00zcW5DNXlhdUJLUjFaMFNONEtYRnQ1aUtkaG5mMHM5MGJB?oc=5"
+    ],
+    "titulo": "Governo prorroga imposto sobre exportação de petróleo até 31 de dezembro",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-autoriza-tirar-ate-r-105-bi-de-subvencao-ao-diesel-da-meta-de-2026.shtml",
+     "https://www.estadao.com.br/economia/em-projeto-com-medidas-fiscais-governo-propoe-tirar-ate-r-105-bi-em-subsidio-ao-diesel-da-meta/"
+    ],
+    "titulo": "Ajuste fiscal propõe tirar até R$ 10,5 bi da subvenção ao diesel da meta de 2026",
+    "resumo": "Despesas hoje financiadas por crédito extraordinário.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/combustiveis-e-bioenergia/subsidios-renderam-r-269-bilhoes-a-petrobras-ate-setembro-imposto-de-exportacao-custou-r-10-bilhoes/"
+    ],
+    "titulo": "Subsídios renderam R$ 26,9 bi à Petrobras até setembro; imposto de exportação custou R$ 10 bi",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/combustiveis-e-bioenergia/petrobras-avalia-ajuste-conjuntural-na-politica-de-precos-dos-combustiveis/",
+     "https://agenciainfra.com/blog/petrobras-estuda-alternativa-conjuntural-para-precos-dos-combustiveis/?utm_source=rss&utm_medium=rss&utm_campaign=petrobras-estuda-alternativa-conjuntural-para-precos-dos-combustiveis",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-avalia-ajustes-pontuais-na-politica-de-precos-dos-combustiveis-por-guerra.shtml"
+    ],
+    "titulo": "Petrobras avalia ajuste conjuntural na política de preços dos combustíveis",
+    "resumo": "Estatal estuda ajustes pontuais em razão do cenário internacional.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/newsletters/comece-seu-dia/petrobras-aumenta-previsoes-de-producao-e-investimentos-e-indica-o-que-esperar-no-proximo-plano-de-negocios/",
+     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlBWTlQ1YmItZGVDcVh0Rjkzd2ZZNWhLR0dvY1k3WlUzNjJONVlqczJTVVpsMUxURmVIUnRBSmkxU0JaZnFCcl9VOFZObld3bmt1ZzlCbmk2ejQ4V3BZTmdjZ29xWkZCVlN5Y1RPandmQlVBZlRVamNGaE5hcVR2YXJpWlZYancyakR3d1YwaEc5R3ZLVktUTDhEeDFwTENRLWVIVVpXTEVaQUFlTVBjUnc1UUdVNGxFM2dFbnB4RjdKdDJObmxuZg?oc=5",
+     "https://petronoticias.com.br/petrobras-preve-acrescimo-de-520-mil-barris-por-dia-com-ampliacao-da-capacidade-plataformas/"
+    ],
+    "titulo": "Petrobras eleva projeção de produção e de investimentos para 2026",
+    "resumo": "Projeção sobe para até 3,4 milhões de boe/d; ampliação de capacidade de plataformas pode somar 520 mil barris por dia.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHBXWVpFVzJFaGZXcjN5cURoYXJuWUxndnFLMUlJeE1uS3l0R3E0TWN3Yzg4QzUxeVRDUk5ZWGgzMVMzd3VMVXFMN2xIRGJ2cmg5TUdLQ0dhdlhzc01qeVhvbDVVeVpXVDZUYnVia3hYVHJiVmgwSk00YjJHcl9WcWJvbkVqdExTNFVGeWJJOWlpMGo2LThpaFBGakVKcmQ1bkhqYUFSTGhMaXJtc3p4VVhn?oc=5",
+     "https://petronoticias.com.br/ppsa-e-estatal-argentina-estudam-fornecimento-de-gas-de-vaca-muerta-ao-brasil/",
+     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3ZDUVkyMmZmV1F2eGl6TEljbmZoOFVHMlNhUDBIM3VjXzFPMTFCd0hja21Tc2xuMnFKR3lkamEya3dkZHJzZXJfTy15bUUwTFBKemItWWdQMjVUZDJnTTNvVHpNVVBkVTJ5YzQ5VHVESmtjN2VGVDhfQ1JpWjlXMzdrZXdNRGp6VjFRamNhbTY4VXNWZGNLb0VhR2YxYmpFdlZSRjdpTEdCZEEtbEdwMUdnVHA3T3ZZWm5JSzBpOURGWVdjSEkwTUNwbTM0YmdZOUs1Rk13VjY?oc=5",
+     "https://megawhat.uol.com.br/economia-e-politica/empresas/ppsa-avalia-acordo-para-trazer-gas-da-argentina-para-industria-brasileira/"
+    ],
+    "titulo": "PPSA e estatal argentina estudam gás de Vaca Muerta para o Brasil",
+    "resumo": "Memorando assinado em 10/11, com base na Resolução CNPE 15/2026.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/korea-issues-largest-ever-antitrust-fine-government-bonds-cartel"
+    ],
+    "titulo": "Coreia do Sul aplica multa recorde a cartel em leilões de títulos públicos",
+    "resumo": "KFTC multou 15 instituições financeiras em 1,6266 trilhão de wons (mais de US$ 1 bilhão) por combinar lances em 145 leilões entre 2020 e 2023.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2548916?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "CMA vê risco à concorrência na compra do negócio de alimentos da Unilever pela McCormick",
+    "resumo": "Operação de US$ 44,8 bilhões pode ir à fase 2 no Reino Unido.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2548912?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "CMA pode abrir investigação aprofundada na fusão AkzoNobel-Axalta",
+    "resumo": "Sem remédios, o regulador britânico levará a operação de US$ 25 bilhões à fase 2.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://valor.globo.com/empresas/noticia/2026/11/11/petrobras-perdeu-dinheiro-e-market-share-a-concorrentes-ao-repassar-volatilidade-do-mercado-aos-precos-diz-chambriard.ghtml"
+    ],
+    "titulo": "Petrobras diz ter perdido mercado para concorrentes com a paridade internacional diária",
+    "resumo": "Presidente da estatal defendeu a política de preços em teleconferência de resultados.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzVONG9iX2FhUjBSb3E3dXpiZFRsbU5RQXNjS0FoQTdpQ0VuRDVoR1p2Z01RUmwzWFdXZXZkWnZDZmg4V3U5a2ZMY2hQNVctWUhNaE1IRDlZTVF6OGh0VzljSVVWU2h0TDBFYXhPbXFMTVlMUmR4NEtxQkF0Y29lMi1aZjBCeHNZeFRaSjJMY1JmUQ?oc=5"
+    ],
+    "titulo": "Como está a concorrência no mercado móvel do Chile",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.poder360.com.br/conteudo-de-marca/futuro-da-economia-digital-merece-debate-mais-maduro/"
+    ],
+    "titulo": "Poder360: futuro da economia digital merece debate mais maduro",
+    "resumo": "Artigo de opinião sobre regulação concorrencial de plataformas digitais.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/minerais-criticos-cadeia-de-fertilizantes-sera-priorizada-em-nova-diz-mme/?utm_source=rss&utm_medium=rss&utm_campaign=minerais-criticos-cadeia-de-fertilizantes-sera-priorizada-em-nova-diz-mme",
+     "https://agenciainfra.com/blog/ibram-quer-fertilizantes-na-1a-prioridade-de-minerais-criticos/?utm_source=rss&utm_medium=rss&utm_campaign=ibram-quer-fertilizantes-na-1a-prioridade-de-minerais-criticos",
+     "https://agenciainfra.com/blog/pais-nao-pode-ficar-sentado-em-fertilizantes-diz-potassio-do-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=pais-nao-pode-ficar-sentado-em-fertilizantes-diz-potassio-do-brasil"
+    ],
+    "titulo": "Fertilizantes serão cadeia prioritária da política de minerais críticos, diz MME",
+    "resumo": "Potássio e fosfato, porém, não estão na categoria; Ibram defende incluí-los na 1ª prioridade.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/bndes-destina-r-4-bilhoes-ao-setor-de-fertilizantes-para-enfrentar-alta-de-custos-e-reduzir-dependencia-externa/2026/11/11/"
+    ],
+    "titulo": "BNDES já destinou R$ 4 bi à cadeia de fertilizantes pelo Brasil Soberano",
+    "resumo": "R$ 3 bilhões em financiamentos já aprovados.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/logistica-e-trunfo-do-projeto-autazes-para-destravar-oferta-nacional-de-potassio/2026/11/11/"
+    ],
+    "titulo": "Logística é trunfo do Projeto Autazes para a oferta nacional de potássio",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlNIUGQtd1V2TlMtcUNDTDZSVFpoOGMzNk9nRDhpbVN1MEJISXZvYjg5bUU1T28zRmVGZDZ6UXB2NkhxV3l0SmhQbXZlNHVnZUswSll4aDNkbHc3M01oejhDbm1kSnBHQzEzRmotcmZRNjJzN3RIdHBxUUFVeVN5cjFvbmF0VGlacUJRclB1QWFnYVlEazg5VGUwdThBWEo4dUdkOWF5SWpsakFKY3FaV3NLblRZTmJzVHJTak42cTBBZE41U3c?oc=5"
+    ],
+    "titulo": "Mineradora brasileira inicia embarques de terras raras para os EUA",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://valor.globo.com/mundo/noticia/2026/11/12/preo-do-trio-cresce-9-vezes-em-um-ano-aps-restries-impostas-pela-china-a-terras-raras.ghtml"
+    ],
+    "titulo": "Preço do ítrio sobe nove vezes em um ano após restrições da China",
+    "resumo": "Efeito das restrições chinesas às exportações de terras raras.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW9NbWdncV9qa1RlTkN2bklLOGVHZlZtT1hFbE53NzJRaEhYTmE1Mnd5dHRhY1FLVTMzMnM2UzM0SzNBaWwxNG1XZkU2Y3psdGUxdy0wdm5GMGhLdVh5S3Ffd1RKTmhOVTg3ZTVENlBwRFl0UGFiOFctQkFhX2Jhdkl5QUU0aFgtR1VIaWszQjJURkp5aEw5Tjh4RTI0NGc1ajlJSjZ4NFVxQmdndlZ3aUNn?oc=5"
+    ],
+    "titulo": "Luz para Todos completa 23 anos com 18 milhões de beneficiados",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   }
+  ]
+ }
 }
