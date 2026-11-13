@@ -349,5 +349,14 @@
   "titulo": "Open Energy",
   "texto": "Os dados da sua conta de luz são seus 💡\n\nCom o Open Energy, criado pela ANEEL, você vai poder consultar seu histórico de consumo e de pagamentos e escolher com quem compartilhar essas informações.\n\nA regra já vale desde 4/11. As distribuidoras e as comercializadoras têm 12 meses para abrir o acesso aos seus próprios dados e 24 meses para o compartilhamento entre empresas. O compartilhamento só acontece com o seu consentimento, pelo prazo que você escolher, e pode ser cancelado quando quiser. Para o consumidor, é gratuito.\n\nConhece alguém que quer entender melhor a própria conta de luz? Marca essa pessoa aqui! 👇 E me segue para entender energia sem complicação.\n\nFonte: ANEEL, Resolução Normativa nº 1.175/2026 (DOU de 4/11/2026), via MegaWhat.\nVídeos: Mixkit (licença gratuita).\n\n#OpenEnergy #ContaDeLuz #ANEEL #Energia #EnergiaSemComplicação",
   "primeiro_comentario": ""
+ },
+ {
+  "id": "2026-11-13-linkedin-ronald-imagem-2",
+  "rede": "linkedin-ronald",
+  "tipo": "imagem",
+  "midia_url": "https://raw.githubusercontent.com/rfsbastter-a11y/lexai-31-03-2026/8bf939556188529e3250ea97ce09fc9173715289/midia/2026-11-12/ronald-infografico-h2v.png",
+  "titulo": "Infográfico: hidrogênio verde",
+  "texto": "QUANTA ENERGIA PEDE A PRIMEIRA FÁBRICA DE HIDROGÊNIO VERDE LIGADA À REDE?\n\n645 MW de demanda contratada, quase a potência instalada da usina nuclear Angra 1 (640 MW).\n\nA ANEEL autorizou, pelo Despacho nº 4.249/2026 (DOU de 10/11), o acesso do primeiro projeto de hidrogênio verde à Rede Básica do Sistema Interligado Nacional:\n• Conexão na Subestação Pecém III, de 500 kV, em Caucaia (CE).\n• Demanda contratada de 645 MW a partir de dezembro de 2028.\n• Produção de amônia verde a partir de hidrogênio obtido por eletrólise da água.\n• Outras quatro unidades do mesmo complexo aguardam pareceres de acesso permanente do ONS.\n\nFonte: ANEEL, Despacho nº 4.249/2026, via eixos e PV Magazine. Comparação com a potência instalada de Angra 1 (640 MW) e Angra 2 (1.350 MW).\n\n#HidrogênioVerde #SetorElétrico #ANEEL #TransiçãoEnergética",
+  "primeiro_comentario": "Com cargas desse porte chegando à Rede Básica, o desafio maior nos próximos anos estará na expansão da transmissão ou na garantia de suprimento renovável contínuo para os eletrolisadores?"
  }
 ]
