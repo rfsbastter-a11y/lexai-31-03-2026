@@ -313,5 +313,14 @@
   "titulo": "Conta de luz e inflação",
   "texto": "A conta de luz ajudou a segurar a inflação em outubro 💡\n\nCom a bandeira tarifária verde, sem cobrança extra na conta, a energia elétrica residencial caiu 1,92% no mês. Em setembro, com a bandeira amarela, ela tinha subido 7,98%.\n\nSegundo o IBGE, essa virada foi o principal fator para o IPCA desacelerar para 0,14% em outubro, depois de 0,82% em setembro. Em 12 meses, a inflação acumula 4,63%.\n\nConhece alguém que vive reclamando da conta de luz? Marca essa pessoa aqui! 👇 E me segue para entender energia sem complicação.\n\nFonte: IBGE, IPCA de outubro de 2026 (divulgado em 12/11), via eixos e O Globo.\nVídeos: Mixkit (licença gratuita).\n\n#ContaDeLuz #BandeiraTarifária #Inflação #Energia #EnergiaSemComplicação",
   "primeiro_comentario": ""
+ },
+ {
+  "id": "2026-11-13-linkedin-ronald-imagem-1",
+  "rede": "linkedin-ronald",
+  "tipo": "imagem",
+  "midia_url": "https://raw.githubusercontent.com/rfsbastter-a11y/lexai-31-03-2026/2d50d387baa47b6b9cba505c63c106895ae75c2c/midia/2026-11-13/ronald-riscos-climaticos.jpg",
+  "titulo": "Riscos climáticos na transmissão",
+  "texto": "199 torres de transmissão de 230 kV a 500 kV foram afetadas por eventos climáticos entre o fim de julho e o fim de outubro de 2026, segundo dados do ONS. Com as estruturas de 138 kV, são cerca de 300.\n\nO número foi citado pela diretora do Centro de Estudos em Regulação e Infraestrutura da FGV, Joisa Dutra, no painel da Coniben 2026, em Lisboa, nesta quinta (12/11). O ponto central: a regulação ainda não diz quem paga pela resiliência das redes.\n\nAlguns dados apresentados:\n• Ventos registrados de até 250 km/h, contra parâmetros de projeto de até 100 km/h em parte das instalações.\n• De 2015 a 2026, nenhum evento climático extremo foi reconhecido regulatoriamente para afastar a Parcela Variável, que reduz a receita das transmissoras em caso de indisponibilidade.\n• A Aneel trabalha na adaptação das regras, mas ainda falta definir como reconhecer custos operacionais e investimentos em resiliência.\n\nA proposta é fixar critérios antecipados para definir responsabilidades, reconhecer investimentos e compensar prejuízos de eventos extremos.\n\nImagem: Mixkit (licença gratuita).\n\n#SetorElétrico #Transmissão #Regulação #EventosClimáticos",
+  "primeiro_comentario": "Matéria completa (MegaWhat): https://megawhat.uol.com.br/politica-energetica/falta-de-regras-para-riscos-climaticos-ameaca-investimentos-em-energia/\n\nPergunta técnica: o caminho mais eficiente é rever os critérios de projeto das linhas (ventos de referência) ou criar um mecanismo regulatório de reconhecimento de eventos extremos na Parcela Variável?"
  }
 ]
