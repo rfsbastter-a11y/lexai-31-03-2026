@@ -2194,5 +2194,388 @@
    "resumo_original": "Acordo com caminhoneiros no Chile não elimina totalmente o risco logístico para a mineração do norte BNamericas",
    "data": "2026-11-13T12:59:21-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Janela: últimas 30 horas até 14/11, 04h50 (Brasília). Dados brutos em `whatsapp/2026-11-14/scrap.json` (ms-midia). Ficaram de fora mercado (bolsas, cotações, balanços e dividendos), eleições e política partidária, ações judiciais, contratações de escritórios e executivos e matérias repetidas em outros veículos.",
+  "destaque": {
+   "ids": [
+    "https://megawhat.uol.com.br/leiloes/quase-sem-desagio-leiloes-negociam-r-1425-bi-axia-e-btg-lideram-vendas/",
+    "https://www.pv-magazine-brasil.com/2026/11/13/leiloes-de-energia-existente-contratam-2-8597-mw-medios-para-31-distribuidoras/"
+   ],
+   "titulo": "Leilões de energia existente movimentam R$ 14,25 bi com deságio de 1,15%",
+   "texto": "Os leilões de energia existente A-1, A-2 e A-3, realizados pela Aneel e pela CCEE em 13/11, contrataram 50,17 milhões de MWh e movimentaram R$ 14,25 bilhões para suprimento de distribuidoras entre janeiro de 2027 e dezembro de 2030. O preço médio foi de R$ 284,04/MWh, com deságio de 1,15% e economia estimada de R$ 166,5 milhões. O A-1 concentrou cerca de 87% do volume: 2.485 MW médios entre 2027 e 2028, a R$ 286,35/MWh, contra preço-teto de R$ 290,00/MWh. Foram 62 ofertas atendidas e 47 vencedores, com traders de commodities e bancos entre eles."
+  },
+  "itens": [
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/leiloes/quase-sem-desagio-leiloes-negociam-r-1425-bi-axia-e-btg-lideram-vendas/",
+     "https://www.pv-magazine-brasil.com/2026/11/13/leiloes-de-energia-existente-contratam-2-8597-mw-medios-para-31-distribuidoras/",
+     "https://agenciainfra.com/blog/leilao-de-energia-existente-contrata-r-142-bi-e-axia-e-maior-vencedora/?utm_source=rss&utm_medium=rss&utm_campaign=leilao-de-energia-existente-contrata-r-142-bi-e-axia-e-maior-vencedora",
+     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRDBXV0F1akNVbkZZOEI3NFJnZFJyTUFDQ3dHLVJPOURkNm10Y3I5VFVrT28ybklXTTRqR3dyX0l1aEw4OFhsTlgtSDJfaXNvSldoWmV4SXZQczV1LUdtMm10SjREYV9qZHZpbUxQdXc0Q25RUlBwVnBjYk56VU1ORVNHclM4TThBNTFFU0NiN3NVZnFVTnNlRDJ1d2FaMlRDTnZSS0V1dXJPT3F5YTgtT1RBZmRkZnQwR3VJOElieVRwU0Q2?oc=5",
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDZ4X2NSZGZhWExFc0xJWW1hLWJwVWU3Si1IbHNfcnJERDhGMVVqS3B1T016QmtjNEVIckJJM2Z6VUpoT2NNZ1JFZ3pGQ2xYQjdmUXExYU1IOW94YkZQeS0xcXhzdHBfZUlIcVhxbUk0bXVvWDBIY0M0cTJacXhBSzNFYVBrOEZ6SlNNakpZMkVyekNQMGhDZXRHY0F2TXJNY2FCOVYyQ1I?oc=5",
+     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2JUZ0hNaW8zbVgyRmI4b01RcDY1UG5leFBSM3huVmkxbjJjemVBeks1SEppVGhqU1dNSUlBdTFFcUxoX3pxbjA4emxjTmQxdG16bkZkNVlfamFjUEdqYW1ZRkpJMkZZNlpkUjlHU3R5Q3VJZHJ3WnllLUFKSGVLc3d1d2pPalFQSHZwODhEM3hqd3V6QXhoM09IYV9uTkhVUUItRTBFdFZJT1RBUElfS01vdlZocmNNREtWX2VvZw?oc=5",
+     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFEzV1pXaFczNUNvbExsUDVvWm5STktreEhvS1U2M3JVY1E4NXlFMldfdnhycXdzTWNKS2dxc0dLU0VfaS1xazF2LWpaeEs3TkF3VGpoZWtCNzBfYzluNGlHMEJfTU1sT1ppZEJUQm10NXhGT21YYVE1QllXSTd3TWY3cXc3cUlMZ2ZiZUJkdnJHRUdkWEVyNG41OHM3alRuQ2xzVEVGMzBWU19iT1pR?oc=5",
+     "https://eixos.com.br/energia/leiloes-de-energia-existente-movimentam-r-1425-bilhoes-axia-e-btg-lideram-vendas/",
+     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVhhZE9RaENvTGxjc0ZSVlc0YkZEZ0FnT0wyUGMzVE9iMVB2UEpDRXNLNF83X2F1MEp4QXN2REJVSUlTdHBGdEpBYUFaeFk1aU9zUTl3ZkQwSjNtY3lHWmxTeVJqTXhndUs5bDRkY3BxM1dQNDVWdVVVbGJlc1FIUXVNaGVsemVHcmFfRDR2WTlHLTBYWUtiYnZpSllWNjlwYXFVZ2pnR2owQQ?oc=5"
+    ],
+    "titulo": "Leilões de energia existente contratam R$ 14,25 bi com deságio de 1,15%",
+    "resumo": "A-1, A-2 e A-3 de 13/11 contrataram 50,17 milhões de MWh para 2027-2030, a preço médio de R$ 284,04/MWh; o A-1 concentrou cerca de 87% do volume.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/oleo-e-gas/anp-retoma-revisao-tarifaria-de-transporte-de-gas-em-reuniao-extraordinaria-na-quarta-feira/",
+     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS0ZoYldRX2V6U2l1MkZuRm84NW9CaWhnQks1SFRFZE1BdGE5MzkwZ19zVjFLcGJkaU9QXzktRENHY3BLMTdXZjZBVVdwcjlMR1JkYzZ3RkNnWVV3bHRzUUI2ckxIdWUwalJIMlo4TGZEcDhkWDJpTFpMaHpYMWlQNDlqSXFhc0RtRVV6eDR4eDdXUzRQSXd2Rzl6dVptblBYNjBpTkUzT0tpMUlmZ0tCaHA5bjFMcHJYMzFVckM0SUxfTmtoTHJlRV9jVzdVY05LbEYxOXpHTWt6ZGdD?oc=5",
+     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTVSOXV4QXc3NXp5WlA0TWxRbENVdnoxWWhWeWJWNm83SGxOOXFmS3JIMHZvZXNJbXJLVU54bUdlbHJtUzFwR0wxcGVUczJtc0pMckFrTUFEdVZsaGNYbnh5NHpNUEVRYTVHNmJQQklGLVZrb1E5SGg2TlVucHlZZlJreXBxY09qSW9JLUl4U1ZmeUVYdVZsTXE4cUdBUjBlOTBIZk1hODNhdmtZSmRINg?oc=5",
+     "https://eixos.com.br/gas-natural/mercado-de-gas/anp-confirma-retomada-da-revisao-das-tarifas-de-gasodutos/"
+    ],
+    "titulo": "ANP retoma revisão tarifária do transporte de gás em reunião extraordinária na quarta (18)",
+    "resumo": "Pauta inclui a abertura de consulta e audiência públicas sobre metodologia, receita máxima permitida e tarifas, após o fim da negociação entre as empresas.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/combustiveis-e-bioenergia/fazenda-nao-vai-renovar-subsidio-de-r-140-ao-diesel-importado/",
+     "https://valor.globo.com/brasil/noticia/2026/11/13/fazenda-informa-que-subveno-de-r-140-ao-diesel-venceu-e-no-ser-renovada.ghtml",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml",
+     "https://www.estadao.com.br/economia/fazenda-deixa-vencer-subvencao-extra-de-r-140-ao-diesel-mas-cita-possibilidade-de-reavaliacao/",
+     "https://oglobo.globo.com/economia/noticia/2026/11/13/governo-deixa-vencer-subsidio-extra-de-r-140-ao-diesel-importado.ghtml"
+    ],
+    "titulo": "Fazenda deixa vencer subvenção extra de R$ 1,40 por litro ao diesel importado",
+    "resumo": "Segue a subvenção de R$ 2,12 por litro de diesel A rodoviário (Portaria 3.181/2026, por 30 dias desde 27/10); pasta não descarta reavaliações.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/armazenamento/arnaldo-jardim-ve-caminho-para-aprovar-pl-das-baterias-com-texto-mais-restrito/"
+    ],
+    "titulo": "Autor do PL 3.716/2026 vê caminho para aprovar mudança no rateio das baterias com texto restrito",
+    "resumo": "Relator quer incluir adicionalidade, curtailment e desconto no uso da rede; autor defende foco no rateio, hoje só dos geradores.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/empresas/cemig-avanca-para-renovar-17-gw-em-uhes-e-se-prepara-para-leilao-de-baterias/",
+     "https://megawhat.uol.com.br/economia-e-politica/resultados/copel-descarta-participacao-nos-leiloes-de-baterias-por-baixa-rentabilidade/",
+     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaXd4anZoYlVFcXdLa25aVGFqeVJUU0FkemVObHhycHM5cEVXWDJ2UWM5MFdHRG45ajlXWXpENW1YQ2dCZ1NNX3k0WmhWMnVVLXRIU2FiZFB0TUZNTzNBUldsLUR2TTJSUkdrUzFST1NpdGQtTVdjQ0Jrd2dHMDVnTDZNR1Z5R0k1ME83ZE14X1k0amlVbzJhOHBDOTRqMEdtZlE?oc=5",
+     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDZMUWMyUnhyejVBQ2RUS0ZKYkxHOFdFY3VyQmNveEFrRHpDZ3RPN2NrYmxqckVETVNRR2VhMXZQQURKNXFyejNjTTJwdDdER09lbldKTXlvVF9zTHlkSE0ycHpHMmw0Slk1WlVQcU1YUGZSUnkwbl9MTzB5anh6OGd0WTBNdTB6Tjc1NnZ0a1dib1R0b1A3WHQ5TERGSkdTN1dCa2NWX1BDb3lQ?oc=5",
+     "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RFdmpkbFg0M3NlbUtkN19zZzJsTlIzR0g4d0o4QmdkZng2Vm45ZW1sb2htOTU3eWFqMmlNU2JOZ2dhZ1BxU2pWRE9hRVhaeUE2dHlYZTNCRzBEMk01aWdpRUx0TVJxWnNoaElXRlotNzREeFVaT3NTRDJwc2FQMVozcGZvcjFwOVpxQndqaHNTMFpnUjdLMGpIUDRDZw?oc=5",
+     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWlxRVZKUzlWaEVPMkhYNEtGem9mbXIzblJId2R1ajVxZkluT0M1QlZiVDI3OWF2aUR0T0s1Y3cxZWJqdGQ5Wnp2cHc1RVBTSHBncHJISktFUEFmdTExOUExR3Aza2hJRkNsb3Y3dFpnQ3RjT0RNSXNWN3h1RHVNWExOQTg2eFY5U2hKaV90T1VOWUJaOEp4RlVaRjNrYVNpN0hjV3VFY2hyLXNJTzA0Y2hqX045UW8ycWc?oc=5"
+    ],
+    "titulo": "Leilões de baterias de 2 e 4/12: uma estatal prevê disputa acirrada, outra fica de fora",
+    "resumo": "Uma das empresas cita baixa rentabilidade para não participar.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/eolicas-querem-ir-ao-stf-contra-custeio-do-leilao-de-baterias/?utm_source=rss&utm_medium=rss&utm_campaign=eolicas-querem-ir-ao-stf-contra-custeio-do-leilao-de-baterias"
+    ],
+    "titulo": "Associação de eólicas prepara ação no STF contra o custeio do leilão de baterias",
+    "resumo": "Encargos do armazenamento recaem hoje só sobre os geradores.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/politica-energetica/ons-propoe-exigir-flexibilidade-de-data-centers-para-evitar-custos-aos-consumidores/"
+    ],
+    "titulo": "ONS propõe exigir flexibilidade de data centers para evitar custos aos consumidores",
+    "resumo": "Preocupação é que a contratação adicional de potência seja repassada aos demais consumidores.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/regulacao/aneel-deve-aprovar-regras-para-medidores-inteligentes-ate-o-fim-de-novembro/"
+    ],
+    "titulo": "Aneel deve aprovar regras para medidores inteligentes até o fim de novembro",
+    "resumo": "Menos de 1% dos mais de 95 milhões de consumidores usa a tecnologia; abertura do mercado na baixa tensão começa em etapas a partir de 2027.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/associacoes-apoiam-proposta-da-aneel-de-tarifas-horarias-para-baixa-tensao/?utm_source=rss&utm_medium=rss&utm_campaign=associacoes-apoiam-proposta-da-aneel-de-tarifas-horarias-para-baixa-tensao"
+    ],
+    "titulo": "Dez associações apoiam tarifas horárias da Aneel para a baixa tensão",
+    "resumo": "Carta enviada à agência em 13/11.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbk05Z2R0akgtdUJIcGx3MTFHV0Z3ZU9MNkJYbWQ3OWVWc19tS0JzaThUWTlUN2NWTzluYTQtT3lCbjR2SGQ3N2ZBUUgxbmNJUTA1Tng1STV6Tjg3SkRXZ3EyN2lHZld3WXljTUtyeUpOTGJFbXNWM1A1dl9sYjA2VThIeUlSV19QZjVGTnNIY3hrbEk3Ync3dnZKaUJJVFVXenlCdHBvVQ?oc=5",
+     "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ons-reduz-projecao-de-crescimento-da-carga-de-energia-em-novembro.shtml",
+     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTBuNnE3SzZEWFNHY0p1aEVHaU5sTWY1WGpkRXZGSnI3YzNUS3dDemdxU29QT3hwbGJndmRiSTNSekd5cmRUOEJFbFVXUXk3SXpNMkR6bk1JQXlaUnRjYS1FTnlvMW0zekdnd2xGM3NvemhwSkIwOGJvaFpYRjRuWGVsVlE1UkcxUEw4VUJRRU1OLVFENzMzUEVlNzhNQUtlVU16eE51M1lPYXhnUW5KNg?oc=5"
+    ],
+    "titulo": "ONS revisa a projeção de carga de novembro",
+    "resumo": "Carga do SIN deve crescer 6,5% no mês, segundo o operador.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://www.pv-magazine-brasil.com/2026/11/13/combustiveis-fosseis-receberam-mais-que-o-dobro-de-subsidios-em-comparacao-com-renovaveis-em-2025/"
+    ],
+    "titulo": "Fósseis receberam 2,35 vezes mais subsídios federais que renováveis em 2025",
+    "resumo": "Inesc: R$ 54,12 bi aos fósseis (70,14% de R$ 77,16 bi); renováveis subiram 20,89%, para R$ 23,04 bi.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRzBfQmdLZHhuQVZpMkVfdTBIMHlWYmpCZ3lqbl9BZ2R4MXhvZkJKU3lnNnVrTGoxZlhtU2FERWt0RUFoOW1ESWpKVHlCOFJyaHQ3T0xNZXRvaVhOc1ZxX2RUX1U2UWdGRmRZYWNYaVJHMHB3ZEg0dktUeWZncW96a2RDSWtXdm5IMFdiWktlQlFnZXhpT0F4cXpIMnVfR0FIeUcxWUlsVXA4LUlJYUNCdFgzcExPVFM1M09OZzhsU3V3Skppd3hZcHQxeEpaWXRiVmc?oc=5",
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUEp2SENQMUM1dTZKY2xmMm5ySG5hTktZcnNwS25QajJnR3E4V0FBNmxrQ2VtVkxEZjFFeWJINHN2Mm85ZHh4STNNejNsSHZlU3BQek9oQk0xWjJ5N1dUN1RhY1lKWnNSbEpuZkh5SkM0NDZ0Rng2bXM0bmF5N2o3WWk2eUo2N28wcnU0b3N1SmJ4NjQ5eUxXZXo0OUxYY0cwdmU5djFDTlB5Uk9qUzhXdzRn?oc=5",
+     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXRaelFnQURNclU0bjlMd0VuZ1AxWFc3S3JmSjRNYTNpS2p2OEpNNTRGY1pxNnNTek5uVldjdUpJM1RrOVBKSWUzX0NkUGk2d1MzZTFTdVg5MkEtQkNuamItNTRYczNyaUs3T29kbHlvTEJackJwemhsUFNqdTBEWlNkdl9ENVBQNVFLYVpKeHl5WkEyWU5yUE10aFdiYzF2WkhrYXZtVHlnWWszc1AxRXZMbjNyaW9VcUE?oc=5",
+     "https://www.pv-magazine-brasil.com/2026/11/13/__trashed-8/"
+    ],
+    "titulo": "BNDES anuncia recursos para fundos climáticos que podem mobilizar R$ 39 bi",
+    "resumo": "Anúncio feito na COP31.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGExUkVBa01hSlVTTTE0R2JzX3lUVHZOTEZld0FraF9mYjNFc2pIdFJXQzh4YXR1aU1nNWhwazhycjNjLWNDRXdmcXJlUnB6MXNLQzZvM3dlNi1JX1g1ZUhHR242UlhqNGt0b1ZFdjJYMmlyb1l5c0I0Vk1GMWFyMDZyWWViR1lwd2RzWG1iaEhTdjFtMTduQzBQMTBmNXJfV0lBaXNLa2tnaWRHblZYYnJheF8?oc=5"
+    ],
+    "titulo": "ENBPar e MME destinarão R$ 305 milhões para eficiência energética",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://www.pv-magazine-brasil.com/2026/11/13/solar-e-baterias-podem-reduzir-custos-do-sistema-eletrico-em-ate-40-na-decada-de-2030-aponta-schneider-electric/"
+    ],
+    "titulo": "Solar e baterias podem reduzir custos do sistema elétrico em até 40% na década de 2030",
+    "resumo": "Estudo de fabricante de equipamentos sobre geração distribuída e armazenamento.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/resultados/light-espera-que-aneel-considere-plano-de-perdas-na-revisao-tarifaria-de-2027/",
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazl4X1AtR0pVcDAzb2h1eVU5cktsNjY3ME9JMGhmZTB1T3pkMmE5ZmdXbm5QQW15RlhZZ2FwTGJ3bHlHZ3N1OTJiMTlyNDVtWm5LbzFGSlhiU29sbllhMHIweTNoRTNpYTdKSHpVdjN2NHBYbm53dy10M0hmMmRPN0pQU2ZTN1g2Q0k3NlRjNEw0S2prYzVlQ0U5bXgxZ2IxbHpBa3dsRG1XUVk?oc=5"
+    ],
+    "titulo": "Distribuidora do Rio espera que plano de perdas entre na revisão tarifária de 2027",
+    "resumo": "Plano foi entregue à Aneel.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/regulacao/espanha-passa-a-remunerar-distribuidoras-pela-conexao-de-novas-cargas-de-energia/"
+    ],
+    "titulo": "Espanha passa a remunerar distribuidoras pela conexão de novas cargas",
+    "resumo": "Referência internacional para o debate sobre expansão de redes.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/regulacao/falta-de-preco-para-reduzir-geracao-limita-solucoes-para-curtailment/"
+    ],
+    "titulo": "Geradores defendem remuneração pela redução de oferta",
+    "resumo": "Debate na Coniben 2026 sobre flexibilidade.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlN1U0VibFhZNDd0bXFka05oQWxycFU2V1BnbldZN041dE9XZEVSLVRHd3hWaE5XWmVESHZWR0lFdnZfWFJuSFNjbmFlT2tSNFhFMm1EeE9wd0pmOHkyZmt1WUkySHlSTjZxVU5QM1ZrTDY1dUNiTEFLZmIxOWhOQnZtOWlaRk90dTJ5cU1MSk5HY2ZnQU9hdlhFSEFiZURlN0hSUmFGLWItVENPZDhHMVFJUmtrdw?oc=5"
+    ],
+    "titulo": "Empresa alerta para risco de atraso em térmicas por regras do ONS",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/congresso-aprova-r-3144-mi-para-angra-3-e-agencias-reguladoras/?utm_source=rss&utm_medium=rss&utm_campaign=congresso-aprova-r-3144-mi-para-angra-3-e-agencias-reguladoras"
+    ],
+    "titulo": "Congresso aprova R$ 314,4 milhões para Angra 3 e agências reguladoras",
+    "resumo": "Créditos aprovados em sessão conjunta em 12/11.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUEZHeWVUck1uMk1NV2xNbHBCb3JnM2tFT243Qmo0bzNNSGkwTVdWM184NExvYURqTXliZExDR3FXRDVvQktiN1RnMDZKaWVvYVpWNUU2RHZBQ0xpeHcxeElCUXRhT1ZibklfX0JaaXVNNzlQeElJdTJhbUZYVTR2ZnRoa2ttNUFwMm1XUUZqQjFUSk84ZE5oaXo1cTlyS29aekxLRWhNaUtBRGxreUFlWWU3Y1d5UXdxYkc0aXdZa2dMYTNzVnE3djZFeFE?oc=5",
+     "https://movimentoeconomico.com.br/estados/sergipe/2026/11/13/crrc-negocia-montagem-de-baterias-bess-de-us-10-milhoes-e-130-empregos-em-sergipe/"
+    ],
+    "titulo": "Fabricante chinesa negocia montagem de baterias BESS em Sergipe",
+    "resumo": "Investimento acima de US$ 10 milhões e 130 empregos.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdndQSnEzR0tQd3RsMHgxRVgzc3VjSWIyR0l1R1ZhX1o2aHZLWmdsZ081dkU1QlNjNGFSMDh5Y3d4djNNR0ZZX2otZ1lvOFhBQjAxbVpYYnZvTnU5NGFpUnJYX21QU1FtMXJjUHRIU3dQbFBxakQ5NFl2YlJYRFlXNTZyX0YxT3hhMVM3em5fNU1KSkNfWmNtVHNCMk5qLTd5X2c5NVRNTWdiX3I4WldtcTBqVQ?oc=5"
+    ],
+    "titulo": "Centenas de projetos hidrelétricos correm risco de perder registro",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Setor Elétrico"
+   },
+   {
+    "ids": [
+     "https://megawhat.uol.com.br/economia-e-politica/empresas/compass-negocia-gas-para-lrcap-e-ve-novas-rotas-para-gas-da-argentina/"
+    ],
+    "titulo": "Distribuidora de gás negocia suprimento para vencedores do LRCap e vê novas rotas para gás argentino",
+    "resumo": "Exportações argentinas podem crescer em até três anos.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://valor.globo.com/mundo/noticia/2026/11/13/reservas-de-gs-natural-da-bolvia-caem-48-pontos-percentuais-em-dois-anos-diz-relatrio.ghtml"
+    ],
+    "titulo": "Reservas de gás da Bolívia caem 48% em dois anos",
+    "resumo": "Reservas comprovadas chegaram a 65,1 bilhões de m³ no fim de 2025.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/petroleo-e-gas/demanda-por-petroleo-cai-em-2026-mas-mercado-comeca-a-se-reequilibrar-diz-aie/",
+     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1M4UnFCYUNRT3VDRUREWnFiY21WQWw0ZjFhQ1FYUlRFcGk3bjQtNWZqR1JMMDA3LU80dnlqRnY5Q2ZuWDVYQzhzZXRhbmdOMHFmaVAwNXBqaHhBWFc2eUNIZUZiNnN5QnFvc0dacFJZcjBTWFhiSGc0SWdiWjZFSTExVFRoQjVWcXRtY1B1OFFkaVZLVHdKXzFwcnVpLTFkdWVTUTVnRzVBNlR5dzVVc2RqRU5fOWxBdWstS1A5VHhwX3FhY2RQRnItbFdKb2dLTXYyVjY1cm7SAecBQVVfeXFMUHJLMlNxdGtMc1ZZQk1ubXZSY3RkZUJ2NXZuVkFwZWxmMWRSX3FHRGhaNDlaVDVFcXB5Y2t1bWJoOTlCa256cFlEQnhkMjdHZ2ZMU3NfeWhNRkdFbXVTb0xkcktKcW5oTktSbkxZcG9DLWFiMDg0UWhFS3JWQXJhM0Flc245UURaQmh2MGc0bjJWaUVsNnJENWxrdTVYdWNQWUw3dWxYU2NQM1FERzlzMVB2dXQwVGxHTHhfTlc0THRlamFFZHVvNGoyVmJFdEpkZnYyNEk5WmxIWFlDVEdUN3d1cWVEaUFn?oc=5"
+    ],
+    "titulo": "AIE prevê excesso de oferta de petróleo pela primeira vez desde a guerra no Irã",
+    "resumo": "Demanda global deve cair 2,7 milhões de barris por dia em 2026, para 102,3 milhões.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/hidrogenio/porto-do-acu-e-giz-estudam-dutos-para-transporte-de-hidrogenio-e-combustiveis-verdes/",
+     "https://petronoticias.com.br/dutos-para-produtos-de-baixo-carbono-une-a-prumo-o-porto-de-antuerpia-e-a-h2upp-em-acordo-de-e-400-mil-para-infraestrutura-compartilhada/"
+    ],
+    "titulo": "Porto do Açu estuda dutos para hidrogênio e combustíveis verdes",
+    "resumo": "Parcerias com a GIZ e com o Porto de Antuérpia-Bruges.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://eixos.com.br/politica/retirada-de-botijao-e-principal-dificuldade-de-usuarios-do-gas-do-povo-diz-agenda-publica/"
+    ],
+    "titulo": "Retirada do botijão é a principal dificuldade de usuários do Gás do Povo",
+    "resumo": "Pesquisa da Agenda Pública.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTS1PSmwzV0RKTFVna2hSQ3F1UXUwZWRVNTNSQ2hlWXhDaFU1dVBnckZzV1JxTmNUUURBa2gxcUxBSVBLUDh5VkdyUEJ6RDJnbHhrTmJnTjNCMjJhand0VjlCcnZQLTNfVGVxb2VralJpZFdGVXJWcXY0UVpEdnVRX2FzNm9faDNZLUFtT1BEXzZDT25LcUdvN1pZVXhMTU5Rb3hZRjdBYWItMzBTd2NQUmFR?oc=5"
+    ],
+    "titulo": "ANP distribui R$ 9,66 bi em participação especial no 3º trimestre",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://petronoticias.com.br/ppsa-completa-13-anos-celebrando-arrecadacao-de-r-75-bilhoes-para-a-uniao-e-expansao-da-producao/"
+    ],
+    "titulo": "PPSA completa 13 anos com arrecadação de R$ 75 bi para a União",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiowFBVV95cUxONlZNYURhQXNXWm5yUGVwSG5ncU5iOWhqeUxOMHhBb2hDb2xEOWhtSmlLZVl0Tkd3UV9NMzc0QjFobkJZM2lWWHZmcDkzckF1WU9yRm5NYmJmYUcwc1ZmUTJUVUUtLTFkd1FIZUFPTFRYU05qRVJKU0NURnlMdmswNkgxYnJBdThZVk0zR0RVVGxqZTcxZG54b28tTmtsS280bVdr?oc=5",
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb1VIeXdHUVdjcGlZMUF4NzdoQjZxeGdyeTVkazRqTFQtQ3ZUeVViVHRHaTZLbVZvSXZMZUkzOXAxdWFNMFlHdGtXaXUxcDZFTkp4T1lwcUVMZnphOFRGaENzUXlIS2tDRlNPMy1KOHZZQ3k5cWlOT2ZyRDdubnRGVW5wSVRvZVRTbl9WSVBnRHQ4aktWUWhxRDB1M2M4WWZiT2RTazR6R0w0LW1kSl82V3FR?oc=5"
+    ],
+    "titulo": "Porto de Suape recebe primeira carga para produção de B30",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/compra-da-logum-visa-otimizar-logistica-para-fusao-com-o-agro-diz-magda/?utm_source=rss&utm_medium=rss&utm_campaign=compra-da-logum-visa-otimizar-logistica-para-fusao-com-o-agro-diz-magda",
+     "https://eixos.com.br/empresas/copersucar-venda-de-fatia-na-logum-para-petrobras-otimiza-capital/",
+     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGlYTVVfQmpGWlRzTWdEOHUtWkhKRmI1WUczeDBkTFJLTHJVVF9keG5RcFE3aWxiVUhNdTBjMG1ZQldmdURaZnltZTdkVlFGc01qWmIxYUNoZnhMNFI0X0F1UGhkdVJkQUp0ek56THdzTlhjWFc3MFBRS3lvMTJXVVRLUkxzUldiUFgyZENxd1h6cXc2M0R4VS1NdERGamJJRnVrWVpkRVgwd3ZldFNyV0puTm1wM2pTTWU5RG9kSnNCUDJYSFpwUzh5VWx1ckJDd0tnckY0R2xsUGhJeXfSAd4BQVVfeXFMTWxpWE1VX0JqRlpUc01nRDh1LVpISkZiNVlHM3gwZExSS0xyVVRfZHhuUXBRN2lsYlVITXUwYzBtWUJXZnVEWmZ5bWU3ZFZRRnNNalpiMWFDaGZ4TDRSNF9BdVBoZHVSZEFKdHpOekx3c05YY1hXNzBQUUt5bzEyV1VUS1JMc1JXYlBYMmRDcXdYenF3NjNEeFUtTXRERmpiSUZ1a1laZEVYMHd2ZXRTcldKbk5tcDNqU01lOURvZEpzQlAyWEhacFM4eVVsdXJCQ3dLZ3JGNEdsbFBoSXl3?oc=5",
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWxXLWZtMnlYM0tEYlRSM2VqWEtqLWFRTlBkWGRoajN6NXEzUWNwU1BhY1drYTFhRGtqMkRrYzI2UzkyRmdwZktwN0dKOHMxelhBbXJjU3BUdUpNRENFUDAtR2NhZDd6Nl9OWW0xQ1YycHhGanl0T0huUFh4VWI3VkJLZjQtZlh2UTlvSWJHRkZSOUNPNm5hc0JKME1Fa1ZQMFI4RHVTSdIBtgFBVV95cUxPU2hsZmQ1MjhfRTFjS0Q2eVdRUEd5OVBxZHRWcmJqdmJLb3diRGdxZE1tZXNBLVZBaDVRVmZLeFAzTkNpUTBMUWhZVXZlTUt6QnRhQmxzTEozX3B6XzVoODlWQWtieC10RU5SQXNUNU1vb2JxU25nZG1zX2J6QlY0eVRRMEdpc1ZBMTNCczQ4NmRWU0V3aU9teHFrZ3dyN2tDbDdfN3dlQ3dNSGhLTURvQjFoQkpDdw?oc=5"
+    ],
+    "titulo": "Compra da Logum mira logística integrada com o agronegócio, diz estatal",
+    "resumo": "Aquisição de 70% por R$ 620 milhões.",
+    "setor": "Petróleo & Gás"
+   },
+   {
+    "ids": [
+     "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/economistas-enviam-carta-a-hugo-motta-em-que-defendem-aprovacao-de-projeto-que-amplia-poderes-do-cade-sobre-big-techs.ghtml"
+    ],
+    "titulo": "Economistas defendem PL 4.675/2025, que amplia poderes do Cade",
+    "resumo": "Carta enviada ao presidente da Câmara.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-promove-seminario-sobre-concorrencia-no-setor-esportivo-em-23-de-novembro"
+    ],
+    "titulo": "Cade promove seminário sobre concorrência no setor esportivo em 23/11",
+    "resumo": "Evento do Departamento de Estudos Econômicos, às 14h30.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2549873?utm_source=rss&utm_medium=rss&utm_campaign=section",
+     "https://globalcompetitionreview.com/gcr-usa/article/paws-concern-the-tipline-13-november-2026"
+    ],
+    "titulo": "FTC tenta barrar fusão de US$ 3,5 bi em produtos veterinários",
+    "resumo": "Agência americana diz que a compra eliminaria o concorrente mais próximo.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/meta-facing-increased-antitrust-scrutiny-in-africa"
+    ],
+    "titulo": "Autoridade da Comesa prepara acusação contra a Meta por política de IA no WhatsApp",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://globalcompetitionreview.com/article/west-african-states-pushing-one-stop-shop-merger-regime"
+    ],
+    "titulo": "Países da África Ocidental buscam balcão único para fusões",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://www.law360.com/competition/articles/2549757?utm_source=rss&utm_medium=rss&utm_campaign=section"
+    ],
+    "titulo": "Comissão Europeia aprova compra de 22,5% de distribuidora de gás portuguesa",
+    "resumo": "Operação de € 120 milhões.",
+    "setor": "Concorrencial"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/nordeste-concentra-534-dos-investimentos-em-pesquisa-de-minerais-criticos-no-brasil/2026/11/13/"
+    ],
+    "titulo": "Nordeste concentra 53,4% dos investimentos em pesquisa de minerais críticos",
+    "resumo": "R$ 1,7 bi aplicados na região.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTRHTzdXMU4tWmloT3pCYWhqSWZOcGY3YmRkblZZa1QyQ1Vzc2xEQXpyc3daeWdqZFBWSDlydlFNVkd0Yy1PdzA1RU1zSmI3N2JNX3dRNXBqQ29GWnVyQkhqQnNqNEM2Tk0zcTFLeFJBMHFPS3dsWmkzejJlYUVRWmFVNzhGWkkwalFDYWZERTZvd3VRRnlkQ0lSSHp0U0NIWDVwdmc5MTNtNkN0WXd4UW5uZzhJT1I3a2pIZEl0dnVKLW1pUTRCeUExRQ?oc=5"
+    ],
+    "titulo": "MME, Meio Ambiente e Itamaraty entram no núcleo decisório da política de minerais críticos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://minerabrasil.com.br/abpm-defende-previsibilidade-regulatoria-em-reuniao-com-secretario-executivo-do-conselho-de-minerais-criticos/2026/11/13/"
+    ],
+    "titulo": "Associação de pesquisa mineral defende previsibilidade regulatória ao conselho de minerais críticos",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://brasilmineral.com.br/noticias/seminario-em-brasilia-discute-como-fazer-o-profert-chegar-aos-projetos-de-fertilizantes"
+    ],
+    "titulo": "Seminário discute como levar o Profert aos projetos de fertilizantes",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/terras-raras-meteoric-deve-protocolar-venda-a-lynas-em-janeiro-de-2027/?utm_source=rss&utm_medium=rss&utm_campaign=terras-raras-meteoric-deve-protocolar-venda-a-lynas-em-janeiro-de-2027"
+    ],
+    "titulo": "Mineradora de terras raras deve protocolar troca de controle em janeiro",
+    "resumo": "Operação passará pelo novo regime de minerais críticos.",
+    "setor": "Mineração"
+   },
+   {
+    "ids": [
+     "https://agenciainfra.com/blog/embrapii-e-giz-preveem-r-81-milhoes-para-projetos-de-descarbonizacao/?utm_source=rss&utm_medium=rss&utm_campaign=embrapii-e-giz-preveem-r-81-milhoes-para-projetos-de-descarbonizacao"
+    ],
+    "titulo": "Embrapii e GIZ preveem R$ 81 milhões para descarbonização industrial",
+    "resumo": "Só a manchete está disponível.",
+    "setor": "Mineração"
+   }
+  ]
+ }
 }
