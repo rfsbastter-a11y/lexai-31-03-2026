@@ -1,0 +1,404 @@
+{
+ "data": "2026-11-15",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 13,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 62,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 35,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 6,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 46,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 6,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Agência iNFRA",
+   "idioma": "pt",
+   "titulo": "Debêntures de infraestrutura ganham espaço entre investidores institucionais",
+   "link": "https://agenciainfra.com/blog/debentures-de-infraestrutura-ganham-espaco-entre-investidores-institucionais/?utm_source=rss&utm_medium=rss&utm_campaign=debentures-de-infraestrutura-ganham-espaco-entre-investidores-institucionais",
+   "resumo_original": "da Agência iNFRA O avanço das debêntures de infraestrutura (Lei 14.801/2024) como instrumento para ampliar a participação de investidores institucionais no financiamento de projetos foi um dos principais temas do painel “Instrumentos Inovadores de Financiamento”, que abriu o segundo dia do Fórum Nacional de PPPs e Concessões 2026. Os participantes também discutiram o futuro das […] O post Debêntures de infraestrutura ganham espaço entre investidores institucionais apareceu primeiro em Agência iNFRA .",
+   "data": "2026-11-14T12:00:00-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Agência iNFRA",
+   "idioma": "pt",
+   "titulo": "Guilherme Penin assumirá como CEO da Cosan, informa a companhia",
+   "link": "https://agenciainfra.com/blog/guilherme-penin-assumira-como-ceo-da-cosan-informa-a-companhia/?utm_source=rss&utm_medium=rss&utm_campaign=guilherme-penin-assumira-como-ceo-da-cosan-informa-a-companhia",
+   "resumo_original": "da Agência iNFRA A Cosan anunciou que o economista Guilherme Penin, atual vice-presidente da companhia, vai assumir o posto de CEO a partir de 4 de janeiro, de forma interina. Em fato relevante da noite desta sexta-feira (13), a empresa informou que o atual diretor-presidente, Marcelo Eduardo Martins, renunciou ao posto e seguirá no Conselho […] O post Guilherme Penin assumirá como CEO da Cosan, informa a companhia apareceu primeiro em Agência iNFRA .",
+   "data": "2026-11-14T11:19:10-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Agência iNFRA",
+   "idioma": "pt",
+   "titulo": "Brasil, Chile, Peru e Índia debatem fortalecimento e continuidade das PPPs",
+   "link": "https://agenciainfra.com/blog/brasil-chile-peru-e-india-debatem-fortalecimento-e-continuidade-das-ppps/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-chile-peru-e-india-debatem-fortalecimento-e-continuidade-das-ppps",
+   "resumo_original": "da Agência iNFRA Representantes de Brasil, Chile, Peru e Índia discutiram como consolidar concessões e PPPs (Parcerias Público-Privadas) como instrumentos permanentes de desenvolvimento. O painel “Experiência internacional comparada em programas de parcerias como política de Estado” do Fórum Nacional de PPPs 2026 destacou a importância de estruturas sólidas de governança, alocação eficiente de riscos e […] O post Brasil, Chile, Peru e Índia debatem fortalecimento e continuidade das PPPs apareceu primeiro em Agência iNFRA .",
+   "data": "2026-11-14T10:00:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "eixos",
+   "idioma": "pt",
+   "titulo": "O que leva a ANP a chamar as transportadoras de “vacas leiteiras”?",
+   "link": "https://eixos.com.br/newsletters/newsletter-gas-week/o-que-leva-a-anp-a-chamar-as-transportadoras-de-vacas-leiteiras/",
+   "resumo_original": "NTS e TAG pagaram aos acionistas até 16 vezes o que as empresas investiram na rede de gasodutos e, em meio à revisão tarifária na ANP, ameaçam suspender investimentos O post O que leva a ANP a chamar as transportadoras de “vacas leiteiras”? apareceu primeiro em eixos .",
+   "data": "2026-11-14T08:30:00-03:00",
+   "texto": "PIPELINE. NTS e TAG pagaram aos acionistas até 16 vezes o que as empresas investiram na rede de gasodutos e, em meio à revisão tarifária na ANP , ameaçam suspender investimentos.\nOs acionistas da NTS já recuperaram, em dividendos e reduções de capital, mais do que pagaram pela empresa ; na TAG, as distribuições superam o capital próprio investido na compra. Com margens Ebitda acima de 80%, as duas foram chamadas de “vacas leiteiras” por diretores da ANP, que decidiu abrir um canal com a CVM sobre a situação da NTS.\nANP vai medir todo ano a concentração do mercado no gas release . Petrobras recua no gasoduto do SEAP e estuda exportar gás. PPSA mira Vaca Muerta no leilão de 2027. Eneva vai liderar a regaseificação de GNL, e mais. Confira:\nDe 2018 a 2025, a Nova Transportadora do Sudeste (NTS) investiu R$ 1,5 bilhão na rede de gasodutos e pagou R$ 24,6 bilhões aos acionistas , 16 vezes o valor investido. Na Transportadora Associada de Gás (TAG) , de 2020 a 2025, foram R$ 2,5 bilhões em investimento e R$ 19 bilhões distribuídos, perto de oito vezes o valor investido.\nNa privatização, o consórcio liderado pela Brookfield fechou a compra de 90% da NTS em 2017, numa operação de US$ 5,08 bilhões, e pagou mais US$ 277 milhões (R$ 1,5 bilhão) pelos 10% restantes em 2021, num total de US$ 5,36 bilhões. A Engie e a CDPQ (atual La Caisse) pagaram R$ 33,5 bilhões por 90% da TAG em 2019 e mais R$ 1 bilhão pelos 10% restantes em 2020, num total de R$ 34,5 bilhões.\nUma análise sobre os balanços financeiros das companhias revela que os acionistas da NTS já recolheram, em dividendos e reduções de capital, mais do que pagaram pela empresa: cerca de R$ 14 bilhões pelas ações, segundo a ANP, contra R$ 24,6 bilhões recebidos de 2018 a 2025.\nNa TAG, os valores distribuídos já superam o capital próprio que os compradores puseram no negócio; o restante da compra foi financiado com dívida, depois transferida para a própria transportadora e paga com a receita do contrato.\nO retorno é ainda mais convidativo porque o investimento na malha foi feito pela Petrobras , que construiu os gasodutos e é a única carregadora dos contratos legados.\nNum momento em que a revisão tarifária caminha para sua etapa final na Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) , as transportadoras e seus acionistas têm dado o recado: vão suspender novos investimentos na malha de gasodutos, pois agora haveria riscos para o equilíbrio econômico-financeiro das companhias.\nA rentabilidade segue alta. No 3º trimestre, a margem Ebitda da NTS foi de 87,7%, enquanto a da TAG foi de 81,7%. O indicador revela a capacidade da empresa de transformar a sua receita em lucro operacional, sem as distorções de juros, impostos ou custos não caixa.\nA disputa bilionária em torno da revisão tarifária da NTS e da TAG trouxe novamente, para os holofotes, a discussão sobre a rentabilidade das empresas – chamadas por diretores da ANP, no processo, de “vacas leiteiras” , pela elevada capacidade de retorno aos investidores que as compraram.\nOs usuários, que pagam a conta, defendem, por sua vez, que a revisão tarifária é o momento de se passar o pente-fino na base de remuneração das empresas – cujos gasodutos já foram (e com sobras), segundo a ANP e os carregadores, pagos pelas tarifas nas últimas décadas.\nJudicializada , a revisão tarifária das transportadoras começa também a tangenciar o mercado financeiro.\nEm paralelo, a Petrobras, antiga dona dos ativos, reconheceu nas demonstrações financeiras do 3º trimestre uma obrigação de pagamento de R$ 3,6 bilhões à TAG, devido às mudanças nas premissas da Base Regulatória de Ativos (BRA) da transportadora.\nÉ só o começo do novelo. TAG e NTS ainda não reconheceram, em seus balanços, efeitos contábeis da decisão da ANP de zerar parte de suas bases de remuneração.\nA seguir, a gas week traz alguns insights sobre a situação financeira das transportadoras e do potencial impacto da revisão tarifária sobre elas.\nOs R$ 24,6 bilhões pagos pela NTS de 2018 a 2025 incluem R$ 22,3 bilhões em dividendos e juros sobre capital próprio e R$ 2,3 bilhões em reduções de capital. É mais do que os R$ 22,9 bilhões de lucro no período.\nO relator da revisão tarifária na ANP, o diretor Pietro Mendes , relativizou esta semana o peso da revisão da base de remuneração da NTS sobre os riscos de insolvência levantados pela transportadora.\n“Distribuíram um monte de dividendo. O acionista foi remunerado. Como é que a ANP, que é a responsável, se eles agora podem ficar insolventes?”, questionou.\nFitch e Moody’s reconhecem a TAG como empresa com nível máximo de credibilidade no Brasil.\nAs duas agências reafirmaram as notas da TAG no início de junho, depois de a diretoria da ANP aprovar a consulta pública sobre a aplicação do Método do Capital Recuperado (RCM) à base de ativos, mas antes de a consulta ser aberta. Os relatórios não dizem se a avaliação já considera o RCM.\nNa ocasião, a ANP já havia definido o WACC (custo médio ponderado de capital) de 7,63% ao ano, a contragosto das transportadoras, mas ainda trabalhava, formalmente, com uma redução mais branda na BRA das empresas, pelo método do Custo de Reposição Novo (CRN).\nAs agências admitem que mudanças regulatórias são fatores de risco para um eventual rebaixamento da nota, mas já atribuíam às transportadoras notas máximas mesmo com a perspectiva de corte de 30% na tarifa do Malha Nordeste , segundo a Moody’s; a Fitch precificou queda de 50% no preço de um novo contrato do Malha Nordeste.\nEm novembro, a ANP estimou queda preliminar de 12% a 17% na tarifa da TAG, com os efeitos do RCM.\n“A TAG segue confiante no diálogo institucional com a ANP e reforça a importância da preservação do critério técnico e respeito às boas práticas regulatórias internacionais (…)”, concluiu.\nO atraso na conclusão da revisão tarifária das transportadoras já vem sendo calculado. Segundo o balanço da Engie Brasil Energia, a TAG teve reduções de:\nAs companhias atribuem a piora no desempenho este ano, em parte, à queda na receita dos contratos Malha Nordeste (TAG) e Malha Sudeste (NTS), os primeiros contratos legados vencidos, no fim de 2025 – os ativos operam sob regime transitório, com tarifas mantidas nos patamares de 2025, até a conclusão da revisão tarifária.\nNo balanço do 3º trimestre, publicado esta semana, a Engie Brasil Energia (uma das acionistas da TAG) informou que a decisão da ANP de zerar a BRA do contrato Malha Nordeste, com o método RCM, diverge da linha defendida pelas transportadoras e que a TAG segue “avaliando as medidas cabíveis, com o objetivo de buscar o reconhecimento da metodologia que considera mais adequada para a remuneração de seus ativos”.\nA ATGás , associação das transportadoras, já judicializou o caso, em agosto, ao questionar o rito regulatório da ANP que levou à adoção do RCM. A NTS também ameaça entrar na Justiça.\nA aplicação do RCM à BRA da TAG e da NTS , por ora, se limita aos primeiros contratos legados vencidos e tem, portanto, alcance limitado sobre as finanças das duas transportadoras nos próximos anos:\nAs transportadoras, no entanto, temem que as premissas adotadas para esses dois primeiros contratos (sobretudo o método RCM) sejam replicadas nos demais contratos legados , que vencem a partir de 2030.\nA TAG tem outros três contratos legados por vencer: Urucu-Coari-Manaus (2030); Pilar-Ipojuca (2031); e Sistema Gasene (2033). A NTS tem outros quatro: Paulínia–Jacutinga (2030); Gasduc III (2030); Malha Sudeste II (2031) e Gastau (2031).\nEm seu balanço, a NTS alerta que a decisão da ANP que zerou a base de remuneração de R$ 5,3 bilhões pleiteada pela empresa pode afetar sua capacidade de honrar obrigações financeiras a partir de 2030, se o RCM, usado para valorar a BRA do contrato Malha Sudeste, for mantido e replicado nos demais contratos legados.\nPela análise preliminar da ANP, a transportadora não tem hoje problema para cumprir suas obrigações – a própria NTS ressalva que esse cenário não reflete sua situação atual.\nAs transportadoras têm alavancagem baixa, inferior a 2 vezes a dívida líquida/Ebitda – no caso da NTS, menos da metade dos covenants (cláusulas dos contratos de dívida que exigem que a empresa mantenha índices de alavancagem dentro de limites fixados). A conta da NTS, porém, trata como caixa os R$ 8,6 bilhões que a empresa aplicou, em 2024, em títulos de dívida emitidos pelos próprios acionistas; sem eles, a alavancagem fica perto de 2,5 vezes.\nO caso da TAG é ainda mais confortável, já que todo o endividamento (R$ 15,9 bilhões) tem vencimento final entre 2029 e 2033 – dentro, portanto, da janela dos contratos legados.\nO conselho de administração da NTS decidiu, este mês, suspender a aprovação de novos investimentos e rever projetos aprovados e ainda não executados.\nA La Caisse, que detém 50% da TAG, anunciou a suspensão de R$ 4,1 bilhões em investimentos previstos na empresa até 2030 ( CNN ), parte deles para adequar a rede às térmicas vencedoras do Leilão de Reserva de Capacidade .\n“E eu tenho certeza que, já que o processo é tão bom, como diz o regulador, alguém vai fazer no nosso lugar”, disse o head da La Caisse para América Latina, Eduardo Farhat, na NeoConference 2026 .\nNo mesmo evento, o head da Brookfield no Brasil, Roberto Perroni, disse que a discussão sobre as tarifas da NTS, da qual a gestora é a principal acionista, “é algo muito delicado para a visão do investidor estrangeiro no Brasil”.\nA ANP propôs incluir na sua nova agenda regulatória 2027-2028 a regulamentação do processo seletivo para construção de gasodutos de transporte, previsto na Lei do Gás ( lei 14134/2021 ).\nAo defender a aproximação com a CVM, o relator Pietro Mendes disse em seu voto, na segunda (9/11), que a agência precisa se salvaguardar diante de uma eventual insolvência da NTS . “Se isso acontecer, a ANP tem que tomar providências para substituir o controle acionário da NTS, porque a operação de gás não pode parar”, afirmou.\nA NTS tentou emplacar uma “solução negocial” com a Petrobras, para escapar da revisão tarifária nos termos propostos pela ANP, mas a estatal recuou .\nNa noite desta sexta (13/11), a NTS informou que “permanece à disposição da ANP para contribuir para a construção de solução equilibrada e duradoura, preferencialmente consensual, sem que isso implique renúncia a quaisquer direitos da companhia ou alteração das posições já apresentadas no âmbito do processo de revisão tarifária”.\nE a transportadora acrescentou que manterá “postura prudente de gestão financeira e preservação de liquidez, inclusive no que diz respeito a distribuições de recursos aos acionistas e à realização de novos investimentos, ressalvados aqueles necessários à segurança e integridade da malha de transporte”.\nGas release todo ano. A ANP vai medir a cada ano a concentração do mercado de gás e decidir se faz o leilão do gas release , que vale para quem passar de 2.500 pontos no índice HHI. O relator, Pietro Mendes, também vai deixar claro que a produção própria da Petrobras fica fora do programa nos próximos ciclos. O novo texto vai à audiência pública em 19/11.\nOpinião: a ANP precisa manter a independência na revisão tarifária e garantir a estação de compressão de Japeri, sem a qual o abastecimento do Sul fica ameaçado, escreve Rafael Lamastra Jr. , presidente do conselho de administração da Abegás\nVaca Muerta no leilão da PPSA. A PPSA assinou na terça (10/11) um memorando com a GyP, estatal da província argentina de Neuquén, para avaliar o fornecimento de gás de Vaca Muerta ao Brasil. A ideia é usar o gás da União como âncora de um leilão estruturante em 2027, aberto também a gás importado.\nEneva no topo do GNL. Com o novo terminal no Espírito Santo , de 21 milhões de m³/dia, previsto para agosto de 2031, a Eneva terá cerca de 56 milhões de m³/dia de capacidade de regaseificação no início da próxima década, o maior parque do país entre os projetos anunciados. A capacidade que sobrar vai para novas térmicas nos leilões de reserva de capacidade e para a venda de gás a terceiros."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "EMBRAPII E AGÊNCIA ALEMÃ LANÇAM CHAMADA DE R$ 81 MILHÕES PARA DESCARBONIZAR SETORES DE AÇO E CIMENTO",
+   "link": "https://petronoticias.com.br/embrapii-e-agencia-alema-lancam-chamada-de-r-81-milhoes-para-descarbonizar-setores-de-aco-e-cimento/",
+   "resumo_original": "A Embrapii (Empresa Brasileira de Pesquisa e Inovação Industrial) e a agência alemã de cooperação técnica GIZ lançaram uma chamada inédita para apoiar projetos de pesquisa, desenvolvimento e inovação (PD&I) destinados a reduzir as emissões de gases de efeito estufa nas cadeias produtivas de aço e cimento. A iniciativa integra uma ação internacional que prevê […]",
+   "data": "2026-11-15T04:00:27-03:00",
+   "texto": "A Embrapii (Empresa Brasileira de Pesquisa e Inovação Industrial) e a agência alemã de cooperação técnica GIZ lançaram uma chamada inédita para apoiar projetos de pesquisa, desenvolvimento e inovação (PD&I) destinados a reduzir as emissões de gases de efeito estufa nas cadeias produtivas de aço e cimento.\nA iniciativa integra uma ação internacional que prevê investimentos de até R$ 81 milhões para desenvolver e demonstrar tecnologias em ambiente operacional. A proposta é permitir a avaliação do desempenho técnico das soluções, de seu potencial de redução de emissões de CO₂ e de sua viabilidade econômica para aplicação em escala industrial.\nA chamada faz parte do Projeto INDUZ, uma parceria entre Brasil e Alemanha voltada à promoção da descarbonização profunda desses dois segmentos industriais, que estão entre os principais responsáveis pelas emissões globais de dióxido de carbono.\nOs projetos deverão ser realizados em rede, com a participação de empresas e de pelo menos duas Unidades Embrapii. O prazo de execução será de até 30 meses. Para apresentar os detalhes da oportunidade e esclarecer dúvidas das empresas interessadas, as instituições promoverão um webinar neste link no dia 18 de novembro.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "MOVIMENTO RECORDE NO TERMINAL DE CARGAS DO PORTO DO AÇU MOSTRA ACERTO NAS AÇÕES DE DESENVOLVMENTO DAS ATIVIDADES",
+   "link": "https://petronoticias.com.br/movimento-recorde-no-terminal-de-cargas-do-porto-do-acu-mostra-acerto-nas-acoes-de-desenvolvmento-das-atividades/",
+   "resumo_original": "O Terminal Multicargas (T-Mult) do Porto do Açu, em São João da Barra (RJ), movimentou 2,147 milhões de toneladas entre janeiro e outubro de 2026. A marca representa novo recorde histórico para o terminal. O volume supera em 2,19% o total movimentado em todo o ano de 2025, que fechou em 2,101 milhões de toneladas. […]",
+   "data": "2026-11-14T13:00:33-03:00",
+   "texto": "O Terminal Multicargas (T-Mult) do Porto do Açu, em São João da Barra (RJ), movimentou 2,147 milhões de toneladas entre janeiro e outubro de 2026. A marca representa novo recorde histórico para o terminal. O volume supera em 2,19% o total movimentado em todo o ano de 2025, que fechou em 2,101 milhões de toneladas. O desempenho decorre da conclusão de R$ 200 milhões em investimentos de infraestrutura. Os aportes ampliaram a capacidade operacional do T-Mult em 30%, elevando o teto para 2,7 milhões de toneladas anuais. As obras estenderam o cais acostável de 340 para 500 metros, com calado de 13,1 metros. Com a intervenção, o cais passou a receber simultaneamente dois navios da classe Panamax, de até 75 mil toneladas cada. A nova configuração reduziu o tempo de espera para atracação e os custos com demurrage. “O recorde reflete o retorno dos investimentos recentes e a nossa flexibilidade operacional para estruturar soluções sob medida para cada tipo de carga e cliente. A expansão de cais e de pátios não apenas nos deu capacidade para superar a marca de 2025 antecipadamente, mas consolidou essa diversificação da carteira, permitindo operar em escala e em paralelo insumos industriais, safras do agronegócio e cargas de projeto de alta complexidade”, ressalta João Braz, diretor de Terminais e Logística do Porto do Açu.\nO acumulado do ano foi impulsionado pelo desempenho de outubro, mês marcado por recordes simultâneos no ativo. A movimentação marítima atingiu 318 mil toneladas, alta de 7,5% frente ao recorde anterior, de 295,79 mil toneladas registrado em março de 2025. Na armazenagem, o Pátio 01 atingiu o pico de 245 mil toneladas estocadas, avanço de 5,6% sobre a marca de julho de 2026. No segmento de cargas de projeto, o estoque encerrou outubro com 806 unidades, salto de 208,8% na comparação com o recorde anterior, de 261 unidades em agosto. No mês passado, o terminal movimentou uma ampla variedade de cargas. Entre as cargas de projeto, destacaram-se caminhões fora de estrada e equipamentos para o setor de óleo e gás, incluindo módulos de flutuação, juntas flexíveis e componentes associados à instalação e recuperação de dutos submarinos. No segmento de granéis sólidos, foram movimentados coque, carvão e concentrado de cobre.\nOs resultados acompanham a diversificação operacional do T-Mult. Desde o início das operações, em 2016, o terminal já movimentou tipos distintos de produtos entre granéis sólidos, breakbulk e cargas de projeto. O ativo atende rotas agrícolas e de insumos industriais — como soja, milho, café, trigo, fertilizantes e sal —, além de operar fluxos de mineração e siderurgia. Com o avanço contínuo das áreas de pátio, galpões e infraestrutura de estocagem, a projeção é que o T-Mult alcance capacidade de 5 milhões de toneladas anuais até 2028.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "NESTE FIM DE SEMANA AS EMPRESAS ESTÃO OFERECENDO MAIS VAGAS DE ESTÁGIO DO QUE OPORTUNIDADES DE TRABALHO.",
+   "link": "https://petronoticias.com.br/neste-fim-de-semana-as-empresas-estao-oferecendo-mais-vagas-de-estagio-do-que-oportunidades-de-trabalho/",
+   "resumo_original": "Quem está em busca de uma oportunidade no mercado de trabalho pode encontrar novas possibilidades em Macaé. A Prefeitura, por meio da Secretaria Municipal de Trabalho e Renda, divulgou 855 vagas de emprego em diferentes áreas e níveis de escolaridade, contemplando profissionais com e também sem experiência. As oportunidades abrangem setores como comércio, serviços, construção […]",
+   "data": "2026-11-14T04:00:00-03:00",
+   "texto": "Quem está em busca de uma oportunidade no mercado de trabalho pode encontrar novas possibilidades em Macaé. A Prefeitura, por meio da Secretaria Municipal de Trabalho e Renda, divulgou 855 vagas de emprego em diferentes áreas e níveis de escolaridade, contemplando profissionais com e também sem experiência. As oportunidades abrangem setores como comércio, serviços, construção civil, hotelaria, alimentação, indústria, logística e atividades ligadas ao segmento offshore. Entre as funções disponíveis com destaque estão: camareira, com 70 vagas; atendente de restaurante, com 45; chefe de cozinha, com 30; soldador de tubulação, motorista truck, ajudante de carga e instalador/reparador, com 20 vagas cada. Também há oportunidades para atendente de padaria, operador de caixa, auxiliar de serviços gerais, conferente, operador de guindaste, caldeireiro, costureira, mecânico, eletricista, vendedor, recepcionista, cozinheiro, pedreiro, armador, motorista e diversas outras funções.\nOs interessados devem procurar a Secretaria Municipal de Trabalho e Renda para realizar cadastro e encaminhamento às vagas disponíveis. É importante manter os dados atualizados para aumentar as chances de inserção no mercado de trabalho. A Secretaria também disponibiliza link específico onde é possível preencher o cadastro de forma online.  A Central do Trabalhador funciona no Edifício Comercial Lótus, localizado na Avenida Nossa Senhora da Glória, 1.181, Praia Campista. O atendimento é realizado de segunda a sexta-feira, das 8h às 17h. Caso não encontre uma vaga que se encaixe no perfil desejado, é possível fazer um cadastro de forma online.\nA ACCIONA está com inscrições abertas para o nexTalent 2027, seu programa de estágio voltado à formação e ao desenvolvimento de talentos. As oportunidades são destinadas a estudantes de Engenharia (Civil, Elétrica, Mecânica, Ambiental, Sanitária, de Produção, de Minas, Mecatrônica, Química, entre outras); Arquitetura, Geologia, Administração, Economia, Ciências Contábeis, Direito, Psicologia e áreas correlatas, Para participar, os candidatos devem estar cursando o penúltimo ou último ano da graduação, com previsão de conclusão entre dezembro de 2027 e dezembro de 2028. As vagas estão distribuídas entre São Paulo, Paraná, Paraíba e Pernambuco, com início do programa previsto para março de 2027.\nNas duas primeiras edições do programa, mais de 80% dos participantes foram efetivados e seguiram carreira na companhia. Com presença em mais de 60 países, mais de 68 mil profissionais e colaboradores de 170 nacionalidades, a ACCIONA oferece aos estagiários a oportunidade de vivenciar um ambiente multicultural e participar de projetos conectados a desafios globais. “ Com o nexTalent, buscamos oferecer uma oportunidade para o desenvolvimento de profissionais, por meio do contato direto com os desafios do setor. Nosso objetivo é identificar e desenvolver talentos que possam crescer com a companhia e contribuir para o futuro da infraestrutura no Brasil “, afirma María Castroviejo Nicolas(esquerda), head de RH da ACCIONA Brasil. As inscrições vão até 1º de dezembro de 2026. Os interessados podem se candidatar pelo site: www.acciona.com.br/trabalhe-conosco/talento-jovem/programa-de-estagio\nO Grupo Ultra, um dos maiores grupos empresariais do país inova e lança o Ultra.tech, um programa pioneiro voltado à atração e desenvolvimento de estudantes com interesse em inteligência artificial, dados e automação. Com uma proposta multinegócios, os participantes terão a oportunidade de atuar em projetos reais e vivenciar diferentes contextos de negócio em cinco empresas do grupo: Ultrapar, holding do Grupo, Ipiranga, Ultragaz, Ultracargo e Hidrovias do Brasil.  O programa oferece bolsa-auxílio de R$ 3.200 e as inscrições podem ser realizadas pelo site oficial ( https://kolab.ee/vagas/ultrapar-estagio-tech-2027/ ).\nAs vagas são destinadas para atuação em São Paulo (SP), na sede do Grupo Ultra, e buscam por estudantes que estejam cursando Computação, Ciência de Dados, Sistemas de Informação, Engenharias, Administração, Economia e correlatos, com graduação prevista para dezembro de 2027.  Para Manuella Oliveira(direita), Diretora de Pessoas e Comunicação da Ultrapar, o Ultra.tech é uma oportunidade única para que estudantes possam conhecer diferentes negócios e fazer uma imersão importante no ecossistema da companhia.\n“ Buscamos estudantes inquietos, que querem ir além da teoria e usar dados, IA e automação para a transformação dos nossos negócios. O Ultra.tech foi criado para oferecer uma experiência de desenvolvimento consistente, com exposição a diferentes negócios e contato próximo com lideranças ”\nAo longo do programa, os participantes percorrerão os diferentes negócios do Grupo Ultra por meio do modelo de job rotation. A jornada inclui trilha estruturada de desenvolvimento, contato com lideranças seniores, experiências de aprendizado contínuo e uma formação dedicada à inteligência artificial desde os primeiros meses, ampliando a capacidade dos participantes de gerar impacto por meio da tecnologia.  Para Rodrigo Marangoni, Gerente Executivo de Tecnologia da Ultrapar, o programa é uma oportunidade única de conhecer cinco grandes negócios do Brasil e participar de projetos reais de tecnologia.   Mais informações e inscrições estão disponíveis em: https://kolab.ee/vagas/ultrapar-estagio-tech-2027/ .\nA Vibra, maior empresa de distribuição de combustíveis do país, anuncia a abertura das inscrições para o Programa de Estágio Vibra 2027. Voltada a estudantes de níveis técnico e superior, a edição oferece 47 vagas, com atuação no Rio de Janeiro (Rio de Janeiro e Duque de Caxias), em São Paulo (São Paulo) e no Pará (Belém e Marabá), conectando os futuros profissionais a desafios práticos em diferentes frentes de negócio. As inscrições estarão abertas até 10 de dezembro de 2026, e o início das atividades está previsto para fevereiro de 2027. Entre as frentes mapeadas para este ciclo estão: Comercial B2B; Gente, Tecnologia e ESG; Jurídico, Compliance e Relações Institucionais; Lubrificantes; Marketing e Experiência do Cliente; Operações e Varejo.\nAlinhado ao compromisso da companhia de desenvolver novos talentos e acelerar trajetórias profissionais, o programa foi estruturado sob o modelo de aprendizagem 70/20/10. Na prática, 70% da jornada é dedicada à experiência de rotina e desafios reais com o acompanhamento direto de monitores; 20% envolve trocas de experiências em encontros presenciais e remotos; e 10% é focado em aprendizagem formal por meio da Academia Vibra e trilhas de e-learning com ênfase em Negócios, Equipes, Inteligência Artificial e Dados. “Queremos proporcionar uma experiência profissional enriquecedora desde o primeiro dia, permitindo que os estudantes apliquem o conhecimento acadêmico em desafios reais que ajudam a mover a energia do país. Nosso programa combina acompanhamento próximo e desenvolvimento de competências essenciais para o mercado atual, como dados e inteligência artificial, preparando esses jovens para crescer com protagonismo, visão de futuro e capacidade de gerar impacto “, destaca Aspen Andersen, vice-presidente de Gente, Tecnologia e ESG da Vibra.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "State Grid emite R$ 2,5 bi em 'panda bonds' para financiar transmissão de energia no Brasil",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/state-grid-emite-r-25-bi-em-panda-bonds-para-financiar-transmissao-de-energia-no-brasil.shtml",
+   "resumo_original": "A State Grid Brasil emitiu 3 bilhões de yuans (cerca de R$ 2,5 bilhões) em \" panda bonds \" para financiar obras de transmissão de energia em uma linha que liga as regiões Nordeste e Centro-Oeste. A operação consiste na oferta de títulos de dívida por empresas ou governos de outros países no mercado interno chinês. Leia mais (11/14/2026 - 13h05)",
+   "data": "2026-11-14T13:05:00-03:00",
+   "texto": "São Paulo A State Grid Brasil emitiu 3 bilhões de yuans (cerca de R$ 2,5 bilhões) em \" panda bonds \" para financiar obras de transmissão de energia em uma linha que liga as regiões Nordeste e Centro-Oeste. A operação consiste na oferta de títulos de dívida por empresas ou governos de outros países no mercado interno chinês.\nO acerto para a emissão foi finalizado nesta semana, e os títulos começam a ser negociados no mercado secundário da China na segunda-feira (16). O contrato define juros anuais de 1,59% e prazo de 36 meses.\nO montante captado será \"integralmente destinado ao projeto de transmissão de energia de ultra-alta tensão (UHV) ±800 kV no Gate (Graça Aranha Silvânia Transmissora de Energia)\", informa o documento de emissão do título pelo Banco Popular da China ao qual a Folha teve acesso.\nO projeto Gate prevê a transmissão de energia limpa (eólica, solar e hidrelétrica) gerada no Nordeste para o Centro-Oeste e o Sudeste. A linha terá cerca de 1.468 km e atravessará 42 municípios do Maranhão, Tocantins e Goiás.\nA State Grid Brasil foi procurada pela Folha por telefone e email na sexta-feira (13) e não se pronunciou até o fechamento da reportagem.\nA empresa chinesa venceu, em 2023, o leilão da linha de transmissão que vai do Maranhão até Goiás , e as obras começaram em junho de 2025. A previsão é que o sistema esteja em operação em 2029. O custo orçado é de R$ 20 bilhões.\nA infraestrutura permitirá aumentar o fluxo de energia renovável para o Sistema Interligado Nacional. A linha vai conectar as subestações de Presidente Dutra (MA), Teresina (PI), Samambaia (DF), Itumbiara (GO) e Emborcação (MG).\nMaior companhia de energia do mundo, a State Grid está no Brasil desde 2010 , quando adquiriu sete concessionárias de energia que eram das espanholas Cobra, Elecnor e Isolux. No mesmo ano, assumiu a construção de linhas de transmissão de Belo Monte (PA). Em 2016, a estatal chinesa comprou 23% da CPFL Energia , fatia que era da construtora Camargo Corrêa. Depois, elevou sua participação após ofertas públicas de aquisição (OPAs) até chegar a 83% do capital da empresa que opera a distribuição de energia em São Paulo, Rio Grande do Sul, Minas Gerais e Paraná.\nAo emitir \"panda bonds\", a subsidiária brasileira da estatal chinesa repete o caminho seguido pela Suzano, que captou 1,2 bilhão de yuans em 2024. Foi a primeira empresa do Brasil a realizar essa operação.\n\"Essas emissões mostram que as empresas brasileiras podem ter acesso a capital mais barato em renminbi [nome oficial da moeda chinesa] para impulsionar investimentos de economia verde\", afirma Hsia Hua Sheng, vice-presidente do BOC (Bank of China Brasil). A instituição financeira foi responsável por coordenar a emissão da State Grid.\njunho, o Tesouro Nacional do Brasil anunciou a intenção de recorrer ao mercado chinês . À Reuters, o ministro da Fazenda, Dario Durigan, afirmou que o Brasil deve captar cerca de 5 bilhões de yuans com \"panda bonds\". A ação do Tesouro é vista pelo governo Lula como parte da estratégia de diversificação de financiamento externo. Ela acontece em meio ao fortalecimento das relações econômicas entre os dois países . À época, Durigan disse à Folha que empresas brasileiras com operação na China, como a Vale e a WEG, estudavam emitir \"panda bonds\". Assim, elas teriam acesso a crédito com taxas de juros mais baixas que em outros países.\nNo Brasil, a Selic está em 13,75%. Países desenvolvidos, como os EUA e os membros da União Europeia, também tiveram alta dos juros nos últimos anos, com taxas acima das oferecidas na China, que estão abaixo de 3%.\nEm outubro, a Vale divulgou que registrou um pedido às autoridades chinesas para emissão de \"panda bonds\" no valor de até 10 bilhões de yuans, no período de 2026 a 2028."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão",
+   "idioma": "pt",
+   "titulo": "Terras raras e a tentação da bala de prata",
+   "link": "https://www.estadao.com.br/economia/marcos-jank/terras-raras-e-a-tentacao-da-bala-de-prata/",
+   "resumo_original": "",
+   "data": "2026-11-14T17:00:00-03:00",
+   "texto": "As terras raras são 17 elementos químicos abundantes na crosta terrestre, mas difíceis de separar, porque são muito parecidos entre si. Seu uso mais valioso são os ímãs permanentes mais potentes que existem, presentes em motores de carros elétricos, turbinas eólicas, robôs industriais, drones, celulares, caças e mísseis. Também estão em telas, lasers e fibras ópticas.\nEnquanto minerais críticos, as terras raras são a versão mineral da “lei do mínimo de Liebig”, segundo a qual a colheita é limitada pelo nutriente mais escasso: pesam pouco no custo de um carro elétrico ou de um caça, mas sem os ímãs nenhum dos dois funciona. O mercado mundial desses elementos vale hoje menos do que o café exportado pelo Brasil em 2025, mas dele dependem indústrias que movimentam trilhões de dólares.\nA China entendeu isso antes de todo mundo e usa esse domínio como arma. Lidera a mineração e concentra 85% do refino e 90% da produção de ímãs permanentes. Desde abril de 2025, em resposta ao tarifaço americano, exige licença especial para exportar sete terras raras e os ímãs feitos com elas, o que torna as vendas lentas e incertas. Os EUA são o segundo maior minerador, mas têm dificuldade para separar os elementos e, por isso, ainda importam dois terços dos compostos e metais que consomem.\nO Brasil já foi pioneiro. Nos anos 1950, a paulista Orquima era uma das principais produtoras de óxidos de terras raras no mundo, mas essa dianteira se perdeu com sua estatização, nos anos 1960. Depois, as terras raras viraram subproduto do programa nuclear até o fechamento da última fábrica, em 1992, e o País ficou de fora da revolução tecnológica dos ímãs.\nAinda assim, temos a segunda maior reserva do mundo, com 11 milhões de toneladas, contra 44 milhões da China, mas respondemos por apenas 0,5% da produção. A China, líder do ranking, não precisa do Brasil: tem minério, tecnologia e escala. Os EUA precisam, sobretudo das terras raras pesadas, como disprósio e térbio, presentes nas argilas iônicas de Goiás e Minas Gerais. Não por acaso, a USA Rare Earth comprou a mineradora Serra Verde por US$ 2,8 bilhões neste ano.\nHá consenso, da esquerda à direita, de que o País deve adensar a cadeia e agregar valor aqui mesmo. Mas a disrupção tecnológica, a polarização e a volatilidade internacional criam a tentação da “bala de prata”. A mais comum é equiparar as terras raras ao petróleo , uma commodity homogênea, cotada em Bolsa, que encontra comprador em qualquer porto. As terras raras são 17 produtos, cada um com preço e uso próprios, vendidos por contrato a poucos compradores. Fora da China, há apenas cinco ou seis fabricantes de ímãs.\nPor isso, pôr a reserva sob a guarda de uma grande estatal seria um grave erro: a viabilidade depende de uma rede de relações comerciais, tecnológicas e geopolíticas. Uma nova estatal ineficiente não é a resposta.\nCadeias globais de suprimento do agronegócio enfrentam novos desafios\nO Brasil tem políticas de Estado ou remendos imediatistas que respondem a interesses e pressões?\nO Estado é indispensável, desde que atue do jeito certo. Na Embrapa e no Proálcool , o governo induziu, financiou a pesquisa, bancou o risco inicial, e o setor privado assumiu a continuidade. Nas terras raras, a presença estatal desde os anos 1960 não trouxe agilidade nem resultados.\nO caminho é avançar para a separação, o refino e a fabricação de ímãs, onde está o valor. Isso cria empregos qualificados e demanda por insumos e reagentes, numa indústria intensiva em energia, que o País tem limpa e abundante. Exige empresas fortes, inclusive de capital internacional. Cabe à diplomacia mostrar aos parceiros que um fornecedor de óxidos e ímãs fora da China, aberto a vários compradores, reduz a vulnerabilidade de todos, sem trocar uma dependência por outra.\nO Estado pode destravar a decisão de investir, mas precisa agir de forma consistente e coordenada com o setor privado. A Lei 15.506 , aprovada com apoio do governo e da oposição e conduzida com maestria pelo deputado Arnaldo Jardim, foi um ótimo começo. O conselho criado por ela já pôs as terras raras na classe de maior prioridade. Falta regulamentar a análise de contratos e fazer a política sobreviver às trocas de governo, como as políticas de agricultura tropical e de bioenergia, que são um sucesso há 5 décadas.\nThe Economist: A Europa tem vivido acima das suas possibilidades; agora, as contas chegaram\nFim da escala 6x1: Fux pede destaque e leva decisão de Dino a julgamento presencial no STF\nDe caixas eletrônicos a prédios de luxo: fim de agências cria negócio para fundos e construtoras\nEspionagem, traição e queda: o escândalo da Nvidia que o Vale do Silício não viu chegar\nNo Sebrae, escutar as pessoas virou decisão, e a decisão chegou aos pequenos negócios"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão",
+   "idioma": "pt",
+   "titulo": "Espionagem, traição e queda: o escândalo da Nvidia que o Vale do Silício não viu chegar",
+   "link": "https://www.estadao.com.br/economia/negocios/espionagem-traicao-e-queda-o-escandalo-da-nvidia-que-o-vale-do-silicio-nao-viu-chegar/",
+   "resumo_original": "",
+   "data": "2026-11-14T15:37:43-03:00",
+   "texto": "Traição, espionagem e negócios bilionários: entenda a investigação que envolve o CEO da Nvidia\nConselho da fabricante de chips abriu apuração independente. Crédito: Amanda Fleure (roteiro), Lucas Ghitelar (câmera), Ariel Liborio (edição) e João Mubarah (produção)\nA renúncia de Jensen Huang, CEO da Nvidia, após um escândalo pessoal envolvendo espionagem, abalou o Vale do Silício. Huang, figura central na revolução da IA, foi acusado de traição após um caso com Alice Huang, suspeita de espionagem para a China. O incidente levanta questões sobre segurança nacional e a cultura de risco entre líderes tecnológicos. A abertura de capital da Anthropic, avaliada em US$ 1 trilhão, destaca o impacto da IA, mas o escândalo de Huang ofusca o momento histórico.\nA inteligência artificial promete transcendência. Vamos nos livrar de nossos corpos cansados e ineficientes, dizer adeus ao trabalho tedioso e às idas ao supermercado. O computador cuidará de todas as necessidades humanas e resolverá todos os problemas humanos.\nBem, essa era a ideia. A IA deveria alcançar um novo patamar de realidade neste mês, com a venda pública de ações da Anthropic , uma das duas startups que criaram e definiram essa jovem indústria. Uma empresa de US$ 1 trilhão nasceria, produzindo bilionários a rodo.\nA IA é a maior história que o Vale do Silício já teve. Mas, no domingo passado, 8, ela foi subitamente empurrada para escanteio quando o CEO da empresa cujos chips alimentam essa revolução da inteligência confessou ter traído a mulher com Alice Huang , que autoridades americanas acreditam estar espionando para a China. Na manhã de quinta-feira, 12, ele havia renunciado — algo que poucos julgavam possível poucos dias antes.\nO escândalo que derrubou Jensen Huang , CEO da Nvidia , está cheio de implicações para a segurança nacional e para o boom global da IA. Huang figurava ao lado de Mark Zuckerberg, Steve Jobs, Elon Musk e Bill Gates entre os líderes de tecnologia considerados pelo mundo como inseparáveis das empresas que construíram.\nNo Vale do Silício, as pessoas ficaram basicamente atônitas com a notícia. Os que estão por lá há muito tempo, e viram aquela faixa de território ao sul de São Francisco evoluir da fabricação de hardware para o desenvolvimento de software, daí para o frenesi das pontocom e agora para o boom da IA, disseram nunca ter visto nada parecido.\nVeteranos do setor testemunharam ascensões espantosas e quedas igualmente abruptas. Viram arrogância em abundância. Fortunas feitas e fortunas perdidas num instante. Mas há algo que se destaca desta vez: a transcendência não deveria ser sórdida.\n“Dizem que a IA vai mudar todas as nossas vidas de maneiras que nem conseguimos compreender e, de repente, aqui estamos: a história mais velha do mundo”, disse John Gage, executivo de longa data da Sun Microsystems que, como muitos no Vale do Silício, vem acompanhando os desdobramentos avidamente. “E ela não é nada difícil de compreender.”\nO que é mais difícil para o pessoal da tecnologia entender é por que aconteceu. Como alguém supostamente tão inteligente, e a quem se confiou tanto do futuro da humanidade, pôde fazer algo tão imprudente?\nAfinal, a intriga é onipresente no Vale do Silício — todo mundo está atrás do ingrediente secreto que vai colocar sua startup, ou seu país, à frente. Como resultado, o sigilo é uma obsessão. O Vale do Silício não inventou os acordos de confidencialidade, mas os usou com zelo. Tudo e todos são guardados a sete chaves.\nGage lembrou de ter trabalhado com um executivo de tecnologia que fazia sua primeira viagem à Coreia, décadas atrás.\n“Às duas da manhã, uma mulher enviada por algum rival do setor bate na porta do hotel dele”, contou Gage. “Esse tipo de coisa era rotina. Quando você está tentando convencer alguém a comprar ou vender algo, usa todas as ferramentas possíveis.”\nSe as tramoias e a espionagem corporativa são quase inevitáveis nos círculos de tecnologia, por muito tempo as mulheres não foram. Toda mulher do setor acima de certa idade tem lembranças de ser a única mulher na sala. O Vale do Silício era tão clube do bolinha quanto Wall Street ou as Forças Armadas.\nEra uma cultura de engenharia, e os homens que prosperavam tinham uma aptidão específica. “Era como se a metade do cérebro deles voltada à engenharia tivesse assumido o controle”, disse Lynnea Johnson, que começou a trabalhar na Apple no início dos anos 1980. “A outra metade, a da clareza emocional e do discernimento, era meio imatura.”\nO que pareceu intrigante a Johnson no caso de Huang foi que ele aparentemente não sabia — ou não se importava — que Alice Huang possivelmente estava a serviço do governo chinês. Ele foi imprudente, o que não era sua reputação.\nVeja também Jensen Huang perdeu o cargo na Nvidia e US$ 10 bilhões; um divórcio pode custar muito mais Esgotado: os últimos dias de Huang na Nvidia mostraram CEO apático Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de reunião entre Xi e Trump\nJensen Huang perdeu o cargo na Nvidia e US$ 10 bilhões; um divórcio pode custar muito mais\nEsgotado: os últimos dias de Huang na Nvidia mostraram CEO apático\nEscândalo da Nvidia intensifica rivalidade entre China e EUA antes de reunião entre Xi e Trump\nSão dias vertiginosos no Vale do Silício, que precisa apresentar a IA como inevitável, mas benéfica, e os executivos como no controle, mas não ameaçadores. Jensen Huang era o protótipo do novo homem transcendente.\nEle fez um trabalho e tanto ao construir a própria marca. Falava de sua devoção à mulher, Lori, que cuidava de todos os aspectos rotineiros da vida dos dois desde que se conheceram na Universidade Estadual do Oregon. Ele não sabia o próprio endereço nem o número do telefone. As máquinas sabiam, e isso lhe bastava. Bens materiais pareciam despertar pouco interesse, além de suas onipresentes jaquetas de couro. Quando a Califórnia debateu um imposto sobre grandes fortunas, ele não reclamou que era injusto, como alguns de seus colegas bilionários. “Não me incomoda pagar impostos”, declarou. A Nvidia era sua única paixão. “Se não estou trabalhando, estou pensando em trabalhar”, disse ele.\nMas, ao que parece, sua vida de trabalho estava enredada. Na quarta-feira, 11, o New York Times informou que Huang mantinha um caso com uma segunda mulher, funcionária da Nvidia.\nHomens poderosos são frequentemente atraídos pelo risco. E seu poder parece aumentar neles a sensação de impunidade. É um enredo tão antigo quanto o rei Davi e Betsabá, mulher de um dos principais soldados de Davi. (Para quem esqueceu as aulas de catecismo: Deus ficou bem irritado.) Uma mulher que trabalhou de perto com a elite da tecnologia acredita que eles são obcecados por duas coisas que não conseguem controlar: quanto tempo vão viver nesta Terra e certos impulsos primais.\n“Não existe sensação no mundo como a emoção de um romance novo”, disse ela. “Você não pode comprá-la nem forçá-la. É talvez a única emoção que homens ricos e poderosos não conseguem criar à vontade, então, naturalmente, para eles é irresistível. E é por isso que ela atropela o bom senso dos homens mais inteligentes e disciplinados do planeta.”\nA mulher pediu anonimato porque achava que até falar sobre sexo no Vale do Silício a contaminaria. Isso sublinha o mal-estar que ainda persiste entre homens e mulheres no mundo da tecnologia em 2026.\nOutros no Vale do Silício se mostraram reticentes em falar, ao menos no início da semana, porque achavam que Huang provavelmente se seguraria no cargo e temiam seu poder. Uma assessora de imprensa explicou que seus clientes não estavam disponíveis para comentar porque vender suas startups para a Nvidia era a estratégia de saída deles.\nHuang também teve seus defensores, pelo menos até o segundo caso vir à tona. “Só porque é escandaloso não quer dizer que seja traição à pátria”, disse Joanna Hoffman, uma das primeiras executivas da Apple. “Foi falta de juízo, mas é algo tão antigo quanto a raça humana.”\nSe os problemas de Huang fossem apenas sexo, ele talvez ainda tivesse emprego. Mas há também o flanco da espionagem, que a China nega.\n“Não conheço precedente para isso”, disse Margaret O’Mara, historiadora do Vale do Silício. “Espionagem corporativa, sim; espionagem de verdade envolvendo alguém notável, não. Tempos malucos.”\nOs casos de espionagem no mundo da tecnologia que são descobertos e processados normalmente envolvem funcionários de baixo escalão. Suas ações muitas vezes se desenrolam como farsas, como se nunca lhes tivesse ocorrido que poderiam ser pegos.\nUm funcionário recém-contratado da OpenAI, Abdulrahman Alfozan, foi preso no mês passado e acusado de interceptação ilegal depois de ter sido supostamente flagrado colocando um dispositivo de gravação embrulhado em papel higiênico em uma sala de reuniões. Alfozan, cidadão saudita, se declarou inocente.\nA OpenAI encontrou o aparelho durante uma varredura de rotina. O Google não teve a mesma sorte com um funcionário seu. Linwei Ding, que começou a trabalhar na empresa como engenheiro de software em 2019, subiu informações confidenciais sobre tecnologia de IA para sua conta pessoal do Google Cloud usando o aplicativo Notas da Apple, segundo documentos judiciais.\nAo mesmo tempo, Ding passou a ficar muito tempo na China, captando recursos para uma startup de IA. Para escapar da detecção enquanto estava a quase 10 mil quilômetros de seu escritório na Califórnia, pedia a um colega que passasse seu crachá de acesso, prática conhecida como ghost-badging .\nPoucos dias antes de planejar deixar os Estados Unidos de vez, Ding foi preso. Após um julgamento de 11 dias, em janeiro, um júri federal condenou o engenheiro, de 38 anos, por sete acusações de espionagem econômica e sete de furto. Ele foi sentenciado a quase um ano de prisão.\nHuang parece ter tido uma despreocupação semelhante em relação à sua ligação com Alice Huang, como se não fosse ser pego e, caso fosse, aquilo não fosse importar. Com seu poder, sua riqueza e sua importância, isso provavelmente era verdade — até deixar de ser.\nRegis McKenna é o grande decano do Vale do Silício, que chegou ali no início dos anos 1960, quando a região ainda era um pomar de damascos. A indústria de tecnologia era então um braço da indústria de defesa, e pioneiros como Gordon Moore e Robert Noyce tinham uma retidão do Meio-Oeste, quase militar. McKenna, um profissional de marketing que trabalhou para AOL, Apple, Genentech, Lotus, Microsoft e outras empresas, tinha compromisso para jantar quando liguei. Deu tempo de uma pergunta.\n“Sim, sim”, interrompeu ele. “Vira a cabeça deles, vira a moral deles? Sim. O dinheiro muda as pessoas, e começou a mudar o Vale do Silício há muito tempo.”\nEm poucos dias, se tudo correr como planejado, finalmente virá a abertura de capital da Anthropic. Qual o tamanho disso? Em 1999 e 2000, os anos de pico do boom das pontocom, 800 empresas abriram capital. O valor somado delas no primeiro dia de negociação provavelmente será menor que o da Anthropic, segundo cálculos do especialista em finanças Jay Ritter.\nNunca tão poucos ganharam tanto tão rápido. O mundo ficará embasbacado. Espere que alguns desses tecnólogos acreditem no que a imprensa escreve sobre eles, desprezem qualquer cautela natural e, na grande tradição do Vale do Silício, façam algo transcendentemente idiota.\nEste artigo foi publicado originalmente no The New York Times.\nEste conteúdo foi traduzido com o auxílio de ferramentas de Inteligência Artificial e revisado por nossa equipe editorial. Saiba mais em nossa Política de IA.\nFim da escala 6x1: Fux pede destaque e leva decisão de Dino a julgamento presencial no STF\nThe Economist: A Europa tem vivido acima das suas possibilidades; agora, as contas chegaram\nComo a tecnologia Mini LED transforma a experiência de imagem em telas grandes\nDe caixas eletrônicos a prédios de luxo: fim de agências cria negócio para fundos e construtoras\nEspionagem, traição e queda: o escândalo da Nvidia que o Vale do Silício não viu chegar"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Vídeo: avião atinge torre de transmissão de energia e cai em área de mata em SC",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlYxVDAzV2w5YXp5X2h5SzhfYTZkMUlncWVZS3h3QnlaXzhPcTJ3WUpreUUxOHhsYUsxeW5RYVZFUFBoZW1GS19oN09pajZXUjVrMjR6S2NIWWh2VXhINDJINGhmcjYwQW1vS2VvOGgtZ21KUmNFY3NqQ2xNNmFIREVOWWlUeEk2aFRnM3JzU0xXaVdyUkhlN2JqOC1neXNHYzE0Si1hTWpaYnlOVy1CU9IBtgFBVV95cUxPb2U3c05wMC1uZFBuNWt5WnJ1Qi1EMDI2WEh3RG5uSFBKVlZvR0F1ZkdOTTdJN0RSTGg0TFpYY3ZRbzNSTWc0eGdKVHV5NTFScXVIc0dFaFVCaDI1VExtNUdYUzFuVFhZY0x5RXRvQU45emxxNFNJVzdESFAxTlBIYW40ZHFUeER6ZTJ1SXdyZWV3SEVOV2dvTTNfVnMxd0Ita3ZnZi1SWEJDOVBYTjZiQ1d1UWZDZw?oc=5",
+   "resumo_original": "Vídeo: avião atinge torre de transmissão de energia e cai em área de mata em SC Estadão",
+   "data": "2026-11-14T14:21:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ministro do Meio Ambiente diz que petróleo é estratégico e nega contradição com agenda climática",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSldERWhqdzY3dVFJR01BZFQ3b1JhYTdfZFlYelFMaVFzT2NtZFAyNEdlSlVTajlDT1g3d1l6TVNvR0JyTVRKd3pqU09NcUdVVF9nd29EdC1xS3VqYldHODZZZGN1clZxbklsWktwbEEtVFJtTjViaVB6WWtUWEM0Um5CY082akQ4djh0Ti05bi0tVU9ndE5HS2ZzblcwYTI3TTZJTy0weGwxRTg1UHFkeUFEaWdJUVJFNjNjMFJBZ3lBS3pKS0FrTC1xTjdlRWZoU3dOM05n?oc=5",
+   "resumo_original": "Ministro do Meio Ambiente diz que petróleo é estratégico e nega contradição com agenda climática Estadão",
+   "data": "2026-11-14T18:58:25-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Nasdaq fecha em alta de mais de 1%; petróleo avança com tensão entre EUA e Irã",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVE3MGZfWFJnZXdMUmY0Tjl4aWFXR2V4VWs1WG4ycHdKZ2p6X3M5MW5aaVN3V01NRUlITXV4RzVKXzdKZU9DeEtQWXVWeklxZFl5NFViOGxPdS1CV25CeWd2RnpQNzhKM2RiTVZORkFTc2U3NEdBMDNfUXdqdENoeG9jREFBMVhPMy1RN29zV245dE0wdGw0eEtqN0lpbkEtenQ1ZlJsX2JVaXdJWEJobjlIQkM0YnFQdGhmY1NXSjBSYS1TX0NNZjRR?oc=5",
+   "resumo_original": "Nasdaq fecha em alta de mais de 1%; petróleo avança com tensão entre EUA e Irã Estadão",
+   "data": "2026-11-14T10:20:54-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [
+    "Mineração"
+   ],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Justiça interdita garimpo centenário da Amazônia em meio à expectativa por petróleo",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcXpBc2tVMGJGb2F1Y3JSd3pBQUVUNWlQSHVaeHBlZG5xTVpEZ09yR01oM0tuRFM3bUZlaFdXQk5YdWJLMVpDZUFhdExXekhDMThkWEFqSG9QMEoxN3BQWUxUckY4YkxQcTNUQk5PekZqUzhpdDg5aUpqZlFfQlNEU1Nvbm5wU1Jpc1lLTThmWjJpRnJodHdmWmJlTW5rbHkzUTFLR0M4cHVEdEp0NkwtLVJXdm9qakthSmVzWXBkMHRZb2pXOHFjSHhRSUdYNjA5?oc=5",
+   "resumo_original": "Justiça interdita garimpo centenário da Amazônia em meio à expectativa por petróleo Estadão",
+   "data": "2026-11-14T20:44:11-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmo3dm9QU2dvaFhEWlZ0UUl2bFpfUnZjd0d6Zk9Pb1M3ZjB1RUJmZWtmajNzMENzbGM2ZnYyRzhEOXFjTkU2ajg4UzE0SVJFQUxiUGxqcFBhb3lNZi1rNklCWHYyd1RrVnNZM3BBU0RKdnVVRWxrdncyLVEtRUF0SFplZEplRTZYZWRuMmcxX0dYYkhmZWtxYUJBVV91N3VvZmJwd3MzLW5kdDV3WXlxdENnZ3gyX2RCX3M4SkhsZk02QVBIX3k2WkdWWU54bDZvM29ZWUREanoyTnc?oc=5",
+   "resumo_original": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares Estadão",
+   "data": "2026-11-14T02:14:44-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "COP abre com menção a crise do petróleo, frustração e super El Niño de ‘lenha na fogueira’ climática",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGlOZnpUdHBjX0t5eWNObk5pVjhSV0tsd0Rsd2dmOTNtbEl3TzlBZnkyV1dpMGhuRnhRbWYyRE9xR3dSb2JobVlhYTFIU2prVEhyOEVQaXQ1X0JaOWFKR09uYm10Y3FWVWFyd3BFT1hRZVBtNHBQbUxzeHR6cG45ajZUeHd5ZzNDNFQ3b2FNVzJKS2xyVDgzOWJzLXdQNWU4cVlKUV8tYVVVZ2tMWGwwTDdPQzhWbUNrQ0V2NXhDbHdJWVNFdkMyN21FWl9MMW9ZcFpvT1dIUQ?oc=5",
+   "resumo_original": "COP abre com menção a crise do petróleo, frustração e super El Niño de ‘lenha na fogueira’ climática Estadão",
+   "data": "2026-11-14T19:40:14-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Petróleo pode chegar a US$ 70 com acordo entre EUA e Irã, diz economista",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUFoZ3pkaEFjVWd1T1BYd0hzMnR2aVNDOFkwcUMyeFlTNlFTVVZhRGlOV1dib0Zyb2pmQy1RZHl6NXprNTluN2JQTmRLSzB3N0lWVFZ6U0tHeG9MTzJOMnNvbklhYXJYLXdiejl0My1IZi1XUjlCSFNWZml6UHdKeXNzaGQ2U1pPME80VkJTaVFlMmhpTDlicVVsLUVXSENCMlZKWFBmRmNvU1RhdXZmVl9fWnhwUGtoa1B3MmpGZEI?oc=5",
+   "resumo_original": "Petróleo pode chegar a US$ 70 com acordo entre EUA e Irã, diz economista CNN Brasil",
+   "data": "2026-11-14T06:05:34-03:00"
+  }
+ ]
+}
