@@ -1,0 +1,370 @@
+{
+ "data": "2026-11-16",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 58,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 7,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 86,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 91,
+   "no_periodo": 6,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 92,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 4,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 3,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Agência iNFRA",
+   "idioma": "pt",
+   "titulo": "Mutabilidade contratual evolui para dar segurança jurídica a concessões",
+   "link": "https://agenciainfra.com/blog/mutabilidade-contratual-evolui-para-dar-seguranca-juridica-a-concessoes/?utm_source=rss&utm_medium=rss&utm_campaign=mutabilidade-contratual-evolui-para-dar-seguranca-juridica-a-concessoes",
+   "resumo_original": "da Agência iNFRA Como capacitar gestores de estados e municípios para os novos desafios das futuras concessões de infraestrutura foi a questão-chave do painel “Mutabilidade Contratual em Concessões”, realizado durante o Fórum Nacional de PPPs 2026. Para os participantes, a adaptação e a repactuação de contratos de longa duração serão processos inevitáveis e não representarão […] O post Mutabilidade contratual evolui para dar segurança jurídica a concessões apareceu primeiro em Agência iNFRA .",
+   "data": "2026-11-15T12:00:00-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Agência iNFRA",
+   "idioma": "pt",
+   "titulo": "Choques globais pressionam contratos e pedem novas matrizes de risco",
+   "link": "https://agenciainfra.com/blog/choques-globais-pressionam-contratos-e-pedem-novas-matrizes-de-risco/?utm_source=rss&utm_medium=rss&utm_campaign=choques-globais-pressionam-contratos-e-pedem-novas-matrizes-de-risco",
+   "resumo_original": "da Agência iNFRA A vulnerabilidade dos contratos de infraestrutura diante de eventos globais, como guerras e crises sanitárias, apontou para os limites dos mecanismos de reajuste atrelados ao um índice inflacionário, diante de oscilações abruptas nos preços de insumos vinculados ao petróleo, como o CAP (Cimento Asfáltico de Petróleo) e o diesel. Esse foi um […] O post Choques globais pressionam contratos e pedem novas matrizes de risco apareceu primeiro em Agência iNFRA .",
+   "data": "2026-11-15T10:00:00-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "A PETROBRÁS E A UNICAMP PROMOVEM ENCONTRO PARA DEBATER OS CAMINHOS QUE UNEM A PESQUISA E A PRODUÇÃO CIENTÍFICA",
+   "link": "https://petronoticias.com.br/a-petrobras-e-a-unicamp-promovem-encontro-para-debater-os-caminhos-que-unem-a-pesquisa-da-producao-cientifica/",
+   "resumo_original": "A Unicamp e a Petrobrás promovem na próxima terça-feira (17) das 9h30 às 17h, o evento “Deep Tech para Além da Pesquisa”. O encontro será realizado no auditório da Faculdade de Engenharia Civil, Arquitetura e Urbanismo (FECFAU) da Unicamp e reunirá especialistas da universidade, representantes da Petrobrás e lideranças do ecossistema de inovação para discutir […]",
+   "data": "2026-11-15T16:00:01-03:00",
+   "texto": "A Unicamp e a Petrobrás promovem na próxima terça-feira (17) das 9h30 às 17h, o evento “Deep Tech para Além da Pesquisa ”. O encontro será realizado no auditório da Faculdade de Engenharia Civil, Arquitetura e Urbanismo (FECFAU) da Unicamp e reunirá especialistas da universidade, representantes da Petrobrás e lideranças do ecossistema de inovação para discutir caminhos que aproximem a produção científica do setor produtivo de energia. O evento será aberto ao público e oferece uma oportunidade para pesquisadores, estudantes, empreendedores e fundadores de startups conversarem diretamente com especialistas da Unicamp e da Petrobrás sobre deep techs (empresas de base científica), financiamento de inovação e conexão com o mercado industrial. Segundo o coordenador do projeto Enfuse e professor da Unicamp, Marcelo de Castro , existe um desafio central no ecossistema brasileiro de inovação: “Há um descompasso entre o alto investimento feito em pesquisas em energia no país e uma baixa geração de startups e de deep techs nesse ecossistema. Por isso, o objetivo do projeto é conectar ciência, mercado e o ambiente de inovação. ” As inscrições para o evento são gratuitas, incluem brunch para os participantes e devem ser realizadas antecipadamente pelo site oficial do projeto . O evento faz parte do programa Entrepreneurship for Future and Sustaintable Energy ( ENFUSE)  da Faculdade de Campinas.\nO credenciamento terá início às 9h30. Na sequência, ao longo do dia, o evento contará com três painéis temáticos e uma sessão dedicada ao atendimento dos candidatos interessados no programa gratuito de capacitação do Enfuse, cujas inscrições vão até 4 de dezembro: 10h30 – O futuro da energia: demandas de óleo, gás e soluções sustentáveis: debate sobre os gargalos tecnológicos e tendências do setor. 11h30 – Construindo pontes com a indústria: a vivência prática e os desafios de aproximação entre deep techs e grandes corporações. 14h00 – Deep Cash (Como financiar a jornada da sua startup científica): caminhos de fomento, capital de risco e sustentabilidade financeira para novos negócios.\n15h00 – Capacitação Enfuse na prática: detalhamento presencial sobre as trilhas de Pré-Incubação, Incubação e Aceleração, com espaço para tirar dúvidas sobre o processo seletivo.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "PPSA APOIA PROJETO QUE TRANSFORMA PLÁSTICO RECICLADO EM ARTE NO RIO DE JANEIRO",
+   "link": "https://petronoticias.com.br/ppsa-apoia-projeto-que-transforma-plastico-reciclado-em-arte-no-rio-de-janeiro/",
+   "resumo_original": "O projeto Reciclar com Arte chegou ao Parque das Figueiras, na Lagoa Rodrigo de Freitas, no Rio de Janeiro, com patrocínio da PPSA (Pré-Sal Petróleo S.A.), por meio da Lei Federal de Incentivo à Cultura. Com uma exposição interativa sobre a importância da reciclagem, a iniciativa mostra como o plástico pode ganhar novas formas e […]",
+   "data": "2026-11-15T13:00:08-03:00",
+   "texto": "O projeto Reciclar com Arte chegou ao Parque das Figueiras, na Lagoa Rodrigo de Freitas, no Rio de Janeiro, com patrocínio da PPSA (Pré-Sal Petróleo S.A.), por meio da Lei Federal de Incentivo à Cultura. Com uma exposição interativa sobre a importância da reciclagem, a iniciativa mostra como o plástico pode ganhar novas formas e se transformar em arte e fonte de renda, promovendo a conscientização ambiental e social.\nDurante a visita, arte-educadores acompanham o público e apresentam as diferentes etapas do reaproveitamento do material, com destaque para as tampas de garrafas plásticas. O percurso explica processos como trituração, injeção e extrusão, além de abordar o uso da tecnologia e o funcionamento de máquinas 3D, capazes de produzir peças a partir do plástico reciclado.\nO espaço também reúne obras do artista Sandro Rodrigues , mentor do projeto, que utiliza plástico reaproveitado como matéria-prima em suas criações.\nAo término da exposição, os visitantes podem participar de oficinas artísticas em uma área dedicada à criação. O espaço disponibiliza papel, tinta, lápis de cor e materiais recicláveis, como fragmentos de plástico e tampinhas.\nA entrada é gratuita, e o projeto permanecerá no Parque das Figueiras até 23 de novembro. Ao longo desse período, estão programadas visitas de grupos de estudantes de escolas e de Vilas Olímpicas do Rio de Janeiro, complexos administrados pela Prefeitura.\nA iniciativa patrocinada pela PPSA também contempla a doação de um equipamento à Cooperativa Ecco Ponto Brasil Sustentável, em Realengo, além da capacitação dos trabalhadores para operar a máquina. A proposta é ampliar as oportunidades de geração de renda, sobretudo para catadores de materiais recicláveis.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "EMBRAPII E AGÊNCIA ALEMÃ LANÇAM CHAMADA DE R$ 81 MILHÕES PARA DESCARBONIZAR SETORES DE AÇO E CIMENTO",
+   "link": "https://petronoticias.com.br/embrapii-e-agencia-alema-lancam-chamada-de-r-81-milhoes-para-descarbonizar-setores-de-aco-e-cimento/",
+   "resumo_original": "A Embrapii (Empresa Brasileira de Pesquisa e Inovação Industrial) e a agência alemã de cooperação técnica GIZ lançaram uma chamada inédita para apoiar projetos de pesquisa, desenvolvimento e inovação (PD&I) destinados a reduzir as emissões de gases de efeito estufa nas cadeias produtivas de aço e cimento. A iniciativa integra uma ação internacional que prevê […]",
+   "data": "2026-11-15T04:00:27-03:00",
+   "texto": "A Embrapii (Empresa Brasileira de Pesquisa e Inovação Industrial) e a agência alemã de cooperação técnica GIZ lançaram uma chamada inédita para apoiar projetos de pesquisa, desenvolvimento e inovação (PD&I) destinados a reduzir as emissões de gases de efeito estufa nas cadeias produtivas de aço e cimento.\nA iniciativa integra uma ação internacional que prevê investimentos de até R$ 81 milhões para desenvolver e demonstrar tecnologias em ambiente operacional. A proposta é permitir a avaliação do desempenho técnico das soluções, de seu potencial de redução de emissões de CO₂ e de sua viabilidade econômica para aplicação em escala industrial.\nA chamada faz parte do Projeto INDUZ, uma parceria entre Brasil e Alemanha voltada à promoção da descarbonização profunda desses dois segmentos industriais, que estão entre os principais responsáveis pelas emissões globais de dióxido de carbono.\nOs projetos deverão ser realizados em rede, com a participação de empresas e de pelo menos duas Unidades Embrapii. O prazo de execução será de até 30 meses. Para apresentar os detalhes da oportunidade e esclarecer dúvidas das empresas interessadas, as instituições promoverão um webinar neste link no dia 18 de novembro.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Disputa sobre quem pagará conta coloca leilão bilionário de baterias em xeque",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/disputa-sobre-quem-pagara-conta-coloca-leilao-bilionario-de-baterias-em-xeque.shtml",
+   "resumo_original": "A menos de um mês do primeiro leilão de baterias do setor elétrico , marcado para os dias 2 e 4 de dezembro, uma disputa sobre quem vai pagar pelos contratos bilionários ameaça o calendário da licitação. Se forem contratados 5 GW de potência, a despesa pode chegar a R$ 4,5 bilhões por ano, segundo simulação da Aneel (Agência Nacional de Energia Elétrica) . Leia mais (11/15/2026 - 23h00)",
+   "data": "2026-11-15T23:00:00-03:00",
+   "texto": "Brasília A menos de um mês do primeiro leilão de baterias do setor elétrico , marcado para os dias 2 e 4 de dezembro, uma disputa sobre quem vai pagar pelos contratos bilionários ameaça o calendário da licitação. Se forem contratados 5 GW de potência, a despesa pode chegar a R$ 4,5 bilhões por ano, segundo simulação da Aneel (Agência Nacional de Energia Elétrica) .\nPela lei atual, essa conta deve ser dividida exclusivamente entre as empresas geradoras de eletricidade. As hidrelétricas, que ficariam com a maior parcela da cobrança, pedem que essa regra seja revista. Se ela for mantida, querem que os consumidores que produzem energia com painéis solares nos telhados também entrem no rateio. Na Câmara, um projeto de lei vai em outra direção: tira o custo das geradoras e o distribui entre todos os consumidores de energia do país.\nO impasse aumenta o receio de adiamento dos leilões, que, no mesmo cenário de 5 GW, podem movimentar cerca de R$ 30 bilhões em investimentos, segundo o governo.\nA Aneel afirma que os editais não carregam uma regra geral sobre o rateio por considerar que a contratação dos sistemas de baterias e a divisão da despesa que eles produzirão são temas distintos.\n\"A falta da regulamentação [sobre o rateio] não impede o prosseguimento do certame, pois o pagamento efetivamente ocorrerá com o início da operação das baterias, programado para meados de 2028\", disse a agência à Folha .\nO governo quer contratar grandes sistemas de baterias para lidar com uma mudança na forma como boa parte da eletricidade passou a ser produzida no país. Durante o dia, quando os painéis solares mais geram, a oferta de energia pode superar o que o sistema consegue aproveitar, o que pode causar instabilidade na rede e obrigar o corte da produção de algumas usinas. No fim da tarde, quando o sol se põe, outras fontes precisam aumentar rapidamente a geração para atender ao consumo.\nAs baterias permitiriam armazenar parte da energia solar ou eólica que sobra durante momentos do dia e devolvê-la à rede nos horários de maior necessidade.\nO governo fará os leilões para contratar a disponibilidade dessas baterias . Os vencedores vão receber uma receita fixa para manter equipamentos prontos para entregar potência quando forem acionados. Os contratos terão 15 anos, com início do serviço previsto para agosto de 2028.\nO primeiro leilão, no dia 2, tem exigência de conteúdo nacional. O segundo, no dia 4, é aberto a projetos de fornecedores estrangeiros .\nEntre as empresas que sinalizaram a intenção de disputar o leilão estão nomes como a francesa EDF Power Solutions e a brasileira Diamante Energia, que disse preparar projetos de até 300 MW no Ceará. Petrobras, Axia Energia, Taesa, Engie e ISA Brasil também cadastraram projetos, etapa anterior à entrega das propostas.\nDo lado dos fornecedores, fabricantes como WEG, Moura e UCB se movem com relação a sistemas que possam ser produzidos no Brasil. A brasileira You.On firmou parceria com a chinesa HyperStrong para fornecer equipamentos a projetos do certame com exigência de conteúdo nacional.\nA divisão do custo entre os geradores foi definida por uma lei de 2025. A Aneel ainda discute quais tipos de usinas entram na cobrança e quanto cada uma pagará. A ideia é que cada usina tenha um desconto conforme a capacidade de ajustar sua produção às necessidades do sistema.\nO modelo em discussão prevê que a cobrança seja rateada entre usinas hidrelétricas, eólicas, térmicas, nucleares e usinas solares de grande porte.\nPela proposta atual, as hidrelétricas teriam a maior parcela da cobrança inicial, de R$ 2,08 bilhões, ou 46,2% do total. As eólicas ficariam com R$ 1,21 bilhão por ano, ou 26,8%. As térmicas teriam R$ 674 milhões por ano. As usinas solares incluídas no cálculo assumiriam R$ 376 milhões por ano, enquanto as duas usinas nucleares do país bancariam R$ 163 milhões.\nOs valores servem como referência do cenário desenhado até agora. A despesa efetiva vai depender da quantidade de potência e dos preços que serão firmados nos contratos.\nA micro e minigeração distribuída, que inclui os painéis solares de telhados, ficou fora dessa conta. É isso que as hidrelétricas querem mudar, já que o armazenamento de energia está ligado justamente ao tipo de geração intermitente que o país passou a ter, com geração pela luz do sol e pelo vento.\nNo movimento mais recente sobre o tema, no início do mês, a Abrage (Associação Brasileira das Empresas Geradoras de Energia Elétrica), que representa mais de 90% da geração hidrelétrica do país, pediu que as regras do leilão fossem revistas, conforme informações obtidas pela Folha .\nA Abrage diz que as hidrelétricas já arcam com o desgaste de ter que ajustar a produção mais vezes ao longo do dia, o que pode elevar os gastos de manutenção. Um levantamento com 102 hidrelétricas de 21 empresas registrou 107.747 paradas e ligações de máquinas em 2024, 62% a mais que em 2015.\nO projeto que transfere a despesa para a conta de luz, retirando o ônus das geradoras, é do deputado Arnaldo Jardim (Cidadania-SP), que preside a Comissão Especial sobre Transição Energética da Câmara. A proposta, relatada pelo deputado Danilo Forte (PP-CE), prevê dividir o custo entre os consumidores dos mercados livre e regulado.\n\"No meu entender, não há por que carregar isso em cima só dos geradores, que já estão muito pressionados. Acho que isso gera uma distorção, porque o custo das térmicas e de outras fontes de energia firme [sem intermitência] também foi rateado pelo consumo\", disse Jardim.\nA Abrace Energia, que representa grandes consumidores industriais e consumidores livres, é contra dividir a conta entre os consumidores e também defende a inclusão dos telhados solares.\n\"Defendemos conceitualmente que cada um pague pelo custo que traz ao sistema e cada um receba pelo benefício que aporta\", disse Paulo Pedrosa, presidente da Abrace, à Folha . \"Seria justo que os painéis pagassem, também.\"\nJardim diz que não há outra opção à licitação a não ser mudar as regras de rateio. \"O que temos hoje são geradores preparados para recorrer à Justiça contra a cobrança prevista na lei atual. Acho que hoje tem uma grande incerteza, insegurança. O certame está em risco. Talvez fosse mais prudente adiar\", afirmou.\nApesar da negativa da Aneel, uma decisão política pelo adiamento poderia ser tomada pelo MME (Ministério de Minas e Energia). O ministério foi questionado sobre o assunto, mas não se manifestou até a publicação desta reportagem. Em setembro, quando os editais ainda estavam em discussão, o ministro Alexandre Silveira chegou a dizer que, \"tecnicamente, sempre há possibilidade\" de adiamento, mas afirmou que o ministério trabalhava para evitá-lo. A Aneel aprovou os editais em 27 de outubro, com as duas datas de dezembro.\nO fato é que, mesmo sob a lei atual, parte do custo pode chegar à conta de luz. Pela proposta da Aneel, uma usina que vende energia a uma distribuidora poderia repassar a ela a parte do custo ligada a esse contrato. Essa despesa pode chegar à conta de luz dos clientes da distribuidora.\nLei atual A cobrança recai sobre os geradores, mas a Aneel ainda definirá quanto caberá a cada tipo de usina\nProposta da Aneel Usinas mais flexíveis, como uma hidrelétrica com reservatório, pagariam menos. A geração distribuída, que inclui os telhados solares, ficaria de fora, e parte do custo pode chegar à conta de luz\nO que querem as hidrelétricas A Abrage (entidade que reúne as hidrelétricas) quer derrubar a cobrança exclusiva dos geradores e pede que, se essa regra ficar, a geração distribuída dos telhados solares também pague\nO que pensam os grandes consumidores A Abrace (entidade que reúne grandes consumidores) rejeita dividir a conta, quer manter a cobrança nos geradores e concorda com a inclusão dos painéis solares\nO que se passa na Câmara Um projeto de lei do deputado Arnaldo Jardim (Cidadania-SP), relatado pelo deputado Danilo Forte (PP-CE), propõe dividir o custo entre os consumidores dos mercados livre e regulado, isentando a geração"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão",
+   "idioma": "pt",
+   "titulo": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
+   "link": "https://www.estadao.com.br/economia/negocios/fim-do-ciclo-de-ouro-do-minerio-de-ferro-afeta-mineradoras-com-menor-competitividade-no-brasil/",
+   "resumo_original": "",
+   "data": "2026-11-15T05:30:00-03:00",
+   "texto": "Drones, satélites, 5G, gestão de dados e veículos autônomos já estão na operação da Vale, Rio Tinto e BHP; para especialistas é a revolução industrial do setor. Crédito: Estadão\nOs anos dourados da mineração de ferro parecem estar chegando ao fim, após seis anos de bonança, avaliam especialistas e executivos da indústria. O setor começou a enfrentar um cenário complicado ao longo deste ano com a disparada dos custos de transporte marítimo até os principais mercados consumidores, que estão em países da Ásia, como China , Japão e Coreia do Sul . Ao mesmo tempo, é visto o arrefecimento dos preços da commodity usada para fabricação do aço .\nO problema bateu às portas de muitas mineradoras de ferro brasileiras, com destaque para as independentes que atuam na área do Quadrilátero Ferrífero de Minas Gerais. São cerca de duas dezenas de empresas de pequeno e médio porte. Mas produtoras de maior robustez e exportadoras, como CSN Mineração e Mineração Usiminas (Musa) , também sentiram o baque. A nova realidade ameaça tirar do mercado global um volume próximo de 200 milhões de toneladas, devido a operações no vermelho.\nÉ uma tempestade perfeita: queda de preços do minério para patamares abaixo de US$ 100 a tonelada e elevação dos fretes na rota Brasil-Ásia para níveis de US$ 40 a tonelada. De imediato, foram atingidas as produções de minério de menor qualidade e mineradoras sem logística e acesso a mercados no exterior.\nO setor já vinha sofrendo pressão nos preços, cuja referência nas negociações é definida na China, onde está mais da metade da demanda global (mais de 1,2 bilhão de toneladas importadas por ano). Os US$ 214 a tonelada, de julho de 2021 — após o arrefecimento da pandemia de covid-19 —, são hoje apenas uma miragem. Neste ano, em boa parte do tempo, os preços oscilaram entre US$ 90 e US$ 100 por tonelada.\nAs expectativas de retomada futura dos patamares anteriores são pouco promissoras. Em teleconferência para falar dos resultados do terceiro trimestre, Gustavo Pimenta, presidente da Vale (maior mineradora mundial da commodity) , disse a investidores e analistas de bancos que cerca de 10% da produção global está perdendo dinheiro no atual cenário. O mundo produz 2,6 bilhões de toneladas por ano. A Vale acrescentou que cerca de 5 milhões de toneladas de volume próprio para 2027 correm risco.\nO mercado transoceânico de minério de ferro, que não inclui produção para consumo doméstico, foi de 1,77 bilhão de toneladas em 2025. O Brasil ficou com 23,5%, com 416 milhões de toneladas, bem abaixo da Austrália, segundo consultorias do setor. A estimativa é que ao menos 160 milhões de toneladas saiam desse mercado por falta de competitividade no atual cenário.\n“O minério de alta qualidade vai expulsar do mercado o minério de pior qualidade”, avalia José Carlos Martins, especialista no setor e presidente do conselho de administração da Cedro Participações , empresa com duas operações de minério de ferro em Minas. Ele aponta que a commodity caiu para a faixa de US$ 90 e o frete, a partir do porto até a Ásia, saltou para US$ 40 a tonelada. “Uma mina na região do Quadrilátero mineiro gasta em torno de US$ 70 por tonelada, considerando custos operacionais, descontos de qualidade e logística de transporte. Sobra quase nada.”\nO executivo diz que há um crescimento das compras pela China de 4% em nove meses deste ano, ante o mesmo período de 2025, mas observa que há formação de estoques, há deterioração da qualidade do minério (menor teor) no mundo e há problemas para quem não domina canais de logística marítima. O frete do Brasil à Ásia é o triplo do valor pago pelas mineradoras australianas, que estão a um terço de distância do grande mercado.\n“Todo o minério marginal, que soma cerca de 300 milhões de toneladas no mundo, nesse cenário, tende a sair do mercado”. Esse movimento, diz, é que vai sustentar preços futuros do minério de alta qualidade. Na semana passada, na Bolsa de Mercadorias de Dalian (China), a cotação do minério para contratos de janeiro era de US$ 101,10 a tonelada. Na Bolsa de Cingapura, contrato de referência (62% de teor de ferro) de dezembro era negociado a US$ 91,60 a tonelada.\nA partir de setembro, junto com CMIN e Musa, que anunciaram cortes de produção de frentes de mineração de menor competitividade, diversas mineradoras independentes de Minas Gerais começaram a anunciar paralisações por tempo indeterminado. Na lista estão Itaminas , grupo J. Mendes e Mineração Cabo Verde, entre tantas outras que atuam na região ferrífera de Minas. Todas concederam férias coletivas para parte dos seus funcionários.\nA alta do frete na rota Brasil-Ásia, consequência da guerra Estados Unidos - Irã , foi fator determinante para os minérios de menor qualidade (menos valorizados). O valor do transporte passou de quase US$ 25 para até US$ 42 a tonelada. As independentes vendem, em geral, para as grandes — Vale, CSN, Gerdau — e para produtoras de ferro-gusa do País.\nA Vale tem a vantagem de ter contratos de transporte com fretes previamente fixados para o longo prazo. A escalada do frete marítimo é consequência da insegurança criada pela guerra iniciada pelos Estados Unidos contra o Irã em fevereiro deste ano.\nNa avaliação da equipe de analistas do Itaú BBA , liderada por Daniel Sasson, a pressão pode continuar enquanto o frete Brasil-China permanecer elevado. “Nosso cenário-base considera alguma normalização em 2027, com o frete spot ao redor de US$ 30 a tonelada, ainda acima dos níveis históricos mais baixos (ao redor de US$ 20-22) .”\nSasson diz que há uma previsão de melhora, mas não necessariamente um retorno rápido às condições anteriores. Além da questão da guerra EUA-Irã e o impacto no preço do petróleo, há uma dinâmica mais “apertada” de oferta-demanda por navios, que também tem tido participação relevante no aumento do preço do frete.\nVale vê lucro despencar 53% no 3T26, apesar de receita bilionária em alta; veja balanço\nCSN Mineração corta projeções e põe dividendos sob pressão; impacto pode chegar a R$ 1 bilhão\nUsiminas volta a lucrar no terceiro trimestre, mas prevê piora operacional no 4T26\nNo Brasil, destaca, os ajustes pontuais, ocorreram especialmente em operações de menor teor e maior custo. “A CSN Mineração, por exemplo, reduziu sua projeção de produção própria mais compras (de minério) de terceiros para 39 milhões a 41 milhões de toneladas em 2026, ante 45 milhões a 47 milhões de toneladas de antes. Na Usiminas, a suspensão da planta de Samambaia atingiu operação que correspondia a cerca de 30% da capacidade da mineração.”\nO Itaú BBA projeta preço do minério de ferro a US$ 97,5 a tonelada em 2027, para um frete “spot” Brasil-China ao redor de US$ 30. “Do lado da oferta, esperamos disciplina maior entre produtores de custo mais elevado, sobretudo em minérios de menor qualidade. Na demanda, a China continua sendo o principal fator de risco, diante da menor produção de aço e da fragilidade do setor imobiliário”, afirma.\nO anúncio de paralisação mais recente foi o da Cedro, que opera duas minas: uma em Nova Lima (região metropolitana de Belo Horizonte) e outra em Mariana (região central do Estado). O foco foi a Mina do Cota, em Mariana, com operações suspensas temporariamente, a partir de 9 de novembro. Cerca de 500 trabalhadores (diretos e indiretos) foram colocados em férias coletivas, pelo período de até 30 dias.\nEm comunicado nesta segunda-feira, 9, a empresa informou que a medida não está relacionada ao problema de custos de fretes e queda nos preços do minério. A Cedro informa que, de fato, aguarda a manifestação do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) para começar as obras de expansão da mina para instalação do novo projeto de produção no local. A assessoria da Cedro informa que as licenças ambientais (prévia, de instalação e de operação), já foram concedidas pelo Conselho Estadual de Política Ambiental (Copam).\nO empreendimento terá investimento de R$ 3,5 bilhões, em parceria com a Vale, dona das reservas minerais. O novo projeto terá capacidade de fazer 5,5 milhões de toneladas por ano de pellet feed, produto de alto teor (67%) buscado por siderúrgicas em planos de descarbonização. Toda a produção será vendida à Vale, em termos pré-estabelecidos, destaca Martins. “Estamos confiantes de que essa etapa (conduzida pelos técnicos do Iphan) será concluída em breve”, afirma o presidente do Conselho.\nA Itaminas, com operações de mineração em Sarzedo (MG), informou por comunicado que fez uma paralisação temporária e programada de parte de suas operações como medida de adequação ao cenário de mercado. A decisão, diz a mineradora, foi tomada com responsabilidade, “considerando as condições comerciais e a necessidade de preservar a eficiência e a competitividade da companhia”.\nSegundo a empresa, as operações já foram retomadas e, no período, aproveitou para realizar melhorias nas plantas industriais. A Itaminas confirmou que cerca de 300 empregados entraram em férias coletivas. A empresa tem capacidade produtiva instalada da ordem de 9 milhões de toneladas anuais. “A interrupção foi pontual e não representou a paralisação integral das atividades. A decisão buscou equilíbrio entre produção, eficiência e competitividade”, afirmou.\nCSN Mineração e Musa divulgaram fatos relevantes comunicando as paralisações de produção, explicitando os motivos (aumento dos custos e perda de competitividade).\nA produção de minério de ferro no Brasil está concentrada nos Estados de Minas Gerais — de forma mais espalhada e bem concentrada na região conhecida como o Quadrilátero Ferrífero Mineiro — e do Pará, onde basicamente há operação da Vale na reserva mineral de Carajás.\nA produção brasileira é da ordem de 450 milhões de toneladas por ano, a partir de uma capacidade instalada de 600 milhões. Em torno de 90% do volume vai para o mercado externo, gerando divisas de US$ 29 bilhões em 2025 (total de 416 milhões de toneladas, de acordo com dados do Instituto Brasileiro de Mineração-Ibram) .\nHá três grupos de empresas produtoras de minério de ferro no Brasil. No primeiro, são as que se dedicam especificamente ao negócio: a Vale, líder mundial com 330 milhões de toneladas, CSN Mineração, Anglo American , Samarco e LHG Mining (grupo J&F).\nNo segundo grupo, estão siderúrgicas que investiram nessa área como estratégia de garantir suprimento a melhor custo de suas usinas de aço. O excedente é vendido no mercado doméstico e exportado. É o caso de Usiminas (que detém 70% da Musa), Gerdau , Vallourec e ArcelorMittal .\nNa terceira posição, estão os chamados mineradores independentes, a maioria situada em Minas Gerais, na região do Quadrilátero Ferrífero. São empresas que operam minas de médio e pequeno porte, produzindo de 600 mil toneladas a 8 milhões de toneladas por ano e sem logística própria de acesso aos seus clientes. Estima-se uma produção anual de 65 milhões de toneladas.\nNesse grupo, se destacam Itaminas, grupos Cedro e J. Mendes, Bemisa, Morro do Ipê, Herculano, Extrativa Mineral, Brazil Iron, Minerita, além de outras. Em outros Estados há a Ligga (Pará), Tombador (Bahia) e Vétria (Mato Grosso do Sul).\nThe Economist: Para a geração baby boomers, os tempos de prosperidade econômica acabaram\nThe Economist: A Europa tem vivido acima das suas possibilidades; agora, as contas chegaram\nJensen Huang perdeu o cargo na Nvidia e US$ 10 bilhões; um divórcio pode custar muito mais\nEve, da Embraer, fecha acordo com startup FlyBIS para venda de até 12 ‘carros voadores’\nAjuste fiscal: entenda, ponto a ponto, o projeto do governo aprovado no Senado"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "CSN Mineração preocupa: dívida salta R$ 1,5 bilhão no 3T26 e pode ficar ainda maior",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbEVfRkNLMmtObGpvQWtVNm0xeVNjcF80QjV2R2xVWVRrY2Vnei1PVkR1MWFFM21VZTFGbGZSVHFlWHJXV2NCbTk2MHlLVmtGelV1NG81MmluNUxjdXU0TnZXZzBzNXk5cWUyN1ZHM3d2YTZlZUNrTDk0SGM4Qkh4Y29RU2RZcExpdGJNNTgtcndvaWVleGU5cmtqOFB6QlcwSW1xVDFMZ1M4eW5NMUgzaGFNSFcxTGhtQUZPcFloeUEtalJXTnFROGZtVWhZSjk3X25oS1R6WEZudw?oc=5",
+   "resumo_original": "CSN Mineração preocupa: dívida salta R$ 1,5 bilhão no 3T26 e pode ficar ainda maior Estadão",
+   "data": "2026-11-15T16:39:14-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ministro do Meio Ambiente diz que petróleo é estratégico e nega contradição com agenda climática",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSldERWhqdzY3dVFJR01BZFQ3b1JhYTdfZFlYelFMaVFzT2NtZFAyNEdlSlVTajlDT1g3d1l6TVNvR0JyTVRKd3pqU09NcUdVVF9nd29EdC1xS3VqYldHODZZZGN1clZxbklsWktwbEEtVFJtTjViaVB6WWtUWEM0Um5CY082akQ4djh0Ti05bi0tVU9ndE5HS2ZzblcwYTI3TTZJTy0weGwxRTg1UHFkeUFEaWdJUVJFNjNjMFJBZ3lBS3pKS0FrTC1xTjdlRWZoU3dOM05n?oc=5",
+   "resumo_original": "Ministro do Meio Ambiente diz que petróleo é estratégico e nega contradição com agenda climática Estadão",
+   "data": "2026-11-15T16:23:56-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Dez policiais e 18 combatentes morrem em operação contra mineração ilegal no Paquistão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWx0YUNyZ2liM1RBTzRhcXFrUWhVVm1KOWFZdlRXSS0yb3BPcGdnTWtreVNCcmwtQlR6Vk1VTzhLV2hhdnZGSFk5SzFQeVNOdFNaYno3RHFLT0x1RXdwcXRLWEx3RE9oZUxjQm5xUzRkcjhfNjZNN1ktcnJlZUNJekJqbjFDM0EzUU9GRGJIZmIwQlFUcHNjMkthR0dDTUlEQkwxNjNGYUM2eGZoZFNWb3F6d3RYendtNlhFVURyT3IxNVpkakFOY3dMVlpiSFZySVc3SzYtRQ?oc=5",
+   "resumo_original": "Dez policiais e 18 combatentes morrem em operação contra mineração ilegal no Paquistão Estadão",
+   "data": "2026-11-15T18:59:47-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Nasdaq fecha em alta de mais de 1%; petróleo avança com tensão entre EUA e Irã",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVE3MGZfWFJnZXdMUmY0Tjl4aWFXR2V4VWs1WG4ycHdKZ2p6X3M5MW5aaVN3V01NRUlITXV4RzVKXzdKZU9DeEtQWXVWeklxZFl5NFViOGxPdS1CV25CeWd2RnpQNzhKM2RiTVZORkFTc2U3NEdBMDNfUXdqdENoeG9jREFBMVhPMy1RN29zV245dE0wdGw0eEtqN0lpbkEtenQ1ZlJsX2JVaXdJWEJobjlIQkM0YnFQdGhmY1NXSjBSYS1TX0NNZjRR?oc=5",
+   "resumo_original": "Nasdaq fecha em alta de mais de 1%; petróleo avança com tensão entre EUA e Irã Estadão",
+   "data": "2026-11-15T09:33:01-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Bolsas de Nova York caem com pressão de crise da Nvidia; dólar e petróleo avançam",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0VZc0Y0a2k5RXR2NHNIYXRDeWVDekE5Y1BId3JHY3dUNlN4YkdEVWxIZVpjYkJ1X0ttRXdGZjJIcjVkbVJ2d2NSRFlqcFVCRG9NQVhEY2V2REdsY2l1V0RoQmVFYWxZaU5iLWZhMC03VFZPZkxNandxZzhhMzFLUDg5UWJzYkRUdkU2SVNlOF9fYWdNdFdwa2ZvZUhSdzdoNWVSajZ0azhYRV9aY21JU3R0UzN4dU1lZkI1a3FvTDdZV21ndlhZSjMwWGdZbF95ZUNfQVptQ2ZidHNEbWVOeXE1SDNNQ09tWjEyYi03Mlc?oc=5",
+   "resumo_original": "Bolsas de Nova York caem com pressão de crise da Nvidia; dólar e petróleo avançam Estadão",
+   "data": "2026-11-15T06:09:58-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Eletrificação chega aos caminhões pesados; mas será que vale pagar até R$ 2,5 milhões?",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0FDbjVMLWlVem5UVHBQNEQ3X0hLZ2ZQS0xxRVNGYmh2anhTS2N4d1JReldhelpFWVZNa2NjR0tXR1dfY29tYldkT1JGZGFqOUZ0RFlqWGFtMjNjQWhZX205MWctWnFwLUpVcGFSb3pZemRveFdnZDBzNHJMaTZudktwVDVwd2JmSHl2bEdNSGhVM0pxZk1DbDRRaDBJVUpPb2c3MW0xZ0pfVTBvVFFpRWNyLUNXOG1UUDlPbVpkYkpsQ0Z0S0wyempYWDZhRk9D0gHWAUFVX3lxTE9QYk11X2xPT1VBZmxvYm1Tc01TYWdNbk1SZWlTWkhPZ2RDb2p1Ym9idi11OEtKYkx3eTduMGV0UkZVdVJjYjF5VHVHcTAxOGl3MjI3Y3ZwSG8zY21kSDJDVzNRTWp3b2NEdm1LUDN0elFCMi1uMld4ZlV5MkV0RlZjRDVGRzVKSll1cWk3Q0xTVi1pLU9pa1dFbjVzMFFFV2ZUUW1KZkZ3QzZyUy0xSEZKNGU0dDFJc1BIV3VXZVFVUVktYWhVcDlqRk51SGpOMjBsaS1rMXc?oc=5",
+   "resumo_original": "Eletrificação chega aos caminhões pesados; mas será que vale pagar até R$ 2,5 milhões? Estadão",
+   "data": "2026-11-15T09:58:00-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Área técnica da Aneel propõe alta de 22,64% na tarifa residencial da CEEE-D",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWc4N2FvdGJHdHFLUFNrTVRxa0xjTUdHOTBZVFQzQnU4TVZBY0tqRl9CVkU0YXpEOGhScGZvcV80LTV6dmpNalFHRXF0blRQZ0FqUHo5MXg1REFDanFpNVRKTVg3SmZraDhRd3Z3S0FzTlV1SlQxcDBvZHRRbXFJM0hZUnRXd0lSQUQxZlhFdDc1WGtxUFR5elF2a1B1SlRQU1RyOEtFSzktMVdVVFE?oc=5",
+   "resumo_original": "Área técnica da Aneel propõe alta de 22,64% na tarifa residencial da CEEE-D CNN Brasil",
+   "data": "2026-11-16T04:30:31-03:00"
+  }
+ ]
+}
