@@ -417,8 +417,8 @@
     "id": "2026-11-13-linkedin-escritorio-documento-1",
     "rede": "linkedin-escritorio",
     "tipo": "documento",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529167449968111616",
     "erro": "",
     "quando": "2026-11-19T13:02:01.000Z"
   },
@@ -426,8 +426,8 @@
     "id": "2026-11-13-instagram-ronald-reel-1",
     "rede": "instagram-ronald",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/Df7JGjxEsgv/",
     "erro": "",
     "quando": "2026-11-19T13:02:12.000Z"
   },
@@ -435,8 +435,8 @@
     "id": "2026-11-13-linkedin-ronald-imagem-1",
     "rede": "linkedin-ronald",
     "tipo": "imagem",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:share:7529167449129398273",
     "erro": "",
     "quando": "2026-11-19T13:02:26.000Z"
   },
@@ -444,8 +444,8 @@
     "id": "2026-11-13-instagram-escritorio-reel-2",
     "rede": "instagram-escritorio",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/Df7JMuMjpSi/",
     "erro": "",
     "quando": "2026-11-19T13:02:31.000Z"
   },
@@ -453,8 +453,8 @@
     "id": "2026-11-13-linkedin-escritorio-reel-2",
     "rede": "linkedin-escritorio",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529167753736458240",
     "erro": "",
     "quando": "2026-11-19T13:02:37.000Z"
   },
@@ -462,8 +462,8 @@
     "id": "2026-11-13-instagram-ronald-reel-2",
     "rede": "instagram-ronald",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/Df7JJBEmwXA/",
     "erro": "",
     "quando": "2026-11-19T13:02:44.000Z"
   },
@@ -471,8 +471,8 @@
     "id": "2026-11-13-linkedin-ronald-imagem-2",
     "rede": "linkedin-ronald",
     "tipo": "imagem",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:share:7529167564921532417",
     "erro": "",
     "quando": "2026-11-19T13:02:51.000Z"
   },
@@ -480,8 +480,8 @@
     "id": "2026-11-13-instagram-ronald-imagem-1",
     "rede": "instagram-ronald",
     "tipo": "imagem",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/p/Df7JKUIDQ3H/",
     "erro": "",
     "quando": "2026-11-19T13:02:57.000Z"
   }
