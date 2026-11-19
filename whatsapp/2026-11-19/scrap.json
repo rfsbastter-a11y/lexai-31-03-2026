@@ -2493,5 +2493,918 @@
    "resumo_original": "Lake Resources pede adesão ao RIGI na Argentina para projeto de lítio Kachi, de US$ 1,16 bi BNamericas",
    "data": "2026-11-18T13:39:28-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Quinta-feira. 219 matérias, com duplicadas agrupadas.",
+  "destaque": {
+   "ids": [
+    140,
+    179,
+    59
+   ],
+   "titulo": "ANP abre a última fase da revisão tarifária dos gasodutos e nega pedidos de suspensão",
+   "texto": "A diretoria da ANP aprovou por unanimidade, em reunião extraordinária em 18/11, consulta pública de dez dias corridos sobre as receitas e as tarifas de cinco transportadoras de gás para o ciclo 2026-2030. É a terceira e última fase da revisão tarifária. Na mesma reunião, também por unanimidade, a agência negou os pedidos de transportadoras e da associação do setor para suspender a decisão de outubro sobre a base de ativos. O gas release tem audiência pública nesta quinta (19), às 10h."
+  },
+  "itens": [
+   {
+    "ids": [
+     140,
+     59,
+     61,
+     67,
+     119,
+     120,
+     145,
+     179
+    ],
+    "titulo": "ANP abre consulta de dez dias sobre tarifas dos gasodutos e nega suspender a revisão",
+    "resumo": "Terceira e última fase da revisão para o ciclo 2026-2030, com cinco transportadoras; pedidos de suspensão negados por unanimidade."
+   },
+   {
+    "ids": [
+     37,
+     139,
+     125
+    ],
+    "titulo": "Gas release: estudos divergem sobre efeito no preço; entidades pedem desvinculação do Brent",
+    "resumo": "Audiência pública da ANP ocorre nesta quinta (19)."
+   },
+   {
+    "ids": [
+     118
+    ],
+    "titulo": "Mais oferta e novos produtos reduzem o preço do gás",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     35,
+     201,
+     143
+    ],
+    "titulo": "EPE projeta alta de 80% na oferta de gás em dez anos e queda da importação boliviana",
+    "resumo": "Consumo térmico médio passaria de 14 para 25 milhões de m³/dia; Gasbol cairia a 5 milhões de m³/dia a partir de 2030."
+   },
+   {
+    "ids": [
+     136
+    ],
+    "titulo": "Acordo leva GNL ao interior de Santa Catarina",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     72,
+     109
+    ],
+    "titulo": "Biometano e gás canalizado chegam a Maringá (PR)",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     2,
+     36
+    ],
+    "titulo": "Cade publica o primeiro caderno sobre concorrência no setor elétrico; 2025 teve recorde de 171 operações julgadas",
+    "resumo": "Estudo cobre 972 atos de concentração de 1995 a junho de 2026."
+   },
+   {
+    "ids": [
+     1,
+     170
+    ],
+    "titulo": "Cade e Secretaria de Reformas Econômicas assinam acordo de cooperação técnica",
+    "resumo": "Acordo celebrado em 18/11 para fortalecer a política de concorrência."
+   },
+   {
+    "ids": [
+     3
+    ],
+    "titulo": "Cade realiza a 276ª Sessão Ordinária de Julgamento",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     168
+    ],
+    "titulo": "Cade condena empresas por cartel em licitações de estádios da Copa de 2014",
+    "resumo": "Decisão unânime; investigação começou com acordo de leniência."
+   },
+   {
+    "ids": [
+     29,
+     187,
+     177
+    ],
+    "titulo": "PL dos mercados digitais: votação deve ser acelerada; artigos discutem o alcance",
+    "resumo": "Especialistas dizem que o foco é concorrência, não conteúdo."
+   },
+   {
+    "ids": [
+     33
+    ],
+    "titulo": "Gestora global compra gestora de investimentos por R$ 850 milhões; operação depende do Cade",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     185
+    ],
+    "titulo": "Ex-superintendente do Cade é cotado para o comando do Banco do Brasil",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     20,
+     27,
+     15
+    ],
+    "titulo": "Reino Unido: ações coletivas contra o Google sobre publicidade e sideloading",
+    "resumo": "Ação de £3,3 bilhões alega inflação de preços de anúncios."
+   },
+   {
+    "ids": [
+     22,
+     28
+    ],
+    "titulo": "Tribunal britânico certifica ação coletiva por cartel do salmão",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     21
+    ],
+    "titulo": "Reino Unido abre investigação formal sobre fusão de £3,1 bilhões entre terceirizadoras",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     6,
+     24
+    ],
+    "titulo": "Fox/Roku: Newsmax critica compromissos aceitos pelo DOJ",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     23
+    ],
+    "titulo": "Tribunal dos EUA analisa liminar mais restrita em Nexstar/Tegna",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     25
+    ],
+    "titulo": "FTC e economista divergem sobre fusões de hospitais",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     26
+    ],
+    "titulo": "Fusão Union Pacific/Norfolk Southern enfrenta oposição",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     30
+    ],
+    "titulo": "Autoridade europeia cobra respeito às regras processuais",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     31
+    ],
+    "titulo": "Booking pede ao tribunal da UE para anular veto à compra da eTraveli",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     4,
+     16
+    ],
+    "titulo": "Varejistas mantêm acusações antitruste contra cápsulas K-Cup nos EUA",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     5,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     18,
+     19,
+     14
+    ],
+    "titulo": "Outros litígios e temas jurídicos nos EUA",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     32
+    ],
+    "titulo": "Resumo semanal da GCR",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     213
+    ],
+    "titulo": "Licitantes questionam termos de concorrência de rede no México",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     181
+    ],
+    "titulo": "Artigo: concorrência desleal pelo tempo de adolescentes",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     189
+    ],
+    "titulo": "Famílias dividem compra de imóveis no Canadá",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     180,
+     126,
+     91
+    ],
+    "titulo": "Transmissoras pedem à Aneel não dividir receita das baterias com consumidores; associação alerta para risco de adiamento",
+    "resumo": "Leilões marcados para 2 e 4/12; Abrate pede decisão antes das inscrições."
+   },
+   {
+    "ids": [
+     135,
+     60,
+     85,
+     89,
+     68,
+     62
+    ],
+    "titulo": "Associações defendem o texto original do PL 3.716/2026, que muda o rateio das baterias",
+    "resumo": "Autor quer votação antes dos leilões; presidente da Câmara diz que não vota nesta semana."
+   },
+   {
+    "ids": [
+     39
+    ],
+    "titulo": "Fabricante pede tarifa zero para importar baterias do LRCap",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     82
+    ],
+    "titulo": "Por 3 a 2, Aneel habilita consórcios térmicos no LRCap",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     63,
+     84,
+     169,
+     76,
+     172,
+     192,
+     211,
+     117,
+     142
+    ],
+    "titulo": "Diretor-geral da Aneel pediu vista para avaliar alegações finais no processo de caducidade em SP",
+    "resumo": "Maioria já votou pela recomendação; decisão final cabe ao MME e pode ficar para o ano que vem."
+   },
+   {
+    "ids": [
+     128
+    ],
+    "titulo": "ONS poderá coordenar cortes de geração distribuída por meio das distribuidoras",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     78,
+     129
+    ],
+    "titulo": "Associação de recursos distribuídos questiona novas regras para geração compartilhada",
+    "resumo": "Pede análise de impacto regulatório."
+   },
+   {
+    "ids": [
+     108
+    ],
+    "titulo": "Aneel abre consulta sobre contabilização do excedente de geração distribuída",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     40,
+     102
+    ],
+    "titulo": "Absolar vê risco de alta nas tarifas com IOF sobre debêntures incentivadas",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     137
+    ],
+    "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     41
+    ],
+    "titulo": "Itaipu troca diretor-geral paraguaio",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     42,
+     90
+    ],
+    "titulo": "Leilão de energia existente movimenta preços de 2027 na BBCE, que bate recorde",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     43,
+     44
+    ],
+    "titulo": "Saída de mais de 70 comercializadoras desde 2020 expõe riscos de crédito no mercado livre",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     47,
+     79
+    ],
+    "titulo": "Abertura do mercado livre: contratos legados e desafio do varejo",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     49
+    ],
+    "titulo": "Falta de padronização pode comprometer o Open Energy",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     115
+    ],
+    "titulo": "MME prevê levar ao Planalto revisão das regras de comercialização",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     45
+    ],
+    "titulo": "CCEE suspende desligamento de agente após decisão judicial",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     46
+    ],
+    "titulo": "Eletrificação da indústria passa por novas regras para baterias",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     38
+    ],
+    "titulo": "Artigo: o potencial das hidrelétricas de até 50 MW",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     34
+    ],
+    "titulo": "Distribuidora estadual chega à troca de governo com foco em retorno",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     81,
+     198
+    ],
+    "titulo": "Caatinga concentra 79% da supressão de vegetação para projetos eólicos e solares",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     92
+    ],
+    "titulo": "Associação quer hidrogênio verde no Mapa do Caminho Nacional",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     101,
+     127,
+     103
+    ],
+    "titulo": "COP31: eficiência energética e meta de eletrificação de 35% até 2035",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     70,
+     104,
+     123
+    ],
+    "titulo": "Distribuidora investe R$ 500 milhões em manutenção preventiva em MG",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     73
+    ],
+    "titulo": "Mapeamento de 100% da rede de transmissão até 2029 contra eventos extremos",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     74,
+     190
+    ],
+    "titulo": "Lançado ETF do índice de energia elétrica da B3",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     75
+    ],
+    "titulo": "Rosatom defende ciclo fechado do combustível nuclear",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     80,
+     97,
+     107
+    ],
+    "titulo": "Empresa assume O&M de 49,2 MWp em usinas solares",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     83,
+     106,
+     116
+    ],
+    "titulo": "Robô autônomo limpa painéis solares sem água",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     130,
+     131
+    ],
+    "titulo": "Projetos de eficiência e energia solar em instituições e comunidade indígena",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     132
+    ],
+    "titulo": "Sistema agrivoltaico redistribui luz e aumenta produtividade",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     96
+    ],
+    "titulo": "Geradora aprova emissão de debêntures de até R$ 1,2 bilhão",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     111
+    ],
+    "titulo": "Transmissora amplia certificação ambiental de subestações",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     113
+    ],
+    "titulo": "Plano de distribuidora no Amazonas vai a audiência pública",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     124
+    ],
+    "titulo": "PCH de 18,15 MW tem operação adiada por problema na barragem",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     105
+    ],
+    "titulo": "Nova versão do modelo SDDP",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     95
+    ],
+    "titulo": "Reservatórios do Norte operam com 52,2%",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     86,
+     87,
+     88,
+     93,
+     94,
+     98,
+     99,
+     100
+    ],
+    "titulo": "Documentos e boletins da CCEE",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     205,
+     206,
+     207,
+     208,
+     209
+    ],
+    "titulo": "Fichas dos lotes do Leilão de Transmissão 4/2026",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     197
+    ],
+    "titulo": "Envio de servidores de armazenamento",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     52
+    ],
+    "titulo": "TCU diz que uso total de receitas por agências pode engessar orçamento",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     58
+    ],
+    "titulo": "TCU adia julgamento sobre contas vinculadas",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     56,
+     57,
+     64,
+     65,
+     66,
+     69
+    ],
+    "titulo": "Outras notas de infraestrutura e transportes",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     77,
+     146
+    ],
+    "titulo": "Parcela da União na produção de petróleo chega a 291 mil barris por dia em setembro",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     202
+    ],
+    "titulo": "PPSA vê pico da produção de petróleo por volta de 2040",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     122
+    ],
+    "titulo": "PPSA marca 11º Leilão Spot para 25/11",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     152
+    ],
+    "titulo": "ANP homologa resultados dos ciclos da Oferta Permanente de outubro",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     141
+    ],
+    "titulo": "Acordo Mercosul-EFTA cria alternativa permanente ao Repetro",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     134
+    ],
+    "titulo": "Governo e aéreas contestam modelo da ANP para certificado de SAF",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     200,
+     188
+    ],
+    "titulo": "Câmara aprova crédito de R$ 6,6 bilhões para subvenções; subsídios chegam a quase R$ 60 bilhões",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     133,
+     167,
+     171,
+     203
+    ],
+    "titulo": "Petróleo cai com recuperação da oferta e alta dos estoques nos EUA",
+    "resumo": "AIE diz que a guerra pode reduzir de forma permanente a dependência de Ormuz."
+   },
+   {
+    "ids": [
+     71
+    ],
+    "titulo": "AIE alerta para eventos climáticos nas rotas de petróleo e gás",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     199
+    ],
+    "titulo": "Ataques reduzem em 45% o refino russo em novembro",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     48,
+     174
+    ],
+    "titulo": "Margem Equatorial acende alertas sobre ameaças externas",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     112
+    ],
+    "titulo": "Petrobras diz que não assinou acordo com bp para Bumerangue",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     53
+    ],
+    "titulo": "Petrobras recebe selo máximo de transparência",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     110,
+     114,
+     121,
+     147,
+     153
+    ],
+    "titulo": "Contratos de fornecedores offshore",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     138
+    ],
+    "titulo": "Brasil tem 32,9 veículos eletrificados por eletroposto",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     173
+    ],
+    "titulo": "Associação de aéreas prevê corte de assentos com crise do petróleo",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     144
+    ],
+    "titulo": "AIEA aprova acordo nuclear entre EUA e Arábia Saudita",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     148,
+     186
+    ],
+    "titulo": "Cúpula na China reúne EUA, China e Rússia",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     149,
+     150,
+     151
+    ],
+    "titulo": "Indústria: fábrica em Portugal, Custo Brasil e centro de inovação",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     195
+    ],
+    "titulo": "Ministro do Meio Ambiente diz que petróleo é estratégico",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     214
+    ],
+    "titulo": "Peru declara emergência de combustíveis por risco de El Niño",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     217
+    ],
+    "titulo": "Equador busca empresa para sistema de combustível de refinaria-termelétrica",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     154,
+     163
+    ],
+    "titulo": "Ibram alerta para restrição a créditos tributários no PLP 299/2026",
+    "resumo": "Instituto apoia destaque para suprimir o artigo que permite limitar compensações."
+   },
+   {
+    "ids": [
+     51,
+     54,
+     55
+    ],
+    "titulo": "Cfem: Câmara pede explicação sobre retenção; ANM abre gastos dos municípios",
+    "resumo": "Três cidades do Pará concentram 32,6% dos royalties municipais."
+   },
+   {
+    "ids": [
+     50
+    ],
+    "titulo": "Associação apoia possível indicação para diretoria da ANM",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     160
+    ],
+    "titulo": "Projeto tornará a Bahia autossuficiente em fosfatados",
+    "resumo": "Audiência pública em 18/11."
+   },
+   {
+    "ids": [
+     161,
+     162
+    ],
+    "titulo": "Descoberta de terras raras de alto teor na Bahia",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     175
+    ],
+    "titulo": "Exportação de terras raras do Brasil recua 80%",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     196
+    ],
+    "titulo": "Brasil busca na COP recursos para projetos de minerais críticos",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     210
+    ],
+    "titulo": "Níquel no centro de embate entre Brasil e UE em venda de ativos",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     155,
+     193
+    ],
+    "titulo": "Estudo: 22% das minas do mundo ficam em áreas preservadas",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     156,
+     157
+    ],
+    "titulo": "Investimento social de mineradoras no Pará e em Minas",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     158
+    ],
+    "titulo": "Mineradora troca CEO para avançar projeto de ouro no Pará",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     159
+    ],
+    "titulo": "Estudo sobre água em bacias de usinas siderúrgicas é premiado na COP31",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     164
+    ],
+    "titulo": "Simandou enfrenta desafio logístico",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     165,
+     215
+    ],
+    "titulo": "Investimentos em cobre e ouro na Colômbia",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     166
+    ],
+    "titulo": "Webinar sobre peneiramento na mineração",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     176,
+     191,
+     194
+    ],
+    "titulo": "Minério e ações de mineradoras",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     183
+    ],
+    "titulo": "Emissões de títulos na China por empresas brasileiras",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     184
+    ],
+    "titulo": "Penhora de direitos minerários de mineradora de lítio",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     204
+    ],
+    "titulo": "Otimismo da mineração esbarra em veto e El Niño",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     212,
+     216,
+     218
+    ],
+    "titulo": "Mineração na América do Sul: cobre chileno, pequenos mineradores e lítio argentino",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     182
+    ],
+    "titulo": "Mudanças no Programa de Alimentação do Trabalhador",
+    "resumo": "Só a manchete está disponível."
+   }
+  ]
+ }
 }
