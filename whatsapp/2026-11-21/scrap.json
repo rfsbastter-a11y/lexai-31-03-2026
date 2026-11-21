@@ -1,0 +1,845 @@
+{
+ "data": "2026-11-21",
+ "janela_horas": 30,
+ "status_fontes": [
+  {
+   "fonte": "CADE",
+   "url": "cade-html",
+   "itens_lidos": 30,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Law360 Competition",
+   "url": "https://www.law360.com/competition/rss",
+   "itens_lidos": 20,
+   "no_periodo": 15,
+   "erro": null
+  },
+  {
+   "fonte": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/rss",
+   "itens_lidos": 100,
+   "no_periodo": 5,
+   "erro": null
+  },
+  {
+   "fonte": "Poder360 (CADE)",
+   "url": "https://www.poder360.com.br/tag/cade/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.energy/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=2",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "MegaWhat",
+   "url": "https://megawhat.uol.com.br/feed/?paged=3",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Agência iNFRA",
+   "url": "https://www.agenciainfra.com/blog/feed/",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Cenário Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Acenarioenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 13,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CanalEnergia",
+   "url": "https://news.google.com/rss/search?q=site%3Acanalenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 74,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Energia",
+   "url": "https://news.google.com/rss/search?q=site%3Abrasilenergia.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 26,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "PV Magazine Brasil",
+   "url": "https://www.pv-magazine-brasil.com/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 5,
+   "erro": null
+  },
+  {
+   "fonte": "Agência Dominium",
+   "url": "https://news.google.com/rss/search?q=%22Ag%C3%AAncia%20Dominium%22%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "eixos",
+   "url": "https://eixos.com.br/feed/",
+   "itens_lidos": 20,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Petronotícias",
+   "url": "https://petronoticias.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "Brasil Mineral",
+   "url": "https://www.brasilmineral.com.br/feed",
+   "itens_lidos": 40,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Minera Brasil",
+   "url": "https://minerabrasil.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios",
+   "url": "https://revistaminerios.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mineração & Sustentabilidade",
+   "url": "https://revistamineracao.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Mining.com.br",
+   "url": "https://news.google.com/rss/search?q=site%3Amining.com.br%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 0,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://pox.globo.com/rss/valor/",
+   "itens_lidos": 100,
+   "no_periodo": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Valor Econômico",
+   "url": "https://news.google.com/rss/search?q=site%3Avalor.globo.com%20%28CADE%20OR%20ANEEL%20OR%20ANP%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20energia%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Folha de S.Paulo",
+   "url": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+   "itens_lidos": 100,
+   "no_periodo": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+   "itens_lidos": 20,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/rss/oglobo/economia/",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Estadão | Broadcast",
+   "url": "https://news.google.com/rss/search?q=site%3Aestadao.com.br%20%28energia%20OR%20ANEEL%20OR%20MME%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20leil%C3%A3o%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 8,
+   "erro": null
+  },
+  {
+   "fonte": "Movimento Econômico",
+   "url": "https://movimentoeconomico.com.br/feed/",
+   "itens_lidos": 10,
+   "no_periodo": 2,
+   "erro": null
+  },
+  {
+   "fonte": "CNN Brasil",
+   "url": "https://news.google.com/rss/search?q=site%3Acnnbrasil.com.br%20%28energia%20OR%20ANEEL%20OR%20petr%C3%B3leo%20OR%20CADE%20OR%20minera%C3%A7%C3%A3o%20OR%20baterias%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 100,
+   "no_periodo": 1,
+   "erro": null
+  },
+  {
+   "fonte": "BNamericas",
+   "url": "https://news.google.com/rss/search?q=site%3Abnamericas.com%20Brasil%20%28energia%20OR%20petr%C3%B3leo%20OR%20minera%C3%A7%C3%A3o%20OR%20e%C3%B3lica%20OR%20solar%29%20when%3A2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "itens_lidos": 65,
+   "no_periodo": 11,
+   "erro": null
+  },
+  {
+   "fonte": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20intitle%3ABrazil%20%28energy%20OR%20power%20OR%20oil%20OR%20mining%20OR%20antitrust%20OR%20Petrobras%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "itens_lidos": 7,
+   "no_periodo": 0,
+   "erro": null
+  }
+ ],
+ "materias": [
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Ford, Honda, Other Automakers Sue NJ Over Repair Law",
+   "link": "https://www.law360.com/competition/articles/2556548?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Ford, Stellantis, Honda and Volkswagen sued New Jersey in federal court Friday, seeking to block parts of a new state law they allege forces them to submit to dealer-set prices for warranty, recall and other repair work.",
+   "data": "2026-11-20T21:08:31-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "CH Robinson Slams RICO Claims That It Used 'Illegal' Carriers",
+   "link": "https://www.law360.com/competition/articles/2552847?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "C.H. Robinson Worldwide Inc. has told a Texas federal judge that family-owned trucking companies cannot weaponize the Racketeer Influenced and Corrupt Organizations Act and blame their own business losses on C.H. Robinson by accusing the freight broker of steering shipments to illegal \"fly-by-night\" or \"chameleon\" carriers.",
+   "data": "2026-11-20T20:03:57-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "FTC Says Live Nation Can't Duck Suit By Blaming Scalpers",
+   "link": "https://www.law360.com/competition/articles/2552841?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "The Federal Trade Commission said Thursday that Live Nation and Ticketmaster can't blame unnamed ticket scalpers and bot operators to escape a suit accusing the companies of ignoring ticket scalpers and failing to disclose significant fees upfront.",
+   "data": "2026-11-20T19:40:51-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "DOJ Wants Time In Apple's High Court Contempt Args",
+   "link": "https://www.law360.com/competition/articles/2552951?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "The Trump administration asked the U.S. Supreme Court to let it participate in January oral arguments where Apple is challenging a California federal judge's contempt order won by Epic Games, and where the U.S. Department of Justice says Apple was improperly penalized.",
+   "data": "2026-11-20T19:24:44-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Senate Dem Demands Docs On Republican FCC Nominee",
+   "link": "https://www.law360.com/competition/articles/2553926?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Sen. Ben Ray Luján, D-N.M., on Friday called for the Federal Communications Commission to release documents on what, if any, role a Republican nominee to the agency played in media issues, including last year's $8 billion Skydance-Paramount tie-up.",
+   "data": "2026-11-20T18:33:34-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "US Senators Pitch Bill Targeting Baseball Antitrust Exemption",
+   "link": "https://www.law360.com/competition/articles/2552912?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Two U.S. senators have introduced a bill to scrap baseball's century-old exemption from federal antitrust laws, with one lawmaker saying it is time to put baseball on the \"same footing as all other professional sports.\"",
+   "data": "2026-11-20T18:18:10-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Hartford HealthCare Faces $235M Antitrust Class Cert. Bid",
+   "link": "https://www.law360.com/competition/articles/2552918?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "A group of health insurance subscribers has asked a Connecticut judge to certify their class claims accusing Hartford HealthCare Corp. of forcing insurers to accept systemwide contracts and barring lower-cost provider options while its physician network fixed rates, inflating premiums by $235 million.",
+   "data": "2026-11-20T18:09:09-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "American Airlines Loses Appeal To Undo O'Hare Gate Change",
+   "link": "https://www.law360.com/competition/articles/2552824?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "An Illinois appellate court upheld a Cook County judge's ruling allowing Chicago to redistribute gates at O'Hare International Airport over American Airlines' objections, finding that blocking the gate shift from American to United would cause significant disruptions for travelers and airport operations that outweighed the potential harm to American's business.",
+   "data": "2026-11-20T17:14:23-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Coors' Supplier Says Colo. Law Allows Contract Exit",
+   "link": "https://www.law360.com/competition/articles/2553492?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Beer brand supplier Constellation Brands Inc. urged the Colorado Court of Appeals to overturn a Denver judge's ruling that blocked it from terminating its 18-year-long distribution contract with Coors Distributing Co. LLC, saying the ruling misinterpreted a state beer franchise law and that the distributor has a monetary remedy.",
+   "data": "2026-11-20T17:03:36-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Insurance Pool Says It Can Veto Mass. Credit Union Deal",
+   "link": "https://www.law360.com/competition/articles/2552850?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "A deposit insurance pool for Massachusetts credit unions is asking a state court judge to intervene in a dispute over whether it has the right to block a proposed merger between Hanscom Federal Credit Union and a small western Massachusetts institution.",
+   "data": "2026-11-20T13:54:09-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "How Well Can AI Predict Supreme Court Decisions?",
+   "link": "https://www.law360.com/competition/articles/2550786?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "In a recent experiment, an artificial intelligence tool predicted the winning side in 81% of cases in the last Supreme Court term, but over-weighted certain factors in inconsistent ways, demonstrating for practitioners that AI tools should be used as an aid to human judgment, not as a substitute or an oracle, say attorneys at Haynes Boone.",
+   "data": "2026-11-20T13:51:38-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Dems Say DOJ Flouted Procedure With OpenAI MDL Letter",
+   "link": "https://www.law360.com/competition/articles/2552845?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "Several Democratic lawmakers have sent a letter to Attorney General Todd Blanche calling out the U.S. Department of Justice for not following proper procedures when it made a statement in multidistrict litigation over whether OpenAI and other artificial intelligence makers need to pay for the materials they use to train their models.",
+   "data": "2026-11-20T13:49:28-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Injury Firm Says Ex-Supervisor Took Ops Manual To Rival Co.",
+   "link": "https://www.law360.com/competition/articles/2552946?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "The now-former legal operations supervisor at Carter Mario Law Firm downloaded a proprietary manual right before leaving his job for a competitor, and he either has used it or plans to do so at his new job, according to a Connecticut trade secrets lawsuit.",
+   "data": "2026-11-20T13:41:37-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "DOJ Ends Probe Into NextEra-Dominion Energy Merger",
+   "link": "https://www.law360.com/competition/articles/2552810?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "The Justice Department closed its investigation of the planned $67 billion merger between NextEra Energy and Dominion Energy amid ongoing regulatory scrutiny at the state level and by other federal agencies.",
+   "data": "2026-11-20T13:22:46-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Law360 Competition",
+   "idioma": "en",
+   "titulo": "Royal Mail Must Explain £879M Claim Disclosure Request",
+   "link": "https://www.law360.com/competition/articles/2552384?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "resumo_original": "A tribunal has held that communications sent by the owner of Royal Mail to members of a £878.5 million ($1.5 billion) class action were not intimidatory but ordered the company to write to the three class members again to clarify the type of disclosure sought.",
+   "data": "2026-11-20T11:01:07-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "DOJ closes NextEra/Dominion probe",
+   "link": "https://globalcompetitionreview.com/gcr-usa/article/doj-closes-nexteradominion-probe",
+   "resumo_original": "The Department of Justice has completed its investigation into the formation of the world’s largest regulated electric utility after NextEra and Dominion Energy made non-binding behavioural commitments.&nbsp;",
+   "data": "2026-11-20T19:46:32-03:00",
+   "texto": "The Department of Justice has completed its investigation into the formation of the world’s largest regulated electric utility after NextEra and Dominion Energy made non-binding behavioural commitments.\nGet news, unique commentary, expert analysis and essential resources from the Global Competition Review experts.\nCopyright © 2026 LBR trading as Centellic Company Number: 03281866 VAT: GB 160 7529 10\nIn-depth antitrust news, analysis and data trusted by competition practitioners worldwide"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "What’s in store: The Tipline for 20 November 2026",
+   "link": "https://globalcompetitionreview.com/gcr-usa/article/whats-in-store-the-tipline-20-november-2026",
+   "resumo_original": "New York City has defeated an antitrust challenge to its plan for discount grocery stores. On Friday, the US District Court for the Southern District of New York declined to grant a preliminary injunction to the National Supermarket Association, finding that the city would not be able to recoup below-cost prices by charging supracompetitive rates later on. Also in Tipline, the Department of Justic...",
+   "data": "2026-11-20T18:52:04-03:00",
+   "texto": "New York City has defeated an antitrust challenge to its plan for discount grocery stores. On Friday, the US District Court for the Southern District of New York declined to grant a preliminary injunction to the National Supermarket Association, finding that the city would not be able to recoup below-cost prices by charging supracompetitive rates later on. Also in Tipline, the Department of Justice is seeking to participate in Epic Games and Apple’s battle before the Supreme Court.\nGet news, unique commentary, expert analysis and essential resources from the Global Competition Review experts.\nCopyright © 2026 LBR trading as Centellic Company Number: 03281866 VAT: GB 160 7529 10\nIn-depth antitrust news, analysis and data trusted by competition practitioners worldwide"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "Bacon: Existing abuse of dominance framework can apply to sustainability violations",
+   "link": "https://globalcompetitionreview.com/article/bacon-existing-abuse-of-dominance-framework-can-apply-sustainability-violations",
+   "resumo_original": "Antitrust law makes “clear” that environmental problems can be addressed through an “entirely orthodox application” of existing abuse of dominance rules, according to the president of the UK’s Competition Appeal Tribunal.",
+   "data": "2026-11-20T12:25:08-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "Advocacy groups seek to influence CMA Microsoft probe",
+   "link": "https://globalcompetitionreview.com/article/advocacy-groups-seek-influence-cma-microsoft-probe",
+   "resumo_original": "A UK antitrust complainant has accused the Competition and Markets Authority of ignoring the influence of Google, Apple, Anthropic and OpenAI in its proposed decision to designate Microsoft with strategic market status under the country’s digital regime.",
+   "data": "2026-11-20T11:52:46-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Global Competition Review",
+   "idioma": "en",
+   "titulo": "Privileged position: The Briefing for 20 November 2026",
+   "link": "https://globalcompetitionreview.com/article/privileged-position-the-briefing-20-november-2026",
+   "resumo_original": "France is pressing ahead with legal privilege for in-house lawyers from the start of January, despite vocal opposition from the country’s antitrust watchdog. France’s Competition Authority has previously warned the reforms could hinder enforcement by putting key corporate documents beyond the reach of its investigators. Also in the Briefing, Meta and several pharmaceutical companies separately see...",
+   "data": "2026-11-20T06:30:09-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "CanalEnergia",
+   "idioma": "pt",
+   "titulo": "Angra 3 e a reestruturação do setor nuclear estão em discussão",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbEhaNUlhX3BFbzNkb0xSYzJBVlR1MFR2My11ODRGNlJyRVV1TW10N3lIQmFzSGVzSU9VRGlxMHZ0WVd0NkNwQk1fVllBek9iWjdvYmpnNER3XzNOMWlUbndpMTc3LWxLX2FHeHViQTdxSU4zZ1l4WGhuVUtZZG9sVUowVkRfVE1XQVVuNjI2NG9FS3dfdzdUbXBDN1ZKUVNOTGZMTjZXMEhPUXRSajg3UmxwSTN2ekZyeld4Tk1HdEo?oc=5",
+   "resumo_original": "Angra 3 e a reestruturação do setor nuclear estão em discussão CanalEnergia",
+   "data": "2026-11-20T09:01:32-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "PV Magazine Brasil",
+   "idioma": "pt",
+   "titulo": "Preços de exportação de módulos TOPCon caem diante da renovação dos padrões de eficiência na China",
+   "link": "https://www.pv-magazine-brasil.com/2026/11/20/precos-de-exportacao-de-modulos-topcon-caem-diante-da-renovacao-dos-padroes-de-eficiencia-na-china/",
+   "resumo_original": "Em uma nova atualização semanal para a pv magazine a OPIS, uma empresa Dow Jones, oferece um resumo das principais tendências de preços na indústria fotovoltaica global.",
+   "data": "2026-11-20T13:08:10-03:00",
+   "texto": "Os preços de referência dos módulos convencionais na modalidade Free on Board (FOB) China recuaram ligeiramente nesta semana, pressionados pela contínua fraqueza nas cotações dos produtos de menor eficiência. O movimento ocorre enquanto os fabricantes liquidam estoques antes da entrada em vigor de um padrão mais rigoroso de eficiência para módulos fotovoltaicos, prevista para 1º de janeiro de 2027.\nDe acordo com o Relatório OPIS Global Solar Markets, divulgado em 17 de novembro, o Chinese Module Marker (CMM), indicador de referência da OPIS para módulos TOPCon abaixo de 645 W produzidos na China, caiu 0,93% na semana, para US$ 0,106/W na modalidade FOB China. O indicador havia permanecido estável em US$ 0,107/W por cinco semanas consecutivas.\nOs preços a termo para entregas no primeiro trimestre de 2027 acompanharam a fraqueza do mercado à vista e também recuaram 0,93% na comparação semanal, para US$ 0,106/W. Já os preços para entregas do segundo ao quarto trimestre de 2027 permaneceram estáveis em US$ 0,105/W.\nEntre as diferentes faixas de eficiência, as indicações de preços para módulos TOPCon de alta eficiência, definidos como produtos acima de 650 W, ficaram na faixa inferior de US$ 0,110/W. Os módulos de contato traseiro (back-contact) foram cotados entre as faixas inferior e intermediária de US$ 0,110/W.\nEm contrapartida, uma pesquisa de mercado da Dow Jones Energy mostrou que os módulos TOPCon de menor eficiência, especialmente os modelos entre 625 W e 630 W, foram cotados na faixa inferior de US$ 0,100/W na modalidade FOB China. Em algumas regiões, os preços já caíram abaixo de US$ 0,100/W.\nFontes do setor observaram que os fabricantes intensificaram os esforços para liquidar estoques no quarto trimestre, diante da expectativa de redução da demanda interna por módulos de menor eficiência após a entrada em vigor do novo padrão. Pelas novas exigências, a eficiência mínima dos módulos TOPCon comercializados na China será de 23,2%, correspondente a uma potência de 630 W.\nOs estoques de módulos de menor eficiência dos principais fabricantes já estão em níveis baixos, afirmou um grande produtor. Segundo ele, a maioria das empresas transferiu suas linhas de produção para produtos de maior eficiência, elevando a potência média dos módulos entre os principais fabricantes de TOPCon para cerca de 640 W.\nA maior parte dos estoques remanescentes de módulos de menor eficiência está concentrada em fabricantes menores ou de segundo nível (tier 2), que vêm oferecendo preços agressivamente mais baixos, acrescentou o executivo.\nUm fabricante integrado de módulos de ponta afirmou que os descontos agressivos no segmento de menor eficiência também pressionaram para baixo os preços dos módulos convencionais. Isso ocorre porque as equipes de compras utilizam cada vez mais as ofertas de menor preço como instrumento de negociação.\nO fabricante acrescentou que, embora políticas destinadas a conter o excesso de oferta de módulos e regular os preços possam sustentar o mercado no longo prazo, a intensa concorrência entre os fabricantes provavelmente continuará no curto prazo.\nEnquanto isso, a diferença entre os preços dos módulos destinados ao mercado interno e os voltados à exportação tornou-se cada vez mais evidente desde o início do quarto trimestre de 2026.\nOs preços dos módulos TOPCon convencionais no mercado doméstico recuaram em meio ao enfraquecimento da demanda. Já os preços de exportação permaneceram relativamente resilientes, com fontes do mercado observando que as cotações dos fabricantes para os mercados externos resistiram, em grande parte, à tendência de queda registrada no mercado interno.\nDe acordo com dados da OPIS, os preços dos módulos TOPCon na modalidade Ex Works (EXW) China caíram mais de 1,8% desde o início de outubro. No mesmo período, os preços dos módulos TOPCon convencionais na modalidade FOB China permaneceram praticamente estáveis, antes de registrarem uma leve queda de 0,93% nesta semana.\nEm licitações domésticas, a China Energy Engineering Corporation (CEEC) selecionou 23 empresas para a etapa de pré-seleção de sua concorrência centralizada para aquisição de módulos em 2026, que abrange 15 GW de produtos TOPCon, de heterojunção (HJT) e de contato traseiro (back-contact).\nOs módulos TOPCon representaram a maior parcela, com 10,7 GW, e propostas pré-selecionadas entre CNY 0,695/W e CNY 0,770/W (US$ 0,104/W a US$ 0,115/W).\nOs módulos de contato traseiro somaram 3,3 GW, com seis empresas pré-selecionadas e propostas entre CNY 0,760/W e CNY 0,779/W. Já os módulos HJT corresponderam ao 1 GW restante, com propostas entre CNY 0,717/W e CNY 0,752/W.\nA OPIS é uma unidade especializada da Dow Jones Energy, empresa global de inteligência energética que reúne informações sobre preços, pesquisas e análises de mercado em toda a cadeia de valor da energia. A empresa publica o OPIS Global Solar Markets Service , que inclui dados de preços de módulos e componentes solares na Ásia, Europa e Estados Unidos, informações sobre capacidade de fabricação, curvas de preços futuros de módulos e um rastreador global de políticas para o setor solar.\nAs opiniões e os pontos de vista expressos neste artigo são exclusivamente do autor e não refletem necessariamente os da pv magazine .\nEste conteúdo está protegido por direitos de autor e não pode ser reutilizado. Se pretende colaborar connosco e reutilizar parte do nosso conteúdo, contacte-nos através do seguinte endereço: [email protected] ."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "PV Magazine Brasil",
+   "idioma": "pt",
+   "titulo": "Sicoob Credip abastece 27 unidades com energia solar em Rondônia",
+   "link": "https://www.pv-magazine-brasil.com/2026/11/20/sicoob-credip-abastece-27-unidades-com-energia-solar-em-rondonia/",
+   "resumo_original": "Cooperativa utiliza créditos de uma usina fotovoltaica de 157 MWh em Vilhena (RO) para compensar o consumo de suas unidades no estado e estima redução de 15% nas contas de energia.",
+   "data": "2026-11-20T10:00:00-03:00",
+   "texto": "A cooperativa de crédito Sicoob Credip passou a abastecer seus 27 pontos de atendimento em Rondônia com energia solar proveniente de uma usina fotovoltaica localizada em Vilhena (RO). A iniciativa utiliza o modelo de geração distribuída (GD), no qual a eletricidade produzida pela central é injetada na rede da concessionária Energisa e convertida em créditos para compensação nas faturas das unidades consumidoras.\nSegundo a cooperativa, a usina tem capacidade de geração de 157 MWh. A expectativa é reduzir em aproximadamente 15% os gastos com eletricidade dos pontos de atendimento contemplados pelo contrato.\nA energia gerada pelos módulos fotovoltaicos é disponibilizada na rede de distribuição e os créditos correspondentes são utilizados para abater o consumo das agências. Com o modelo, a cooperativa evita investir diretamente na aquisição e instalação de painéis solares em suas unidades, além de não assumir os custos de manutenção dos equipamentos.\nDe acordo com o gestor de projetos da Sicoob Credip, Cleiton Fernandes Guimarães, a contratação de energia solar também contribui para a sustentabilidade das operações e para o desenvolvimento do mercado fotovoltaico regional.\nA cooperativa estudava alternativas para utilizar energia solar há alguns anos, mas avaliava que a construção de uma usina própria ou a instalação de sistemas fotovoltaicos nas agências exigiria investimentos elevados.\nEm 2020, foi firmado um contrato de locação com prazo de cinco anos com a usina. Entretanto, questões documentais e técnicas postergaram o início da utilização dos créditos, que ocorreu somente em agosto de 2026.\nSegundo a instituição, o modelo permite reduzir despesas sem comprometer recursos da cooperativa com a aquisição de equipamentos e a manutenção de sistemas próprios.\nAtualmente, a Sicoob Credip possui 41 pontos de atendimento físicos e um digital, com atuação em Rondônia, Amazonas e Mato Grosso. A utilização da energia fotovoltaica está concentrada, neste primeiro momento, nas unidades de Rondônia. A cooperativa informa que já realiza estudos de viabilidade para ampliar a iniciativa às demais unidades.\nEste conteúdo está protegido por direitos de autor e não pode ser reutilizado. Se pretende colaborar connosco e reutilizar parte do nosso conteúdo, contacte-nos através do seguinte endereço: [email protected] ."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "PV Magazine Brasil",
+   "idioma": "pt",
+   "titulo": "Sistema solar com baterias gera 79,1 MWh em comunidade indígena no Amazonas",
+   "link": "https://www.pv-magazine-brasil.com/2026/11/20/sistema-solar-com-baterias-gera-791-mwh-em-comunidade-indigena-no-amazonas/",
+   "resumo_original": "Instalação na comunidade Três Unidos gerou eletricidade em 251 dias de operação, reduziu a dependência de geradores a diesel e ampliou o acesso à energia para atividades produtivas, educação e abastecimento de água.",
+   "data": "2026-11-20T08:30:00-03:00",
+   "texto": "Um sistema de geração solar fotovoltaica associado a baterias evitou a emissão estimada de 72,9 toneladas de dióxido de carbono (CO₂) na comunidade indígena Três Unidos, localizada na Área de Proteção Ambiental (APA) do Rio Negro, no Amazonas. Em 251 dias de operação, a instalação registrou geração de 79,1 MWh, segundo dados do aplicativo de monitoramento do projeto.\nO resultado ambiental equivale, segundo os responsáveis pela iniciativa, ao plantio de aproximadamente 4.309 árvores. Além da redução das emissões, o sistema diminuiu a dependência de geradores a diesel e ampliou a disponibilidade de eletricidade para as famílias, atividades comerciais e serviços comunitários.\nA instalação foi viabilizada com apoio do Ministério Federal do Meio Ambiente da Alemanha, por meio da International Climate Initiative (IKI), e da Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ). A implementação ficou a cargo da Fundação Amazônia Sustentável (FAS), com apoio da Secretaria de Estado do Meio Ambiente do Amazonas (Sema).\nO sistema incorpora baterias para armazenar a energia produzida durante o dia e disponibilizá-la à noite e em períodos de menor irradiação solar. Segundo Thiago Carvalho, líder de projetos da FAS, a estrutura atende à maior parte da demanda energética da comunidade, reduzindo os gastos com combustível e permitindo ampliar atividades que anteriormente eram limitadas pela falta de eletricidade.\nAntes da implantação do sistema fotovoltaico, a comunidade dependia de um gerador a diesel que fornecia eletricidade por aproximadamente quatro horas, principalmente no período noturno. Para utilizar energia em outros horários, os moradores precisavam organizar o abastecimento e dividir os custos do combustível.\nA limitação comprometia a conservação de alimentos, o conforto das famílias e o desenvolvimento de atividades econômicas. Com a geração solar associada ao armazenamento, os moradores passaram a contar com maior disponibilidade de energia ao longo do dia e da noite.\nA refrigeração de alimentos é uma das mudanças mais significativas. No restaurante comunitário, a possibilidade de conservar ingredientes por mais tempo contribui para a organização do atendimento e para a segurança alimentar. Nas residências, as famílias passaram a utilizar geladeiras e ventiladores com maior regularidade.\nA eletricidade também favoreceu o empreendedorismo local. Moradores passaram a produzir e comercializar alimentos congelados, como geladinhos e sorvetes, atividades que dependem de refrigeração contínua.\n“O nosso sistema solar veio para melhorar a qualidade de vida da comunidade, tanto no empreendedorismo quanto no dia a dia de cada família”, afirma Raimundo Cruz, empreendedor da comunidade.\nSegundo Enoque Ventura, coordenador dos Núcleos de Inovação e Educação para o Desenvolvimento Sustentável (NIEDS) da FAS, o acesso à energia fortaleceu atividades econômicas relacionadas à bioeconomia, que antes enfrentavam limitações para ampliar a produção e armazenar alimentos.\nA disponibilidade de eletricidade também contribuiu para ampliar o acesso à educação e à conectividade. Jovens da comunidade passaram a acompanhar cursos de ensino superior a distância, utilizando a internet sem precisar deixar o território para assistir às aulas.\nOutro benefício está no abastecimento de água. A energia elétrica permite manter em funcionamento os equipamentos de bombeamento e distribuição, contribuindo para melhorar a infraestrutura e a rotina das famílias.\nPara Valcléia Lima, superintendente-geral adjunta da FAS, a iniciativa demonstra a importância de investimentos em infraestrutura energética adaptada às necessidades das populações que vivem na floresta.\nEste conteúdo está protegido por direitos de autor e não pode ser reutilizado. Se pretende colaborar connosco e reutilizar parte do nosso conteúdo, contacte-nos através do seguinte endereço: [email protected] ."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "PV Magazine Brasil",
+   "idioma": "pt",
+   "titulo": "Taiwan estabelece regras para contratação de armazenamento em usinas solares existentes",
+   "link": "https://www.pv-magazine-brasil.com/2026/11/20/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+   "resumo_original": "Nova regulamentação busca incentivar a integração de sistemas de armazenamento por baterias a usinas fotovoltaicas existentes, aumentar a flexibilidade da rede elétrica e criar oportunidades adicionais de receita para desenvolvedores de projetos de energia renovável.",
+   "data": "2026-11-20T07:31:00-03:00",
+   "texto": "O Ministério de Assuntos Econômicos de Taiwan (MOEA) estabeleceu um marco regulatório para promover a integração de sistemas de armazenamento de energia por baterias (BESS) a usinas solares fotovoltaicas existentes. A iniciativa reflete a crescente preocupação de Taiwan com a estabilidade da rede elétrica, a otimização do aproveitamento das energias renováveis e o desenvolvimento de um sistema elétrico mais flexível.\nAs diretrizes, publicadas em 6 de novembro de 2024, estabelecem um mecanismo de concorrência e alocação de capacidade para usinas solares elegíveis que pretendam incorporar sistemas de armazenamento por baterias.\nPelas novas regras, usinas fotovoltaicas existentes, conectadas à rede e com potência superior a 1 MW, poderão participar do processo competitivo. Os desenvolvedores elegíveis deverão instalar sistemas de armazenamento com capacidade energética mínima de 2,61 MWh para cada MW de potência nominal das baterias.\nO mecanismo competitivo determinará a tarifa de capacidade das baterias oferecida aos participantes vencedores, introduzindo uma disputa de preços baseada no mercado. Os projetos que obtiverem aprovação para alocação de capacidade deverão, em geral, concluir a instalação das baterias e sua conexão à rede em até 15 meses.\nO marco regulatório também exige que os participantes selecionados liberem capacidade de conexão à rede equivalente a 1,5 vez a potência nominal do sistema de armazenamento, observadas as condições aplicáveis. A medida poderá contribuir para melhorar o aproveitamento da infraestrutura elétrica existente em Taiwan e abrir espaço para a integração de novos projetos de energia renovável.\nAs regras também preveem uma quantidade diária garantida para faturamento, vinculada a 2,61 vezes a potência nominal do sistema de armazenamento, sujeita a requisitos operacionais e outras condições.\nA descarga de eletricidade será coordenada de acordo com os requisitos de programação e despacho da concessionária nacional Taipower . A abordagem busca deslocar parte da geração solar de Taiwan dos horários próximos ao meio-dia para períodos em que a energia armazenada possa oferecer maior valor ao sistema elétrico.\nTaiwan também vem buscando ampliar sua capacidade de geração renovável, paralelamente à adoção de medidas para melhorar as condições de mercado.\nEm janeiro de 2025, o Ministério de Assuntos Econômicos anunciou planos para acelerar a expansão da energia solar e da geração eólica offshore , com a meta de acrescentar 8,2 GW de capacidade combinada até o fim de 2026. No entanto, a expansão avançou mais lentamente do que o previsto inicialmente.\nUma projeção da GlobalData, publicada em dezembro de 2025 , estimou que a capacidade solar acumulada de Taiwan alcançará 31,2 GW até 2035, com a marca de 20 GW agora prevista para 2029. O governo também manteve as tarifas de incentivo à geração solar para 2026 nos mesmos patamares estabelecidos no segundo semestre de 2025, com o objetivo de sustentar os investimentos e a expansão da capacidade instalada.\nO armazenamento de energia também vem ganhando importância. Em outubro de 2025, a fabricante francesa de baterias Saft anunciou planos para fornecer 356 MWh em sistemas de armazenamento para um projeto em Taichung, elevando sua capacidade instalada prevista na ilha para 630 MWh até 2026.\nO mercado também registra experiências anteriores de integração entre armazenamento e geração solar, incluindo um sistema de baterias de 15 MW/15 MWh conectado a uma usina solar de 150 MW no sul de Taiwan.\nEste conteúdo está protegido por direitos de autor e não pode ser reutilizado. Se pretende colaborar connosco e reutilizar parte do nosso conteúdo, contacte-nos através do seguinte endereço: [email protected] ."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "PV Magazine Brasil",
+   "idioma": "pt",
+   "titulo": "Brasil, Colômbia e Chile lideram mercado agrivoltaico na América Latina, com 60 projetos",
+   "link": "https://www.pv-magazine-brasil.com/2026/11/20/brasil-colombia-e-chile-lideram-mercado-agrivoltaico-na-america-latina-com-60-projetos/",
+   "resumo_original": "Novos dados da consultoria alemã AgRadiance mostram que 36 projetos agrivoltaicos estão em operação em 11 países da América Latina, com Brasil, Colômbia, Chile e México concentrando 75% do total regional.",
+   "data": "2026-11-20T07:20:00-03:00",
+   "texto": "A América Latina conta com 60 projetos agrivoltaicos distribuídos por 11 países, dos quais 36 estão em operação, segundo dados da consultoria alemã AgRadiance. Brasil, Colômbia, Chile e México concentram 45 iniciativas, equivalentes a 75% do total regional.\nO levantamento foi disponibilizado por meio do AgRadiance Atlas, plataforma interativa de acesso aberto que reúne informações sobre projetos agrivoltaicos, regulamentações, políticas de incentivo e decisões judiciais relacionadas ao segmento em diferentes países.\nA base global identifica 2.697 projetos em 109 países, em comparação com apenas 37 iniciativas identificadas mundialmente em 2018. O levantamento também registra 151 projetos classificados como adiados ou cancelados e reúne 523 regulamentações, políticas e decisões judiciais relacionadas à agrivoltaica.\nO Brasil aparece na primeira posição regional, com 13 projetos identificados, sendo nove em operação e quatro planejados. A Colômbia ocupa o segundo lugar, com 12 iniciativas, das quais sete estão operacionais e cinco em planejamento.\nNos dois países, predominam projetos de pesquisa e demonstração, embora também tenham sido identificadas iniciativas comerciais. No Brasil, os projetos combinam painéis fotovoltaicos com cultivos hortícolas e cana-de-açúcar. Na Colômbia, há instalações com produção de melão e melancia sob estruturas fotovoltaicas, além de projetos que integram geração solar e criação de animais.\nO Chile aparece em terceiro lugar, com 11 projetos: oito em operação, um em construção e dois planejados. Entre as iniciativas estão sistemas experimentais instalados sobre pomares de cerejeiras e o projeto fotovoltaico Ayla Solar, de 9 MW, que inclui uma área agrivoltaica de 22 hectares.\nO México reúne nove projetos, quatro operacionais e cinco planejados, incluindo o empreendimento Tonatiuh, em Puebla, e instalações experimentais desenvolvidas pela Universidade Nacional Autônoma do México (UNAM).\nA capacidade fotovoltaica informada para os projetos agrivoltaicos latino-americanos soma aproximadamente 239 MW. Entretanto, existem dados de potência disponíveis para apenas 25 das 60 iniciativas identificadas.\nA Colômbia concentra a maior capacidade informada, com 136,5 MW distribuídos em sete projetos. Em seguida aparecem a República Dominicana, com 50 MW; o Brasil, com 31,7 MW; e o Chile, com 15,1 MW.\nOs números incluem projetos em diferentes estágios de desenvolvimento e, portanto, não representam exclusivamente a capacidade fotovoltaica já em operação.\nSegundo a AgRadiance, o desenvolvimento agrivoltaico na América Latina ainda está concentrado em instalações-piloto, pesquisas universitárias e projetos demonstrativos.\nA consultoria ressalta que algumas iniciativas classificadas como agrivoltaicas envolvem sistemas de irrigação alimentados por energia solar ou instalações fotovoltaicas nas quais o pastoreio é utilizado para controlar a vegetação, sem comprovação documentada de produção agrícola simultânea.\nO AgRadiance Atlas permite filtrar os empreendimentos por estágio de desenvolvimento, atividade agrícola, capacidade de geração e datas relacionadas às diferentes fases dos projetos. Entre as atividades contempladas estão cultivo de frutas e pequenos frutos, viticultura, horticultura, conservação da biodiversidade e apicultura.\nOs registros remontam a 2009 e permitem acompanhar a evolução das iniciativas ao longo do tempo. Cada projeto está associado à sua fonte pública original.\nA plataforma é gratuita e não exige cadastro. A AgRadiance também planeja integrar o atlas a uma ferramenta de projeto baseada na web, permitindo que usuários avancem da consulta de empreendimentos e condições regulatórias para o mapeamento de terrenos e a avaliação de configurações de sistemas fotovoltaicos.\nEste conteúdo está protegido por direitos de autor e não pode ser reutilizado. Se pretende colaborar connosco e reutilizar parte do nosso conteúdo, contacte-nos através do seguinte endereço: [email protected] ."
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "A COPEL ACANÇA NA AMPLIAÇÃO DA USINA HIDRELÉTRICA DE FOZ DO AREIA E INICIA A MONTAGEM DAS NOVAS UNIDADES GERADORAS",
+   "link": "https://petronoticias.com.br/a-copel-acanca-na-ampliacao-da-usina-hidreletrica-de-foz-do-areia-e-inicia-a-montagem-das-novas-unidades-geradoras/",
+   "resumo_original": "As obras de ampliação da Usina de Foz do Areia, no rio Iguaçu, avançam com o início de montagem dos componentes das novas unidades geradoras de energia. Foram acondicionadas na casa de força da hidrelétrica as primeiras virolas, que são grandes anéis de chapa de aço. Unidas e soldadas em sequência, as virolas vão formar os tubos por […]",
+   "data": "2026-11-20T13:00:48-03:00",
+   "texto": "As obras de ampliação da Usina de Foz do Areia, no rio Iguaçu, avançam com o início de montagem dos componentes das novas unidades geradoras de energia. Foram acondicionadas na casa de força da hidrelétrica as primeiras virolas, que são grandes anéis de chapa de aço.   Unidas e soldadas em sequência, as virolas vão formar os tubos por onde a água vai retornar ao rio depois de passar pelas turbinas. A casa de força de Foz do Areia já conta com quatro unidades geradoras em operação. No projeto original da usina, concebido na década de 1970, foram previstos dois poços adicionais justamente para viabilizar a expansão que acontece agora.\nCom investimento de R$ 1,3 bilhão, a Copel vai instalar duas novas unidades de 430 MW cada. Juntas, elas somarão 860 MW e elevarão a potência de Foz do Areia de 1.676 MW para 2.536 MW, um crescimento de aproximadamente 50%.  Essa ampliação será realizada sem desapropriações ou alagamento de novas áreas, mantendo o reservatório nas condições atuais. A conexão da usina com o Sistema Interligado Nacional (SIN) também já comporta o aumento de capacidade. Dentro da usina, a subestação passará por modernização de equipamentos.\nA Agência Nacional de Energia Elétrica (Aneel) estabeleceu o dia 1º de agosto de 2030 como prazo para a entrada em operação das novas unidades geradoras de Foz do Areia. A ampliação foi viabilizada pelo Leilão de Reserva de Capacidade na Forma de Potência (LRCAP), promovido pelo governo federal para contratar potência adicional e reforçar a segurança do Sistema Interligado Nacional. A Copel venceu o certame, em março de 2026, com os projetos de Foz do Areia e de Segredo, que juntos vão elevar em cerca de 33% a capacidade de geração da companhia.\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Petronotícias",
+   "idioma": "pt",
+   "titulo": "MESMO NESTE FERIADO É DIA DE FICAR DE OLHO NAS VAGAS DE ESTÁGIOS E EMPREGOS QUE O MERCADO OFERECE",
+   "link": "https://petronoticias.com.br/mesmo-neste-feriado-e-dia-de-ficar-de-olho-nas-vagas-de-estagios-e-empregos/",
+   "resumo_original": "A Smiths, empresa líder em engenharia industrial, em conjunto com suas unidades de negócios John Crane e Flex-Tek, anuncia a evolução de sua estratégia para início de carreira, ampliando as oportunidades para jovens e futuros talentos nas áreas de STEM (Ciência, Tecnologia, Engenharia e Matemática) por meio de seu recém-expandido programa em cinco etapas. A […]",
+   "data": "2026-11-20T04:00:14-03:00",
+   "texto": "A Smiths, empresa líder em engenharia industrial, em conjunto com suas unidades de negócios John Crane e Flex-Tek, anuncia a evolução de sua estratégia para início de carreira, ampliando as oportunidades para jovens e futuros talentos nas áreas de STEM (Ciência, Tecnologia, Engenharia e Matemática) por meio de seu recém-expandido programa em cinco etapas. A Smiths tem como meta recrutar 500 novos profissionais em início de carreira ao longo dos próximos cinco anos, em um movimento que inclui o Brasil, reafirmando seu compromisso de criar caminhos mais acessíveis para as áreas de STEM e engenharia em um momento em que os jovens enfrentam grandes desafios para conquistar oportunidades de trabalho relevantes. As 500 novas vagas serão distribuídas entre a John Crane, a Flex-Tek e o Grupo, reforçando a atual força de trabalho global da companhia, que conta com mais de 10.000 colaboradores. Os principais polos para início de carreira também incluem países como Reino Unido, Estados Unidos, México, Índia e República Tcheca, refletindo a presença global da empresa em engenharia e tecnologia. “Muitos jovens estão enfrentando dificuldades para encontrar uma carreira com propósito, e uma empresa como a Smiths deve fazer parte da solução ”, afirmou Kini Pathmanathan, diretora executiva de pessoas, sustentabilidade e excelência. “ A demanda por habilidades técnicas e de engenharia está se acelerando, e temos a escala e a experiência necessárias para ajudar a preencher essa lacuna, criando oportunidades, desenvolvendo competências e abrindo portas para a próxima geração de talentos. Essas novas vagas, distribuídas em localidades estrategicamente importantes ao longo dos próximos cinco anos, são a forma como faremos isso acontecer.”\nHá mais de 175 anos, a Smiths cresce investindo em engenharia, e esse compromisso dá continuidade a essa tradição, sustentando o crescimento sustentável da companhia a longo prazo. Ao expandir seus programas de início de carreira, a Smiths fortalecerá seu banco de talentos e dará a mais jovens a chance de dar os primeiros passos rumo a uma carreira em STEM e engenharia industrial. Para saber mais sobre os programas de início de carreira da Smiths, visite o site https://www.smiths.com/careers . Para mais informações sobre a atuação da empresa com bolsas de estudo, acesse o relatório de impacto da Smiths Foundation aqui .\nQuem está em busca de uma oportunidade profissional tem novas possibilidades na Via Cristais. A concessionária, responsável pela administração da BR-040 entre Belo Horizonte (MG) e Cristalina (GO), está com 18 vagas de emprego abertas, distribuídas entre diferentes áreas e unidades de atuação. As vagas contemplam funções operacionais, técnicas e administrativas, com possibilidades para profissionais com diferentes experiências e formações. Entre os cargos disponíveis estão operador viário, operador de pedágio, técnico eletroeletrônico, técnico de segurança do trabalho, instrutor técnico, analista de meio ambiente e profissionais de Tecnologia da Informação (TI). As vagas são uma oportunidade para quem deseja integrar uma empresa que atua na infraestrutura rodoviária e contribui para a mobilidade e o desenvolvimento das regiões atendidas pela BR-040.\nConfira as oportunidades por localidade. Os interessados podem consultar os requisitos de cada posição e realizar a candidatura pelo canal oficial de recrutamento da Via Cristais: Trabalhe Conosco – Via Cristais\nVocê receberá um e-mail com um link para confirmar sua inscrição."
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Minera Brasil",
+   "idioma": "pt",
+   "titulo": "SGB gera mais de R$ 10 bilhões em lucro social em 2025",
+   "link": "https://minerabrasil.com.br/sgb-gera-mais-de-r-10-bilhoes-em-lucro-social-em-2025/2026/11/20/",
+   "resumo_original": "Por Redação O Serviço Geológico do Brasil (SGB/CPRM) gerou R$ 10,16 bilhões em benefícios para a sociedade em 2025, segundo a quinta edição de seu Balanço Social, referente ao ano-base. O levantamento, que mensurou os resultados de 22 produtos e serviços da instituição, aponta um retorno social estimado de R$ 14,47 para cada R$ 1 […]",
+   "data": "2026-11-20T18:14:37-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Minera Brasil",
+   "idioma": "pt",
+   "titulo": "Mineradora pede incentivos para processar terras raras no Brasil",
+   "link": "https://minerabrasil.com.br/mineradora-pede-incentivos-para-processar-terras-raras-no-brasil/2026/11/20/",
+   "resumo_original": "Por Redação A mineradora canadense Aclara Resources avalia construir uma unidade de separação de terras raras no Brasil, mas condiciona a possibilidade de novos investimentos à oferta de incentivos governamentais para viabilizar o processamento dos minerais em território nacional. Em entrevista à Bloomberg News, o presidente-executivo da companhia, Ramon Barua, afirmou que o apoio público […]",
+   "data": "2026-11-20T13:36:33-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Minera Brasil",
+   "idioma": "pt",
+   "titulo": "Brasil e Austrália discutem segurança jurídica e investimentos em minerais críticos",
+   "link": "https://minerabrasil.com.br/brasil-e-australia-discutem-seguranca-juridica-e-investimentos-em-minerais-criticos/2026/11/20/",
+   "resumo_original": "Por Redação O fortalecimento da cooperação entre Brasil e Austrália no setor de minerais críticos depende de condições que permitam transformar o potencial geológico brasileiro em novos investimentos, como segurança jurídica, previsibilidade regulatória e confiança das comunidades. Esses fatores foram destacados por executivos e representantes institucionais durante o primeiro Brazil Mining Day, realizado em 26 […]",
+   "data": "2026-11-20T09:47:45-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Petróleo tem leve alta no dia, mas encerra terceira semana consecutiva em queda",
+   "link": "https://valor.globo.com/financas/noticia/2026/11/20/petroleo-tem-leve-alta-no-dia-mas-encerra-terceira-semana-consecutiva-em-queda.ghtml",
+   "resumo_original": "Os contratos futuros do petróleo fecharam em alta nesta sexta-feira, devolvendo parte da queda vista na véspera, mas ainda completaram a terceira semana consecutiva no vermelho. Embora o cenário no Oriente Médio permaneça incerto, a retomada das exportações pelo Estreito de Ormuz para níveis próximos aos registrados antes do início da guerra vem pressionando os preços para baixo nos últimos dias. No fechamento, o petróleo tipo Brent (referência mundial) com vencimento em janeiro subiu 0,64%, cotado a US$ 92,57 por barril, na Intercontinental Exchange (ICE). O WTI (referência americana) com ent",
+   "data": "2026-11-20T17:42:18-03:00",
+   "texto": "Os contratos futuros do petróleo fecharam em alta nesta sexta-feira, devolvendo parte da queda vista na véspera, mas ainda completaram a terceira semana consecutiva no vermelho. Embora o cenário no Oriente Médio permaneça incerto, a retomada das exportações pelo Estreito de Ormuz para níveis próximos aos registrados antes do início da guerra vem pressionando os preços para baixo nos últimos dias.\nNo fechamento, o petróleo tipo Brent (referência mundial) com vencimento em janeiro subiu 0,64%, cotado a US$ 92,57 por barril, na Intercontinental Exchange (ICE). O WTI (referência americana) com entrega prevista para dezembro teve alta de 0,93%, a US$ 83,98 por barril, na New York Mercantile (Nymex). No acumulado da semana, no entanto, os contratos tiveram perdas de 4,13% e 5,17%, respectivamente."
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Tasks, do Google Gemini, é visto como concorrente do Muse, da Meta, na disputa pela IA",
+   "link": "https://valor.globo.com/empresas/noticia/2026/11/20/tasks-do-google-gemini-e-visto-como-concorrente-do-muse-da-meta-na-disputa-pela-ia.ghtml",
+   "resumo_original": "O lançamento de um agente pessoal de inteligência artificial pela Alphabet colocará a empresa em concorrência com a Meta Platforms no mercado de consumo e deverá impulsionar as ações do Google, segundo um analista do J.P.Morgan. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+   "data": "2026-11-20T11:18:03-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Valor Econômico",
+   "idioma": "pt",
+   "titulo": "Petróleo cai com melhora na oferta e sinalização de Trump sobre o Irã",
+   "link": "https://valor.globo.com/financas/noticia/2026/11/20/petrleo-cai-com-melhora-na-oferta-e-sinalizao-de-trump-sobre-o-ir.ghtml",
+   "resumo_original": "Os preços do petróleo operam em queda, diante de sinais de melhora nas condições de oferta e a decisão do presidente dos Estados Unidos, Donald Trump, de evitar novos ataques em larga escala contra o Irã, enquanto ameaças aos embarques provenientes do Oriente Médio seguem no radar. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+   "data": "2026-11-20T08:32:37-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Folha de S.Paulo",
+   "idioma": "pt",
+   "titulo": "Linha 6-Laranja do metrô de SP terá usina solar para ajudar na demanda por energia",
+   "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/linha-6-laranja-de-metro-de-sp-tera-usina-solar-para-ajudar-na-demanda-por-energia.shtml",
+   "resumo_original": "O Pátio Morro Grande, centro de operação, manutenção e administrativo da Linha 6-Laranja do metrô de São Paulo, começou a receber a instalação de painéis solares para a construção de uma usina fotovoltaica, que vai suprir parte da demanda de energia da infraestrutura. Leia mais (11/20/2026 - 12h00)",
+   "data": "2026-11-20T12:00:00-03:00",
+   "texto": "Editado por Stéfanie Rigamonti, espaço cobre os bastidores da economia e de negócios. Com Luana Franzão e Maria Clara Guilherme\nVocê tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nReceba no seu email as informações exclusivas da coluna Painel S.A.\nO Pátio Morro Grande, centro de operação, manutenção e administrativo da Linha 6-Laranja do metrô de São Paulo, começou a receber a instalação de painéis solares para a construção de uma usina fotovoltaica, que vai suprir parte da demanda de energia da infraestrutura.\nA linha, que é operada pela concessionária Linha Uni, controlada pela Acciona, começou a funcionar em julho deste ano .\nSegundo a empresa, serão instalados, ao todo, cerca de 2,6 mil painéis de energia solar , de fabricação nacional, com geração estimada de 1,9 GWh por ano.\nA usina fotovoltaica ocupará uma área de aproximadamente 13 mil m² e produzirá energia suficiente para abastecer entre 760 e 1.000 residências brasileiras por mês, considerando um consumo médio entre 150 kWh e 200 kWh mensais.\nA instalação faz parte da estratégia do projeto de reduzir as emissões de gases de efeito estufa em todas as fases, da construção à operação. Segundo a concessionária, os painéis vão evitar a emissão de cerca de 15 toneladas de dióxido de carbono por mês, o equivalente às emissões mensais de 10 carros.\nA energia gerada será utilizada, em parte, na tração dos trens durante manobras de manutenção e de rotina, além de alimentar sistemas auxiliares, carregadores de veículos elétricos, sistema de ar-condicionado, iluminação e bombas d’água do bloco que abriga os centros administrativo e de controle da linha.\nLINK PRESENTE: Gostou deste texto? Assinante pode liberar sete acessos gratuitos de qualquer link por dia. Basta clicar no F azul abaixo.\nMais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão",
+   "idioma": "pt",
+   "titulo": "TJ descobre que administradores judiciais escreveram decisões que definiram seus próprios honorários",
+   "link": "https://www.estadao.com.br/economia/tj-descobre-que-administradores-judiciais-escreveram-decisoes-que-definiram-seus-proprios-honorarios/",
+   "resumo_original": "",
+   "data": "2026-11-20T16:57:58-03:00",
+   "texto": "Juíza foi alertada por servidora e mentiu sobre decisão a favor de sobrinho em leilão de R$ 20 mi\nUma investigação da Corregedoria do Tribunal de Justiça de São Paulo (TJSP) descobriu que decisões da juíza da 2ª Vara Empresarial Regional, Andrea Galhardo Palma, em processos de recuperação judicial eram, na verdade, redigidas pelos próprios administradores judiciais nomeados pela magistrada.\nA juíza também está sob suspeita de beneficiar os administradores judiciais com honorários acima de limites legais. Trata-se de agentes privados que não poderiam ter ingerência em decisões dos juízes. Magistrados têm o papel de fiscalizar o trabalho de auxiliares que indicam em processos.\nA defesa da juíza defendeu a qualificação dos auxiliares nomeados por ela e disse que, se forem reconhecidas falhas, que o caso seja resolvido com a assinatura de um termo de ajustamento de conduta. Trata-se de um acordo em que o magistrado se compromete a não cometer mais irregularidades em troca do encerramento da investigação.\nOs processos de recuperação judicial são movidos por empresas que estão com problemas financeiros para pedir auxílio à Justiça para renegociar e pagar suas dívidas com credores. Nesses casos, juízes nomeiam administradores judiciais, que são agentes privados indicados para fiscalizar o cumprimento dos planos de recuperação judicial.\nEsses agentes ganham percentuais de honorários sobre o valor da causa, que costuma ser a dívida da empresa com os credores. Os parâmetros são estipulados pelos próprios juízes. Apesar de serem nomeações discricionárias, os trabalhos dos administradores judiciais são fiscalizados pelos magistrados, que podem inclusive destituí-los dos processos em casos de irregularidades.\nCom base em uma reportagem do Estadão sobre a atuação da juíza em um desses casos, que tinha a atuação de seu próprio sobrinho como advogado, a Corregedoria investigou a juíza. Após buscas e depoimentos em seu gabinete, foram abertas outras frentes de investigação. Uma delas diz respeito à relação dela com os administradores judiciais e conciliadores nomeados nos processos.\nA Corregedoria identificou nomeações em série de profissionais que não são nem sequer cadastrados em sistemas do Tribunal e do Conselho Nacional de Justiça, com valores em honorários muito acima dos limites legais. Mas a parte mais grave apareceu quando juízes da corregedoria obtiveram mensagens da juíza com esses agentes.\nEm sessão do Órgão Especial do Tribunal de Justiça de São Paulo (TJSP), a corregedora da Corte, Silvia Rocha, afirmou que administradores judiciais mandavam para a juíza minutas das decisões a serem somente assinadas por ela.\nPresidente do TRF-1 decidiu a favor da própria filha em ação bilionária que beneficiava o Master\nPrecatórios de hospitais que podem custar R$ 24 bilhões à União entram na mira do CNJ\n“Não são apenas relatórios. Essas decisões foram especificadas no voto que encaminhei a vossas excelências. Há várias decidindo embargos de declaração, fixando os honorários dos próprios profissionais, dos administradores judiciais que elaboraram as decisões”, disse.\nSegundo a corregedora, a “preocupação é ainda maior nos casos em que a decisão sugerida pelo próprio administrador dizia respeito aos seus interesses, inclusive pagamento e cobrança dos seus honorários”.\n“Não foi só o envio das minutas; as minutas foram efetivamente utilizadas nos processos. Há, portanto, risco de evidente sobreposição de funções. Aquele que deve ser fiscalizado pelo magistrado passa a elaborar o pronunciamento do magistrado, mediante o qual será fiscalizada sua atuação ou decidida matéria de seu interesse em seus honorários”, disse.\nÀ reportagem, o advogado Átila Machado afirmou que a defesa “recebe com respeito a decisão do Órgão Especial do Tribunal de Justiça de São Paulo, mas discorda veementemente da conclusão alcançada, pois os fatos, examinados em seu contexto, não revelam favorecimento a quem quer que seja, tampouco descaso com a jurisdição por parte de juíza que, em mais de 25 anos de carreira, jamais respondeu a processo disciplinar”.\nA defesa também afirma que “a magistrada jamais extraiu vantagem pessoal, uma vez que os relatórios dos administradores judiciais, previstos em recomendação do CNJ, eram subsídio técnico de decisões examinadas e assinadas, e as minutas citadas não fixavam honorários, mas cuidavam da cobrança de valores já arbitrados”.\n“A participação em eventos acadêmicos, por sua vez, nunca lhe rendeu benefício, ocasião em que também não procede a ideia de descaso com a jurisdição. Os 48 dias no exterior, ligados à atividade acadêmica, distribuem-se por quase quatro anos e meio e somaram 1.980 movimentações em 1.467 processos, sem registro de audiência não realizada ou de advogado sem atendimento”, disse.\nAmeaças, insultos, acordos: como Jensen Huang transformou a humilhação em rotina na Nvidia\nTJ de SP investiga viagens de juíza pagas com ‘sacola de dinheiro deixada na porta de agência’\nTJ descobre que administradores judiciais escreveram decisões que definiram seus próprios honorários\nNem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia?\nMaksoud Plaza: hotel de luxo fechado em 2021 pode virar condomínio com 398 apartamentos residenciais"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão",
+   "idioma": "pt",
+   "titulo": "Novo supercomputador da Petrobras e do Cesar busca soberania em inteligência artificial; entenda",
+   "link": "https://www.estadao.com.br/economia/negocios/novo-supercomputador-da-petrobras-e-do-cesar-busca-soberania-em-inteligencia-artificial-entenda/",
+   "resumo_original": "",
+   "data": "2026-11-20T12:00:00-03:00",
+   "texto": "A Petrobras e o Centro de Estudos e Sistemas Avançados do Recife (Cesar) assinaram um termo de cooperação técnica e de pesquisa para desenvolver software para um supercomputador que pode levar à soberania do uso de ferramentas de inteligência artificial (IA) pela petroleira no Brasil. Ou seja, o equipamento é capaz de executar aplicações de IA que podem ser utilizadas para a análise de dados para encontrar novas reservas de petróleo ou gás natural . A assinatura do termo inicia uma jornada em busca da autonomia da gigante nacional em IA, sem depender diretamente de outros países ou empresas estrangeiras.\nO mapeamento do subsolo na exploração de petróleo e gás exige o processamento de enormes volumes de dados e cálculos matemáticos complexos. Hoje, os testes de novas arquiteturas de computação dependiam de simuladores lentos e limitados. Com a chegada do novo servidor físico, os pesquisadores agora testam seus algoritmos diretamente no hardware, ganhando velocidade, precisão e eficiência. O objetivo final do projeto é trazer soberania à empresa no uso de IA, tornando-se independente de fornecedores de soluções de processamento de dados em nuvem e até mesmo de chips, como os da Nvidia , porque a arquitetura do supercomputador é diferente e aberta.\nA máquina em questão é uma TT-LoudBox, um servidor de alta performance desenvolvida pela Tenstorrent, companhia canadense especializada em projetar servidores baseados na arquitetura chamada Risc-V. Essa arquitetura aberta é um conjunto de instruções para projetar processadores e ela pode ser usada para criar chips próprios, sem a necessidade de pagar royalties ou licenciamento para empresas como Nvidia, Intel ou ARM.\nO equipamento conta com 2560 núcleos de processamento para lidar com cargas de IA enquanto estão em execução. Quando terminado o processamento, os dados são armazenados em um servidor próprio da empresa ou em um serviço de computação em nuvem.\nEm entrevista ao Estadão , Evaldo Costa, especialista do Cesar e líder técnico da iniciativa, afirma que ter o servidor não é suficiente sem software adequado. Por isso, a equipe do Cesar está desenvolvendo do zero as bibliotecas matemáticas, kernels e modelos de aprendizado de máquina necessários para rodar as aplicações na nova arquitetura. Segundo ele, a autonomia trazida pelo servidor em IA reduz riscos de bloqueio por questões geopolíticas, licenças caras ou sanções de governos estrangeiros.\nO termo de cooperação técnica e de pesquisa não teve valores financeiros divulgados. A fabricante do supercomputador vende a máquina com preços que partem de US$ 12 mil (cerca de R$ 70 mil).\nA Petrobras tem investido bilhões de reais em inovação nos últimos anos, ao mesmo tempo em que também remunera acionistas com dividendos fartos. Em 2024, foram R$ 4,281 bilhões reconhecidos como custos com pesquisa e desenvolvimento tecnológico. No ano seguinte, a cifra foi de R$ 4,814 bilhões, um crescimento de 12,5% no ano. De janeiro a junho deste ano, o montante já soma R$ 2,810 bilhões.\n“A prospecção de novas arquiteturas computacionais para HPC em geociências é essencial para buscarmos saltos de desempenho com maior eficiência energética e menor custo, além de preparar o caminho para uma computação cada vez mais sustentável e ciente de carbono”, afirma, em nota, Felipe Albuquerque Portella, IT Advisor da Petrobras.\nCriei com IA um ‘robô’ que acessa a internet; entenda por que humanos já são minoria na web\nBrasil cai 2 posições e fica em 54º lugar em ranking global de digitalização e IA; entenda por quê\nA IA é muito perigosa, como a energia nuclear, mas deve trazer benefícios, diz Nobel de Economia\nEmbora tenha surgido para atender às necessidades da Petrobras, o projeto converge com os objetivos nacionais de criar infraestruturas digitais abertas e desenvolver talentos em supercomputação no Brasil, que estão descritos no Plano Brasileiro de Inteligência Artificial (PBIA), focado em soberania nacional na era da IA.\n“À medida que o projeto foi avançando, entendemos que ele tem conexões com o PBIA. Essa questão da soberania, do uso de aplicações, da arquitetura open-source para que você não fique preso a uma determinada fabricante. Disseminar o conhecimento e o uso dessa arquitetura tem toda a conexão com que o PBIA tem por objetivo, que é ter um ambiente livre, onde você consiga ter sua independência sem estar amarrado a nenhuma empresa”, afirma Costa.\nO PBIA prevê investimentos de R$ 3,04 bilhões em supercomputadores, nuvem soberana e modelos de linguagem de IA em português no período entre 2024 e 2028. O primeiro item do plano de ação é ter um supercomputador de IA, com orçamento de R$ 1,8 bilhão. Desse valor, foram investidos até o momento R$ 248,8 milhões, segundo dados do Ministério da Ciência, Tecnologia e Inovação (MCTI).\nA meta é atualizar a capacidade do supercomputador Santos Dummont no Laboratório Nacional de Computação Científica, e a previsão para 2026 é de assinar acordos com parceiros para hospedar as máquinas e custear a energia. Parte dos equipamentos para modernização do Santos Dummont foram comprados em novembro de 2024. O supercomputador é utilizado por instituições públicas e privadas brasileiras para processamento de alto desempenho, simulações científicas e análise de dados em grande volume.\nTJ de SP investiga viagens de juíza pagas com ‘sacola de dinheiro deixada na porta de agência’\nAmeaças, insultos, acordos: como Jensen Huang transformou a humilhação em rotina na Nvidia\nTJ descobre que administradores judiciais escreveram decisões que definiram seus próprios honorários\nMaksoud Plaza: hotel de luxo fechado em 2021 pode virar condomínio com 398 apartamentos residenciais\nVeja as quatro piores propostas para equilibrar as contas do governo"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "O Globo",
+   "idioma": "pt",
+   "titulo": "Com combustível alto, aéreas cortam voos e transportam menos passageiros que o previsto",
+   "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/21/com-combustivel-alto-aereas-cortam-voos-e-transportam-menos-passageiros-que-o-previsto.ghtml",
+   "resumo_original": "Passageiros aguardem embarque diante da pista do Aeroporto Santos Dumont, no Centro do Rio: freio deve reduzir em mais de 10 milhões volume total de viajantes de avião neste ano",
+   "data": "2026-11-21T04:00:00-03:00",
+   "texto": "A escalada da cotação internacional do petróleo e de derivados como o querosene de aviação (QAV) ao longo de 2026, provocada pela guerra no Oriente Médio, impôs um freio na expansão da aviação civil brasileira neste ano. O combustível quase dobrou de preço e levou as companhias a redimensionar suas malhas.\nVeja fotos: Latam terá suítes privadas em avião menor que pode ligar o Nordeste à Europa Jerome Cadier: CEO da Latam prevê que passagem vai subir com alta prologada de combustível e Reforma Tributária\nLevantamento da Associação Brasileira das Empresas Aéreas (Abear) mostra que, apenas em novembro, foram 3,3 mil decolagens domésticas a menos que o previsto antes do agravamento da crise geopolítica iniciada no fim de fevereiro. Com isso, o setor vai terminar o ano com crescimento menor que o projetado.\nO corte de voos planejados se deu principalmente no Norte e Nordeste e vai frustrar a expectativa do setor de transportar inéditos 145 milhões de viajantes em 2026. A previsão agora é de 134 milhões de bilhetes emitidos até dezembro. Após um primeiro trimestre com tráfego crescendo perto de 9%, o ritmo anual desacelerou para a casa dos 3%, o que significa quase 11 milhões de passagens a menos.\nVeja também: BlackRock, maior gestora de investimentos do mundo, anuncia a compra da brasileira SulAmérica\nComo o planejamento da aviação comercial sofre alterações diárias nos sistemas da Agência Nacional de Aviação Civil (Anac), a radiografia cruzou registros da plataforma Siros em dois momentos distintos para medir a retração nos estados.\nEm abril, no início da escalada do preço nas refinarias, as empresas projetavam ampliar a oferta nacional de voos em 9,4% em novembro na comparação com igual mês de 2025. Em outubro, a estimativa caiu 5,3 pontos percentuais, para 4,1%.\n— O combustível nunca representou tanto nos custos totais das companhias aéreas como agora. Bateu 45%, a maior marca da nossa série histórica, iniciada em 2002 — afirma Juliano Noman, presidente da Abear.\nFeriadão: Galeão oferta mais de 318 mil assentos no feriado da Consciência Negra\n— No começo da crise, as empresas tentaram repassar essa alta para as tarifas, mas a renda do passageiro tem limite. Quando esse teto é atingido, você passa a ter menos efeito no preço e entra na fase de cancelamento de voos, que atinge até rotas internacionais que operavam lotadas.\nEnquanto o centro-sul do país mantém algum crescimento, estados nordestinos têm redução na oferta de voos e assentos em comparação com 2025, principalmente Sergipe, Bahia e Rio Grande do Norte.\nExecutivos e fontes do setor ouvidos pelo GLOBO explicam que essa assimetria geográfica vem da combinação de questões operacionais com o perfil dos viajantes de cada rota. Como o querosene é o principal custo variável de um voo, trajetos sofrem maior pressão nos custos.\nLeia mais: Gigante espanhola levanta R$ 1,8 bi em títulos para concessão do Galeão\nQuando o insumo dobra de valor, o custo total de operação dessas rotas longas salta entre 30% e 35%. Na variável do consumo, como as rotas do Nordeste são mais ligadas a lazer e ao segmento classificado pela sigla em inglês VFR (visita a amigos e parentes), o preço do bilhete pesa mais na decisão de compra, já que o dinheiro sai do próprio bolso do passageiro e não das empresas dos viajantes de negócios, que predominam no eixo Rio-São Paulo, por exemplo.\nO reajuste de um bilhete de R$ 500 para R$ 700 para cobrir a alta do QAV, por exemplo, é suficiente para famílias inteiras refazerem os planos.\nCom isso, as companhias cortam voos para reduzir poltronas vazias nos aviões e se concentram nos polos mais dinâmicos do país. Regiões dominadas por cadeias produtivas como mineração, agronegócio e petróleo permanecem relativamente imunes aos cortes e à escalada tarifária.\nNoman, da Abear, destaca que o QAV não tem o mesmo subsídio do governo criado para diesel e gasolina neste ano para minimizar o impacto da alta do petróleo no transporte rodoviário. A entidade pede ao governo uma política similar:\n— Não dá para simplesmente repassar todo o custo para o bilhete, e é nessa hora que conversamos com o governo, que tem ferramentas para amortecer o choque e evitar que localidades fiquem desabastecidas. Já tivemos alívio de PIS/Cofins, crédito e postergação de tarifas na primeira onda de alta e discutimos novos suportes, até porque subvencionar a aviação não é perda fiscal, mas um investimento que retorna em PIB e arrecadação.\nFatores regulatórios e financeiros também ajudam a blindar os aeroportos mais movimentados do Sudeste, como Congonhas e Guarulhos, em São Paulo. As aéreas evitam cancelar decolagens ali para não perderem seus slots (direitos de pouso e decolagem), ativos escassos que dificilmente seriam recuperados depois.\nNo início de 2026, o litro do QAV era comercializado a R$ 3,33. Com a crise no Golfo Pérsico, o valor praticamente dobrou, batendo o recorde de R$ 6,65 em meados do ano.\nApesar de medidas governamentais no fim de maio, cortes anunciados pela Petrobras na virada de junho e uma trégua no conflito terem aliviado o preço do combustível, que caiu para R$ 4,79, o recrudescimento da guerra fez o litro voltar a disparar, alcançando R$ 6,38 no fim de outubro.\nParceria: Aeroporto de Viracopos firma acordo com terminal na Bélgica para atrair cargas de tecnologia e fármacos\nO abalo é na aviação civil de todo o mundo. Aéreas da Europa e da Ásia têm elevado tarifas e houve cortes severos nas rotas de Canadá e EUA. No Brasil, as três principais companhias adotaram táticas distintas para proteger o caixa.\nA Latam optou por um freio mais sutil, amparada pela alta de 23% nas receitas premium e de 20% com cargas no terceiro trimestre. Apesar do custo extra de US$ 520 milhões com QAV entre julho e setembro — com projeção de US$ 2 bilhões adicionais em todo o ano de 2026 —, a aérea cortou sua projeção de expansão da malha no Brasil de 8,5% para 8%.\n— Esse ajuste de 0,5 ponto percentual não eliminou nenhuma base ou rota, mas reduziu frequências onde operávamos várias vezes ao dia — diz Jerome Cadier, CEO da Latam Brasil, que aposta na chegada de novos jatos Embraer E2 para ganhar eficiência no consumo de QAV em rotas menos densas.\n— Mantivemos nosso plano de recebimento de aeronaves para 2027 e seguiremos fazendo ajustes pontuais, mas de forma alguma radicais, observando variáveis críticas como câmbio, combustível e Reforma Tributária.\nAirbus: Brasil terá o dobro de passageiros em 2045 e América Latina precisará de 2,7 mil novas aeronaves, diz Airbus\nNa Gol, uma reestruturação mais profunda levou ao cancelamento de ao menos 40 rotas domésticas e internacionais entre dezembro de 2026 e janeiro de 2027.\nA lista inclui ligações regionais e entre capitais, como Salvador-Curitiba, Salvador-Porto Alegre, Fortaleza-Foz do Iguaçu e Congonhas-Bonito. Houve corte em trechos internacionais que ligavam cidades do Nordeste à Argentina e voos diretos de Fortaleza, Belém e Brasília para Miami e Orlando, nos EUA.\nEm nota, a Gol atribuiu os ajustes aos aumentos sucessivos do QAV, que já representa cerca de 40% de seus custos operacionais, e afirmou que esse planejamento ocorre de acordo com as necessidades da operação, “sem qualquer distinção ou priorização regional”. Diz ainda que mantém conectividade por meio de conexões próprias e de sua rede codeshare (compartilhamento de voos com outras empresas).\nEstratégia: Petrobras vai parcelar a alta do querosene de aviação para distribuidoras\nA Azul, que intensifica cortes de voos desde junho, não quis comentar o assunto. Em declarações recentes, o CEO John Rodgerson explicou que a aérea concentra cortes em rotas internacionais e no ajuste de frequências diárias internas. Poderia, por exemplo, diminuir de seis para quatro os voos diários para algumas capitais e priorizar os hubs de Recife (PE), Belo Horizonte (MG) e Campinas (SP).\nCom a indefinição no Oriente Médio, a imprevisibilidade para 2027 domina as mesas de planejamento das companhias, que operam com ciclos longos.\nNova permissão: Anac autoriza canadense WestJet a operar voos regulares no Brasil\nA mudança nos voos planejados para o ano envolve uma série de adaptações na frota e nas equipes profissionais. Nos bastidores da indústria, a informação é de que empresas já discutem deixar em solo cerca de 5% de suas frotas na baixa temporada de 2027 para queimar menos caixa."
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Agência de Comunicação - A Sinopec promove evento paralelo no pavilhão da China na COP31 e divulga suas perspectivas para energia e combustíveis verdes.",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPODkyM1pjVlpCZFVXWERoYkZzV0FJT2h0MlBObnE1Q1diWDNycTZqQ1RsclQ4M1FnVjM4Szg4d3ExcHBqZXkyemY4clpLdzZqdDZqTm4zUWl4aDh0ZldhSEplVUlERm9qd0RkVmRtMWZndHZMZ1dLUW1tZUVldU5zQl9QeVpfOFZZU2Nod2E5c2YzNk1HUFd4eDVPZGJjYW45Y3NSMkZMbW9MTHNpSmcwRF9YN1l2ZEVPVXVDdjM5V0FNV2ZnMlpEb29TUXQwVVhlei1HWUd4dmtWdThaYkZXc29RQjdhWmgxVjh0V3pjeGhHNDF6UVFHelNSNnotNGJqZGNQbVZxdlV6bnBPVXViOXJmUGFtS2ctajRQanhqZTQ?oc=5",
+   "resumo_original": "Agência de Comunicação - A Sinopec promove evento paralelo no pavilhão da China na COP31 e divulga suas perspectivas para energia e combustíveis verdes. Estadão Blue Studio",
+   "data": "2026-11-19T23:06:14-03:00"
+  },
+  {
+   "setor": "Concorrencial",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Ressurge movimentação por ex-superintendente do Cade Alexandre Barreto no comando do BB",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORFpiNFVRTFAySEpEeWdrNFpNM3duY0lFMFVCbG1lazA3dThzaTl5VkdQNnJvLXlvVjA0QkNmOVJObkV3V2xpZWdsLWtaSEV5cno4OW1jcVVPTGt2STBGVGJEMWh6cmxvWkNUaGRadWI5TkpvRWFLalNPNDc1Rno4YUI1REdGbGVCcE5Od2ZfbHRXWnZvSXA5WFNocnFmRGtEVHBlcDJVZnFNMHBzZS1WTkxJZWpWazBBT3E0eElSNUZsQnJoRFFZNjQwRzE?oc=5",
+   "resumo_original": "Ressurge movimentação por ex-superintendente do Cade Alexandre Barreto no comando do BB Estadão",
+   "data": "2026-11-20T17:33:11-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Investo lança novo ETF focado no Índice de Energia Elétrica da B3",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnhnREd5dUZJUnJUcFFzeVJVVWRaUzZqVFhRUGZhb1R0N2JSeGl5N3lnSGFROXJXYnNfRmtyOTBDb0RWNFVZWU1ZYzJxS1FoWlFvbHdmUGs3bnNoNDg4ZnFlaDlZdmJNdm12NlJDRXZ5YW9mRUFBVVZmcEk2QmtZNzduMm40Q0NienY1bWYxLVc1cU40YlVQQTlBaElXRU1qOHNnLUxkOVpoclJVMmRvcXoyNzVXV2pXREgwMXZueTE1T0pZY3c?oc=5",
+   "resumo_original": "Investo lança novo ETF focado no Índice de Energia Elétrica da B3 Estadão",
+   "data": "2026-11-20T15:04:50-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "CSN Mineração lidera altas e MRV tomba quase 5%; veja os destaques do pregão",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODQzOHR0cHdIRERHZDhFMnItR2ozMzRPTVVsYjdaRlFqVkdKbnJWYm9STkJoUlhNN3NUUjU3MDR4WWVqcy0tUTRydDlTd1hmdzVUR0xNZkFidTlkM1BvTHVXT3FpRUxST3o3OUs2dDFjOVVJVEowRnpxVEtCZGQ5MjB4UmFFUFVEdU0yU1QxenV3X3JVUmdtdlB0QXZMem9qNXRLMTRPRWlKWDVkS2ZxVWhjeFVqT2xaNjBBOGRfbzlVT1hBaGxib2U3R0c3VkVDY3llVDFhUnVXLXNU?oc=5",
+   "resumo_original": "CSN Mineração lidera altas e MRV tomba quase 5%; veja os destaques do pregão Estadão",
+   "data": "2026-11-20T13:54:33-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Maioria da Aneel é favorável a encerrar contrato da Enel em SP",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY2k3aGQ2M2xfeTB1ZEQ0OW1WTDhaYThROVF1T05iZ0hPVnJVNU5aSFZWRjNnMjh3dW5QRFNMcVF3SlpLQjVJQlZmMWcwaGE3dEVEanRBVENrMjBMdHRYQ3BONDVPVjZ6MVpZNE5yaWlHV21MSTJvdWw2U2ptQlVibDZMUVQwUV9SYkxiTHlFcXdKVEhPRHR0SU1vSHlyem92eGx0NmxOOHRuR2t2YWpKZjl3dUFmNElyMWIzSVpzOGVfSTd2V0xaaVBKdkZ5bmxFUnk2T0dyOUhtWERFV2pmM0Fn?oc=5",
+   "resumo_original": "Maioria da Aneel é favorável a encerrar contrato da Enel em SP Estadão",
+   "data": "2026-11-20T14:00:00-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Caso Enel: o que aconteceu nos outros episódios em que a Aneel recomendou rescisão dos contratos?",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaDdZVWlmZWRTZTdsRGdudS1BVHRtYlBvSmdYa2pDVDN2dEtVYjFLdXdSTHVDV3g1RXNFTTNJcTFrRndGR21RS2pOVU4wTGhnSklFaFNqTXYydHpteG9fY3pwSHpqTklyUi1kZ2xpeHRkNWJweGtmdnlNbUtGX3hmMkpGSzVxWHpac1o1MjJhSE9Lb2pqSzlJQVl1NkZsUG9PNWxSbHZxQ2ZiV1k4dUFvbUdxTV96SmxyanVkLWc3SXZTYWwydWdyc2hrQjlWZGpiUUV5Q0lmWTQ?oc=5",
+   "resumo_original": "Caso Enel: o que aconteceu nos outros episódios em que a Aneel recomendou rescisão dos contratos? Estadão",
+   "data": "2026-11-20T05:32:07-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Agência de Comunicação - A JA ESS lança plataforma própria de passaporte de baterias para atender às exigências regulatórias da União Europeia",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQTMxTXltZ0ZoMlRiVjdBOFhwZHhsdjdIbUN0RUlTdFhNZmlhbERvdTc2RjZpaGZCcTYyd1dKc0FaQVlYQXBra1VoRnBYTGVZZkRsT091WTk2Rmh4dnF5WG5ndnVwaHItTWpDTWR3Snl5WnR2NXZhdXl0MURzVkY1NXhtaHh2dm1TZ2pEYWxkUEFnNlo5S3cyWUJueHlnVnhpYUtwTXpFeGJEZ0ItWkN0R3dWaUpPbXVSakZpRzBGSlhNaDBmRWlJNGVyQW4wSnJzZ0NZcW1IcVJDT3FCYWpLZWpNQlRhZGx6NVM1T0prUnp1aXA0VW9qNFF4T00yVGhSUU9wNjI3Q2d1S0Q4bFFXVEhSZUs?oc=5",
+   "resumo_original": "Agência de Comunicação - A JA ESS lança plataforma própria de passaporte de baterias para atender às exigências regulatórias da União Europeia Estadão Blue Studio",
+   "data": "2026-11-20T17:30:50-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Estadão | Broadcast",
+   "idioma": "pt",
+   "titulo": "Agência de Comunicação - Mineradora pede incentivos para processar terras raras no Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd2hncS10cVdNYmpWd0JxZGxfTFVjS3NNMnQ0aXhXaXd5ZDZQQ0hlNDhVOEpnclFfTnVpVGtabGZQZDh0aVJ3X2tNajQwTjEyc1FpemN5OGN1ckFKdml3aTJKOWxzeVVweGJWODIwRzh0dU1qRHBpNnRXWFpBMjFEMXFrSHl2LXI0blRENV9YZUM5ejBidlJjVzcwZ1NOSm1JNmpQT1ZSVUtzLW1QNnJuajNfdjFmYjd5NTRrUkx3b1RwNnNHb0RlallYR25NN2hYdnZXNGtSREI5UFd6?oc=5",
+   "resumo_original": "Agência de Comunicação - Mineradora pede incentivos para processar terras raras no Brasil Estadão Blue Studio",
+   "data": "2026-11-20T14:15:31-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "Movimento Econômico",
+   "idioma": "pt",
+   "titulo": "Guerra das baterias: chinesa Windey se habilita no BNDES para fábrica em Camaçari",
+   "link": "https://movimentoeconomico.com.br/economia/energia/2026/11/20/guerra-das-baterias-chinesa-windey-se-habilita-no-bndes-para-fabrica-em-camacari/",
+   "resumo_original": "Fábrica de R$ 100 milhões da Windey na Bahia vai produzir 2 GWh por ano a partir de 2027, mas o sistema ainda está em análise. A Moura, em Pernambuco, e outra chinesa, a CRRC, em Sergipe, disputam o setor",
+   "data": "2026-11-20T05:11:00-03:00",
+   "texto": "A Windey Brasil , braço da chinesa Windey Energy Technology Group , entrou no cadastro de fornecedores do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) , anunciou nesta quinta-feira ( 19 ) o governo baiano, e avançou na corrida para fabricar no Nordeste as baterias que armazenam energia para a rede elétrica. Com uma fábrica em construção em Camaçari , na Bahia , ela disputa esse mercado, que terá os primeiros leilões de armazenamento do país em dezembro, com a pernambucana Moura , que prevê R$ 200 milhões em Belo Jardim para abastecer as empresas do leilão, e com a China Railway Rolling Stock Corporation (CRRC) , que negocia uma unidade de montagem em Sergipe .\nO cadastro é a etapa para que os equipamentos da Windey tenham acesso ao financiamento do banco , mas o sistema que a empresa quer habilitar, o Voltpack L5015 , ainda está em análise. A sessão de 2 de dezembro do Leilão de Reserva de Capacidade de 2026 , o Produto A , contrata sistemas de armazenamento com exigência de conteúdo local e está vinculada a esse credenciamento, de acordo com a Secretaria de Desenvolvimento Econômico da Bahia (SDE) .\nO cadastro tem o nome de Credenciamento de Fornecedores Informatizado (CFI) . É o mecanismo que habilita produtos ao Código Finame , da Agência Especial de Financiamento Industrial, braço do BNDES. O CFI também amplia as opções de crédito aos clientes e atende aos critérios de nacionalização exigidos em parte dos leilões do setor. A Windey já entregou os documentos para credenciar o Voltpack L5015.\nA fábrica de Camaçari tem investimento anunciado de R$ 100 milhões e vai ocupar cerca de 25 mil metros quadrados . A capacidade de produção prevista é de 2 gigawatts-hora (GWh) por ano , e o início das operações está marcado para 2027 .\nOs dois certames são os primeiros leilões do país feitos só para contratar armazenamento em baterias . A sessão de 2 de dezembro recebe os projetos que cumprem o mínimo de conteúdo nacional exigido pelo BNDES. Os demais sistemas disputam a do dia 4 .\nOs editais aprovados pela Agência Nacional de Energia Elétrica (Aneel) no fim de outubro fixam preço-teto de R$ 1,76 milhão por megawatt ao ano no leilão com conteúdo local. No outro, o limite é de R$ 1,58 milhão . Os contratos terão 15 anos , com início do fornecimento em agosto de 2028 .\nAs baterias guardam a eletricidade produzida nos períodos de maior geração para usá-la quando necessário. O sistema ajuda a dar estabilidade à rede, que recebe cada vez mais energia eólica e solar , fontes que variam ao longo do dia. Em 16 de novembro , a Associação Brasileira de Energia Eólica e Novas Tecnologias (ABEEólica) pediu à Justiça Federal a suspensão dos dois leilões.\nA Windey é conhecida pelas turbinas eólicas . Ao lançar a pedra fundamental da fábrica de Camaçari, em junho , a empresa se apresentou como a terceira maior fabricante mundial desses equipamentos, com mais de 40 gigawatts instalados e atuação em mais de 40 regiões.\nA unidade baiana será a primeira base de produção de armazenamento em baterias da Windey fora da China, com foco nos mercados do Brasil e da América Latina . A meta divulgada em junho é estar apta a vender sistemas com conteúdo local no primeiro semestre de 2027 , para os contratos que começam a entregar energia em agosto de 2028. Na época, a estrutura física da fábrica já estava disponível no polo e passaria por adaptações para receber as linhas de montagem, integração, testes e comissionamento dos equipamentos.\n“A escolha da Bahia para sediar nossa primeira fábrica de sistemas de armazenamento de energia fora da China foi uma decisão estratégica, considerando sua localização privilegiada, sua vocação industrial, seu protagonismo no setor de energias renováveis e o potencial de desenvolvimento de toda essa cadeia produtiva”, afirma Ricardo Galvão , presidente-executivo da Windey Brasil. O primeiro cliente potencial no país, citado pela empresa em junho, é a desenvolvedora Aurora Windy , que tinha mais de 5 gigawatts em projetos eólicos na Bahia e no Piauí .\nOutras fabricantes também se preparam para abastecer os projetos do leilão. Em junho, empresas nacionais como WEG , Moura e UCB já defendiam junto ao governo que incentivar a produção de baterias no país poderia acelerar o desenvolvimento industrial e garantir a segurança energética. Na mesma época, o diretor da Windey para a América Latina, Hugo Iounchan Chang Miranda , afirmou que a fábrica daria à empresa acesso às linhas do BNDES e mais competitividade em relação a outros fornecedores.\nO investimento da Moura em Belo Jardim, no Agreste pernambucano , serve para montar sistemas com tecnologia da chinesa Contemporary Amperex Technology (CATL) . Em entrevista à Broadcast , publicada pelo Estadão em 10 de novembro , o diretor de operações de lítio da companhia, Spartacus Pedrosa , contou que o BNDES cobra índices de nacionalização entre 50% e 60% .\nEm Sergipe, a unidade de montagem de baterias da CRRC prevê investimento acima de US$ 10 milhões e 130 empregos diretos . A chinesa vai visitar três áreas no estado e pretende começar a operar a partir do segundo semestre de 2027 .\nA fábrica é a segunda fase da estratégia da Windey no Brasil. Em 27 de junho de 2025 , a empresa inaugurou em Salvador o escritório nacional e um Centro de Pesquisa e Desenvolvimento em parceria com o Senai Cimatec , centro de tecnologia do Serviço Nacional de Aprendizagem Industrial (Senai) .\nA inauguração teve a presença do presidente mundial da companhia, Cheng Chenguang , e do ministro da Casa Civil, Rui Costa . O centro tem foco em tecnologias para o semiárido baiano , com atuação conjunta de universidades, startups e indústrias.\nNo mesmo ano, a Windey assinou um memorando de entendimento com o Senai Cimatec e o Ministério de Minas e Energia (MME) para cooperação em energia eólica , hidrogênio verde e armazenamento . “Estamos construindo aqui não apenas uma fábrica, mas uma plataforma industrial e tecnológica com potencial para atender ao Brasil e à América Latina”, diz Galvão.\nLeia mais: BYD testa em Camaçari caminhão elétrico para cargas de até 80 toneladas"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "Movimento Econômico",
+   "idioma": "pt",
+   "titulo": "Bordado do Sertão de Alagoas vale 7% das vendas de chinelo polêmico da Havaianas",
+   "link": "https://movimentoeconomico.com.br/moda/2026/11/19/bordado-do-sertao-de-alagoas-vale-7-das-vendas-de-chinelo-polemico-da-havaianas/",
+   "resumo_original": "Dinheiro vai para as organizações da Ilha do Ferro, e não para cada bordadeira. A Havaianas não divulga quanto vendeu de produto acusado de apropriação cultural e prepara com artesãs locais uma coleção para 2027",
+   "data": "2026-11-19T22:59:58-03:00",
+   "texto": "A Ilha do Ferro , povoado às margens do Rio São Francisco no Sertão de Alagoas , vai receber 7% do faturamento líquido obtido pela Havaianas com o chinelo inspirado no bordado da comunidade, mas ainda não sabe quanto dinheiro isso representa. A marca fechou o acordo depois de críticas das bordadeiras e não divulgou quantos pares vendeu de junho , quando lançou o modelo, a outubro , nem o valor total do repasse, informou nesta quinta-feira (19) o blog Capital , do jornal O Globo .\nA Havaianas lançou o chinelo em junho , de acordo com O Globo, com o nome Top Boa Noite , referência ao bordado Boa-Noite , que tem Indicação Geográfica reconhecida, informa a Prefeitura de Pão de Açúcar , município do povoado. No fim de outubro , a Cooperativa de Bordadeiras Art-Ilha e a associação de moradores reclamaram, em nota, da falta de consulta durante a criação do produto e disseram que a estampa não representava com fidelidade a técnica artesanal passada entre gerações. Depois da repercussão, a empresa trocou o nome para Top Tropiflora , mas manteve o modelo no catálogo, à venda por R$ 94,99 .\nAlém do repasse, o acordo prevê uma coleção cápsula com artistas locais em 2027 . Representantes da Havaianas estiveram na Ilha do Ferro na semana passada para negociar os termos, conta Maria Fernanda Albuquerque , diretora global de marketing da marca. Na avaliação dela, o episódio levou a companhia a rever a forma como envolve comunidades tradicionais no desenvolvimento de produtos.\n“Esse processo reforçou para nós a importância de incorporar esse diálogo cada vez mais cedo em iniciativas dessa natureza”, afirmou a executiva, em nota enviada pela assessoria de imprensa. Ela diz que o percentual de 7% segue uma prática da empresa em outras parcerias e cita a colaboração com o Instituto de Pesquisas Ecológicas (IPÊ) , que já destinou cerca de R$ 11 milhões a iniciativas de conservação da biodiversidade ao longo de quase 25 anos .\nO dinheiro não será dividido entre as bordadeiras. Os recursos vão para as organizações comunitárias envolvidas, que vão discutir em conjunto onde aplicá-los, explica Dirceu Ribeiro Dias , artista, pesquisador e uma das lideranças do povoado.\nPara ele, o repasse é uma conquista da mobilização dos moradores, mas não atende a todas as reivindicações. A comunidade pediu a retirada das referências culturais usadas no produto, uma retratação da marca, compensação pelos ganhos comerciais e mais transparência sobre as vendas .\n“Desde o início, quando tomamos conhecimento da questão, nossa principal reivindicação foi o reconhecimento da comunidade como protagonista de sua própria cultura. Não se trata apenas de utilizar uma referência estética, mas de reconhecer a história, os conhecimentos e as pessoas que mantêm essas tradições vivas”, afirmou Dirceu. Sobre o dinheiro, ele afirma: “A proposta de contribuição financeira representa um avanço importante e reconhecemos que foi resultado da mobilização e da reivindicação coletiva.”\nA coleção cápsula de 2027 terá bordadeiras e artesãos da Ilha do Ferro desde as primeiras etapas de criação. A Havaianas diz que a proposta é que os artistas locais participem das decisões criativas e recebam um percentual das vendas .\nDo lado da comunidade, a participação ainda depende de negociação. Dirceu conta que existe uma proposta de até três produtos , mas que não estão definidos os mecanismos de decisão, a proteção dos conhecimentos tradicionais nem a forma de dividir o resultado financeiro da coleção.\n“A participação das artesãs não pode ser apenas simbólica ou consultiva. Elas precisam participar efetivamente do processo criativo, ter seus conhecimentos reconhecidos e contribuir para as decisões sobre os produtos que serão desenvolvidos”, afirmou. A Havaianas, por sua vez, diz que pretende levar o aprendizado do episódio a futuras iniciativas com manifestações culturais tradicionais, desde a concepção dos produtos.\nA liderança espera que a organização construída no caso ajude em outras pautas do povoado, em especial contra a pressão imobiliária na beira do Rio São Francisco . Para Dirceu, a comunidade provou que “tem voz, organização e legitimidade para participar das decisões que envolvem seu patrimônio cultural”. “Inclusive, essa mobilização servirá de impulso para alinhavar outras lutas na comunidade, sobretudo contra a especulação imobiliária que nos sufoca”, disse.\nO povoado fica a cerca de 250 quilômetros de Maceió e tem pouco mais de 300 moradores , a maioria vivendo da arte. Peças dos artesãos locais já foram expostas em feiras em Milão e Nova York .\nEm 10 de novembro , antes do acordo com a Havaianas, Dirceu já descrevia a escalada de preços. “Antes um terreno que valia R$ 2 mil aqui na Ilha do Ferro hoje custa mais de R$ 600 mil. Há casas recebendo propostas de mais de R$ 1 milhão de pessoas que não são daqui e estão interessadas em morar ou simplesmente explorar o turismo e promover a gentrificação local”, disse na ocasião.\nA Prefeitura de Pão de Açúcar informou, na mesma data, que a Ilha do Ferro é tombada e que o município já mantém regras de uso e ocupação do solo. Em nota, a gestão municipal disse que a diretriz para o setor é o turismo de base comunitária , “em que a renda fique com quem vive ali”, e que tem diálogo permanente com o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae) e com o governo de Alagoas para fortalecer, profissionalizar e proteger os artesãos.\nLeia mais: Ilha do Ferro vira vitrine da arte e alvo de disputa por identidade e território"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "CNN Brasil",
+   "idioma": "pt",
+   "titulo": "Terras raras têm preços até 11 vezes maiores nos EUA; Brasil mira mercado",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXAxaXZnWklsZ0RDNEJocTltaWV0ekZwY2Q4dFRET2JNX3JJRU5GSHM4eHBMd3hYUWdxckpIbGtTeFZhcG9HNHZhZmxyQkwxdElLM1RnSENDZURiRHNZVGpOdHBpQ3V0YnNtUjFzc1FPWmE5REtHX3FQMkpoamE1bXJTckFlVVVlNUppaGp6N0UzWndaS0FWeGsyTUs4LUsxNTh2WUNxNmJlZVlS?oc=5",
+   "resumo_original": "Terras raras têm preços até 11 vezes maiores nos EUA; Brasil mira mercado CNN Brasil",
+   "data": "2026-11-20T04:45:04-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Manchetes do dia: Lítio está por trás dos US$111bi da mineração chilena",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdG1FSmF3VUJWV0FzRng3NjNSV0RjVU0tX3N0eVM0Q2VYTU5xSjBFYXMyXy1hbTJ2VHdwSTYyQW9YNGNqbmVjNGgwYXp5cUdZVGI1cEZ5S2UtdVk2by11eVNGNktDQlpaVHRXWXV4Wk5hSHBxQkZtN3NJa1poSlRwUHUzQjJDcURuMHVIeXo3WlpQcFBMbmlIM1ZPTkpOaDVmNXFqYjNzYVU4Smho?oc=5",
+   "resumo_original": "Manchetes do dia: Lítio está por trás dos US$111bi da mineração chilena BNamericas",
+   "data": "2026-11-20T09:47:32-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Tributos e tarifas devem alimentar onda de judicialização em óleo e gás e energia elétrica",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeG1DOUlPakdiRWlDS09oRUU2bXg4bzNTZGJBcm5vVElkY01MemlHT1c0Y0ZvRUt0N21nWWxVZFB6d0ZJbFZ5bzNYQ3dhd1lLTVhLTkJoSkxlb2pYbzRDSGpTSS1EYW1KY2hLRXlBNkZiTFZWSTNleE1IUW5aNFFGYktWbVVYcW1nQnVvRnRiRmtDSThHaUd5VnRTTXJjc0xlLUZvTGVTNVVHeUVNMTk1cG90eFZYeV8wWjdBQnVWM3NGVTdMeVRr?oc=5",
+   "resumo_original": "Tributos e tarifas devem alimentar onda de judicialização em óleo e gás e energia elétrica BNamericas",
+   "data": "2026-11-20T08:44:56-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [
+    "Petróleo & Gás"
+   ],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Terminal de Armazenamento e Distribuição de Combustíveis do Pecém",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkQyR0MyQ2otaGpXQTlrQ3I0VWR1VlhBLXF5b3lTQk1OWWMtOWNiVFdiN1hYOEFTMDNFVWpYelYzdFRPMS1jVWZycnA4ckV6ZFA3N2VZQ1lqS19KNjRobUlnenZybklPcG5MUDY0QnlBNUdzWEZaa3Q3c0VhREc5VVh6dmoyaVdzdmpQUnp0cUprMGl4OGJNakdfTElTenBUMXUyMkhFYS1tWDJFdnEzVg?oc=5",
+   "resumo_original": "Terminal de Armazenamento e Distribuição de Combustíveis do Pecém BNamericas",
+   "data": "2026-11-20T18:07:59-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Venezuela encerra 19 anos de monopólio estatal e abre setor elétrico ao capital privado",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmczeFkxcVYxZ0hEcWZyY3EtN2tmUTJhSE1OS2VlOHo1dU9DNmUyQ0M0aUVJaUNvclc0WXhDMTFiTldReHV0dVNnMkdEMmRlOVdpQ0J0dVhDYVhLQVg0dU41TmtYMWhodXdMTGlBakZPNExzY3FuX1p2UHAtYU1tbTlFUzNRYkdMZl9MdWdmSmhycjI4TUltMUZ5TjFFV2VVdUFfUzRJal9PWmJkUkZpc1poNGduZVBqa2tBcUM4Ym02ay15?oc=5",
+   "resumo_original": "Venezuela encerra 19 anos de monopólio estatal e abre setor elétrico ao capital privado BNamericas",
+   "data": "2026-11-20T13:57:37-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Peru prepara primeiro leilão de reserva de energia de dois anos com espaço restrito para baterias",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONUhMT04tVTZHamkyQWZvazZBaWx5RmFqcmFmOXI5WDAzUmFMcFFKbUdlTVBpOFRsQi1OdjVwOTl3dktoTVNlNkRHTG9uU0NHeVdJZS1SUTE1bVZmMUQwQzNLaFhTRnQxMF9raC1zNmVySjFBY3c2eDBZYklXZWduLTJkYW9sQWx5UDlPM0VySHdQV252YlhTMzBwNVJIbzlYNXZpMG83Z3M3LThGay1faXloQTJ1ZmViWTRVeklUWWNrZjYwb2hLZDg5Q0R0ZlB4?oc=5",
+   "resumo_original": "Peru prepara primeiro leilão de reserva de energia de dois anos com espaço restrito para baterias BNamericas",
+   "data": "2026-11-20T14:59:33-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [
+    "Petróleo & Gás"
+   ],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Uruguay coloca 6 projetos de combustíveis sustentáveis e solares em consulta pública",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjRFbWRRTXNwZU1taHkzQ0FoUk9tM2JUU1RqRG1NcmZaTWxzdEs5Z1ZWREJOWVFqLWdRSDI2MkJuVm03azlVY1Y0elhsejdxVnE1bEZNVG1iWEloSkMtS05nMWZ5dnY4Z2VScF9XUW9EWUVCeFNwTkYxWkhrWEkya19OREpnVlR6TWhTbHVsNUhtamVwa2pZdzhLWkp1RzZJTVFWOUhiSFJxUVpGRjVTcnQwc0NYOUFyUVRmd0RyUDI?oc=5",
+   "resumo_original": "Uruguay coloca 6 projetos de combustíveis sustentáveis e solares em consulta pública BNamericas",
+   "data": "2026-11-20T12:54:39-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Mendoza, na Argentina, coloca BHP, Teck e Patagonia Gold no seu mapa da mineração",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2pUX2pXTXBCV1RJUWd2dm96QmY3QmFOVGh2bE8yTHpXX1VKTjZIWXhFZWdHVGk1dEZjdGJGVWZkWndtNGY2UUdIY2tuX1MwZHdpRWVpQWhEYUlCa1pBMmtPTTdTYTkxbkN5OERUX3h5OXlJVkYzWkVwM0tfY3JzaTF3X3dLRXk0VVNEZGprVzRxSXBpYmZjLTFhTW1BWVdoY1JPc244czVQWUF4bGxyY01LZEd1OUVQ?oc=5",
+   "resumo_original": "Mendoza, na Argentina, coloca BHP, Teck e Patagonia Gold no seu mapa da mineração BNamericas",
+   "data": "2026-11-20T17:58:09-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Planta de regaseificação e armazenamento em terra (Palermo)",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOXzN2RTlRSUVBa1U5WE1NTEhmYkhHYzh5dHV1XzdjRFR2YlV5a1JSQVF6cEE4cUt1dHZzN19PSW5QbkZpOXNjeGQ5d0JzcjR5VVY3ODFOSUdQcmhDclRkQlU1cGpHc0VEaXhmNERjYmoxbjg5QzRGaUh1VmdDNkdsWjh1RUdfbzBFMEg1a0pXdU1lOUx6UzM1eVViTFpFZFRkNkxlS0F3?oc=5",
+   "resumo_original": "Planta de regaseificação e armazenamento em terra (Palermo) BNamericas",
+   "data": "2026-11-20T15:08:39-03:00"
+  },
+  {
+   "setor": "Mineração",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Rio Tinto prevê investir mais de US$100mi na Colômbia; cobre, provavelmente sua maior oportunidade global",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmZvZjJ5ZXZIQWZIeDF6dDlxUzdoRGhpUzdEeG9XaGdJNk5pakNpMzJEaU9ZeDZEMS1nWnhtZDlmTkNabW50OXNGZDh0bG1ZVHRING9wQmNUbkppS09WVEFHSzVVT3QwQmlpUXQtLTFBNUllNmZVejYwU09HeHQwQmk1cld2SVhQUjlfUTBVOGJyODZnQWFCWTVkbTUxWkhKLVV5WXh6enAzbnU5N0NrRHVhZmI1TnJ4VTJ3VF9wNTZmeEpzTDNieXFSOWJZdzZrZnE1UWhtSQ?oc=5",
+   "resumo_original": "Rio Tinto prevê investir mais de US$100mi na Colômbia; cobre, provavelmente sua maior oportunidade global BNamericas",
+   "data": "2026-11-20T19:39:24-03:00"
+  },
+  {
+   "setor": "Setor Elétrico",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Unidades Flutuantes de Armazenamento (FSU) - Terminal Bravo LNG",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUg2czZFLTlFR2RmVHVyTHdUeFpjcXVxT3VCb1VYUVBob0ZMaUlWcEJjS0wyMm1LYU5RdWptX2xRUzlwZ3Z5NlFRM3ctZ1lOLVdEajFTS2VwY0hDMjVqSnNiV0tiZXY2LURUZ2N1NDFBYy01d0tqMk81NzYzVkRxSldlakZNekJWN3FfbHQxcWw3aTJMZ2d5V3JXSkt1d2xpRF9mWlNUU2VOdw?oc=5",
+   "resumo_original": "Unidades Flutuantes de Armazenamento (FSU) - Terminal Bravo LNG BNamericas",
+   "data": "2026-11-20T00:15:04-03:00"
+  },
+  {
+   "setor": "Petróleo & Gás",
+   "outros_setores": [],
+   "fonte": "BNamericas",
+   "idioma": "pt",
+   "titulo": "Suriname abre pré-qualificação para serviços de upstream",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOThKZkVlc0lNZVR5UnZNaVdUN1ppOUpwUFNCdU1LN0ZGVUJEN3pCM2R1a2VsVjBEcUpOYjVYZ3RtVWpCcHRDSUx2OHFEMGN0bHlYVGhGZmJHS1pNSEJ6eFZ5a1p1dFZxQ1BoLTd1M0toY3dlbkxEd0MzdnE4OEY1N2tNMklPbDRJNGpPVmNDazhpejZ3eU90NU01aw?oc=5",
+   "resumo_original": "Suriname abre pré-qualificação para serviços de upstream BNamericas",
+   "data": "2026-11-20T16:00:38-03:00"
+  }
+ ]
+}
