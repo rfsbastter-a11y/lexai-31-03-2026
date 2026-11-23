@@ -478,5 +478,126 @@
    "resumo_original": "Disputa sobre transição dos combustíveis fósseis levou ao fracasso da COP31 CNN Brasil",
    "data": "2026-11-22T11:44:23-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Segunda-feira. 24 matérias, com duplicadas agrupadas.",
+  "destaque": {
+   "ids": [
+    7,
+    9,
+    13
+   ],
+   "titulo": "Petrobras divulga hoje o plano de negócios 2027-2031",
+   "texto": "A Petrobras divulga nesta segunda-feira (23), após o fechamento do mercado, a atualização do plano de negócios para os próximos cinco anos. Analistas esperam aumento dos investimentos, para algo próximo de US$ 115 bilhões, com ênfase em capacidade de refino, manutenção da produção de petróleo e produção de diesel e biocombustíveis. A projeção de dividendos para 2027-2031 e a política de preços de combustíveis são os pontos mais acompanhados."
+  },
+  "itens": [
+   {
+    "ids": [
+     7,
+     9,
+     13,
+     16,
+     0
+    ],
+    "titulo": "Petrobras divulga hoje o plano de negócios para cinco anos; mercado espera cerca de US$ 115 bilhões em investimentos",
+    "resumo": "Divulgação após o fechamento do mercado nesta segunda (23); analistas esperam mais investimento em refino, diesel e biocombustíveis e acompanham a projeção de dividendos para 2027-2031."
+   },
+   {
+    "ids": [
+     2
+    ],
+    "titulo": "Abren propõe meta de 1,1% para o mandato do biometano em 2027",
+    "resumo": "A minuta de resolução do CNPE prevê 1%."
+   },
+   {
+    "ids": [
+     14
+    ],
+    "titulo": "ICMS sobre o diesel acumula alta de 735,7% desde 2002, aponta estudo",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     12
+    ],
+    "titulo": "Petróleo na Foz do Amazonas impõe desafio logístico de pessoas e equipamentos",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     3,
+     4,
+     8,
+     5
+    ],
+    "titulo": "Petróleo abre a semana em queda com estoques maiores nos EUA; exportações globais batem recorde",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     6,
+     22,
+     23
+    ],
+    "titulo": "COP31 termina sem acordo por impasse sobre combustíveis fósseis e financiamento",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     20
+    ],
+    "titulo": "Dividendos da semana incluem empresas de energia e petróleo",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     19
+    ],
+    "titulo": "Caso Enel: os episódios anteriores em que a Aneel recomendou rescisão de contratos",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     18
+    ],
+    "titulo": "Lançado ETF do Índice de Energia Elétrica da B3",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     10
+    ],
+    "titulo": "Agrivoltaicos: ovelhas e painéis solares dividem espaço nos EUA",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     1
+    ],
+    "titulo": "Congresso TINS 2026 debate comunicação do setor nuclear",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     11
+    ],
+    "titulo": "Mineração enfrenta frete caro e preços baixos",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     21
+    ],
+    "titulo": "Piauí terá R$ 13 milhões para mapeamento aéreo de terras raras e urânio em 44 cidades",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     17
+    ],
+    "titulo": "CSN Mineração lidera altas no pregão",
+    "resumo": "Só a manchete está disponível."
+   }
+  ]
+ }
 }
