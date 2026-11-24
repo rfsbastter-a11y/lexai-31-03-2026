@@ -484,5 +484,32 @@
     "link": "https://www.instagram.com/p/Df7JKUIDQ3H/",
     "erro": "",
     "quando": "2026-11-19T13:02:57.000Z"
+  },
+  {
+    "id": "2026-11-24-instagram-escritorio-reel-1",
+    "rede": "instagram-escritorio",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-24T10:51:42.000Z"
+  },
+  {
+    "id": "2026-11-24-linkedin-escritorio-reel-1",
+    "rede": "linkedin-escritorio",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-24T10:51:48.000Z"
+  },
+  {
+    "id": "2026-11-24-linkedin-ronald-texto-1",
+    "rede": "linkedin-ronald",
+    "tipo": "texto",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-24T10:51:53.000Z"
   }
 ]
