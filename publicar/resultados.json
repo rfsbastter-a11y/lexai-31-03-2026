@@ -516,8 +516,8 @@
     "id": "2026-11-25-instagram-escritorio-documento-1",
     "rede": "instagram-escritorio",
     "tipo": "documento",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/p/DgKDiwOjguq/",
     "erro": "",
     "quando": "2026-11-25T08:02:19.000Z"
   },
@@ -525,8 +525,8 @@
     "id": "2026-11-25-linkedin-escritorio-documento-1",
     "rede": "linkedin-escritorio",
     "tipo": "documento",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7531266368961212416",
     "erro": "",
     "quando": "2026-11-25T08:02:47.000Z"
   },
@@ -534,8 +534,8 @@
     "id": "2026-11-25-linkedin-ronald-imagem-1",
     "rede": "linkedin-ronald",
     "tipo": "imagem",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:share:7531266360652226560",
     "erro": "",
     "quando": "2026-11-25T08:02:52.000Z"
   }
