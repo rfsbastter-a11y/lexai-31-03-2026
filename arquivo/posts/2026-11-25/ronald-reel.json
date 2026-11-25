@@ -1,0 +1,195 @@
+{
+ "tema": "escuro",
+ "tagCompleta": "Ronald Serra · Energia explicada",
+ "narracao": {
+  "voz": "ronald"
+ },
+ "corte": 1.5,
+ "cortina": false,
+ "sfx": false,
+ "fonte": "Fonte: ANEEL, via MegaWhat (24/11/2026). Proposta de prorrogação ainda em análise. Vídeos: Mixkit (licença gratuita).",
+ "cenas": [
+  {
+   "tipo": "fala",
+   "narra": "Você tem desconto na conta de luz pela Tarifa Social? Então presta atenção. Segundo a ANEEL, mais de dois milhões e setecentas mil famílias podem perder esse desconto a partir de janeiro.",
+   "destaques": [
+    {
+     "kicker": "famílias podem perder o desconto",
+     "texto": "2,7 milhões",
+     "na": "dois",
+     "dur": 2.4
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m16199.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m21025.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28351.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14425.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17318.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m25181.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m30219.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m3655.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m1594.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "O motivo é o cadastro. O nome de quem paga a conta ou o endereço não batem com os dados do governo, e na maior parte dos casos o problema está no CPF. Até outubro, só treze por cento das famílias com pendência tinham resolvido. A ANEEL estuda dar mais prazo, até o fim de março, mas isso ainda não foi decidido.",
+   "destaques": [
+    {
+     "kicker": "resolveram a pendência",
+     "texto": "13%",
+     "na": "treze",
+     "dur": 2.2
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m25181.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m30219.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m3655.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m1594.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m48340.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m31375.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14595.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17576.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14421.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m26966.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23491.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m16199.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m21025.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "Então vale procurar a distribuidora e conferir se a conta está no nome e no endereço certos. Conhece alguém que recebe a Tarifa Social? Marca essa pessoa aqui! E me segue para entender energia sem complicação.",
+   "fundo": [
+    {
+     "arquivo": "midia/m48340.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m31375.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14595.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17576.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14421.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m26966.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23491.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fim"
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "tema": "escuro",
+ "tag": "Petróleo & Gás",
+ "narracao": {
+  "voz": "daniel",
+  "vel": 1.0
+ },
+ "corte": 1.5,
+ "cortina": false,
+ "sfx": false,
+ "fonte": "Fonte: ANP, autorizações publicadas no DOU de 24/11/2026, via MegaWhat. Vídeos: Mixkit (licença gratuita).",
+ "cenas": [
+  {
+   "tipo": "fala",
+   "narra": "A ANP autorizou duas comercializadoras a importar gás natural da Bolívia e da Argentina. Cada uma poderá trazer até cinco milhões de metros cúbicos por dia.",
+   "destaques": [
+    {
+     "kicker": "por empresa",
+     "texto": "5 milhões m³/dia",
+     "na": "cinco",
+     "dur": 2.4
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m46755.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m30012.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m35454.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14631.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m4380.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m45056.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m22194.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28073.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "O gás pode entrar por Corumbá, no Mato Grosso do Sul, por Cuiabá ou por Uruguaiana, no Rio Grande do Sul, e atender consumidores livres e distribuidoras de gás canalizado. As autorizações saíram no Diário Oficial do dia vinte e quatro de novembro.",
+   "destaques": [
+    {
+     "kicker": "Diário Oficial",
+     "texto": "24/11",
+     "na": "vinte",
+     "dur": 2.0
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m48884.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14708.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m4359.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m20862.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m40723.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m52296.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17150.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m13099.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m20974.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m52312.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "No mesmo dia, o gás argentino começou a abastecer uma siderúrgica no Rio de Janeiro.",
+   "fundo": [
+    {
+     "arquivo": "midia/m46755.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m30012.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m35454.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14631.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "narra": "Marques e Serra, Sociedade de Advogados. Siga para acompanhar o setor.",
+   "cta": "Siga para acompanhar o setor",
+   "dur": 3.5
+  }
+ ]
+}
