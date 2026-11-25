@@ -538,5 +538,14 @@
     "link": "https://www.linkedin.com/feed/update/urn:li:share:7531266360652226560",
     "erro": "",
     "quando": "2026-11-25T08:02:52.000Z"
+  },
+  {
+    "id": "2026-11-25-instagram-ronald-reel-1",
+    "rede": "instagram-ronald",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-25T08:11:40.000Z"
   }
 ]
