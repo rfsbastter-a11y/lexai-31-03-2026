@@ -1,0 +1,536 @@
+{
+ "cabecalho": "Quinta-feira. 211 matérias, com duplicadas agrupadas.",
+ "destaque": {
+  "ids": [
+   0,
+   156
+  ],
+  "titulo": "Cade recomenda condenar 25 empresas por troca de informações sobre salários",
+  "texto": "A Superintendência-Geral do Cade recomendou, em 25/11, a condenação de 25 empresas da indústria de produtos e equipamentos para saúde e de pessoas físicas por trocas de informações sensíveis no mercado de trabalho. Segundo a investigação, profissionais de RH trocavam dados de salários e benefícios em um grupo organizado e alinharam um teto para reajustes em negociações sindicais. É o primeiro caso de conduta no mercado de trabalho concluído pela Superintendência. A investigação começou com um acordo de leniência em 2019; sete empresas firmaram compromissos com recolhimento de mais de R$ 60 milhões. O Tribunal do Cade ainda vai julgar."
+ },
+ "itens": [
+  {
+   "ids": [
+    25,
+    45,
+    76,
+    82,
+    112,
+    120,
+    125,
+    165,
+    172
+   ],
+   "titulo": "Justiça Federal nega pedido para suspender os leilões de baterias de 2 e 4 de dezembro",
+   "resumo": "Juízo da 17ª Vara Federal do DF negou a tutela de urgência pedida por associação de eólicas; decisão aponta riscos à segurança do suprimento em caso de adiamento. STF analisa ADI e projeto que muda o rateio trava na Câmara."
+  },
+  {
+   "ids": [
+    26,
+    111
+   ],
+   "titulo": "MDIC defende que todos os geradores participem do rateio dos custos das baterias, com desconto conforme a flexibilidade",
+   "resumo": "Pasta considera mais adequada a proposta da Aneel de diferenciar encargos e defende revisão da lei que atribui o custo só aos geradores."
+  },
+  {
+   "ids": [
+    31,
+    59,
+    69,
+    192,
+    129,
+    202
+   ],
+   "titulo": "Custo das baterias: entidade de consumidores estima R$ 6,2 bi ao ano; associação do armazenamento aponta benefício de até R$ 5,5 bi",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    30
+   ],
+   "titulo": "Transmissoras se afastam do leilão de baterias por ter de repartir receita com o consumidor",
+   "resumo": "Só a manchete está disponível."
+  },
+  {
+   "ids": [
+    19,
+    23
+   ],
+   "titulo": "BNDES flexibiliza crédito para baterias e poderá financiar até 80% dos projetos",
+   "resumo": "Banco poderá flexibilizar cronogramas de amortização; fabricante nacional credenciou pack de baterias de lítio para o leilão."
+  },
+  {
+   "ids": [
+    113,
+    184,
+    201,
+    151
+   ],
+   "titulo": "Petrobras prepara projetos de baterias para o leilão e prevê entrar em minerais críticos a partir de 2029",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    180,
+    68
+   ],
+   "titulo": "Armazenamento com baterias deve crescer 50% até o fim do ano; Porto do Açu negocia abrigar vencedor do leilão",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    27,
+    41,
+    56,
+    97,
+    102
+   ],
+   "titulo": "Aneel regulamenta ajuste de prazos dos contratos de transmissão (CUST) para renováveis da MP 1.212",
+   "resumo": "Geradores beneficiados terão 15 dias, contados da publicação, para pedir o adiamento do início dos contratos sem ônus."
+  },
+  {
+   "ids": [
+    57,
+    71,
+    197
+   ],
+   "titulo": "Aneel rejeita 32 recursos e mantém R$ 146 milhões em multas pelo apagão de agosto de 2023",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    43,
+    53,
+    63
+   ],
+   "titulo": "Consumo bate recorde de 108,7 GW; geração distribuída atende 31% da demanda no pico solar",
+   "resumo": "Às 11h40 de 24/11, micro e minigeração distribuída respondeu por cerca de 33 GW, segundo levantamento setorial com dados preliminares."
+  },
+  {
+   "ids": [
+    185
+   ],
+   "titulo": "'Gato solar': expansão irregular de painéis custa até R$ 4 bilhões e pesa até 1,3% na tarifa",
+   "resumo": "Associação das distribuidoras estima custo de R$ 3,3 bi a R$ 4 bi; geração distribuída saltou de 0,74 GW em 2018 para perto de 55 GW."
+  },
+  {
+   "ids": [
+    20,
+    38
+   ],
+   "titulo": "MME prevê que concessões de hidrelétricas reforcem o caixa da CDE até 2030 e estuda modernizar contratos",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    24
+   ],
+   "titulo": "El Niño pode reduzir a geração hidrelétrica e elevar o consumo de energia, aponta EPE",
+   "resumo": "Estudo cita probabilidade de 80% de El Niño forte ou muito forte até março de 2027 e riscos de desligamentos de linhas por queimadas."
+  },
+  {
+   "ids": [
+    60,
+    73,
+    100,
+    173
+   ],
+   "titulo": "Mercado livre: nova fase em 2027 com abertura da baixa tensão; encargos reduzem vantagem, diz associação",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    32,
+    52,
+    65,
+    85,
+    92
+   ],
+   "titulo": "Goiás adota curva de preços da BBCE em compras de energia; preço de novembro sobe mais de 10%; CCEE debate nova liquidação",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    29,
+    177
+   ],
+   "titulo": "Deputado pede que a Aneel suspenda a Tarifa Hora Certa até a divulgação de estudos",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    47,
+    64
+   ],
+   "titulo": "Distribuidoras e telecom pedem sanção sem vetos do PL dos Postes",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    176,
+    103,
+    90
+   ],
+   "titulo": "Aneel pode deixar 302 projetos de PCHs perderem validade em dezembro; setor pede manutenção",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    62,
+    194,
+    187
+   ],
+   "titulo": "Contas de luz entram no Cadastro Positivo; cashback da reforma tributária preocupa o setor",
+   "resumo": "Só a manchete está disponível."
+  },
+  {
+   "ids": [
+    22,
+    55,
+    67
+   ],
+   "titulo": "Presidente de grupo espanhol de energia recebe a Ordem de Rio Branco",
+   "resumo": "Só a manchete está disponível."
+  },
+  {
+   "ids": [
+    21,
+    207,
+    98
+   ],
+   "titulo": "ANP certifica a oitava planta de biometano apta a emitir certificados de origem",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    74,
+    94,
+    75
+   ],
+   "titulo": "Copel segue restabelecendo energia a 104 mil unidades; reservatórios do Sul a 82,3%",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    66,
+    70,
+    72,
+    77,
+    78,
+    79,
+    109,
+    58,
+    61,
+    93,
+    105,
+    107,
+    114,
+    115,
+    116,
+    101,
+    86,
+    83,
+    167,
+    118,
+    136,
+    204
+   ],
+   "titulo": "Outras do setor elétrico: consumo, liberações da Aneel, transmissão, recarga elétrica, reciclagem de painéis, TCU sobre o SIN",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    171,
+    33,
+    95,
+    159
+   ],
+   "titulo": "Petrobras prevê retirar 27 plataformas do mar até 2031, a um custo de US$ 11,2 bilhões",
+   "resumo": "São nove a mais que no plano anterior; descomissionamento já responde por metade do caixa do Porto do Açu. Plano inclui cerca de 500 poços e 1.900 km de linhas submarinas."
+  },
+  {
+   "ids": [
+    80,
+    108,
+    208,
+    209,
+    186,
+    166,
+    130,
+    139,
+    89
+   ],
+   "titulo": "Plano de negócios da Petrobras: quatro novos sistemas de produção e leituras de analistas",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    28,
+    84
+   ],
+   "titulo": "Petrobras mantém projetos de gás em avaliação de riscos até a definição do gas release",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    123
+   ],
+   "titulo": "Proposta tarifária de transportadora de gás prometia economia de R$ 5,5 bi; erro em planilha reduz valor a R$ 130 milhões",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    48,
+    54,
+    122,
+    128,
+    174,
+    183,
+    193,
+    121,
+    182,
+    126,
+    164
+   ],
+   "titulo": "Governo renovará por mais um mês a subvenção de R$ 2,12 por litro do diesel",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    34
+   ],
+   "titulo": "TCU retira condenações de ex-dirigentes da Petrobras no caso Pasadena",
+   "resumo": "Só a manchete está disponível."
+  },
+  {
+   "ids": [
+    119,
+    157,
+    161,
+    162,
+    198,
+    199
+   ],
+   "titulo": "Petróleo sobe com tensões no Golfo e no Mar Vermelho; Brent a US$ 94,61",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    50
+   ],
+   "titulo": "Petrobras mira o agro com aquisições na produção e logística de etanol",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    124
+   ],
+   "titulo": "Confaz divulga preços médios de combustíveis para cálculo do ICMS",
+   "resumo": "Só a manchete está disponível."
+  },
+  {
+   "ids": [
+    127,
+    91,
+    181,
+    110
+   ],
+   "titulo": "Pré-sal exportado pela primeira vez ao Japão; perfuração de Mãe de Ouro em dezembro; contrato de dutos de R$ 2,2 bi",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    81,
+    88,
+    106,
+    191,
+    87,
+    99,
+    104,
+    96
+   ],
+   "titulo": "Rio Grande do Norte: empresas de O&G crescem 26% e campos maduros buscam maior recuperação",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    196,
+    206,
+    170,
+    46,
+    134,
+    135,
+    168
+   ],
+   "titulo": "Combustível sustentável de aviação e custos das aéreas",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    131,
+    132,
+    195,
+    200,
+    138
+   ],
+   "titulo": "Outras de óleo e gás: motores a gás e biometano, nuclear, açaí como combustível, Foz do Amazonas",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    36,
+    37
+   ],
+   "titulo": "ANM adia decisão sobre cobrança de R$ 4 bi de mineradora e invalida direitos em áreas de conservação",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    40
+   ],
+   "titulo": "ANM nega recurso de mineradora contra cobrança de R$ 4,5 milhões em royalties",
+   "resumo": "Só a manchete está disponível."
+  },
+  {
+   "ids": [
+    144,
+    160,
+    175
+   ],
+   "titulo": "PF e CGU deflagram operação contra mineração ilegal em MG e bloqueiam até R$ 2 bilhões",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    150,
+    188
+   ],
+   "titulo": "Vale retoma parcialmente a mina de Viga, em Congonhas (MG)",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    145,
+    146,
+    149,
+    154,
+    153
+   ],
+   "titulo": "Multa ambiental de R$ 17 milhões em mineradora; lítio em MG; compra de projeto de ouro por US$ 135 milhões",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    152,
+    169,
+    189,
+    190,
+    210
+   ],
+   "titulo": "Minerais críticos: China prorroga suspensão de controles; cobre sob pressão; terras raras",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    140,
+    141,
+    142,
+    143,
+    147,
+    148,
+    203,
+    205
+   ],
+   "titulo": "Outras de mineração",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    0,
+    156
+   ],
+   "titulo": "Cade recomenda condenar 25 empresas por troca de informações sobre salários",
+   "resumo": "Primeiro caso de conduta no mercado de trabalho concluído pela Superintendência-Geral; o Tribunal do Cade ainda decide."
+  },
+  {
+   "ids": [
+    18,
+    158
+   ],
+   "titulo": "Acionistas aprovam incorporação de grupo de educação médica; operação depende do Cade",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    163
+   ],
+   "titulo": "Presidente do Cade avalia que o PL das big techs está 'maduro para aprovação'",
+   "resumo": "Só a manchete está disponível."
+  },
+  {
+   "ids": [
+    1,
+    2,
+    3
+   ],
+   "titulo": "Cade promove seminário sobre aquisição frustrada no setor de robôs domésticos e abre vagas",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    7,
+    14
+   ],
+   "titulo": "União Europeia e Reino Unido multam cartel de fragrâncias em € 570 milhões",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    12,
+    13,
+    15
+   ],
+   "titulo": "Reino Unido avalia remédios em negócios de tintas e de alimentos",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    16,
+    17,
+    155
+   ],
+   "titulo": "Outros casos antitruste nos EUA e na Ásia",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    35,
+    39,
+    42,
+    44,
+    49,
+    51
+   ],
+   "titulo": "Infraestrutura: TCU libera contas vinculadas em concessões; portos; indicações para agências",
+   "resumo": "Resumo indisponível; veja o link."
+  },
+  {
+   "ids": [
+    117,
+    137,
+    133,
+    178,
+    179
+   ],
+   "titulo": "Política e comércio exterior",
+   "resumo": "Só a manchete está disponível."
+  }
+ ]
+}
