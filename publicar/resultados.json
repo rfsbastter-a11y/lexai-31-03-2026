@@ -570,8 +570,8 @@
     "id": "2026-11-26-linkedin-ronald-imagem-1",
     "rede": "linkedin-ronald",
     "tipo": "imagem",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:share:7531628488143958017",
     "erro": "",
     "quando": "2026-11-26T08:01:42.000Z"
   },
@@ -579,8 +579,8 @@
     "id": "2026-11-26-instagram-ronald-imagem-1",
     "rede": "instagram-ronald",
     "tipo": "imagem",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/p/DgMoQhXlsFS/",
     "erro": "",
     "quando": "2026-11-26T08:01:48.000Z"
   }
