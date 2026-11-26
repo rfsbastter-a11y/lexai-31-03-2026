@@ -588,8 +588,8 @@
     "id": "2026-11-26-instagram-escritorio-reel-1",
     "rede": "instagram-escritorio",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/DgMsPYftPKg/",
     "erro": "",
     "quando": "2026-11-26T08:36:39.000Z"
   },
@@ -597,8 +597,8 @@
     "id": "2026-11-26-linkedin-escritorio-reel-1",
     "rede": "linkedin-escritorio",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7531637342797963264",
     "erro": "",
     "quando": "2026-11-26T08:36:44.000Z"
   },
@@ -606,8 +606,8 @@
     "id": "2026-11-26-instagram-ronald-reel-1",
     "rede": "instagram-ronald",
     "tipo": "reel",
-    "status": "enviado",
-    "link": "",
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/DgMsRALIYuE/",
     "erro": "",
     "quando": "2026-11-26T08:36:49.000Z"
   }
