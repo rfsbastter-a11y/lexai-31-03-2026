@@ -1,0 +1,190 @@
+{
+ "tema": "escuro",
+ "tagCompleta": "Ronald Serra · Energia explicada",
+ "narracao": {
+  "voz": "ronald"
+ },
+ "corte": 1.5,
+ "cortina": false,
+ "sfx": false,
+ "fonte": "Fonte: Abradee, via O Globo (25/11/2026). Vídeos: Mixkit (licença gratuita).",
+ "cenas": [
+  {
+   "tipo": "fala",
+   "narra": "Você sabia que existe gato até em placa solar? A associação das distribuidoras calcula que essa expansão irregular já custa até quatro bilhões de reais.",
+   "destaques": [
+    {
+     "kicker": "custo do gato solar",
+     "texto": "até R$ 4 bi",
+     "na": "quatro",
+     "dur": 2.4
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m46623.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m47094.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23276.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m47097.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23491.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m16199.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m21025.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28351.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "O gato solar acontece quando quem já tem placas aumenta o sistema sem avisar a distribuidora. Essa energia fica fora das contas, e o custo acaba dividido entre todos: pode chegar a um vírgula três por cento a mais na tarifa.",
+   "destaques": [
+    {
+     "kicker": "a mais na tarifa",
+     "texto": "até 1,3%",
+     "na": "vírgula",
+     "dur": 2.2
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m23491.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m16199.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m21025.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28351.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14425.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17318.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m25181.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m30219.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m46623.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m47094.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23276.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m47097.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "Então, quem amplia as placas precisa regularizar com a distribuidora. Conhece alguém que tem energia solar em casa? Manda esse vídeo pra essa pessoa! E me segue para entender energia sem complicação.",
+   "fundo": [
+    {
+     "arquivo": "midia/m21025.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28351.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14425.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17318.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m25181.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m30219.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m46623.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m47094.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fim"
+  }
+ ]
+}
