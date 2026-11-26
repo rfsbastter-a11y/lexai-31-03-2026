@@ -583,5 +583,32 @@
     "link": "https://www.instagram.com/p/DgMoQhXlsFS/",
     "erro": "",
     "quando": "2026-11-26T08:01:48.000Z"
+  },
+  {
+    "id": "2026-11-26-instagram-escritorio-reel-1",
+    "rede": "instagram-escritorio",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-26T08:36:39.000Z"
+  },
+  {
+    "id": "2026-11-26-linkedin-escritorio-reel-1",
+    "rede": "linkedin-escritorio",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-26T08:36:44.000Z"
+  },
+  {
+    "id": "2026-11-26-instagram-ronald-reel-1",
+    "rede": "instagram-ronald",
+    "tipo": "reel",
+    "status": "enviado",
+    "link": "",
+    "erro": "",
+    "quando": "2026-11-26T08:36:49.000Z"
   }
 ]
