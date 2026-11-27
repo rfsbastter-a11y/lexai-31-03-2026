@@ -511,5 +511,14 @@
   "titulo": "O que muda: Fundo Clima e baterias",
   "texto": "O que muda: CMN reduz de 6,5% para 3% ao ano o custo do Fundo Clima para baterias fabricadas no Brasil.\n\nA Resolução CMN nº 5.353/2026, aprovada em 26/11, vale para projetos de armazenamento nas rotas 2, 3 e 4 de nacionalização do BNDES. O custo nominal do financiamento cai de 7,88% para 4,34% ao ano. A medida sai a menos de uma semana dos leilões de reserva de capacidade de 2 e 4 de dezembro.\n\nNo documento: a norma, os números, para quem muda e o que observar.\n\nFontes: Resolução CMN nº 5.353/2026 e BNDES, via pv magazine Brasil, MegaWhat e Valor Econômico.\n\n#SetorElétrico #Armazenamento #Baterias #FundoClima #MarquesESerra",
   "primeiro_comentario": ""
+ },
+ {
+  "id": "2026-11-27-linkedin-ronald-imagem-1",
+  "rede": "linkedin-ronald",
+  "tipo": "imagem",
+  "midia_url": "https://raw.githubusercontent.com/rfsbastter-a11y/lexai-31-03-2026/d370acc3ae2a544d200ca2a3ddd0bbcfb89f7cdd/midia/2026-11-27/ercap.png",
+  "titulo": "",
+  "texto": "O MME quer mudar a forma de dividir o Encargo de Reserva de Capacidade (ERCap): quem mais demanda potência nos horários críticos deve pagar uma parcela maior.\n\nSegundo o secretário de Energia Elétrica, João Daniel Cascalho, a proposta é adotar uma janela horária mínima de três a quatro horas como referência para o rateio, com flexibilidade para a Aneel definir tratamentos específicos, inclusive para autoprodutores. A meta é concluir até o fim de 2026 o decreto do ERCap e a atualização do Decreto nº 5.163 (formação de preços, contabilização e liquidação).\n\nO pano de fundo: excesso de geração ao longo do dia, com a expansão solar centralizada e distribuída, seguido da rampa de carga no fim da tarde.\n\nGrandes consumidores apontam que a regra atual considera a demanda máxima em qualquer horário. Exemplo citado: unidade com 30 MW fora da ponta e 5 MW na ponta paga o encargo sobre os 30 MW, o que desestimula a resposta da demanda.\n\nFonte: MegaWhat (25/11/2026). Proposta ainda em elaboração.\n\n#SetorElétrico #ReservaDeCapacidade #RespostaDaDemanda #Energia",
+  "primeiro_comentario": "Pergunta técnica: uma janela de três a quatro horas captura bem a ponta do sistema, ou o rateio deveria acompanhar os mesmos períodos usados nos programas de resposta da demanda?\n\nMatéria: https://megawhat.uol.com.br/mercado-energetico/consumo/mme-estuda-janela-de-tres-a-quatro-horas-para-cobranca-de-reserva-de-capacidade/"
  }
 ]
