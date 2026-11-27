@@ -1,0 +1,11 @@
+O MME quer mudar a forma de dividir o Encargo de Reserva de Capacidade (ERCap): quem mais demanda potência nos horários críticos deve pagar uma parcela maior.
+
+Segundo o secretário de Energia Elétrica, João Daniel Cascalho, a proposta é adotar uma janela horária mínima de três a quatro horas como referência para o rateio, com flexibilidade para a Aneel definir tratamentos específicos, inclusive para autoprodutores. A meta é concluir até o fim de 2026 o decreto do ERCap e a atualização do Decreto nº 5.163 (formação de preços, contabilização e liquidação).
+
+O pano de fundo: excesso de geração ao longo do dia, com a expansão solar centralizada e distribuída, seguido da rampa de carga no fim da tarde.
+
+Grandes consumidores apontam que a regra atual considera a demanda máxima em qualquer horário. Exemplo citado: unidade com 30 MW fora da ponta e 5 MW na ponta paga o encargo sobre os 30 MW, o que desestimula a resposta da demanda.
+
+Fonte: MegaWhat (25/11/2026). Proposta ainda em elaboração.
+
+#SetorElétrico #ReservaDeCapacidade #RespostaDaDemanda #Energia
