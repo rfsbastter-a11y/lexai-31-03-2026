@@ -1,0 +1,200 @@
+{
+ "tema": "escuro",
+ "tagCompleta": "Ronald Serra · Energia explicada",
+ "narracao": {
+  "voz": "ronald"
+ },
+ "corte": 1.5,
+ "cortina": false,
+ "sfx": false,
+ "fonte": "Fonte: Lei nº 15.269/2025 e estimativa de comercializadora, via pv magazine Brasil (26/11/2026). Economia não garantida. Vídeos: Mixkit (licença gratuita).",
+ "cenas": [
+  {
+   "tipo": "fala",
+   "narra": "Você sabia que comércios e pequenas indústrias vão poder escolher de quem compram energia? Quem é ligado na rede de baixa tensão poderá entrar no mercado livre a partir de vinte e cinco de novembro do ano que vem.",
+   "destaques": [
+    {
+     "kicker": "abertura para comércio e indústria",
+     "texto": "25/11/2027",
+     "na": "vinte",
+     "dur": 2.4
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m16199.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m21025.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28351.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14425.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17318.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m25181.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m30219.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m3655.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m1594.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "No mercado livre, você compra a energia de um fornecedor que escolhe e continua pagando à distribuidora pelo uso da rede. Uma comercializadora estima economia de dez a quinze por cento na conta, e até vinte por cento em alguns casos, como bares e restaurantes. Mas é uma estimativa, que depende do preço da energia até lá.",
+   "destaques": [
+    {
+     "kicker": "economia estimada",
+     "texto": "até 20%",
+     "na": "vinte",
+     "dur": 2.2
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m14425.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17318.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m25181.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m30219.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m3655.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m1594.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m48340.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m31375.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14595.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m16199.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m21025.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28351.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14425.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "Para as residências, a abertura vem um ano depois. Conhece alguém que tem comércio ou pequena indústria? Marca essa pessoa aqui! E me segue para entender energia sem complicação.",
+   "fundo": [
+    {
+     "arquivo": "midia/m30219.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m3655.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m1594.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m48340.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m31375.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14595.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m16199.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m21025.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fim"
+  }
+ ]
+}

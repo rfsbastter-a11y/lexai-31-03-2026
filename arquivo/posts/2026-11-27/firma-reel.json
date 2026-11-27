@@ -1,0 +1,181 @@
+{
+ "tema": "escuro",
+ "tag": "Concorrencial",
+ "narracao": {
+  "voz": "daniel",
+  "vel": 1.0
+ },
+ "corte": 1.5,
+ "cortina": false,
+ "sfx": false,
+ "fonte": "Fonte: ofício do Cade ao Ministério da Justiça, via MegaWhat (26/11/2026). PL nº 3.220/2019 aguarda sanção. Vídeos: Mixkit (licença gratuita).",
+ "cenas": [
+  {
+   "tipo": "fala",
+   "narra": "O Cade se manifestou a favor da sanção do projeto de lei que cria regras para o compartilhamento de postes entre distribuidoras de energia e empresas de telecomunicações.",
+   "fundo": [
+    {
+     "arquivo": "midia/m14421.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m47050.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17576.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m46755.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m7887.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28362.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23380.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m24047.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "Para o órgão, o acesso transparente e sem discriminação aos postes pode ampliar a concorrência nas telecomunicações. Mas o Cade ressalvou que não fez uma avaliação econômica aprofundada da forma de calcular os preços máximos pelo uso dos postes. O prazo para a sanção vai até dez de dezembro.",
+   "destaques": [
+    {
+     "kicker": "prazo para a sanção",
+     "texto": "10/12",
+     "na": "dez",
+     "dur": 2.2
+    }
+   ],
+   "fundo": [
+    {
+     "arquivo": "midia/m24047.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m31536.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m46503.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m26778.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23112.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m46977.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m24632.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23219.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m14421.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m47050.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m17576.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m46755.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fala",
+   "narra": "A regulamentação ficará com a Aneel e a Anatel. E o Cade mantém a competência para investigar infrações à concorrência no setor.",
+   "fundo": [
+    {
+     "arquivo": "midia/m46755.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m7887.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m28362.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m23380.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m24047.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m31536.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    },
+    {
+     "arquivo": "midia/m46503.mp4",
+     "inicio": 1.0,
+     "credito": "Vídeo: Mixkit · licença gratuita Mixkit"
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "narra": "Marques e Serra, Sociedade de Advogados. Siga para acompanhar o setor.",
+   "cta": "Siga para acompanhar o setor",
+   "dur": 3.5
+  }
+ ]
+}
