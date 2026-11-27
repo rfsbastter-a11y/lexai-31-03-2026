@@ -520,5 +520,14 @@
   "titulo": "",
   "texto": "O MME quer mudar a forma de dividir o Encargo de Reserva de Capacidade (ERCap): quem mais demanda potência nos horários críticos deve pagar uma parcela maior.\n\nSegundo o secretário de Energia Elétrica, João Daniel Cascalho, a proposta é adotar uma janela horária mínima de três a quatro horas como referência para o rateio, com flexibilidade para a Aneel definir tratamentos específicos, inclusive para autoprodutores. A meta é concluir até o fim de 2026 o decreto do ERCap e a atualização do Decreto nº 5.163 (formação de preços, contabilização e liquidação).\n\nO pano de fundo: excesso de geração ao longo do dia, com a expansão solar centralizada e distribuída, seguido da rampa de carga no fim da tarde.\n\nGrandes consumidores apontam que a regra atual considera a demanda máxima em qualquer horário. Exemplo citado: unidade com 30 MW fora da ponta e 5 MW na ponta paga o encargo sobre os 30 MW, o que desestimula a resposta da demanda.\n\nFonte: MegaWhat (25/11/2026). Proposta ainda em elaboração.\n\n#SetorElétrico #ReservaDeCapacidade #RespostaDaDemanda #Energia",
   "primeiro_comentario": "Pergunta técnica: uma janela de três a quatro horas captura bem a ponta do sistema, ou o rateio deveria acompanhar os mesmos períodos usados nos programas de resposta da demanda?\n\nMatéria: https://megawhat.uol.com.br/mercado-energetico/consumo/mme-estuda-janela-de-tres-a-quatro-horas-para-cobranca-de-reserva-de-capacidade/"
+ },
+ {
+  "id": "2026-11-27-instagram-escritorio-reel-1",
+  "rede": "instagram-escritorio",
+  "tipo": "reel",
+  "midia_url": "https://raw.githubusercontent.com/rfsbastter-a11y/lexai-31-03-2026/d549feece5470bf71230cc94e5f647781411d448/midia/2026-11-27/cade-postes.mp4",
+  "titulo": "",
+  "texto": "PL dos postes: Cade se manifesta a favor da sanção, com ressalvas sobre a metodologia de preços.\n\nEm ofício ao Ministério da Justiça, o Cade apoiou a sanção do PL nº 3.220/2019, que cria regras para o compartilhamento de postes entre distribuidoras de energia e prestadoras de telecomunicações. O projeto foi aprovado pelo Senado em 18/11, e o prazo para sanção vai até 10/12.\n\n• Para o Cade, acesso isonômico, transparente e não discriminatório à infraestrutura pode ampliar a concorrência nas telecomunicações, sobretudo onde é difícil duplicar ativos.\n• O órgão ressalvou que, pelo prazo curto, não fez avaliação econômica aprofundada da metodologia de preços máximos, das regras transitórias de precificação e das restrições à exploração comercial dos postes.\n• A regulamentação caberá à Aneel e à Anatel. A regulação setorial não afasta a competência do Cade para prevenir e investigar infrações à ordem econômica.\n\nFonte: Cade, via MegaWhat (26/11/2026).\nVídeos: Mixkit (licença gratuita).\n\n#DireitoConcorrencial #Cade #CompartilhamentoDePostes #Telecom #MarquesESerra",
+  "primeiro_comentario": ""
  }
 ]
