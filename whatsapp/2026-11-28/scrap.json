@@ -2258,5 +2258,412 @@
    "resumo_original": "As compras e fusões de empresas aumentaram 5% em relação a 2025 nos 9 meses do ano BNamericas",
    "data": "2026-11-27T16:47:16-03:00"
   }
- ]
+ ],
+ "selecao": {
+  "cabecalho": "Sábado. 196 matérias, com duplicadas agrupadas.",
+  "destaque": {
+   "ids": [
+    28,
+    49
+   ],
+   "titulo": "PDE 2036 projeta R$ 127,1 bilhões em novas linhas de transmissão",
+   "texto": "O MME e a EPE divulgaram o caderno de transmissão do Plano Decenal de Expansão de Energia 2036, com projeção de R$ 127,1 bilhões em investimentos e 31,9 mil km de novas linhas até 2036, crescimento de cerca de 16% da rede em dez anos. Além disso, a ANEEL manteve a bandeira tarifária verde para dezembro, e 2026 termina sem bandeira vermelha. A ANP também aprovou consultas públicas sobre queima de gás na produção e conteúdo local em plataformas."
+  },
+  "itens": [
+   {
+    "ids": [
+     24,
+     63,
+     156,
+     165,
+     166,
+     176,
+     181
+    ],
+    "titulo": "ANEEL mantém bandeira tarifária verde em dezembro; 2026 termina sem bandeira vermelha",
+    "resumo": "Contas de luz seguem sem cobrança adicional no último mês do ano."
+   },
+   {
+    "ids": [
+     28,
+     49,
+     59,
+     78,
+     101,
+     105,
+     70
+    ],
+    "titulo": "PDE 2036 projeta R$ 127,1 bilhões em investimentos e 31,9 mil km de novas linhas de transmissão",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     10,
+     87,
+     93,
+     13,
+     53,
+     57,
+     64,
+     106,
+     172,
+     118
+    ],
+    "titulo": "Leilões de baterias: empresas recorrem à Aneel contra exclusão; Abeeólica defende mudar o rateio do encargo",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     44,
+     60,
+     89
+    ],
+    "titulo": "CMN reduz para 3% ao ano a taxa do Fundo Clima para baterias nacionais",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     11,
+     43,
+     76,
+     111,
+     119
+    ],
+    "titulo": "ANP propõe regras para transferir excedentes de conteúdo local entre plataformas e exigir planos de cinco anos",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     55,
+     90,
+     109
+    ],
+    "titulo": "ANP abre consulta pública para endurecer regras de queima e perda de gás natural na produção",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     38,
+     114,
+     80,
+     112
+    ],
+    "titulo": "ANP abre consulta sobre acesso a notas fiscais do abastecimento e debate movimentação de produtos e dutos",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     33,
+     107
+    ],
+    "titulo": "ANP mantém regra da 'bomba branca' em postos, mas acelera sua revisão",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     29,
+     85
+    ],
+    "titulo": "Contratos legados de gás: prazo de adequação em discussão na ANP",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     75,
+     83,
+     108
+    ],
+    "titulo": "ANP define regras para abastecimento de veículos com gás e biometano; regra definitiva para frotas é adiada",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     27,
+     47,
+     79,
+     120,
+     157
+    ],
+    "titulo": "ANP aprova estudos do bloco Sudeste de Gato do Mato, no pré-sal, e envia ao MME para a oferta permanente",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     16,
+     160,
+     168
+    ],
+    "titulo": "Petrobras negocia ficar com 100% de bloco na Bacia de Campos",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     45,
+     35,
+     50,
+     67,
+     96,
+     183
+    ],
+    "titulo": "Apagão interrompe 2.027 MW no Amazonas e em Roraima; ONS conclui recomposição e vai investigar a causa",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     54,
+     77,
+     48,
+     178,
+     22,
+     92,
+     65,
+     71
+    ],
+    "titulo": "Carga bate três recordes seguidos; ONS prevê alta de 6,7% em dezembro e excedentes de energia no fim de semana",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     20
+    ],
+    "titulo": "Aneel revoga outorgas de 1,7 GW em projetos solares e térmicos",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     19
+    ],
+    "titulo": "Belo Monte recebe aval da Aneel para retomar turbina de 611 MW",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     21
+    ],
+    "titulo": "Consumo maior no Paraguai reduz excedente de Itaipu e ameaça corte de tarifa no Brasil",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     15,
+     34,
+     42,
+     58,
+     82,
+     86,
+     123,
+     23,
+     46,
+     72
+    ],
+    "titulo": "Transmissoras desfazem participações cruzadas no Norte e Nordeste; resgate e venda de ações no setor",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     12,
+     62,
+     18
+    ],
+    "titulo": "Associações alertam CCEE para riscos na abertura do mercado livre",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     36,
+     56,
+     69,
+     91,
+     113,
+     115,
+     117,
+     127
+    ],
+    "titulo": "Entidades reagem a projeto que reduz a quarentena para dirigentes de agências reguladoras",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     37
+    ],
+    "titulo": "Justiça intima a ANEEL a explicar novo pedido de vista em processo de distribuidora de SP",
+    "resumo": "Só a manchete está disponível."
+   },
+   {
+    "ids": [
+     81
+    ],
+    "titulo": "Nota técnica da Aneel amplia concessões de DRS-PCH a vencer",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     66
+    ],
+    "titulo": "Setores industriais e de infraestrutura pedem adiamento da reforma tributária",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     74,
+     95,
+     177,
+     51
+    ],
+    "titulo": "Biometano: falta de laboratórios pode frear expansão; nova certificação no Recife",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     17,
+     25,
+     26,
+     30,
+     61,
+     68,
+     73,
+     99,
+     102,
+     103,
+     104,
+     116,
+     161,
+     173,
+     187,
+     188,
+     194,
+     14,
+     94
+    ],
+    "titulo": "Outras do setor elétrico: geração distribuída, Mercosul, segurança cibernética, recarga elétrica",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     31,
+     97,
+     121,
+     52,
+     126,
+     84,
+     88,
+     122,
+     98,
+     189,
+     100,
+     155,
+     167,
+     124,
+     125,
+     158,
+     159,
+     162,
+     164,
+     169,
+     170,
+     171,
+     175,
+     179,
+     180,
+     182,
+     184,
+     191,
+     192,
+     193,
+     110
+    ],
+    "titulo": "Outras de óleo e gás: navios, Papa-Terra, Suriname, preços do petróleo, combustíveis",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     32,
+     39,
+     40,
+     41
+    ],
+    "titulo": "Infraestrutura: PPI, portos, PPPs",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     128,
+     146,
+     137,
+     139,
+     142
+    ],
+    "titulo": "Terras raras e minerais críticos: estudo aponta domínio estrangeiro; projetos no país",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     130,
+     134,
+     141,
+     143,
+     144,
+     148,
+     149
+    ],
+    "titulo": "Política mineral: plano estadual, BNDES aprovou R$ 8,3 bi desde 2023, contrapartidas sociais",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     129,
+     131,
+     132,
+     133,
+     135,
+     136,
+     138,
+     140,
+     145,
+     147,
+     150,
+     151,
+     152,
+     153,
+     154,
+     185,
+     186,
+     190
+    ],
+    "titulo": "Outras de mineração",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     9
+    ],
+    "titulo": "Cade aprova sociedade entre banco e fabricante de papel em negócio de R$ 1,2 bilhão",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     1,
+     2,
+     0
+    ],
+    "titulo": "Black Friday: Cade explica como sua atuação afeta os consumidores",
+    "resumo": "Resumo indisponível; veja o link."
+   },
+   {
+    "ids": [
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     163,
+     174,
+     195
+    ],
+    "titulo": "Concorrência internacional: tarifas de cartão, cartel de fragrâncias, Google; fusões crescem 5% na América Latina",
+    "resumo": "Resumo indisponível; veja o link."
+   }
+  ]
+ }
 }
